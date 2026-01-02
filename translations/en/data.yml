@@ -1,0 +1,421 @@
+Percentage: percentage
+min_day: minutes per day
+
+Fund: Sources of funding
+state: national budget
+
+1_Level: Level
+
+1_health: Health care facilities
+2_educational: Educational institutions
+3_soc_prot: Structural subdivisions on social protection issues
+4_employ: Employment centers
+5_admin: Centers for administrative services
+6_nation: National institutions
+7_transport: Railway stations, airports, bus stations
+8_pension: Institutions of the pension fund
+9_civ_prot: Civil protection structures
+99_judge: Judge
+
+1_free: barrier-free,%
+2_part: partially barrier-free,%
+
+Component: Сomponent of the index
+com_1_cohension: social cohesion and sense of ownership
+com_2_tolerance: tolerance and socially responsible citizenship
+com_3_adapt: psycho-social adaptability
+com_4_migration: reducing negative migration trends
+com_5_dialogue: readiness for dialogue
+com_6_civic: civic behavior
+com_7_relations: relations with government and safety
+com_8_groups: relations between groups
+com_9_psy: psycho-social activity
+com_10_active: tolerant and active citizenship
+com_11_migrate: propensity to migrate
+com_12_cooperation: cooperation in the community
+com_13_pol_sec: political security
+com_14_dialog_gr: readiness for dialogue with different groups
+com_15_belief_changes: the belief that everyone can influence changes in the country
+com_16_soc_tolerance: social tolerance
+com_17_active_position: active civic position
+
+1_hectares: Demined area, hectares
+2_roads: сleared roads, km
+3_railways: сleared railways, km
+1_army: Armed Forces of Ukraine
+2_trans: State Special Transport Service
+3_emerg: State Emergency Service of Ukraine
+4_ngo: Mine action operators
+
+art_1_262: Stealing, misappropriation, extortion of firearms, ammunition, explosives or radioactive materials, or acquisition by fraud or abuse of office, Art. 262
+art_2_263: Illegal handling of weapons, ammunition or explosives, Art. 263
+art_3_263_1: Illegal manufacture, processing or repair of firearms, or tampering, illegal removal or alteration of their marking, or illicit manufacture of ammunition, explosives or explosive devices, Art. 263-1
+Ammunition: Type of ammunition
+1_am_cartridges: cartridges
+2_am_grenades: grenades
+3_am_mines: mines
+4_am_devic: improvised explosive devices
+
+Type_weapon: Type of weapons
+weap_1_bore: smooth-bore
+weap_2_rifled: rifled
+weap_3_oth: other firearms
+weap_4_grenade: grenade launchers and rocket systems
+weap_5_cold: cold weapons
+
+1_pop: population
+2_particip: participants in court proceedings
+3_exper: experts (attorneys, lawyers)
+
+1_vic_100: Victims of criminal offenses (per 100 thousand population)
+2_vic_tot: Victims of criminal offenses (Art. 152), total
+2_vic_149: Victims of criminal offenses (Art. 149), total
+
+1_vict_per_100: Victims of criminal offenses (per 100 thousand population)
+2_vict_all: Victims of criminal offenses (total)
+
+1_total: Total criminal offenses (number)
+2_per_100: Per 100 thousand population
+
+1_all: all
+2_females: females
+3_adolescents: adolescents
+4_young: young (under 14)
+
+1_art_all: total number of victims of criminal offenses, Аrt. of CCU
+2_art_115_118: intentional homicide (and relevant attempts), Аrticles 115-118
+3_art_152: rape (and relevant attempts), Аrt. 152
+4_art_121: intentional grievous bodily harm, Аrt. 121
+5_art_149: human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149
+
+Article: Article of the Criminal Code of Ukraine 
+art_1_115: Intentional homicide, Art. 115
+art_2_116: Intentional homicide committed in a state of intense emotional excitement, Art. 116
+art_3_117: Intentional murder of a newborn by mother, Art. 117
+art_4_118: Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the the person who committed the criminal offense, Art. 118
+art_5_121: Intentional grievous bodily harm, Art. 121
+
+zone_1_polis: Polissya
+zone_2_fores_st: Forest-steppe
+zone_3_st: Steppe
+
+GHG_ratio: Ratio of GHG emissions to 1990 level
+GHG_1_all: all
+GHG_2_types: by main types of sources, including road transport
+
+Res_inten: Resource intensity of GDP
+int_1_energy: GDP energy intensity
+int_2_mater: GDP material intensity
+int_3_carbon: GDP carbon intensity
+int_4_water: GDP water intensity
+int_5_waste: GDP waste intensity
+
+pol_11_dust: suspended matter (dust)
+pol_12_sulfur: sulfur dioxide
+pol_13_carbon: carbon monoxide
+pol_14_nitrogen: nitrogen dioxide
+pol_15_nitrix: nitrogen oxide
+pol_16_phenol: phenol
+pol_17_soot: soot
+pol_18_hydrogen: hydrogen fluoride
+pol_19_ammonia: ammonia
+pol_20_form: formaldehyde
+
+inherit: Type of inheritance
+strategy: Сomponents of regional strategy
+10_phase: Regional strategy 
+11_phase: Regional strategy and action plan for the implementation of the regional strategy (first phase)
+12_phase: Regional strategy and action plan for the implementation of the regional strategy (second phase)
+number: number of regions
+
+11_ext_quar: mining and quarrying
+12_ext_coal: extraction of hard coal and brown coal
+13_ext_oil: extraction of crude oil and natural gas
+14_ext_ores: extraction of metal ores
+15_ext_miner: extraction of other minerals and quarrying
+16_serv: provision of ancillary services in the field of mining and quarrying
+17_proc_ind: processing industry
+18_man_food: manufacture of food products
+19_man_bev: manufacture of beverages
+20_man_tobac: manufacture of tobacco products
+21_man_text: textile manufacturing
+22_man_cloth: manufacture of clothing
+23_man_leather: manufacture of leather, leather goods and other materials
+24_man_wood: manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials
+25_man_paper: manufacture of paper and paper products
+26_print: printing, reproduction of recorded information
+27_man_coke: manufacture of coke and refined petroleum products
+28_man_chemic: manufacture of chemicals and chemical products
+29_man_pharmac: manufacture of main pharmaceutical products and preparations
+30_man_rubber: manufacture of rubber and plastic products
+31_man_non_met: manufacture of other non-metallic mineral products
+32_man_met: metallurgical manufacturing
+33_man_equip: manufacture of fabricated metal products, except machinery and equipment
+34_man_pc: manufacture of computers, electronic and optical products
+35_man_el_equip: manufacture of electrical equipment
+36_not_class: manufacture of machinery and equipment, not elsewhere classified
+37_man_motor: manufacture of motor vehicles, trailers and semi-trailers
+38_man_oth_veh: manufacture of other vehicles
+39_man_furn: manufacture of furniture
+40_man_oth_prod: manufacture of other products
+41_repair: repair and installation of machinery and equipment
+42_suppl_elec: supply of electricity, gas, steam and air conditioning
+43_suppl_wat: water supply; sewage, waste management
+44_collec_wat: water collection, treatment and supply
+45_waste_wat: sewage, wastewater collection and treatment
+46_restor: collection, treatment and disposal of waste; restoration of materials
+47_waste_act: other waste management activities 
+
+m_trans: Mode of transport
+tr_1_rail: rail
+tr_2_motor: motor
+tr_3_sea: sea
+tr_4_river: river
+tr_5_pipeline: pipeline
+tr_6_air: air
+3_tr_urban: City electric transport
+tr_7_tram: by trams
+tr_8_trolley: by trolleybuses
+tr_9_subway: by subway trains
+
+tr_1_land_pipe: Land and pipeline transport
+tr_2_warer: Water transport
+tr_3_air_tr: Air transport
+tr_4_ware: Warehousing and auxiliary transport activities
+tr_5_post: Post and courier services 
+
+1_agr_and_rel: Agriculture and related services
+2_indus: Industry
+3_mining: Mining and quarrying
+4_proc_ind: Processing industry
+5_el_gas: Supply of electricity, gas, steam and air conditioning
+6_water: Water supply; sewage, waste management
+7_constr: Construction
+8_trans_act: Transport, warehousing, postal and courier activities
+9_telec: Telecommunications
+
+inc_11_coal: hard coal and brown coal extraction
+inc_12_food: manufacture of food, beverages and tobacco products
+inc_13_leather: textile manufacturing, manufacture of clothing, leather, leather goods and other materials
+inc_14_wood: manufacture of wood products, paper manufacturing and printing
+inc_15_coke: manufacture of coke and refined petroleum products
+inc_16_chem: manufacture of chemicals and chemical products
+inc_17_pharma: manufacture of main pharmaceutical products and preparations
+inc_18_plastic: manufacture of rubber and plastic products, other non-metallic mineral products
+inc_19_metall: metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment
+inc_20_pc: manufacture of computers, electronic and optical products
+inc_21_electro: manufacture of electrical equipment 
+inc_22_machinery: manufacture of machinery and equipment, not elsewhere classified
+inc_23_motor: manufacture of motor vehicles, trailers and semi-trailers and other vehicles
+inc_24_furn: manufacture of furniture, other products, repair and installation of machinery and equipment
+
+electr_1_supply: Supply of electricity to the grid
+kWh: million kWh
+per: percentage
+electr_2_pr_supply: Productive supply of electricity to the grid 
+electr_3_act_value: Reported actual value of technological electric power consumption
+1_norm_val: normative value of technological electric power consumption
+2_exc_val: excess value of technological electric power consumption
+electr_4_tech_cons: Technological electric power consumption in distribution system 
+
+Sou_en: Source of energy
+en_1_coal: coal (2701)
+en_2_petrol: petroleum (2709)
+en_3_gas: natural gas (271121)
+
+Cost_train: Cost of training a specialist
+1_per_student: average costs per one given student, UAH
+2_per_student_job: average costs per one graduated student, who studies without separation from production, UAH
+3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
+4_per_doctoral: average costs per one doctoral student, UAH
+
+age_18: under 18 years old
+age_18_35: from 18 years to 35 years inclusive
+age_36_60: from 36 years to 60 years inclusive
+age_60: 60 years and older
+
+age_18: up to 18 years 
+age_1_18_35: 18-35 years
+age_2_36_60: 36-60 years
+age_3_61: 61 years and older
+
+age_18_34: 18-34 years
+age_35_59: 35-59 years
+age_60: 60 years and older
+age_15: up to 15 years
+age_15_17: 15-17 years
+age_18_24: 18-24 years
+age_25_35: 25-35 years
+age_36_59: 36-59 years
+age_60_74: 60-74 years
+age_75: 75 years and older
+aged_15: 15 years
+aged_16: 16 years
+aged_17: 17 years
+aged_18: 18 years
+aged_19: 19 years
+aged_20_under: up to 20 years
+
+cat_A: A
+cat_B: B
+cat_C: C
+Cat: Category
+
+Sex: Sex
+Sex of the head of household: Sex of the head of household
+males: men
+females: women
+mal: men
+femal: women
+
+Level: Levels of academic achievement
+Level_ed: Level of education
+1_level: 1st_level (basic, 0-3 points)
+2_level: 2nd level (intermediate, 4-6 points)
+3_level: 3rd level (adequate, 7-9 points)
+4_level: 4th level (high, 10-12 points)
+1_сompl_higher: Complete higher
+2_bas_higher: Basic higher
+3_inсompl_higher: Incomplete higher
+4_prof_ed: Professional and technical
+5_comp_aver: Complete total average
+6_bas_ed: Basic, elementary general or no education
+
+urban_settl: urban settlement
+village_: settlement, village
+
+hh_ch: households with children
+hh_ch_0: households without children
+
+dg_01: 1 group (low income)
+dg_02: 2 group
+dg_03: 3 group
+dg_04: 4 group
+dg_05: 5 group
+dg_06: 6 group
+dg_07: 7 group
+dg_08: 8 group
+dg_09: 9 group
+dg_10: 10 group (high income)
+
+11_reg_Vinnytsya: Vinnytsya
+12_reg_Volyn: Volyn
+13_reg_Dnipropetrovsk: Dnipropetrovsk
+14_reg_Donetsk: Donetsk
+15_reg_Zhytomyr: Zhytomyr
+16_reg_Zakarpattya: Zakarpattya
+17_reg_Zaporizhzhya: Zaporizhzhya
+18_reg_Ivano-Frankivsk: Ivano-Frankivsk
+19_reg_Kyiv: Kyiv
+20_reg_Kirovohrad: Kirovohrad
+21_reg_Luhansk: Luhansk
+22_reg_Lviv: Lviv
+23_reg_Mykolayiv: Mykolayiv
+24_reg_Odesa: Odesa
+25_reg_Poltava: Poltava
+26_reg_Rivne: Rivne
+27_reg_Sumy: Sumy
+28_reg_Ternopil: Ternopil
+29_reg_Kharkiv: Kharkiv
+30_reg_Kherson: Kherson
+31_reg_Khmelnytskiy: Khmelnytskiy
+32_reg_Cherkasy: Cherkasy
+33_reg_Chernivtsi: Chernivtsi
+34_reg_Chernihiv: Chernihiv
+35_reg_Kyiv_city: the city of Kyiv
+
+farms_1_all: Farms of all categories
+farms_2_enterprise: Enterprises
+farms_3_household: Households
+
+prod_1_agri: agricultural products
+prod_2_crop: crop products
+prod_3_livestock: livestock products
+
+age_vac_1_under 1 year: under 1 year
+age_vac_2_1 year: 1 year
+age_vac_3_18 months: 18 months
+age_vac_4_6 years: 6 years
+age_vac_5_14 years: 14 years
+age_vac_6_16 years: 16 years
+age_vac_7_adult: adults
+
+prod_1_meat: Production of meat and meat products
+prod_2_fish: Processing and preserving of fish, crustaceans and molluscs
+prod_3_fru_veg: Processing and preserving of fruits and vegetables
+prod_4_oil: Production of oil and animal fats
+prod_5_dairy: Production of dairy products
+prod_6_starch: Production of flour and cereal products, starches and starch products
+prod_7_flour: Production of flour and cereal products
+prod_8_bread: Production of bread, bakery and flour products
+prod_9_cakes: Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries
+prod_10_rusks: Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries
+prod_11_other: Production of other food products
+prod_12_sugar: Production of sugar
+prod_13_cocoa: Production of cocoa, chocolate and sugar confectionery
+prod_14_tea: Production of tea and coffee
+prod_15_spices: Production of spices and seasonings
+prod_16_not_else: Production of other food products not elsewhere classified
+
+11_bread: bread and bakery products
+12_meat: meat and meat products
+13_milk: milk
+14_fish: fish and fish products
+15_veg: vegetables
+16_fruits: fruits
+17_sugar: sugar
+18_oil: sunflower oil
+19_eggs: eggs
+
+Ec_activ: Еconomic activity
+s_11_indu: industry
+s_12_agri: agriculture
+s_13_fores: forestry
+s_14_transp: transport
+s_15_commun: communication
+s_16_constr: construction
+s_17_trade: trade and catering
+s_18_logis: logistics
+s_19_resid: residential sector
+s_20_care: health care, physical education
+s_21_pub_ed: public education
+s_22_oth_sec: other sectors
+
+12_indu: industry
+11_agricul: agriculture, forestry and fisheries
+11_1_agricul: agriculture, forestry and fisheries
+13_constr: construction
+14_motor_veh: wholesale and retail trade; repair of motor vehicles and motorcycles
+15_courier: transport, warehousing, post and courier services
+16_cater: temporary accommodation and catering
+17_telecom: information and telecommunications
+18_insurance: financial and insurance activities
+19_estate: real estate transactions
+20_scientific: professional, scientific and technical activities
+21_support: administrative and support service activities
+22_public: public administration and defense; compulsory social insurance
+23_educ: education
+24_health: health care and social assistance
+25_arts: arts, sports, entertainment and recreation
+26_other_serv: provision of other services
+26_1_other_serv: provision of other services
+
+1_tr_road: Road transport used by road hauliers
+2_tr_urban: Urban electric transport 
+
+ill_1_tub: Tuberculosis
+ill_2_hep: Hepatitis B
+ill_3_m_m_r: Measles, mumps, rubella
+ill_4_diph: Diphtheria, tetanus
+ill_5_pert: Pertussis
+ill_6_polio: Poliomyelitis
+ill_7_hib: Hib infection
+
+Generation: Electricity generation
+el_1_power: Power generating companies of TPP
+el_2_CHP: TPP and cogeneration units
+el_3_HPP: HPS
+el_4_PSP: HAPP
+el_5_NPP: NPP
+el_6_plants: Block stations
+el_7_alternative: Alternative energy sources (WPS, SPS, Biomass)
