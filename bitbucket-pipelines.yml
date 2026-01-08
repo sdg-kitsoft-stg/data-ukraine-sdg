@@ -10,6 +10,12 @@ pipelines:
           - mkdir -p ~/.ssh
           - echo "$GH_SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
           - chmod 600 ~/.ssh/id_ed25519
+
+          - echo "=== DEBUG SSH KEY ==="
+          - wc -l ~/.ssh/id_ed25519
+          - head -n 2 ~/.ssh/id_ed25519
+          - tail -n 2 ~/.ssh/id_ed25519
+
           - ssh-keyscan bitbucket.org github.com >> ~/.ssh/known_hosts
 
           - git clone --mirror git@bitbucket.org:kitsoft/data-ukraine-sdg.git repo.git
