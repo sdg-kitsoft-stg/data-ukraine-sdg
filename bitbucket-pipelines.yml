@@ -6,25 +6,20 @@ pipelines:
         name: Mirror Bitbucket → GitHub
         script:
           - apk add --no-cache git openssh-client
-
           - mkdir -p ~/.ssh
           - chmod 700 ~/.ssh
+
+          # SSH key
           - echo "$GH_SSH_PRIVATE_KEY_64" | base64 -d > ~/.ssh/id_ed25519
           - chmod 600 ~/.ssh/id_ed25519
 
-          - echo "=== DEBUG SSH KEY ==="
-          - wc -l ~/.ssh/id_ed25519
-          - head -n 2 ~/.ssh/id_ed25519
-          - tail -n 2 ~/.ssh/id_ed25519
-
+          # known hosts
           - ssh-keyscan bitbucket.org github.com >> ~/.ssh/known_hosts
 
-          - ssh-keygen -l -f ~/.ssh/id_ed25519 || true
-          - ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes -T git@bitbucket.org || true
-
-
+          # clone from Bitbucket (READ)
           - git clone --mirror git@bitbucket.org:kitsoftllc/data-ukraine-sdg.git repo.git
-
           - cd repo.git
+
+          # push to GitHub (WRITE)
           - export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"
-          - git push --mirror git@bitbucket.org:kitsoftllc/data-ukraine-sdg.git
+          - git push --mirror git@github.com:sdg-kitsoft-stg/data-ukraine-sdg.git
