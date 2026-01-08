@@ -23,8 +23,8 @@ pipelines:
           - ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes -T git@bitbucket.org || true
 
 
-          - git clone --mirror git@bitbucket.org:kitsoft/data-ukraine-sdg.git repo.git
+          - git clone --mirror git@bitbucket.org:kitsoftllc/data-ukraine-sdg.git repo.git
 
           - cd repo.git
           - export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"
-          - git push --mirror git@github.com:sdg-kitsoft-stg/data-ukraine-sdg.git
+          - git push --mirror git@bitbucket.org:kitsoftllc/data-ukraine-sdg.git
