@@ -9,7 +9,7 @@ pipelines:
 
           - mkdir -p ~/.ssh
           - chmod 700 ~/.ssh
-          - echo "$GH_SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
+          - echo "$GH_SSH_PRIVATE_KEY_64" | base64 -d > ~/.ssh/id_ed25519
           - chmod 600 ~/.ssh/id_ed25519
 
           - echo "=== DEBUG SSH KEY ==="
