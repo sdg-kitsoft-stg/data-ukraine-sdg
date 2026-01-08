@@ -12,7 +12,7 @@ pipelines:
           - chmod 600 ~/.ssh/id_ed25519
           - ssh-keyscan bitbucket.org github.com >> ~/.ssh/known_hosts
 
-          - git clone --mirror git clone --mirror git@bitbucket.org:kitsoft/data-ukraine-sdg.git repo.git
+          - git clone --mirror git@bitbucket.org:kitsoft/data-ukraine-sdg.git repo.git
 
           - cd repo.git
           - export GIT_SSH_COMMAND="ssh -i ~/.ssh/id_ed25519 -o IdentitiesOnly=yes"
