@@ -8,6 +8,7 @@ pipelines:
           - apk add --no-cache git openssh-client
 
           - mkdir -p ~/.ssh
+          - chmod 700 ~/.ssh
           - echo "$GH_SSH_PRIVATE_KEY" > ~/.ssh/id_ed25519
           - chmod 600 ~/.ssh/id_ed25519
 
