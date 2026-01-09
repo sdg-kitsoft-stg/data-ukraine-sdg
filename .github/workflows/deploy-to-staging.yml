@@ -1,5 +1,11 @@
 # ****************************************************************************
 # Deploy OpenSDG DATA to staging (GitHub Pages)
+#
+# This workflow:
+# - builds OpenSDG data into _site/
+# - adds required /en/ language namespace (latest OpenSDG requirement)
+# - deploys data to gh-pages
+# - triggers site rebuild
 # ****************************************************************************
 
 name: Deploy to staging
@@ -18,11 +24,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # ------------------------------------------------------------
+      # Checkout
+      # ------------------------------------------------------------
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
 
+      # ------------------------------------------------------------
+      # Python
+      # ------------------------------------------------------------
       - name: Set up Python 3.8
         uses: actions/setup-python@v2
         with:
@@ -34,50 +46,55 @@ jobs:
           pip install -r scripts/requirements.txt
 
       # ------------------------------------------------------------
-      # 1. Build OpenSDG data -> generates ./public/*
+      # Build data (outputs to _site/)
       # ------------------------------------------------------------
       - name: Build data
         run: |
           python scripts/build_data.py
 
       # ------------------------------------------------------------
-      # 2. Add language namespace (required by latest OpenSDG)
-      #    Creates /en/meta/all.json etc.
+      # Add language namespace (/en)
       # ------------------------------------------------------------
       - name: Add language namespace
         run: |
           set -e
-          if [ ! -d public/meta ]; then
-            echo "ERROR: public/meta not found. build_data.py failed?"
+
+          echo "Checking build output..."
+          if [ ! -d _site/meta ]; then
+            echo "ERROR: _site/meta not found"
+            echo "Directory listing:"
+            ls -la
             exit 1
           fi
 
-          mkdir -p public/en
-          rm -rf public/en/meta public/en/data public/en/indicator-config
-          cp -r public/meta public/en/
-          cp -r public/data public/en/
-          cp -r public/indicator-config public/en/
+          echo "Adding /en namespace..."
+          mkdir -p _site/en
+          rm -rf _site/en/meta _site/en/data _site/en/indicator-config
+
+          cp -r _site/meta _site/en/
+          cp -r _site/data _site/en/
+          cp -r _site/indicator-config _site/en/
 
       # ------------------------------------------------------------
-      # 3. Deploy DATA to GitHub Pages (gh-pages branch)
+      # Deploy DATA to GitHub Pages
       # ------------------------------------------------------------
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: public
+          FOLDER: _site
           CLEAN: true
 
       # ------------------------------------------------------------
-      # 4. Wait until Pages is available (GitHub Pages latency)
+      # Wait for Pages propagation (GitHub latency)
       # ------------------------------------------------------------
       - name: Wait for Pages deployment
         run: |
           sleep 240
 
       # ------------------------------------------------------------
-      # 5. Trigger SITE rebuild (site-ukraine-sdg)
+      # Trigger SITE rebuild (site-ukraine-sdg)
       # ------------------------------------------------------------
       - name: Trigger site rebuild
         run: |
