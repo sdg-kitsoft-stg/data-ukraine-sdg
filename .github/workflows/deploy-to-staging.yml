@@ -18,7 +18,9 @@ name: Deploy to staging
 on:
   push:
     branches:
-      - develop
+      - main
+  workflow_dispatch:
+
 
 permissions:
   contents: write
