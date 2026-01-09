@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -15,11 +15,7 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits:
-  - series: ''
-    unit: ''
-    minimum: 0
-    maximum: 1.8
+graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-3-1-title
 graph_titles: []
@@ -30,14 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
-
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2020_target
-    value: 1.6
-    

@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - uk
+  - es
 
 # Destination directory
 # ---------------------
@@ -57,6 +57,8 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
 
 # Translations
 # ------------
@@ -71,7 +73,7 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.0.0
+    tag: 2.4.0
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
@@ -116,3 +118,21 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
 # docs_extra_disaggregations: ['Units', 'Series']
+
+# This controls the metadata report which is part of the automatic documentation.
+# More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
+docs_metadata_fields:
+    - key: reporting_status
+      label: Reporting status
+    - key: SDG_CUSTODIAN_AGENCIES__GLOBAL
+      label: UN custodian agency
+    - key: data_non_statistical
+      label: Non-statistical
+    - key: data_show_map
+      label: Show map
+    - key: national_geographical_coverage
+      label: Geographical coverage
+    - key: computation_units
+      label: Units
+    - key: graph_type
+      label: Graph type

@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -26,13 +26,7 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: complete
+reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
-
-graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2020_target
-    value: 205
