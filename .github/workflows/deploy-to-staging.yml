@@ -42,14 +42,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r scripts/requirements.txt
-        pip install sdg-build==2.4.0
-    - name: Debug CLI
-      run: |
-        which sdg-build
-        sdg-build --version
     - name: Build data
       run: |
-        sdg-build --languages en
+        python scripts/build_data.py
     - name: Place public files
       run: |
         cp public/robots-staging.txt _site/robots.txt
