@@ -1,0 +1,154 @@
+Year,Infectious diseases,Age,Value
+2015,ill_1_tub,age_vac_1_under 1 year,39.8
+2016,ill_1_tub,age_vac_1_under 1 year,72.3
+2017,ill_1_tub,age_vac_1_under 1 year,83.6
+2018,ill_1_tub,age_vac_1_under 1 year,90.1
+2019,ill_1_tub,age_vac_1_under 1 year,88.6
+2020,ill_1_tub,age_vac_1_under 1 year,88.8
+2021,ill_1_tub,age_vac_1_under 1 year,81.8
+2022,ill_1_tub,age_vac_1_under 1 year,71.0
+2023,ill_1_tub,age_vac_1_under 1 year,83.5
+2015,ill_2_hep,age_vac_1_under 1 year,25.4
+2016,ill_2_hep,age_vac_1_under 1 year,28.8
+2017,ill_2_hep,age_vac_1_under 1 year,57
+2018,ill_2_hep,age_vac_1_under 1 year,67
+2019,ill_2_hep,age_vac_1_under 1 year,77
+2020,ill_2_hep,age_vac_1_under 1 year,79.8
+2021,ill_2_hep,age_vac_1_under 1 year,78.8
+2022,ill_2_hep,age_vac_1_under 1 year,62.4
+2023,ill_2_hep,age_vac_1_under 1 year,79.2
+2015,ill_3_m_m_r,age_vac_2_1 year,63.2
+2016,ill_3_m_m_r,age_vac_2_1 year,45.5
+2017,ill_3_m_m_r,age_vac_2_1 year,93.3
+2018,ill_3_m_m_r,age_vac_2_1 year,91
+2019,ill_3_m_m_r,age_vac_2_1 year,93.2
+2020,ill_3_m_m_r,age_vac_2_1 year,83.3
+2021,ill_3_m_m_r,age_vac_2_1 year,88.5
+2022,ill_3_m_m_r,age_vac_2_1 year,74.1
+2023,ill_3_m_m_r,age_vac_2_1 year,92.4
+2015,ill_3_m_m_r,age_vac_4_6 years,62.1
+2016,ill_3_m_m_r,age_vac_4_6 years,30.2
+2017,ill_3_m_m_r,age_vac_4_6 years,90.7
+2018,ill_3_m_m_r,age_vac_4_6 years,89.5
+2019,ill_3_m_m_r,age_vac_4_6 years,91.7
+2020,ill_3_m_m_r,age_vac_4_6 years,83.4
+2021,ill_3_m_m_r,age_vac_4_6 years,86.8
+2022,ill_3_m_m_r,age_vac_4_6 years,69.1
+2023,ill_3_m_m_r,age_vac_4_6 years,87.3
+2015,ill_4_diph,age_vac_1_under 1 year,26.5
+2016,ill_4_diph,age_vac_1_under 1 year,21
+2017,ill_4_diph,age_vac_1_under 1 year,53.2
+2018,ill_4_diph,age_vac_1_under 1 year,69.3
+2019,ill_4_diph,age_vac_1_under 1 year,80.5
+2020,ill_4_diph,age_vac_1_under 1 year,80.1
+2021,ill_4_diph,age_vac_1_under 1 year,80
+2022,ill_4_diph,age_vac_1_under 1 year,72.9
+2023,ill_4_diph,age_vac_1_under 1 year,83.4
+2015,ill_4_diph,age_vac_3_18 months,33.1
+2016,ill_4_diph,age_vac_3_18 months,23.1
+2017,ill_4_diph,age_vac_3_18 months,51.2
+2018,ill_4_diph,age_vac_3_18 months,66.1
+2019,ill_4_diph,age_vac_3_18 months,80.5
+2020,ill_4_diph,age_vac_3_18 months,78.1
+2021,ill_4_diph,age_vac_3_18 months,77.8
+2022,ill_4_diph,age_vac_3_18 months,71.9
+2023,ill_4_diph,age_vac_3_18 months,82.7
+2015,ill_4_diph,age_vac_4_6 years,4.1
+2016,ill_4_diph,age_vac_4_6 years,59.1
+2017,ill_4_diph,age_vac_4_6 years,83.5
+2018,ill_4_diph,age_vac_4_6 years,83.4
+2019,ill_4_diph,age_vac_4_6 years,72.9
+2020,ill_4_diph,age_vac_4_6 years,59.7
+2021,ill_4_diph,age_vac_4_6 years,69.9
+2022,ill_4_diph,age_vac_4_6 years,68.2
+2023,ill_4_diph,age_vac_4_6 years,70.9
+2015,ill_4_diph,age_vac_6_16 years,1.9
+2016,ill_4_diph,age_vac_6_16 years,56.1
+2017,ill_4_diph,age_vac_6_16 years,76.7
+2018,ill_4_diph,age_vac_6_16 years,77.9
+2019,ill_4_diph,age_vac_6_16 years,91.5
+2020,ill_4_diph,age_vac_6_16 years,73.6
+2021,ill_4_diph,age_vac_6_16 years,79.6
+2022,ill_4_diph,age_vac_6_16 years,68.8
+2023,ill_4_diph,age_vac_6_16 years,78.3
+2015,ill_4_diph,age_vac_7_adult,0.1
+2016,ill_4_diph,age_vac_7_adult,20.7
+2017,ill_4_diph,age_vac_7_adult,44.8
+2018,ill_4_diph,age_vac_7_adult,55.6
+2019,ill_4_diph,age_vac_7_adult,83.4
+2020,ill_4_diph,age_vac_7_adult,47
+2021,ill_4_diph,age_vac_7_adult,45.4
+2022,ill_4_diph,age_vac_7_adult,40.2
+2023,ill_4_diph,age_vac_7_adult,52
+2015,ill_5_pert,age_vac_1_under 1 year,26.5
+2016,ill_5_pert,age_vac_1_under 1 year,21
+2017,ill_5_pert,age_vac_1_under 1 year,53.2
+2018,ill_5_pert,age_vac_1_under 1 year,69.3
+2019,ill_5_pert,age_vac_1_under 1 year,80.5
+2020,ill_5_pert,age_vac_1_under 1 year,80.1
+2021,ill_5_pert,age_vac_1_under 1 year,80
+2022,ill_5_pert,age_vac_1_under 1 year,72.9
+2023,ill_5_pert,age_vac_1_under 1 year,83.4
+2015,ill_5_pert,age_vac_3_18 months,33.1
+2016,ill_5_pert,age_vac_3_18 months,23.1
+2017,ill_5_pert,age_vac_3_18 months,51.2
+2018,ill_5_pert,age_vac_3_18 months,66.1
+2019,ill_5_pert,age_vac_3_18 months,80.5
+2020,ill_5_pert,age_vac_3_18 months,78.1
+2021,ill_5_pert,age_vac_3_18 months,77.8
+2022,ill_5_pert,age_vac_3_18 months,71.9
+2023,ill_5_pert,age_vac_3_18 months,82.7
+2015,ill_6_polio,age_vac_1_under 1 year,63.8
+2016,ill_6_polio,age_vac_1_under 1 year,60.8
+2017,ill_6_polio,age_vac_1_under 1 year,51.9
+2018,ill_6_polio,age_vac_1_under 1 year,71.1
+2019,ill_6_polio,age_vac_1_under 1 year,78.4
+2020,ill_6_polio,age_vac_1_under 1 year,83
+2021,ill_6_polio,age_vac_1_under 1 year,80.1
+2022,ill_6_polio,age_vac_1_under 1 year,68.9
+2023,ill_6_polio,age_vac_1_under 1 year,84.9
+2015,ill_6_polio,age_vac_3_18 months,86.5
+2016,ill_6_polio,age_vac_3_18 months,66.4
+2017,ill_6_polio,age_vac_3_18 months,71.4
+2018,ill_6_polio,age_vac_3_18 months,67.8
+2019,ill_6_polio,age_vac_3_18 months,78.7
+2020,ill_6_polio,age_vac_3_18 months,83
+2021,ill_6_polio,age_vac_3_18 months,80.5
+2022,ill_6_polio,age_vac_3_18 months,66.7
+2023,ill_6_polio,age_vac_3_18 months,85.5
+2015,ill_6_polio,age_vac_4_6 years,49.2
+2016,ill_6_polio,age_vac_4_6 years,85.7
+2017,ill_6_polio,age_vac_4_6 years,88.2
+2018,ill_6_polio,age_vac_4_6 years,81.3
+2019,ill_6_polio,age_vac_4_6 years,80.3
+2020,ill_6_polio,age_vac_4_6 years,81.7
+2021,ill_6_polio,age_vac_4_6 years,78.4
+2022,ill_6_polio,age_vac_4_6 years,63.4
+2023,ill_6_polio,age_vac_4_6 years,82.3
+2015,ill_6_polio,age_vac_5_14 years,50.6
+2016,ill_6_polio,age_vac_5_14 years,79.9
+2017,ill_6_polio,age_vac_5_14 years,88.1
+2018,ill_6_polio,age_vac_5_14 years,80.2
+2019,ill_6_polio,age_vac_5_14 years,80.9
+2020,ill_6_polio,age_vac_5_14 years,81.8
+2021,ill_6_polio,age_vac_5_14 years,76.1
+2022,ill_6_polio,age_vac_5_14 years,58.9
+2023,ill_6_polio,age_vac_5_14 years,78.9
+2015,ill_7_hib,age_vac_1_under 1 year,43.2
+2016,ill_7_hib,age_vac_1_under 1 year,36
+2017,ill_7_hib,age_vac_1_under 1 year,34.8
+2018,ill_7_hib,age_vac_1_under 1 year,52.5
+2019,ill_7_hib,age_vac_1_under 1 year,76.5
+2020,ill_7_hib,age_vac_1_under 1 year,85.1
+2021,ill_7_hib,age_vac_1_under 1 year,90.9
+2022,ill_7_hib,age_vac_1_under 1 year,74
+2023,ill_7_hib,age_vac_1_under 1 year,86.4
+2015,ill_7_hib,age_vac_2_1 year,38.6
+2016,ill_7_hib,age_vac_2_1 year,51.6
+2017,ill_7_hib,age_vac_2_1 year,44.5
+2018,ill_7_hib,age_vac_2_1 year,57.7
+2019,ill_7_hib,age_vac_2_1 year,80
+2020,ill_7_hib,age_vac_2_1 year,83.6
+2021,ill_7_hib,age_vac_2_1 year,87
+2022,ill_7_hib,age_vac_2_1 year,69.8
+2023,ill_7_hib,age_vac_2_1 year,78.2
