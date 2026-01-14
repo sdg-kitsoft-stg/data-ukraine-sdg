@@ -44,7 +44,7 @@ jobs:
         pip install -r scripts/requirements.txt
     - name: Build data
       run: |
-        python scripts/build_data.py
+        sdg-build --languages en
     - name: Place public files
       run: |
         cp public/robots-staging.txt _site/robots.txt
