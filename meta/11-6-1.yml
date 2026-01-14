@@ -1,0 +1,6 @@
+SDG_GOAL: 11 Sustainable development of cities and communities
+SDG_TARGET: 11.6 Ensure the development and implementation of local development strategies aimed at economic growth, job creation, tourism, recreation and development of the local culture, and production of local products
+SDG_INDICATOR: 11.6.1 Number of workers employed in tourism business entities (CTEA code-2010 — 55.1, 55.2, 55.3, 79.11, 79.12), persons
+UNIT_MEASURE: Persons
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: Data exclude the results of the activities of budgetary institutions; <br> for the years 2015-2021 exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories of the Donetsk and Luhansk regions; <br> data for 2022-2023 exclude the territories which are temporarily occupied by the russian federation and part of territories where the military actions are/were conducted. 
