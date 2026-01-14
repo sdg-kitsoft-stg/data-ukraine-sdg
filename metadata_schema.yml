@@ -264,6 +264,17 @@ prose:
 #           translation_key: metadata_fields.OTHER_DOC
 #           scope: global
       ######### National Metadata #########
+
+            ######### Reporting status (REQUIRED) #########
+      - name: reporting_status
+        field:
+          element: select
+          label: Reporting status
+          translation_key: reporting_status
+          options:
+            complete: Complete
+            notstarted: Not started
+
       - name: SDG_INDICATOR_INFO
         field:
             element: text
