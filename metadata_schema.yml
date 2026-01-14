@@ -274,8 +274,10 @@ prose:
           options:
             - name: complete
               label: Complete
+              value: complete
             - name: notstarted
               label: Not started
+              value: notstarted
 
       - name: SDG_INDICATOR_INFO
         field:
