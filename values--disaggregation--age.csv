@@ -1,0 +1,30 @@
+Value,Disaggregation combinations using this value,Number of indicators
+15-24 years,19,2
+25-64 years,19,2
+age_15,1,1
+age_15_17,1,1
+age_18,3,3
+age_18_24,1,1
+age_18_34,2,2
+age_1_18_35,88,4
+age_25_35,1,1
+age_2_36_60,88,4
+age_35_59,2,2
+age_36_59,86,2
+age_3_61,88,4
+age_60,86,3
+age_60_74,1,1
+age_75,1,1
+age_vac_1_under 1 year,6,1
+age_vac_2_1 year,2,1
+age_vac_3_18 months,3,1
+age_vac_4_6 years,3,1
+age_vac_5_14 years,1,1
+age_vac_6_16 years,1,1
+age_vac_7_adult,1,1
+aged_15,1,1
+aged_16,1,1
+aged_17,1,1
+aged_18,1,1
+aged_19,1,1
+aged_20_under,1,1

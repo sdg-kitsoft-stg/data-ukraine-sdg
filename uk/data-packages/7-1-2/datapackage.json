@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "electr_1_supply",
+                "electr_2_pr_supply",
+                "electr_3_act_value",
+                "electr_4_tech_cons",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "kWh",
+                "per",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "including",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_norm_val",
+                "2_exc_val",
+                ""
+              ]
+            },
+            "title": "including"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-2",
+  "title": "Proportion of population with primary reliance on clean fuels and technology"
+}

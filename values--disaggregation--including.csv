@@ -1,0 +1,17 @@
+Value,Disaggregation combinations using this value,Number of indicators
+1_norm_val,2,1
+2_exc_val,2,1
+inc_11_coal,1,1
+inc_12_food,1,1
+inc_13_leather,1,1
+inc_14_wood,1,1
+inc_15_coke,1,1
+inc_16_chem,1,1
+inc_17_pharma,1,1
+inc_18_plastic,1,1
+inc_19_metall,1,1
+inc_20_pc,1,1
+inc_21_electro,1,1
+inc_22_machinery,1,1
+inc_23_motor,1,1
+inc_24_furn,1,1
