@@ -136,3 +136,8 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+metadata_mappings:
+  indicator_name: SDG_INDICATOR
+  target_name: SDG_TARGET
+  goal_number: SDG_GOAL
