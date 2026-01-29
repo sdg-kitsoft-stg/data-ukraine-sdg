@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Mode of transport",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Автомобільний траснпорт, що використовують перевізники",
+                "Міський електричний транспорт",
+                ""
+              ]
+            },
+            "title": "Вид транспорту"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-6-2",
+  "title": "3-6-2"
+}
