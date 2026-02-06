@@ -1,0 +1,16 @@
+Value,Disaggregation combinations using this value,Number of indicators
+3_tr_urban,2,2
+tr_1_land_pipe,2,2
+tr_1_rail,4,4
+tr_2_motor,4,4
+tr_2_warer,2,2
+tr_3_air_tr,2,2
+tr_3_sea,4,4
+tr_4_river,4,4
+tr_4_ware,2,2
+tr_5_pipeline,2,2
+tr_5_post,2,2
+tr_6_air,4,4
+tr_7_tram,2,2
+tr_8_trolley,2,2
+tr_9_subway,2,2

@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Article",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_art_all",
+                "2_art_115_118",
+                "3_art_152",
+                "4_art_121",
+                "5_art_149",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_all",
+                "2_females",
+                "3_adolescents",
+                "4_young",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_vict_per_100",
+                "2_vict_all",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-2",
+  "title": "16-1-2"
+}

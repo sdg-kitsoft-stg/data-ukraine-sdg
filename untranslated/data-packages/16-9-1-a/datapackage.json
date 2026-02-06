@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Component",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "com_1_cohension",
+                "com_2_tolerance",
+                "com_3_adapt",
+                "com_4_migration",
+                "com_5_dialogue",
+                "com_6_civic",
+                "com_7_relations",
+                "com_8_groups",
+                "com_9_psy",
+                "com_10_active",
+                "com_11_migrate",
+                "com_12_cooperation",
+                "com_13_pol_sec",
+                "com_14_dialog_gr",
+                "com_15_belief_changes",
+                "com_16_soc_tolerance",
+                "com_17_active_position",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14_reg_Donetsk",
+                "21_reg_Luhansk",
+                "13_reg_Dnipropetrovsk",
+                "17_reg_Zaporizhzhya",
+                "29_reg_Kharkiv",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_1_18_35",
+                "age_2_36_60",
+                "age_36_59",
+                "age_3_61",
+                "age_60",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "males",
+                "females",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-9-1-a",
+  "title": "16-9-1-a"
+}

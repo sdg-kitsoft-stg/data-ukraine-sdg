@@ -1,0 +1,201 @@
+Year,Levels of academic achievement,Settlement,Sex,Value
+2015,"1st_level (basic, 0-3 points)","settlement, village",,56.0
+2016,"1st_level (basic, 0-3 points)","settlement, village",,62.0
+2017,"1st_level (basic, 0-3 points)","settlement, village",,65.0
+2018,"1st_level (basic, 0-3 points)","settlement, village",,62.0
+2019,"1st_level (basic, 0-3 points)","settlement, village",,59.0
+2020,"1st_level (basic, 0-3 points)","settlement, village",,50.0
+2021,"1st_level (basic, 0-3 points)","settlement, village",,43.0
+2022,"1st_level (basic, 0-3 points)","settlement, village",,
+2023,"1st_level (basic, 0-3 points)","settlement, village",,
+2024,"1st_level (basic, 0-3 points)","settlement, village",,
+2015,"1st_level (basic, 0-3 points)",urban settlement,,11.0
+2016,"1st_level (basic, 0-3 points)",urban settlement,,11.0
+2017,"1st_level (basic, 0-3 points)",urban settlement,,10.0
+2018,"1st_level (basic, 0-3 points)",urban settlement,,11.0
+2019,"1st_level (basic, 0-3 points)",urban settlement,,11.0
+2020,"1st_level (basic, 0-3 points)",urban settlement,,12.0
+2021,"1st_level (basic, 0-3 points)",urban settlement,,13.0
+2022,"1st_level (basic, 0-3 points)",urban settlement,,
+2023,"1st_level (basic, 0-3 points)",urban settlement,,
+2024,"1st_level (basic, 0-3 points)",urban settlement,,
+2015,"1st_level (basic, 0-3 points)",city,,33.0
+2016,"1st_level (basic, 0-3 points)",city,,28.0
+2017,"1st_level (basic, 0-3 points)",city,,25.0
+2018,"1st_level (basic, 0-3 points)",city,,28.0
+2019,"1st_level (basic, 0-3 points)",city,,30.0
+2020,"1st_level (basic, 0-3 points)",city,,37.0
+2021,"1st_level (basic, 0-3 points)",city,,45.0
+2022,"1st_level (basic, 0-3 points)",city,,
+2023,"1st_level (basic, 0-3 points)",city,,
+2024,"1st_level (basic, 0-3 points)",city,,
+2015,"1st_level (basic, 0-3 points)",,women,32.0
+2016,"1st_level (basic, 0-3 points)",,women,30.0
+2017,"1st_level (basic, 0-3 points)",,women,27.0
+2018,"1st_level (basic, 0-3 points)",,women,29.0
+2019,"1st_level (basic, 0-3 points)",,women,29.0
+2020,"1st_level (basic, 0-3 points)",,women,31.0
+2021,"1st_level (basic, 0-3 points)",,women,35.0
+2022,"1st_level (basic, 0-3 points)",,women,
+2023,"1st_level (basic, 0-3 points)",,women,
+2024,"1st_level (basic, 0-3 points)",,women,
+2015,"1st_level (basic, 0-3 points)",,men,68.0
+2016,"1st_level (basic, 0-3 points)",,men,70.0
+2017,"1st_level (basic, 0-3 points)",,men,73.0
+2018,"1st_level (basic, 0-3 points)",,men,71.0
+2019,"1st_level (basic, 0-3 points)",,men,71.0
+2020,"1st_level (basic, 0-3 points)",,men,69.0
+2021,"1st_level (basic, 0-3 points)",,men,65.0
+2022,"1st_level (basic, 0-3 points)",,men,
+2023,"1st_level (basic, 0-3 points)",,men,
+2024,"1st_level (basic, 0-3 points)",,men,
+2015,"2nd level (intermediate, 4-6 points)","settlement, village",,35.0
+2016,"2nd level (intermediate, 4-6 points)","settlement, village",,41.0
+2017,"2nd level (intermediate, 4-6 points)","settlement, village",,41.0
+2018,"2nd level (intermediate, 4-6 points)","settlement, village",,38.0
+2019,"2nd level (intermediate, 4-6 points)","settlement, village",,35.0
+2020,"2nd level (intermediate, 4-6 points)","settlement, village",,34.0
+2021,"2nd level (intermediate, 4-6 points)","settlement, village",,29.0
+2022,"2nd level (intermediate, 4-6 points)","settlement, village",,
+2023,"2nd level (intermediate, 4-6 points)","settlement, village",,
+2024,"2nd level (intermediate, 4-6 points)","settlement, village",,
+2015,"2nd level (intermediate, 4-6 points)",urban settlement,,10.0
+2016,"2nd level (intermediate, 4-6 points)",urban settlement,,11.0
+2017,"2nd level (intermediate, 4-6 points)",urban settlement,,10.0
+2018,"2nd level (intermediate, 4-6 points)",urban settlement,,11.0
+2019,"2nd level (intermediate, 4-6 points)",urban settlement,,10.0
+2020,"2nd level (intermediate, 4-6 points)",urban settlement,,11.0
+2021,"2nd level (intermediate, 4-6 points)",urban settlement,,11.0
+2022,"2nd level (intermediate, 4-6 points)",urban settlement,,
+2023,"2nd level (intermediate, 4-6 points)",urban settlement,,
+2024,"2nd level (intermediate, 4-6 points)",urban settlement,,
+2015,"2nd level (intermediate, 4-6 points)",city,,54.0
+2016,"2nd level (intermediate, 4-6 points)",city,,48.0
+2017,"2nd level (intermediate, 4-6 points)",city,,48.0
+2018,"2nd level (intermediate, 4-6 points)",city,,51.0
+2019,"2nd level (intermediate, 4-6 points)",city,,54.0
+2020,"2nd level (intermediate, 4-6 points)",city,,55.0
+2021,"2nd level (intermediate, 4-6 points)",city,,60.0
+2022,"2nd level (intermediate, 4-6 points)",city,,
+2023,"2nd level (intermediate, 4-6 points)",city,,
+2024,"2nd level (intermediate, 4-6 points)",city,,
+2015,"2nd level (intermediate, 4-6 points)",,women,48.0
+2016,"2nd level (intermediate, 4-6 points)",,women,46.0
+2017,"2nd level (intermediate, 4-6 points)",,women,43.0
+2018,"2nd level (intermediate, 4-6 points)",,women,44.0
+2019,"2nd level (intermediate, 4-6 points)",,women,45.0
+2020,"2nd level (intermediate, 4-6 points)",,women,44.0
+2021,"2nd level (intermediate, 4-6 points)",,women,46.0
+2022,"2nd level (intermediate, 4-6 points)",,women,
+2023,"2nd level (intermediate, 4-6 points)",,women,
+2024,"2nd level (intermediate, 4-6 points)",,women,
+2015,"2nd level (intermediate, 4-6 points)",,men,52.0
+2016,"2nd level (intermediate, 4-6 points)",,men,54.0
+2017,"2nd level (intermediate, 4-6 points)",,men,57.0
+2018,"2nd level (intermediate, 4-6 points)",,men,56.0
+2019,"2nd level (intermediate, 4-6 points)",,men,55.0
+2020,"2nd level (intermediate, 4-6 points)",,men,56.0
+2021,"2nd level (intermediate, 4-6 points)",,men,54.0
+2022,"2nd level (intermediate, 4-6 points)",,men,
+2023,"2nd level (intermediate, 4-6 points)",,men,
+2024,"2nd level (intermediate, 4-6 points)",,men,
+2015,"3rd level (adequate, 7-9 points)","settlement, village",,19.0
+2016,"3rd level (adequate, 7-9 points)","settlement, village",,24.0
+2017,"3rd level (adequate, 7-9 points)","settlement, village",,22.0
+2018,"3rd level (adequate, 7-9 points)","settlement, village",,20.0
+2019,"3rd level (adequate, 7-9 points)","settlement, village",,19.0
+2020,"3rd level (adequate, 7-9 points)","settlement, village",,20.0
+2021,"3rd level (adequate, 7-9 points)","settlement, village",,18.0
+2022,"3rd level (adequate, 7-9 points)","settlement, village",,
+2023,"3rd level (adequate, 7-9 points)","settlement, village",,
+2024,"3rd level (adequate, 7-9 points)","settlement, village",,
+2015,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2016,"3rd level (adequate, 7-9 points)",urban settlement,,10.0
+2017,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2018,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2019,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2020,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2021,"3rd level (adequate, 7-9 points)",urban settlement,,9.0
+2022,"3rd level (adequate, 7-9 points)",urban settlement,,
+2023,"3rd level (adequate, 7-9 points)",urban settlement,,
+2024,"3rd level (adequate, 7-9 points)",urban settlement,,
+2015,"3rd level (adequate, 7-9 points)",city,,71.0
+2016,"3rd level (adequate, 7-9 points)",city,,67.0
+2017,"3rd level (adequate, 7-9 points)",city,,69.0
+2018,"3rd level (adequate, 7-9 points)",city,,71.0
+2019,"3rd level (adequate, 7-9 points)",city,,72.0
+2020,"3rd level (adequate, 7-9 points)",city,,71.0
+2021,"3rd level (adequate, 7-9 points)",city,,73.0
+2022,"3rd level (adequate, 7-9 points)",city,,
+2023,"3rd level (adequate, 7-9 points)",city,,
+2024,"3rd level (adequate, 7-9 points)",city,,
+2015,"3rd level (adequate, 7-9 points)",,women,60.0
+2016,"3rd level (adequate, 7-9 points)",,women,56.0
+2017,"3rd level (adequate, 7-9 points)",,women,56.0
+2018,"3rd level (adequate, 7-9 points)",,women,56.0
+2019,"3rd level (adequate, 7-9 points)",,women,58.0
+2020,"3rd level (adequate, 7-9 points)",,women,55.0
+2021,"3rd level (adequate, 7-9 points)",,women,57.0
+2022,"3rd level (adequate, 7-9 points)",,women,
+2023,"3rd level (adequate, 7-9 points)",,women,
+2024,"3rd level (adequate, 7-9 points)",,women,
+2015,"3rd level (adequate, 7-9 points)",,men,40.0
+2016,"3rd level (adequate, 7-9 points)",,men,44.0
+2017,"3rd level (adequate, 7-9 points)",,men,44.0
+2018,"3rd level (adequate, 7-9 points)",,men,44.0
+2019,"3rd level (adequate, 7-9 points)",,men,42.0
+2020,"3rd level (adequate, 7-9 points)",,men,45.0
+2021,"3rd level (adequate, 7-9 points)",,men,43.0
+2022,"3rd level (adequate, 7-9 points)",,men,
+2023,"3rd level (adequate, 7-9 points)",,men,
+2024,"3rd level (adequate, 7-9 points)",,men,
+2015,"4th level (high, 10-12 points)","settlement, village",,10.0
+2016,"4th level (high, 10-12 points)","settlement, village",,13.0
+2017,"4th level (high, 10-12 points)","settlement, village",,12.0
+2018,"4th level (high, 10-12 points)","settlement, village",,11.0
+2019,"4th level (high, 10-12 points)","settlement, village",,10.0
+2020,"4th level (high, 10-12 points)","settlement, village",,12.0
+2021,"4th level (high, 10-12 points)","settlement, village",,10.0
+2022,"4th level (high, 10-12 points)","settlement, village",,
+2023,"4th level (high, 10-12 points)","settlement, village",,
+2024,"4th level (high, 10-12 points)","settlement, village",,
+2015,"4th level (high, 10-12 points)",urban settlement,,8.0
+2016,"4th level (high, 10-12 points)",urban settlement,,7.0
+2017,"4th level (high, 10-12 points)",urban settlement,,8.0
+2018,"4th level (high, 10-12 points)",urban settlement,,8.0
+2019,"4th level (high, 10-12 points)",urban settlement,,8.0
+2020,"4th level (high, 10-12 points)",urban settlement,,7.0
+2021,"4th level (high, 10-12 points)",urban settlement,,7.0
+2022,"4th level (high, 10-12 points)",urban settlement,,
+2023,"4th level (high, 10-12 points)",urban settlement,,
+2024,"4th level (high, 10-12 points)",urban settlement,,
+2015,"4th level (high, 10-12 points)",city,,82.0
+2016,"4th level (high, 10-12 points)",city,,80.0
+2017,"4th level (high, 10-12 points)",city,,81.0
+2018,"4th level (high, 10-12 points)",city,,81.0
+2019,"4th level (high, 10-12 points)",city,,82.0
+2020,"4th level (high, 10-12 points)",city,,81.0
+2021,"4th level (high, 10-12 points)",city,,82.0
+2022,"4th level (high, 10-12 points)",city,,
+2023,"4th level (high, 10-12 points)",city,,
+2024,"4th level (high, 10-12 points)",city,,
+2015,"4th level (high, 10-12 points)",,women,72.0
+2016,"4th level (high, 10-12 points)",,women,71.0
+2017,"4th level (high, 10-12 points)",,women,71.0
+2018,"4th level (high, 10-12 points)",,women,71.0
+2019,"4th level (high, 10-12 points)",,women,71.0
+2020,"4th level (high, 10-12 points)",,women,69.0
+2021,"4th level (high, 10-12 points)",,women,69.0
+2022,"4th level (high, 10-12 points)",,women,
+2023,"4th level (high, 10-12 points)",,women,
+2024,"4th level (high, 10-12 points)",,women,
+2015,"4th level (high, 10-12 points)",,men,28.0
+2016,"4th level (high, 10-12 points)",,men,29.0
+2017,"4th level (high, 10-12 points)",,men,29.0
+2018,"4th level (high, 10-12 points)",,men,29.0
+2019,"4th level (high, 10-12 points)",,men,29.0
+2020,"4th level (high, 10-12 points)",,men,31.0
+2021,"4th level (high, 10-12 points)",,men,31.0
+2022,"4th level (high, 10-12 points)",,men,
+2023,"4th level (high, 10-12 points)",,men,
+2024,"4th level (high, 10-12 points)",,men,

@@ -1,0 +1,57 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Organization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Збройні сили України",
+                "Державна спеціальна служба транспорту",
+                "Державна служба України з надзвичайних ситуацій",
+                "Оператори протимінної діяльності",
+                ""
+              ]
+            },
+            "title": "Організація"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Площа розмінування, га",
+                "розміновано доріг, км",
+                "розміновано залізничних шляхів, км",
+                ""
+              ]
+            },
+            "title": "Одиниця виміру"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-8-4",
+  "title": "16-8-4"
+}

@@ -1,0 +1,41 @@
+Disaggregation,Number of indicators,Number of values
+Age,22,29
+Ammunition,2,4
+Article,6,13
+by main product groups,2,9
+Cat,2,3
+Category,2,4
+Component,2,17
+Cost_train,2,4
+Decile groups,2,10
+Ec_activ,12,74
+Farm caregory,2,3
+Fund,2,1
+Gender,6,4
+Generation,2,7
+GHG_ratio,2,2
+Group,16,44
+Households,4,2
+including,4,16
+Infectious diseases,2,7
+inherit,2,2
+Level,2,4
+Level_ed,2,6
+m_trans,6,15
+Mode of transport,2,2
+Object,2,10
+Organization,2,4
+Pollutants,2,10
+Products,2,3
+Region,42,25
+Res_inten,2,5
+Settlement,2,3
+Sex of the head of household,2,2
+Sex,22,4
+Sou_en,2,3
+strategy,2,3
+Type of residence,40,2
+Type of water supply,6,2
+Type_weapon,2,5
+Unit,18,15
+Zone,2,3

@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "prod_1_meat",
+                "prod_2_fish",
+                "prod_3_fru_veg",
+                "prod_4_oil",
+                "prod_5_dairy",
+                "prod_6_starch",
+                "prod_7_flour",
+                "prod_8_bread",
+                "prod_9_cakes",
+                "prod_10_rusks",
+                "prod_11_other",
+                "prod_12_sugar",
+                "prod_13_cocoa",
+                "prod_14_tea",
+                "prod_15_spices",
+                "prod_16_not_else",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-1",
+  "title": "global_indicators.2-3-1-title"
+}

@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Production of meat and meat products",
+                "Processing and preserving of fish, crustaceans and molluscs",
+                "Processing and preserving of fruits and vegetables",
+                "Production of oil and animal fats",
+                "Production of dairy products",
+                "Production of flour and cereal products, starches and starch products",
+                "Production of flour and cereal products",
+                "Production of bread, bakery and flour products",
+                "Production of bread and bakery products; production of short-term storage flour confectionery, cakes and pastries",
+                "Production of rusks and biscuits; production of long-term storage flour confectionery, cakes and pastries",
+                "Production of other food products",
+                "Production of sugar",
+                "Production of cocoa, chocolate and sugar confectionery",
+                "Production of tea and coffee",
+                "Production of spices and seasonings",
+                "Production of other food products not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-1-a",
+  "title": "The index of food production, %"
+}
