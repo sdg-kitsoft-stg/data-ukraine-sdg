@@ -1,0 +1,11 @@
+SDG_GOAL: 14 Conserve marine resources
+SDG_TARGET: 14.1 Reduce marine pollution
+SDG_INDICATOR: 14.1.1 Share of discharges of polluted wastewater in total discharges in the marine environment, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of Environmental Protection and Natural Resources of Ukraine (MEPR) 
+REC_USE_LIM: Data are prepared according to the generalized reports of water users on water use according to the form № 2TP-vodhosp (annual). <br> 2019-2021 — The analysis of the indicators presented in the generalized data of state water use accounting for 2019-2021 (form № 2TP-vodhosp (annual)) shows a significant decrease in the volume of discharged return (waste) polluted water in the Azov Sea water body. The sharp decrease in quantitative data on the volume of polluted return (wastewater) explains the change in the category of return water of a large metallurgical enterprise (from polluted return water to the category of normatively clean return water after treatment). <br> 2022-2023 — State water use accounting data for 2022-2023 are provided taking into account the submission of reports in accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", as well as excluding water users of the territory of Ukraine which are temporarily occupied by the russian federation.
+
+indicator_number: 14.1.1
+target_number: 14.1
+goal_number: 14
+indicator_id: 14-1-1-a

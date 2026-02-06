@@ -1,0 +1,11 @@
+SDG_GOAL: 11 Sustainable development of cities and communities
+SDG_TARGET: 11.1 Ensure access to housing
+SDG_INDICATOR: 11.1.2 Coverage of territorial units of Ukraine (regions) with affordable housing programs for different categories of citizens, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
+REC_USE_LIM: 2023 — Programs are not funded in the territories included in the List of territories where hostilities are/were conducted or temporarily occupied by the russian federation, approved by the order of the Ministry of Reintegration dated 22.12.2022 № 309 "On Approval of the List of Territories where Hostilities are/were Conducted or Temporarily Occupied by the Russian Federation", namely Donetsk, Luhansk and Kharkiv regions. Programs in the territories of Kherson, Mykolayiv, Zaporizhzhya and Sumy regions are partially funded.
+
+indicator_number: 11.1.2
+target_number: 11.1
+goal_number: 11
+indicator_id: 11-1-2-a

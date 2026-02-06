@@ -1,0 +1,10 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.8 Recovery of conflict affected areas in eastern Ukraine (Donbas)
+SDG_INDICATOR: 16.8.5 Number of cases of detection of explosive objects (operative component), units
+UNIT_MEASURE: Units
+CONTACT_ORGANISATION: Ministry of Internal Affairs of Ukraine (MIA)
+
+indicator_number: 16.8.5
+target_number: 16.8
+goal_number: 16
+indicator_id: 16-8-5-a

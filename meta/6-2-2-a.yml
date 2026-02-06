@@ -1,0 +1,11 @@
+SDG_GOAL: 6 Clean water and sanitation
+SDG_TARGET: 6.2 Provide access to modern sanitation systems, and ensure the construction and reconstruction of water intake and sewage treatment facilities using the latest technologies and equipment
+SDG_INDICATOR: 6.2.2 Share of the urban population with access to a centralized water drain, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
+REC_USE_LIM: Data source <br> for 2015 — reporting of the Ministry for Communities and Territories Development of Ukraine, whose legal successor is the Ministry for Communities, Territories and Infrastructure Development of Ukraine; <br> for 2016-2023 — National report on the quality of drinking water and the state of drinking water supply and drainage in Ukraine in the corresponding year. <br> 2015-2019 — Data on the security of settlements — cities are provided. <br> 2020-2023 — Data on the security of the urban population (including the population of urban-type settlements) are provided. <br> 2015-2020 — Data are given without taking into account information on the temporarily occupied territory of Luhansk and Donetsk regions. <br> 2021-2022 — Data are given without taking into account the information of the Volyn, Zaporizhzhya, Luhansk, Kherson regions and the temporarily occupied part of the Donetsk region. <br> 2023 — Data are given without taking into account the information of the Luhansk region and the temporarily occupied part of the Donetsk region.
+
+indicator_number: 6.2.2
+target_number: 6.2
+goal_number: 6
+indicator_id: 6-2-2-a

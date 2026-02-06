@@ -1,0 +1,10 @@
+SDG_GOAL: 8 Decent work and economic growth
+SDG_TARGET: 8.5 Promote a safe and secure working environment for all workers, including through the application of innovative technologies in terms of health and safety
+SDG_INDICATOR: 8.5.1 Number of victims of accidents at work that led to disability of 1 day or more, % of 2015 level
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Labour Service of Ukraine (SLS)
+
+indicator_number: 8.5.1
+target_number: 8.5
+goal_number: 8
+indicator_id: 8-5-1-a

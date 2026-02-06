@@ -1,0 +1,10 @@
+SDG_GOAL: 4 Quality education
+SDG_TARGET: 4.7 Create a modern learning environment in schools, including inclusive education, through innovative approaches
+SDG_INDICATOR: 4.7.2 Share of rural full-time secondary schools, where computers are used in the educational process, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of Education and Science of Ukraine (MES)
+
+indicator_number: 4.7.2
+target_number: 4.7
+goal_number: 4
+indicator_id: 4-7-2-a

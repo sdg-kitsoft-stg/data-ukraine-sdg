@@ -1,0 +1,11 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.8 Recovery of conflict affected areas in eastern Ukraine (Donbas)
+SDG_INDICATOR: 16.8.4 Demined area in Donetsk and Luhansk regions, hectares
+UNIT_MEASURE: Hectares, km
+CONTACT_ORGANISATION: Ministry of Defense of Ukraine (MoD)
+REC_USE_LIM: 2022-2023 — In connection with the beginning of the large-scale armed aggression of the russian federation against Ukraine on February 24, 2022, demining measures (checks for the presence of explosive objects) were carried out in the de-occupied territories of Donetsk and Luhansk regions.
+
+indicator_number: 16.8.4
+target_number: 16.8
+goal_number: 16
+indicator_id: 16-8-4-a

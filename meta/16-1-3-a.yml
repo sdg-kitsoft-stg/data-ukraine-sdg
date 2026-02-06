@@ -1,0 +1,10 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.1 Reduce the prevalence of violence
+SDG_INDICATOR: 16.1.3 Number of victims of rape in the past 12 months, persons
+UNIT_MEASURE: victims per 100,000 persons, persons
+CONTACT_ORGANISATION: Prosecutor General’s Office
+
+indicator_number: 16.1.3
+target_number: 16.1
+goal_number: 16
+indicator_id: 16-1-3-a

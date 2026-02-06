@@ -1,6 +1,22 @@
-1-1-title: Reduce poverty by 4 times, including by eliminating extreme poverty
-1-2-title: Increase the coverage of poor people with targeted social assistance programmes
-1-3-title: Increase the resilience of socially vulnerable groups of the population
+1-1-title: Reducing the share of families living in poverty (at risk of falling below the poverty line)
+1-2-title: Increasing the share of coverage of the poor population by targeted social support programs
+1-3-title: Increasing the level of resilience of socially vulnerable groups of the population
+2-1-title: Ensuring access to balanced nutrition for all population groups
+2-2-title: Increasing agricultural productivity
+2-3-title: Ensuring the creation of sustainable food production systems that contribute to the preservation of ecosystems and improve the quality of lands and soils
+2-4-title: Promoting global food security
+2-5-title: Promoting safe agricultural conditions
+3-1-title: Ensuring access of citizens to quality medical services
+3-2-title: Reducing maternal mortality rates
+3-3-title: Minimizing preventable mortality among children under 5 years of age
+3-4-title: Ending the HIV/AIDS and tuberculosis epidemics, including through the use of innovative practices and treatments
+3-5-title: Reducing premature mortality from non-communicable diseases
+3-6-title: Ensuring high-quality and accessible rehabilitation in the health care sector
+3-7-title: Reducing mortality rate from transport accidents by using innovative practices in organizing resuscitation, treatment and rehabilitation of victims of such accidents
+3-8-title: Ensuring universal immunization of the population
+3-9-title: Reducing the prevalence of tobacco and/or nicotine product use among the population
+3-10-title: Reducing the prevalence of alcohol consumption among the populatio
+
 10-1-title: Ensure accelerated growth of income of the least well-off 40 percent of the population
 10-2-title: Prevent manifestations of discrimination in society
 10-3-title: Ensure access to social services
@@ -45,26 +61,6 @@
 17-1-title: Mobilize additional financial resources by promoting foreign and domestic investment
 17-2-title: Consistently reduce the debt burden on the economy
 17-3-title: Develop a partnership between government and business to achieve the SDGs
-2-1-title: Ensure accessibility to balanced nutrition to the level of scientifically based 
-  tandards for all population groups
-2-2-title: Double agricultural productivity, primarily through innovative technologies
-2-3-title: Ensure the development of sustainable food production systems that help maintain
- ecosystems and gradually improve the quality of land and soil, primarily through innovative
- technologies
-2-4-title: Reduce the volatility of food prices
-3-1-title: Reduce maternal mortality
-3-2-title: Minimize preventable mortality among children under 5
-3-3-title: End the epidemics of HIV/AIDS and tuberculosis, including through innovative
- practices and treatments
-3-4-title: Reduce premature mortality from noncommunicable diseases
-3-5-title: Reduce by a quarter premature mortality, including through the introduction
- of innovative approaches to diagnosing diseases
-3-6-title: Reduce serious injuries and deaths from road traffic accidents, including through
- innovative practices of resuscitation, treatment and rehabilitation after road traffic accidents
-3-7-title: Ensure universal, quality immunization with innovative vaccines
-3-8-title: Reduce the prevalence of smoking among the population through innovative media
- to inform about negative effects of smoking
-3-9-title: Reform health care financing
 4-1-title: Ensure access to quality school education for all children and adolescents
 4-2-title: Ensure access to quality pre–primary development for all children
 4-3-title: Ensure access to vocational education
@@ -126,3 +122,132 @@
  and technical (experimental) development
 9-6-title: Ensure access to the Internet, especially in rural areas
 9-7-title: Ensure increased youth participation in research
+
+1-1-a-title: Reduce poverty by 4 times, including by eliminating extreme poverty
+1-2-a-title: Increase the coverage of poor people with targeted social assistance programmes
+1-3-a-title: Increase the resilience of socially vulnerable groups of the population
+10-1-a-title: Ensure accelerated growth of income of the least well-off 40 percent of the population
+10-2-a-title: Prevent manifestations of discrimination in society
+10-3-a-title: Ensure access to social services
+10-4-a-title: Pursue remuneration policy based on equality and fairness
+10-5-a-title: Reform pension insurance based on fairness and transparency
+11-1-a-title: Ensure access to housing
+11-2-a-title: Ensure development of settlements and territories exclusively
+ based on integrated planning and participatory management
+11-3-a-title: Ensure protection and safeguarding of the cultural and natural heritage,
+ with involvement of the private sector
+11-4-a-title: Ensure timely public alert about emergencies through innovative technologies
+11-5-a-title: Reduce the adverse impact of pollutants, including on the urban environment
+ in particular, through innovative technologies
+11-6-a-title: Ensure the development and implementation of local development strategies
+ aimed at economic growth, job creation, tourism, recreation and development
+ of the local culture, and production of local products
+12-1-a-title: Reduce resource consumption of the economy
+12-2-a-title: Reduce the loss of food along the production and marketing chains
+12-3-a-title: Ensure sustainable use of chemicals through innovative technologies and production
+12-4-a-title: Reduce the amount of waste generation, and increase recycling and reuse
+ through innovative technologies and production
+13-1-a-title: Limit greenhouse gas emissions in the economy
+14-1-a-title: Reduce marine pollution
+14-2-a-title: Ensure the sustainable management and protection of marine and coastal ecosystems,
+ and improve their resilience and recovery through innovative technologies
+14-3-a-title: Implement effective regulation of extraction of marine resources
+15-1-a-title: Ensure the conservation, restoration and sustainable use of terrestrial
+ and inland freshwater ecosystems
+15-2-a-title: Promote sustainable forest management
+15-3-a-title:  Restore degraded lands and soils through innovative technologies
+15-4-a-title: Ensure the conservation of mountain ecosystems
+16-1-a-title: Reduce the prevalence of violence
+16-2-a-title: Increase detection of victims of human trafficking and all forms of exploitation
+16-3-a-title: Increase confidence in courts and ensure equal access to justice
+16-4-a-title: Strengthen the system for preventing and counteracting the legalization
+ of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction
+16-5-a-title: Reduce illicit trafficking of weapons, ammunition and explosive materials
+16-6-a-title: Reduce the scale of corruption
+16-7-a-title: Increase the efficiency of government bodies and local self-government
+16-8-a-title: Recovery of conflict affected areas in eastern Ukraine (Donbas)
+16-9-a-title: Strengthen social stability, and promote peacebuilding and community security
+17-1-a-title: Mobilize additional financial resources by promoting foreign and domestic investment
+17-2-a-title: Consistently reduce the debt burden on the economy
+17-3-a-title: Develop a partnership between government and business to achieve the SDGs
+2-1-a-title: Ensure accessibility to balanced nutrition to the level of scientifically based
+ tandards for all population groups
+2-2-a-title: Double agricultural productivity, primarily through innovative technologies
+2-3-a-title: Ensure the development of sustainable food production systems that help maintain
+ ecosystems and gradually improve the quality of land and soil, primarily through innovative
+ technologies
+2-4-a-title: Reduce the volatility of food prices
+3-1-a-title: Reduce maternal mortality
+3-2-a-title: Minimize preventable mortality among children under 5
+3-3-a-title: End the epidemics of HIV/AIDS and tuberculosis, including through innovative
+ practices and treatments
+3-4-a-title: Reduce premature mortality from noncommunicable diseases
+3-5-a-title: Reduce by a quarter premature mortality, including through the introduction
+ of innovative approaches to diagnosing diseases
+3-6-a-title: Reduce serious injuries and deaths from road traffic accidents, including through
+ innovative practices of resuscitation, treatment and rehabilitation after road traffic accidents
+3-7-a-title: Ensure universal, quality immunization with innovative vaccines
+3-8-a-title: Reduce the prevalence of smoking among the population through innovative media
+ to inform about negative effects of smoking
+3-9-a-title: Reform health care financing
+4-1-a-title: Ensure access to quality school education for all children and adolescents
+4-2-a-title: Ensure access to quality pre–primary development for all children
+4-3-a-title: Ensure access to vocational education
+4-4-a-title: Improve the quality of tertiary education and ensure its close relationship
+ with science, and promote the establishment of towns of education and science in the country
+4-5-a-title: Increase the prevalence of knowledge and skills required for decent jobs and
+ entrepreneurship among the population
+4-6-a-title: Eliminate gender disparities among school teachers
+4-7-a-title: Create a modern learning environment in schools, including inclusive education,
+ through innovative approaches
+5-1-a-title: Create an environment for ending all forms of discrimination against women and girls
+5-2-a-title: Reduce the level of gender-based and domestic violence, and ensure efficient
+ prevention of its manifestations and timely assistance to victims
+5-3-a-title: Encourage shared responsibility for housekeeping and childrearing
+5-4-a-title: Ensure equal opportunities for representation at all levels of decisionmaking
+ in political and public life
+5-5-a-title: Increase the population’s access to family planning services and reduce teenage fertility
+5-6-a-title: Expand economic opportunities for women
+6-1-a-title: Provide access to quality services of safe drinking water, and ensure the
+ construction and reconstruction of centralized drinking water supply systems using
+ the latest technologies and equipment
+6-2-a-title: Provide access to modern sanitation systems, and ensure the construction
+ and reconstruction of water intake and sewage treatment facilities using
+ the latest technologies and equipment
+6-3-a-title: Reduce the discharge of untreated wastewater, primarily through innovative
+ technologies of water purification at the national and individual levels
+6-4-a-title: Increase the efficiency of water use
+6-5-a-title: Implement integrated water resources management
+7-1-a-title: Expand the infrastructure and modernize networks for reliable and sustainable
+ energy supply through the introduction of innovative technologies
+7-2-a-title: Ensure diversification of the supply of primary energy resources
+7-3-a-title: Increase the share of renewable energy in the national energy balance,
+ in particular through the introduction of additional capacities at facilities
+ that produce energy from renewable sources
+7-4-a-title: Increase the energy efficiency of the economy
+8-1-a-title: Ensure a steady GDP growth by modernizing production, developing innovation,
+ increasing export potential and exporting products with high value added
+8-2-a-title:  Increase the efficiency of production based on sustainable development
+ and the development of competitive high-tech industries
+8-3-a-title: Increase employment
+8-4-a-title: Reduce the share of youth not in employment, education or professional training
+8-5-a-title: Promote a safe and secure working environment for all workers, including
+ through the application of innovative technologies in terms of health and safety
+8-6-a-title: Create institutional and financial capacities for the self-realization
+ of the potential of the economically active population and the development of the creative economy
+9-1-a-title: Develop quality, reliable, sustainable and accessible infrastructure based
+ on the use of innovation technologies, including ecologically clean means of transport
+9-2-a-title: Ensure increased use of electric transport and related network infrastructure
+9-3-a-title: Ensure access to road infrastructure based on the use of innovative technologies,
+ in particular by expanding state participation in various infrastructure projects
+9-4-a-title: Promote accelerated development of high- and medium-technological sectors
+ and manufacturing industries which are formed based on the use
+ of education–science–production chains and a cluster approach by areas, such as
+ development of an innovation ecosystem; development of ICT; use of ICT in agriculture,
+ energy, transport and industry; high-technology mechanical engineering; creation
+ of new materials; development of pharmaceutical and bioengineering industry
+9-5-a-title: Create financial and institutional systems (innovative infrastructure)
+ that will ensure the development of scientific research and scientific
+ and technical (experimental) development
+9-6-a-title: Ensure access to the Internet, especially in rural areas
+9-7-a-title: Ensure increased youth participation in research

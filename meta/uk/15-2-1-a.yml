@@ -1,0 +1,10 @@
+SDG_GOAL: 15 Захист та відновлення екосистем суші
+SDG_TARGET: 15.2 Сприяти сталому управлінню лісами
+SDG_INDICATOR: 15.2.1 Лісистість території країни, %
+UNIT_MEASURE: Відсоток (%)
+CONTACT_ORGANISATION: Державне агентство лісових ресурсів України (Держлісагентство)
+
+indicator_number: 15.2.1
+target_number: 15.2
+goal_number: 15
+indicator_id: 15-2-1-a

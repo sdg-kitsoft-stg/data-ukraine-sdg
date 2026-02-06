@@ -1,0 +1,11 @@
+SDG_GOAL: 10 Reduce inequality
+SDG_TARGET: 10.4 Pursue remuneration policy based on equality and fairness
+SDG_INDICATOR: 10.4.1 Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times
+UNIT_MEASURE: Times
+CONTACT_ORGANISATION: Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine (IDLQP of the NAS of Ukraine)
+REC_USE_LIM: 2015 — Regional data are not available. <br> 2023 (Donetsk, Luhansk, Kherson regions) — Data are not sufficient for a reliable calculation of the indicator in connection with the temporary occupation of the regions of Ukraine by the russian federation.
+
+indicator_number: 10.4.1
+target_number: 10.4
+goal_number: 10
+indicator_id: 10-4-1-a

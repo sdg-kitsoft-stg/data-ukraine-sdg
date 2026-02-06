@@ -1,7 +1,5 @@
 SDG_GOAL: 3 Healthy lives and well-being
-SDG_TARGET: 3.3 End the epidemics of HIV/AIDS and tuberculosis, including through innovative practices and treatments
-SDG_INDICATOR: 3.3.1 Number of patients diagnosed with HIV for the first time, per 100,000 persons
-REC_USE_LIM: 2016-2023 — Without taking into account the number of children diagnosed with HIV at the stage of confirmation. <br> 2022-2023 — Data is calculated according to the average annual number of the resident population for 2021. Data may be revised.
-UNIT_MEASURE: patients per 100,000 persons
-CONTACT_ORGANISATION: Ministry of Health of Ukraine (MоH)
-
+SDG_TARGET: 3.3 Minimizing preventable mortality among children under 5 years of age
+SDG_INDICATOR: 3.3.1 Mortality rate of children under 5 years of age, per 1,000 live-births (SDG indicator 3.3.1)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 1 Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories in Donetsk and Luhansk regions. 2 Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on mortality and birth rates has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information.

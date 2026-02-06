@@ -1,0 +1,11 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.5 Reduce illicit trafficking of weapons, ammunition and explosive materials
+SDG_INDICATOR: 16.5.1 Number of weapons seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)
+UNIT_MEASURE: Units
+CONTACT_ORGANISATION: Prosecutor General’s Office
+REC_USE_LIM: Seized crime activity items — Since 2020, according to the order of the Prosecutor General dated 30.06.2020 № 299, the name of the indicator has been changed from "seized crime activity items" to "seized items of criminal and illegal activity".
+
+indicator_number: 16.5.1
+target_number: 16.5
+goal_number: 16
+indicator_id: 16-5-1-a

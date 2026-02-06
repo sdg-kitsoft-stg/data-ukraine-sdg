@@ -1,0 +1,11 @@
+SDG_GOAL: 1 End poverty
+SDG_TARGET: 1.3 Increase the resilience of socially vulnerable groups of the population
+SDG_INDICATOR: 1.3.1 Ratio of poverty levels of households with children and households without children, times
+UNIT_MEASURE: Times
+CONTACT_ORGANISATION: Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine (IDLQP of the NAS of Ukraine)
+REC_USE_LIM: Data by sex of the head of the household are not available. <br> 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results. Accordingly, the data for 2022-2023 cannot be calculated by the Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine.
+
+indicator_number: 1.3.1
+target_number: 1.3
+goal_number: 1
+indicator_id: 1-3-1-a

@@ -1,0 +1,10 @@
+SDG_GOAL: 8 Decent work and economic growth
+SDG_TARGET: 8.1 Ensure a steady GDP growth by modernizing production, developing innovation, increasing export potential and exporting products with high value added
+SDG_INDICATOR: 8.1.3 Share of exports of goods whose production uses technologies of high and medium high level in total exports of goods, % (groups "Products of chemical and related industries", "Polymers, plastics and articles thereof", "Machinery, equipment and mechanisms, electrical equipment", "Ground transportation, aircraft, floating craft", 90th subgroup of the group "Optical and photographic devices and appliances" (UCGFEA))
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+
+indicator_number: 8.1.3
+target_number: 8.1
+goal_number: 8
+indicator_id: 8-1-3-a

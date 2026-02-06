@@ -1,0 +1,11 @@
+SDG_GOAL: 4 Quality education
+SDG_TARGET: 4.4 Improve the quality of tertiary education and ensure its close relationship with science, and promote the establishment of towns of education and science in the country
+SDG_INDICATOR: 4.4.3 Cost of training a specialist
+REC_USE_LIM: 2015-2018 — The actual data on the training of students in higher education institutions subordinate to the Ministry of Education and Science of Ukraine under the general fund (source — reports of the Ministry of Education and Science of Ukraine on the implementation of the budget program passport 2201150, 2201160, 2201280). <br> 2019-2021 — The actual data on the training of students in higher education institutions under the general fund (source — reports on the implementation of the budget program passport 2201280; 2201160; 2301070; 2301080; 3801060; 3801070; 6541030; 6541080; 6551030; 6551080; 3507050). <br> 2022 — The actual data on the training of students in higher education institutions under the general fund (source — reports on the implementation of the budget program passport 2201280; 2201160; 2301070; 2301080; 3801160; 6541030; 6541080; 6551030; 6551060; 3501520). <br> 2023 — The actual data on the training of students in higher education institutions under the general fund (source — reports on the implementation of the budget program passport 2201160; 2201280; 2301070; 3501520; 3801160; 6541030; 6541080; 6551030; 6551060).
+UNIT_MEASURE: UAH
+CONTACT_ORGANISATION: Ministry of Education and Science of Ukraine (MES)
+
+indicator_number: 4.4.3
+target_number: 4.4
+goal_number: 4
+indicator_id: 4-4-3-a

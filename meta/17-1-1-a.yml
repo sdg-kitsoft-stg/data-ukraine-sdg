@@ -1,0 +1,10 @@
+SDG_GOAL: 17 Partnership for sustainable development
+SDG_TARGET: 17.1 Mobilize additional financial resources by promoting foreign and domestic investment
+SDG_INDICATOR: 17.1.1 Ratio of private remittances from abroad to GDP, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: National Bank of Ukraine (NBU)
+
+indicator_number: 17.1.1
+target_number: 17.1
+goal_number: 17
+indicator_id: 17-1-1-a

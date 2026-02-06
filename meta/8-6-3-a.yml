@@ -1,0 +1,11 @@
+SDG_GOAL: 8 Decent work and economic growth
+SDG_TARGET: 8.6 Create institutional and financial capacities for the self-realization of the potential of the economically active population and the development of the creative economy
+SDG_INDICATOR: 8.6.3 Ukraine’s position in the rating of Doing Business
+UNIT_MEASURE: Rank
+CONTACT_ORGANISATION: Ministry of Economy of Ukraine (MEU)
+REC_USE_LIM: 2020-2023 — Data unavailable due to discontinuation of the Doing Business report.
+
+indicator_number: 8.6.3
+target_number: 8.6
+goal_number: 8
+indicator_id: 8-6-3-a

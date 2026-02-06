@@ -1,0 +1,11 @@
+SDG_GOAL: 2 End hunger, promote sustainable agriculture
+SDG_TARGET: 2.1 Ensure accessibility to balanced nutrition to the level of scientifically based tandards for all population groups
+SDG_INDICATOR: 2.1.1 Consumption of meat per capita, kg/year
+UNIT_MEASURE: kg/year
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+
+indicator_number: 2.1.1
+target_number: 2.1
+goal_number: 2
+indicator_id: 2-1-1-a

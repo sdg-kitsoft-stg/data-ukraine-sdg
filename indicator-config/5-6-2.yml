@@ -34,5 +34,5 @@ tags: []
 graph_target_lines:
   - series: ''
     unit: ''
-    label_content: indicator.annotation_2020_target
-    value: 63
+    label_content: indicator.annotation_2030_target
+    value: 35

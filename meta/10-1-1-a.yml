@@ -1,0 +1,11 @@
+SDG_GOAL: 10 Reduce inequality
+SDG_TARGET: 10.1 Ensure accelerated growth of income of the least well-off 40 percent of the population
+SDG_INDICATOR: 10.1.1 Ratio of growth rate of the average per capita total income of the least well-off 40% to the whole population, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+
+indicator_number: 10.1.1
+target_number: 10.1
+goal_number: 10
+indicator_id: 10-1-1-a

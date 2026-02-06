@@ -1,0 +1,11 @@
+SDG_GOAL: 11 Sustainable development of cities and communities
+SDG_TARGET: 11.1 Ensure access to housing
+SDG_INDICATOR: 11.1.1 Solvency ratio of the borrower (ratio of monthly payments of the borrower and his/her family on mortgage debt servicing to total monthly income)
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
+REC_USE_LIM: In 2015-2017, the Ministry of Regional Development did not provide for allocations for loans provided from the general fund of the state budget. The funds provided in the special fund of the state budget to increase the authorized capital of the State Specialized Financial Institution "State Fund for Support of Youth Housing Construction" were further used to provide loans under the State Program for Providing Housing to Youth for 2013-2020 (Resolution of the Cabinet of Ministers of Ukraine, 11.05.2011 № 488).
+
+indicator_number: 11.1.1
+target_number: 11.1
+goal_number: 11
+indicator_id: 11-1-1-a

@@ -1,0 +1,11 @@
+SDG_GOAL: 9 Industry, innovation and infrastructure
+SDG_TARGET: 9.3 Ensure access to road infrastructure based on the use of innovative technologies, in particular by expanding state participation in various infrastructure projects
+SDG_INDICATOR: 9.3.1 Share of hard-surface principal public roads that meet the regulatory requirements, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Agency for Restoration and Development of Infrastructure of Ukraine (Agency for Restoration) 
+REC_USE_LIM: Data are developed once every 5 years, from 2022. <br> 2022-2023 — The collection and formation of data in connection with the military aggression of the russian federation against Ukraine and the introduction of martial law in 2022-2023 was not carried out.
+
+indicator_number: 9.3.1
+target_number: 9.3
+goal_number: 9
+indicator_id: 9-3-1-a

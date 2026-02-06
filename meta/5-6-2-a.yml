@@ -1,0 +1,11 @@
+SDG_GOAL: 5 Gender equality
+SDG_TARGET: 5.6 Expand economic opportunities for women
+SDG_INDICATOR: 5.6.2 Employment rate of women aged 25-44 with children aged 3-5, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine (IDLQP of the NAS of Ukraine)
+REC_USE_LIM: 2015-2023 — Data from SSSU. <br> 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+
+indicator_number: 5.6.2
+target_number: 5.6
+goal_number: 5
+indicator_id: 5-6-2-a

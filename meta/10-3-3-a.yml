@@ -1,0 +1,11 @@
+SDG_GOAL: 10 Reduce inequality
+SDG_TARGET: 10.3 Ensure access to social services
+SDG_INDICATOR: 10.3.3 Share of rural households who suffered from deprivation due to the lack of regular daily transport to another settlement with developed infrastructure, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2016, 2018, 2020, 2022 — Data are collected once every two years. <br> 2023 — In accordance with subparagraph 1 of paragraph 1 of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 24, 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+
+indicator_number: 10.3.3
+target_number: 10.3
+goal_number: 10
+indicator_id: 10-3-3-a

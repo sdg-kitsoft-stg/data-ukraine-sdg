@@ -1,0 +1,11 @@
+SDG_GOAL: 3 Healthy lives and well-being
+SDG_TARGET: 3.9 Reform health care financing
+SDG_INDICATOR: 3.9.1 Share of expenditures of the population in general spending on health, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2021 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War". <br> Data for 2022 — 28.05.2024. <br> Data for 2023 — 28.05.2025.
+
+indicator_number: 3.9.1
+target_number: 3.9
+goal_number: 3
+indicator_id: 3-9-1-a

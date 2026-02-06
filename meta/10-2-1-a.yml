@@ -1,0 +1,11 @@
+SDG_GOAL: 10 Reduce inequality
+SDG_TARGET: 10.2 Prevent manifestations of discrimination in society
+SDG_INDICATOR: 10.2.1 Share of persons who reported that in the past 12 months they personally experienced gender-based discrimination in the total number of requests to expert councils on gender-based discrimination, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
+REC_USE_LIM: Data for 2015-2016 are lacking, as 2017 has become a year of identifying the state’s highest priorities for gender equality. <br> Data for 2022-2023 are lacking, as the Expert Council on Gender Discrimination did not carry out its activities.
+
+indicator_number: 10.2.1
+target_number: 10.2
+goal_number: 10
+indicator_id: 10-2-1-a

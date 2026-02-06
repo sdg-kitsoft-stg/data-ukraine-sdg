@@ -1,0 +1,11 @@
+SDG_GOAL: 15 Protect and restore terrestrial ecosystems
+SDG_TARGET: 15.3 Restore degraded lands and soils through innovative technologies
+SDG_INDICATOR: 15.3.5 Area of agricultural land of extensive use (hayfields, pastures), thousands of hectares
+UNIT_MEASURE: thousands of hectares
+CONTACT_ORGANISATION: State Service of Ukraine for Geodesy, Cartography and Cadastre (SSGCC)
+REC_USE_LIM: 2020-2023 — Area of hayfields and pastures — the sum of the area of land plots, information about which is entered into the State Land Cadastre with the land code (002.01 and 002.02) established by Annex № 4 to the Procedure for maintaining the State Land Cadastre (PKMU № 1051).
+
+indicator_number: 15.3.5
+target_number: 15.3
+goal_number: 15
+indicator_id: 15-3-5-a

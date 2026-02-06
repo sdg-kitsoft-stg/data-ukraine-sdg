@@ -1,6 +1,5 @@
 SDG_GOAL: 3 Healthy lives and well-being
-SDG_TARGET: 3.3 End the epidemics of HIV/AIDS and tuberculosis, including through innovative practices and treatments
-SDG_INDICATOR: 3.3.2 Number of patients diagnosed with active tuberculosis for the first time, per 100,000 persons
-UNIT_MEASURE: patients per 100,000 persons
-CONTACT_ORGANISATION: Ministry of Health of Ukraine (MоH)
-REC_USE_LIM: 2020 — A decrease in the incidence of tuberculosis in Ukraine in 2020 compared to previous years is explained by the reform of the healthcare system, in particular the establishment of a TB specialists service, and by the lockdowns in the country due to coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2. <br> 2022-2023 — Data is calculated according to the average annual number of the resident population for 2021. Data may be revised.
+SDG_TARGET: 3.3 Minimizing preventable mortality among children under 5 years of age
+SDG_INDICATOR: 3.3.2 Neonatal mortality rate, per 1,000 live-births (SDG indicator 3.3.2)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 1 Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories in Donetsk and Luhansk regions. 2 Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on mortality and birth rates has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information.

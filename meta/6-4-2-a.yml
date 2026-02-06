@@ -1,0 +1,11 @@
+SDG_GOAL: 6 Clean water and sanitation
+SDG_TARGET: 6.4 Increase the efficiency of water use
+SDG_INDICATOR: 6.4.2 Current water content of GDP to 2015 level, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Agency of Water Resources of Ukraine (SAWR)
+REC_USE_LIM: 2017-2022 — Data for 2017-2022 have been adjusted taking into account the final data on the GDP of Ukraine.
+
+indicator_number: 6.4.2
+target_number: 6.4
+goal_number: 6
+indicator_id: 6-4-2-a

@@ -1,0 +1,11 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.8 Recovery of conflict affected areas in eastern Ukraine (Donbas)
+SDG_INDICATOR: 16.8.3 Number of communities in the Donetsk and Luhansk regions that implemented mine action, units
+UNIT_MEASURE: Units
+CONTACT_ORGANISATION: Ministry of Reintegration of the Temporarily Occupied Territories of Ukraine (МRТОТ)
+REC_USE_LIM: 2016–2018 — Data of the Ministry of Internal Affairs.
+
+indicator_number: 16.8.3
+target_number: 16.8
+goal_number: 16
+indicator_id: 16-8-3-a

@@ -1,0 +1,11 @@
+SDG_GOAL: 8 Decent work and economic growth
+SDG_TARGET: 8.6 Create institutional and financial capacities for the self-realization of the potential of the economically active population and the development of the creative economy
+SDG_INDICATOR: 8.6.2 Share of value added against production costs of SMEs, % of total value added against production costs
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: Excluding the results of banks, budgetary institutions. <br>2015-2023 — (с) The data are not published in order to ensure compliance with the requirements of the Law of Ukraine "On State Statistics" on the confidentiality of statistical information (primary and secondary blocking of vulnerable values).
+
+indicator_number: 8.6.2
+target_number: 8.6
+goal_number: 8
+indicator_id: 8-6-2-a

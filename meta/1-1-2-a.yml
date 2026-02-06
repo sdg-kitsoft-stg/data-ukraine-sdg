@@ -1,0 +1,11 @@
+SDG_GOAL: 1 End poverty
+SDG_TARGET: 1.1 Reduce poverty by 4 times, including by eliminating extreme poverty
+SDG_INDICATOR: 1.1.2 Share of individuals whose daily consumption is below USD 5.05 PPP, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine (IDLQP of the NAS of Ukraine)
+REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results. Accordingly, the data for 2022-2023 cannot be calculated by the Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine.
+
+indicator_number: 1.1.2
+target_number: 1.1
+goal_number: 1
+indicator_id: 1-1-2-a

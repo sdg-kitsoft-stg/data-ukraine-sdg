@@ -1,0 +1,12 @@
+SDG_GOAL: 3 Healthy lives and well-being
+SDG_TARGET: 3.3 End the epidemics of HIV/AIDS and tuberculosis, including through innovative practices and treatments
+SDG_INDICATOR: 3.3.1 Number of patients diagnosed with HIV for the first time, per 100,000 persons
+REC_USE_LIM: 2016-2023 — Without taking into account the number of children diagnosed with HIV at the stage of confirmation. <br> 2022-2023 — Data is calculated according to the average annual number of the resident population for 2021. Data may be revised.
+UNIT_MEASURE: patients per 100,000 persons
+CONTACT_ORGANISATION: Ministry of Health of Ukraine (MоH)
+
+
+indicator_number: 3.3.1
+target_number: 3.3
+goal_number: 3
+indicator_id: 3-3-1-a

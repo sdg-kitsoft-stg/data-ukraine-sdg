@@ -1,0 +1,11 @@
+SDG_GOAL: 5 Gender equality
+SDG_TARGET: 5.6 Expand economic opportunities for women
+SDG_INDICATOR: 5.6.1 Ratio of average wages for men and women, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+
+indicator_number: 5.6.1
+target_number: 5.6
+goal_number: 5
+indicator_id: 5-6-1-a

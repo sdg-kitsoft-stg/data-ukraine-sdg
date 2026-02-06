@@ -1,0 +1,11 @@
+SDG_GOAL: 9 Industry, innovation and infrastructure
+SDG_TARGET: 9.1 Develop quality, reliable, sustainable and accessible infrastructure based on the use of innovation technologies, including ecologically clean means of transport
+SDG_INDICATOR: 9.1.1 Share of the rural population living further than 3 km from paved roads, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: Data are developed once every 5 years, from 2021.
+
+indicator_number: 9.1.1
+target_number: 9.1
+goal_number: 9
+indicator_id: 9-1-1-a

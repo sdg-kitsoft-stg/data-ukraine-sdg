@@ -1,0 +1,11 @@
+SDG_GOAL: 12 Sustainable consumption and production
+SDG_TARGET: 12.1 Reduce resource consumption of the economy
+SDG_INDICATOR: 12.1.1 Resource intensity of GDP (ratio of consumed volumes of natural resources, waste generated and pollutant emissions to GDP), % to 2015 level
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of Economy of Ukraine (MEU)
+REC_USE_LIM: GDP energy intensity (for 2021-2022), GDP material intensity, GDP carbon intensity, GDP waste intensity (for 2022) — The calculation of the indicators will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War". <br> Data for 2023 — 31.01.2025. 
+
+indicator_number: 12.1.1
+target_number: 12.1
+goal_number: 12
+indicator_id: 12-1-1-a

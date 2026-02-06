@@ -1,0 +1,11 @@
+SDG_GOAL: 11 Sustainable development of cities and communities
+SDG_TARGET: 11.5 Reduce the adverse impact of pollutants, including on the urban environment in particular, through innovative technologies
+SDG_INDICATOR: 11.5.1 Emissions of air pollutants from stationary sources, % to 2015 level
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2021-2023 — Data can be refined. <br> 2022-2023 — Data exclude the territories which are temporarily occupied by the russian federation and part of territories where the military actions are/were conducted. Information was formed on the basis of the reports actually submitted by the enterprises.
+
+indicator_number: 11.5.1
+target_number: 11.5
+goal_number: 11
+indicator_id: 11-5-1-a

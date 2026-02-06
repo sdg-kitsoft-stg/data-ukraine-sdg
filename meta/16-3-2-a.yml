@@ -1,0 +1,11 @@
+SDG_GOAL: 16 Peace, justice and strong institutions
+SDG_TARGET: 16.3 Increase confidence in courts and ensure equal access to justice
+SDG_INDICATOR: 16.3.2 Number of persons seeking free legal aid, persons
+UNIT_MEASURE: Persons
+CONTACT_ORGANISATION: Ministry of Justice of Ukraine (MoJ)
+REC_USE_LIM: 2015 — Data for 2015 are calculated from 01.07.2015 in connection with the establishment of local centers of free secondary legal aid in accordance with the Order of the Ministry of Justice of Ukraine of March 10, 2015 № 331/5 "On the development of a system of free secondary legal aid".
+
+indicator_number: 16.3.2
+target_number: 16.3
+goal_number: 16
+indicator_id: 16-3-2-a

@@ -1,0 +1,11 @@
+SDG_GOAL: 9 Industry, innovation and infrastructure
+SDG_TARGET: 9.2 Ensure increased use of electric transport and related network infrastructure
+SDG_INDICATOR: 9.2.1 Share of electric transport in domestic traffic, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+
+indicator_number: 9.2.1
+target_number: 9.2
+goal_number: 9
+indicator_id: 9-2-1-a

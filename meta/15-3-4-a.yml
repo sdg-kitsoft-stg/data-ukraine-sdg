@@ -1,0 +1,10 @@
+SDG_GOAL: 15 Protect and restore terrestrial ecosystems
+SDG_TARGET: 15.3 Restore degraded lands and soils through innovative technologies
+SDG_INDICATOR: 15.3.4 Area of land used for organic production, thousands of hectares
+UNIT_MEASURE: Thousands of hectares
+CONTACT_ORGANISATION: Ministry of Agrarian Policy and Food of Ukraine (MAPF)
+
+indicator_number: 15.3.4
+target_number: 15.3
+goal_number: 15
+indicator_id: 15-3-4-a

@@ -30,3 +30,9 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+
+graph_target_lines:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 0.5

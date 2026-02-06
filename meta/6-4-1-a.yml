@@ -1,0 +1,11 @@
+SDG_GOAL: 6 Clean water and sanitation
+SDG_TARGET: 6.4 Increase the efficiency of water use
+SDG_INDICATOR: 6.4.1 Water content of GDP, cubic metres of water used per UAH 1,000 of GDP (actual prices)
+UNIT_MEASURE: Cubic metres of water used per UAH 1,000 of GDP
+CONTACT_ORGANISATION: State Agency of Water Resources of Ukraine (SAWR)
+REC_USE_LIM: 2017-2022 — Data for 2017-2022 have been adjusted taking into account the final data on the GDP of Ukraine.
+
+indicator_number: 6.4.1
+target_number: 6.4
+goal_number: 6
+indicator_id: 6-4-1-a

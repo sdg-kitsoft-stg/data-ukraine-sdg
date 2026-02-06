@@ -1,0 +1,11 @@
+SDG_GOAL: 5 Gender equality
+SDG_TARGET: 5.2 Reduce the level of gender-based and domestic violence, and ensure efficient prevention of its manifestations and timely assistance to victims
+SDG_INDICATOR: 5.2.12 Percentage of funds available in relevant local budgets for regional programs of combating domestic violence
+UNIT_MEASURE: Percentage (%)
+REC_USE_LIM: Data are developed once every 5 years, from 2021. <br> 2021 — In accordance with the Resolution of the Cabinet of Ministers of Ukraine of 24.02.2021 № 145 "Issues of the State Social Program for Prevention and Counteraction to Domestic Violence and Gender-Based Violence for the Period up to 2025". <br> 2022 — Data from National Social Service of Ukraine.
+CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
+
+indicator_number: 5.2.12
+target_number: 5.2
+goal_number: 5
+indicator_id: 5-2-12-a

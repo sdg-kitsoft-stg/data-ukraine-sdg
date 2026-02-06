@@ -1,6 +1,5 @@
 SDG_GOAL: 2 End hunger, promote sustainable agriculture
-SDG_TARGET: 2.2 Double agricultural productivity, primarily through innovative technologies
-SDG_INDICATOR: 2.2.1 Labour productivity in agriculture, USD 1,000s per employee
-UNIT_MEASURE: USD 1,000s per employee
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+SDG_TARGET: 2.2 Increasing agricultural productivity
+SDG_INDICATOR: 2.2.1 Labour productivity in agriculture, thousand USD per employed person (SDG indicator 2.2.1)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 1 The publication of information will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War".

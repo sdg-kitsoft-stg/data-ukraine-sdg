@@ -1,0 +1,10 @@
+SDG_GOAL: 15 Protect and restore terrestrial ecosystems
+SDG_TARGET: 15.1 Ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems
+SDG_INDICATOR: 15.1.1 Area of territories and objects of the natural reserve fund, thousands of hectares
+UNIT_MEASURE: Thousands of hectares
+CONTACT_ORGANISATION: Ministry of Environmental Protection and Natural Resources of Ukraine (MEPR) 
+
+indicator_number: 15.1.1
+target_number: 15.1
+goal_number: 15
+indicator_id: 15-1-1-a

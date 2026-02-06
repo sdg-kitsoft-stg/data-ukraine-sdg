@@ -1,0 +1,11 @@
+SDG_GOAL: 9 Industry, innovation and infrastructure
+SDG_TARGET: 9.1 Develop quality, reliable, sustainable and accessible infrastructure based on the use of innovation technologies, including ecologically clean means of transport
+SDG_INDICATOR: 9.1.2 Volume of transported goods, million tonnes
+UNIT_MEASURE: million tonnes
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+
+indicator_number: 9.1.2
+target_number: 9.1
+goal_number: 9
+indicator_id: 9-1-2-a

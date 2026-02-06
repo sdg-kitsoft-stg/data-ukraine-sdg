@@ -1,0 +1,11 @@
+SDG_GOAL: 8 Decent work and economic growth
+SDG_TARGET: 8.4 Reduce the share of youth not in employment, education or professional training
+SDG_INDICATOR: 8.4.1 Share of youth not in employment, education or professional training in the total number of those aged 15-24, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+
+indicator_number: 8.4.1
+target_number: 8.4
+goal_number: 8
+indicator_id: 8-4-1-a

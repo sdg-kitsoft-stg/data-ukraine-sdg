@@ -1,0 +1,11 @@
+SDG_GOAL: 10 Reduce inequality
+SDG_TARGET: 10.5 Reform pension insurance based on fairness and transparency
+SDG_INDICATOR: 10.5.1 Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
+REC_USE_LIM: Data for 2016-2018 are lacking as the information requires additional research. <br> 2023 — According to the State Statistics Service data, the average monthly salary of full-time employees in Ukraine in 2023 was UAH 17,442 (the indicator was estimated taking into account the level of reporting and information from administrative sources. The information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War"). <br> According to the Pension Fund of Ukraine data, as of January 1, 2024, the average pension of recipients with 35 years of insurance or more and whose pension was granted in accordance with the Law of Ukraine "On Compulsory State Pension Insurance" was UAH 5,825.45.
+
+indicator_number: 10.5.1
+target_number: 10.5
+goal_number: 10
+indicator_id: 10-5-1-a

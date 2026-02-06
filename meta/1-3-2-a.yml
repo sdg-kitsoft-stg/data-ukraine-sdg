@@ -1,0 +1,11 @@
+SDG_GOAL: 1 End poverty
+SDG_TARGET: 1.3 Increase the resilience of socially vulnerable groups of the population
+SDG_INDICATOR: 1.3.2 Share of food expenditure in total household spending, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+
+indicator_number: 1.3.2
+target_number: 1.3
+goal_number: 1
+indicator_id: 1-3-2-a

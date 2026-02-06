@@ -1,0 +1,11 @@
+SDG_GOAL: 4 Quality education
+SDG_TARGET: 4.2 Ensure access to quality pre-primary development for all children
+SDG_INDICATOR: 4.2.1 Coverage of children aged 5 years by pre-school education institutions and structural units of public and private legal entities, %
+REC_USE_LIM: 2020 — The information is prepared according to the data of the State information system of education provided by the State scientific institution "Institute of educational analytics" of the Ministry of Education and Science of Ukraine. <br> 2021-2022 — According to the data of the Ministry of Education and Science of Ukraine. <br> 2022 — Data on the resident population of Ukraine as of January 1, 2022 were used in the calculation. <br> 2023 — The information for 2023 is not calculated, because taking into account the situation that has developed in connection with the military aggression of the russian federation against Ukraine with the support of the republic of belarus, taking into account the provisions of subparagraph 1 of paragraph 1 of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Others Documents during Martial Law or War" population size assessment as of 01.01.2023 was not carried out.
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+
+indicator_number: 4.2.1
+target_number: 4.2
+goal_number: 4
+indicator_id: 4-2-1-a

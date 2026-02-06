@@ -1,0 +1,11 @@
+SDG_GOAL: 5 Gender equality
+SDG_TARGET: 5.2 Reduce the level of gender-based and domestic violence, and ensure efficient prevention of its manifestations and timely assistance to victims
+SDG_INDICATOR: 5.2.2 Number of complaints regarding domestic violence, thousands
+UNIT_MEASURE: Thousand units
+CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
+REC_USE_LIM: 2022-2023 — Data from National Social Service of Ukraine. <br> 2022 — Without data for the Luhansk and Kherson regions. <br> 2023 — Without data for the Zaporizhzhya and Luhansk regions.
+
+indicator_number: 5.2.2
+target_number: 5.2
+goal_number: 5
+indicator_id: 5-2-2-a

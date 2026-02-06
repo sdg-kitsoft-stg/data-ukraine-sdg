@@ -1,0 +1,11 @@
+SDG_GOAL: 7 Affordable and clean energy
+SDG_TARGET: 7.4 Increase the energy efficiency of the economy
+SDG_INDICATOR: 7.4.1 Energy intensity of GDP (primary energy consumption per unit of GDP), kg of oil equivalent per USD 1 by PPP 2011
+UNIT_MEASURE: кg of oil equivalent per USD 1 by PPP 2011
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: GDP for the PPP is published for the data of the World Bank, which repaired from 2019 by the publication of the tribute for the prices of the PPP in the international dollars of 2017, and the relevant data for previous years have been reviewed. <br> 2021-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+
+indicator_number: 7.4.1
+target_number: 7.4
+goal_number: 7
+indicator_id: 7-4-1-a

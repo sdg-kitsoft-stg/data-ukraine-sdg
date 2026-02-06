@@ -1,6 +1,5 @@
 SDG_GOAL: 3 Healthy lives and well-being
-SDG_TARGET: 3.5 Reduce by a quarter premature mortality, including through the introduction of innovative approaches to diagnosing diseases
-SDG_INDICATOR: 3.5.2 Probability of dying at the age of 20-64, women
-UNIT_MEASURE: Probability for women
-CONTACT_ORGANISATION: Institute for Demography and Life Quality Problems of the National Academy of Sciences of Ukraine (IDLQP of the NAS of Ukraine)
-REC_USE_LIM: 2022-2023 — The disclosure of information will be resumed after the completion of the deadline for submission of reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+SDG_TARGET: 3.5 Reducing premature mortality from non-communicable diseases
+SDG_INDICATOR: 3.5.2 Mortality rate for women from cerebrovascular diseases aged 30–59 years, per 100,000 women of the corresponding age (SDG indicator 3.5.2)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 1 Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and data on Donetsk and Luhansk regions. 2 Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on mortality has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information.

@@ -1,0 +1,10 @@
+SDG_GOAL: 6 Clean water and sanitation
+SDG_TARGET: 6.3 Reduce the discharge of untreated wastewater, primarily through innovative technologies of water purification at the national and individual levels
+SDG_INDICATOR: 6.3.2 Share of discharge of polluted (polluted without treatment or insufficiently treated) wastewater into water bodies in total discharges, %
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: State Agency of Water Resources of Ukraine (SAWR)
+
+indicator_number: 6.3.2
+target_number: 6.3
+goal_number: 6
+indicator_id: 6-3-2-a

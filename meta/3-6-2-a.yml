@@ -1,0 +1,12 @@
+SDG_GOAL: 3 Healthy lives and well-being
+SDG_TARGET: 3.6 Reduce serious injuries and deaths from road traffic accidents, including through innovative practices of resuscitation, treatment and rehabilitation after road traffic accidents
+SDG_INDICATOR: 3.6.2 Number of persons injured in road accidents, per 100,000 persons
+UNIT_MEASURE: persons per 100,000 population
+REC_USE_LIM: Information on the number of injured in road accidents involving road transport used by road hauliers in their business activities and urban electric transport per 100,000 persons. <br> 2022-2023 — Data were not calculated due to the lack of information on the average population size for 2022-2023.
+CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
+
+
+indicator_number: 3.6.2
+target_number: 3.6
+goal_number: 3
+indicator_id: 3-6-2-a
