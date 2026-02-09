@@ -136,3 +136,7 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+data_fields:
+  exclude:
+    - For reference
