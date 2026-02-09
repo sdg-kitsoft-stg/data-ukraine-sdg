@@ -34,5 +34,25 @@ tags: []
 graph_target_lines:
   - series: ''
     unit: ''
-    label_content: indicator.annotation_2020_target
+    label_content: indicator.annotation_2030_target
     value: 105
+
+  - series: sugar
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 1.5
+
+  - series: sunflower oil
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 45
+
+  - series: barley
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 9.5
+
+  - series: wheat
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 10
