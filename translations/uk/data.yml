@@ -303,6 +303,8 @@ urban_settl: селище міського типу
 city: місто
 village_: селище, село
 
+by type of place of registration of service providers:  За типом місцевості реєстрації надавачів послуг
+
 Level: Освітній рівень
 1_level: 1-й рівень (початковий, 0-3 бали)
 2_level: 2-й рівень (середній, 4-6 балів)
