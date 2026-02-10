@@ -498,3 +498,17 @@ Subject: Галузь
 reading: читання
 math: математика
 science: природа
+
+School type: за типом закладу освіти
+lyceum_gymnasium_specialized: ліцей / гімназія / спеціалізована школа
+general_school_complex: середня школа / навчальний комплекс
+college_technical_vocational: коледж / технікум / професійно-технічний навчальний заклад
+
+SES: за соціально-економічним статусом
+low_ses: учні із низьким соціально-економічним статусом (25% учнів з найнижчими значеннями індексу PISA соціально-економічного статусу (ESCS))
+high_ses: учні із високим соціально-економічним статусом (25% учнів з найвищими значеннями індексу PISA соціально-економічного статусу (ESCS))
+
+Type of educational institution: by type of educational institution
+gsei: general secondary educational institutions (GSEI)
+pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
+ippte: other institutions 2
