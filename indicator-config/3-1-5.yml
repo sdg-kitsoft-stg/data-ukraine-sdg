@@ -36,9 +36,3 @@ graph_target_lines:
     unit: ''
     label_content: indicator.annotation_2030_target
     value: 30
-  - series: age_40_64
-    label_content: indicator.annotation_2030_target
-    value: 23.0
-  - series: age_65_plus
-    label_content: indicator.annotation_2030_target
-    value: 22.5
