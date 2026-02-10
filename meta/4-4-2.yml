@@ -1,6 +1,5 @@
 SDG_GOAL: 4 Quality education
-SDG_TARGET: 4.4 Improve the quality of tertiary education and ensure its close relationship with science, and promote the establishment of towns of education and science in the country
-SDG_INDICATOR: 4.4.2 Population by the level of education and sex, %
-UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results. 
+SDG_TARGET: 4.4 Ensuring access of the population to quality professional (vocational and technical), professional pre-tertiary and tertiary education
+SDG_INDICATOR: 4.4.2 Share of seekers for tertiary education over 24 years old, percent (SDG indicator 4.4.2)
+CONTACT_ORGANISATION: Ministry of Education and Science of Ukraine
+REC_USE_LIM: 

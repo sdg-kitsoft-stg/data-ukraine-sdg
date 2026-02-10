@@ -1,5 +1,5 @@
 SDG_GOAL: 4 Quality education
-SDG_TARGET: 4.4 Improve the quality of tertiary education and ensure its close relationship with science, and promote the establishment of towns of education and science in the country
-SDG_INDICATOR: 4.4.1 Number of Ukrainian cities — members of the UNESCO Global Network of Learning Cities
-UNIT_MEASURE: Units
-CONTACT_ORGANISATION: Ministry of Education and Science of Ukraine (MES)
+SDG_TARGET: 4.4 Ensuring access of the population to quality professional (vocational and technical), professional pre-tertiary and tertiary education
+SDG_INDICATOR: 4.4.1 Share of seekers for professional pre-tertiary education over 24 years old, percent (SDG indicator 4.4.1)
+CONTACT_ORGANISATION: Ministry of Education and Science of Ukraine
+REC_USE_LIM: 1 Data have been developed since 2020 after the adoption of the Law of Ukraine "On Professional Pre-Tertiary Education".
