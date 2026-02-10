@@ -480,3 +480,15 @@ war_actions: внаслідок воєнних дій
 since_childhood: з дитинства
 
 Cause of death: за причиною смертності
+Form of rehabilitation assistance: за формами реабілітаційної допомоги
+
+ill_8_mumps: Епідемічний паротит
+ill_9_rubella: Краснуха
+ill_10_tetanus: Правець
+
+age_vac_1_under_1_year: до 1 року
+age_vac_2_1_year: 1 рік
+age_vac_3_18_months: 18 місяців
+age_vac_4_6_years: 6 років
+age_vac_5_14_years: 14 років
+age_vac_6_16_years: 16 років

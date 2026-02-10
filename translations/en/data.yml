@@ -242,11 +242,13 @@ age_3_61: 61 years and older
 age_18_34: 18-34 years
 age_35_59: 35-59 years
 age_60: 60 years and older
+age_65: 65 years
 age_15: up to 15 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
 age_25_35: 25-35 years
 age_36_59: 36-59 years
+age_40_64: 40-64 years
 age_60_74: 60-74 years
 age_75: 75 years and older
 aged_15: 15 years
@@ -427,3 +429,16 @@ war_actions: war actions
 since_childhood: since childhood
 
 Cause of death: by cause of mortality
+Form of rehabilitation assistance: by forms of rehabilitation assistance
+
+Infectious diseases: Infectious diseases
+ill_8_mumps: Mumps
+ill_9_rubella: Rubella
+ill_10_tetanus: Tetanus
+
+age_vac_1_under_1_year: under 1 year
+age_vac_2_1_year: 1 year
+age_vac_3_18_months: 18 months
+age_vac_4_6_years: 6 years
+age_vac_5_14_years: 14 years
+age_vac_6_16_years: 16 years
