@@ -423,8 +423,6 @@ el_5_NPP: NPP
 el_6_plants: Block stations
 el_7_alternative: Alternative energy sources (WPS, SPS, Biomass)
 
-For reference: For reference
-
 Reason of disability: Reason of disability
 war_actions: war actions
 since_childhood: since childhood
@@ -462,3 +460,5 @@ Type of educational institution: за типом закладу освіти
 gsei: заклади загальної середньої освіти (ЗЗСО)
 pvtei: заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)
 ippte: інші заклади 2
+
+For reference: 'For reference: the legally established minimum subsistence level per month on average per person, UAH'

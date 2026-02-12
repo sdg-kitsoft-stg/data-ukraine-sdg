@@ -474,8 +474,6 @@ el_5_NPP: АЕС
 el_6_plants: Блокстанції
 el_7_alternative: Альтерн. джер. енергії (ВЕС, СЕС, Біомаса)
 
-For reference: Для довідки
-
 Reason of disability: Причина отримання інвалідності
 war_actions: внаслідок воєнних дій
 since_childhood: з дитинства
@@ -512,3 +510,5 @@ Type of educational institution: by type of educational institution
 gsei: general secondary educational institutions (GSEI)
 pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
 ippte: other institutions 2
+
+For reference: 'Довідково: законодавчо встановлений прожитковий мінімум в розрахунку на місяць в середньому на одну особу, грн'
