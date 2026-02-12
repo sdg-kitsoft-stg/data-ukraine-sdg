@@ -4,6 +4,6 @@ statistics_Ukraine: Державна служба статистики Укра�
 sdg_ukrstat: Цілі сталого розвитку на вебсайті Держстату
 frontpage_intro_banner_body: Цілі сталого розвитку (ЦСР) є універсальним закликом до дій, щоб покінчити з бідністю, захистити планету та поліпшити життя та перспективи кожного, в усьому світі. 17 Цілей були прийняті всіма державами-членами ООН у 2015 році в рамках порядку денного сталого розвитку 2030
 sdg_ukrstat_label: "Перейти до цілей"
-sdg_ukrstat_link: "https://stat.gov.ua/uk/pages/informatsiyne-zabezpechennya-monitorynhu-tssr-metadani"
+sdg_ukrstat_link: https://stat.gov.ua/uk/pages/informatsiyne-zabezpechennya-monitorynhu-tssr-metadani
 statistics_button_label: "Перейти на вебсайт"
-statistics_button_link: "https://stat.gov.ua/uk"
+statistics_button_link: https://stat.gov.ua/uk
