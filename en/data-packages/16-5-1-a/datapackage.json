@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type_weapon",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "smooth-bore",
+                "rifled",
+                "other firearms",
+                "grenade launchers and rocket systems",
+                "cold weapons",
+                ""
+              ]
+            },
+            "title": "Type of weapons"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5-1-a",
+  "title": "Number of weapons seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)"
+}

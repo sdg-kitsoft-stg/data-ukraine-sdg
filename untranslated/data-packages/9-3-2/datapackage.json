@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Object",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_health",
+                "2_educational",
+                "3_soc_prot",
+                "4_employ",
+                "5_admin",
+                "6_nation",
+                "7_transport",
+                "8_pension",
+                "9_civ_prot",
+                "99_judge",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-2",
+  "title": "9-3-2"
+}

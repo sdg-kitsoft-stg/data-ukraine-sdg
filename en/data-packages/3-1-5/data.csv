@@ -1,0 +1,21 @@
+Year,Age,Sex,Type of residence,Value
+2023,40-64 years,,,0.5
+2024,40-64 years,,,23.0
+2023,40-64 years,women,,0.5
+2024,40-64 years,women,,23.6
+2023,40-64 years,men,,0.5
+2024,40-64 years,men,,22.2
+2023,40-64 years,,urban,0.5
+2024,40-64 years,,urban,24.0
+2023,40-64 years,,rural,0.6
+2024,40-64 years,,rural,18.1
+2023,65 years and older,,,0.2
+2024,65 years and older,,,22.5
+2023,65 years and older,women,,0.2
+2024,65 years and older,women,,22.7
+2023,65 years and older,men,,0.2
+2024,65 years and older,men,,22.2
+2023,65 years and older,,urban,0.2
+2024,65 years and older,,urban,23.9
+2023,65 years and older,,rural,0.1
+2024,65 years and older,,rural,14.9

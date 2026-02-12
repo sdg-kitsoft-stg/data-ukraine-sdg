@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "GHG_ratio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "всього",
+                "за основними типами джерел, зокрема автомобільного транспорту",
+                ""
+              ]
+            },
+            "title": "Обсяг викидів парникових газів"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-1-1",
+  "title": "13-1-1"
+}

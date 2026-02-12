@@ -1,0 +1,154 @@
+Year,Infectious diseases,Age,Value
+2015,Tuberculosis,under 1 year,39.8
+2016,Tuberculosis,under 1 year,72.3
+2017,Tuberculosis,under 1 year,83.6
+2018,Tuberculosis,under 1 year,90.1
+2019,Tuberculosis,under 1 year,88.6
+2020,Tuberculosis,under 1 year,88.8
+2021,Tuberculosis,under 1 year,81.8
+2022,Tuberculosis,under 1 year,71.0
+2023,Tuberculosis,under 1 year,83.5
+2015,Hepatitis B,under 1 year,25.4
+2016,Hepatitis B,under 1 year,28.8
+2017,Hepatitis B,under 1 year,57.0
+2018,Hepatitis B,under 1 year,67.0
+2019,Hepatitis B,under 1 year,77.0
+2020,Hepatitis B,under 1 year,79.8
+2021,Hepatitis B,under 1 year,78.8
+2022,Hepatitis B,under 1 year,62.4
+2023,Hepatitis B,under 1 year,79.2
+2015,"Measles, mumps, rubella",1 year,63.2
+2016,"Measles, mumps, rubella",1 year,45.5
+2017,"Measles, mumps, rubella",1 year,93.3
+2018,"Measles, mumps, rubella",1 year,91.0
+2019,"Measles, mumps, rubella",1 year,93.2
+2020,"Measles, mumps, rubella",1 year,83.3
+2021,"Measles, mumps, rubella",1 year,88.5
+2022,"Measles, mumps, rubella",1 year,74.1
+2023,"Measles, mumps, rubella",1 year,92.4
+2015,"Measles, mumps, rubella",6 years,62.1
+2016,"Measles, mumps, rubella",6 years,30.2
+2017,"Measles, mumps, rubella",6 years,90.7
+2018,"Measles, mumps, rubella",6 years,89.5
+2019,"Measles, mumps, rubella",6 years,91.7
+2020,"Measles, mumps, rubella",6 years,83.4
+2021,"Measles, mumps, rubella",6 years,86.8
+2022,"Measles, mumps, rubella",6 years,69.1
+2023,"Measles, mumps, rubella",6 years,87.3
+2015,"Diphtheria, tetanus",under 1 year,26.5
+2016,"Diphtheria, tetanus",under 1 year,21.0
+2017,"Diphtheria, tetanus",under 1 year,53.2
+2018,"Diphtheria, tetanus",under 1 year,69.3
+2019,"Diphtheria, tetanus",under 1 year,80.5
+2020,"Diphtheria, tetanus",under 1 year,80.1
+2021,"Diphtheria, tetanus",under 1 year,80.0
+2022,"Diphtheria, tetanus",under 1 year,72.9
+2023,"Diphtheria, tetanus",under 1 year,83.4
+2015,"Diphtheria, tetanus",18 months,33.1
+2016,"Diphtheria, tetanus",18 months,23.1
+2017,"Diphtheria, tetanus",18 months,51.2
+2018,"Diphtheria, tetanus",18 months,66.1
+2019,"Diphtheria, tetanus",18 months,80.5
+2020,"Diphtheria, tetanus",18 months,78.1
+2021,"Diphtheria, tetanus",18 months,77.8
+2022,"Diphtheria, tetanus",18 months,71.9
+2023,"Diphtheria, tetanus",18 months,82.7
+2015,"Diphtheria, tetanus",6 years,4.1
+2016,"Diphtheria, tetanus",6 years,59.1
+2017,"Diphtheria, tetanus",6 years,83.5
+2018,"Diphtheria, tetanus",6 years,83.4
+2019,"Diphtheria, tetanus",6 years,72.9
+2020,"Diphtheria, tetanus",6 years,59.7
+2021,"Diphtheria, tetanus",6 years,69.9
+2022,"Diphtheria, tetanus",6 years,68.2
+2023,"Diphtheria, tetanus",6 years,70.9
+2015,"Diphtheria, tetanus",16 years,1.9
+2016,"Diphtheria, tetanus",16 years,56.1
+2017,"Diphtheria, tetanus",16 years,76.7
+2018,"Diphtheria, tetanus",16 years,77.9
+2019,"Diphtheria, tetanus",16 years,91.5
+2020,"Diphtheria, tetanus",16 years,73.6
+2021,"Diphtheria, tetanus",16 years,79.6
+2022,"Diphtheria, tetanus",16 years,68.8
+2023,"Diphtheria, tetanus",16 years,78.3
+2015,"Diphtheria, tetanus",adults,0.1
+2016,"Diphtheria, tetanus",adults,20.7
+2017,"Diphtheria, tetanus",adults,44.8
+2018,"Diphtheria, tetanus",adults,55.6
+2019,"Diphtheria, tetanus",adults,83.4
+2020,"Diphtheria, tetanus",adults,47.0
+2021,"Diphtheria, tetanus",adults,45.4
+2022,"Diphtheria, tetanus",adults,40.2
+2023,"Diphtheria, tetanus",adults,52.0
+2015,Pertussis,under 1 year,26.5
+2016,Pertussis,under 1 year,21.0
+2017,Pertussis,under 1 year,53.2
+2018,Pertussis,under 1 year,69.3
+2019,Pertussis,under 1 year,80.5
+2020,Pertussis,under 1 year,80.1
+2021,Pertussis,under 1 year,80.0
+2022,Pertussis,under 1 year,72.9
+2023,Pertussis,under 1 year,83.4
+2015,Pertussis,18 months,33.1
+2016,Pertussis,18 months,23.1
+2017,Pertussis,18 months,51.2
+2018,Pertussis,18 months,66.1
+2019,Pertussis,18 months,80.5
+2020,Pertussis,18 months,78.1
+2021,Pertussis,18 months,77.8
+2022,Pertussis,18 months,71.9
+2023,Pertussis,18 months,82.7
+2015,Poliomyelitis,under 1 year,63.8
+2016,Poliomyelitis,under 1 year,60.8
+2017,Poliomyelitis,under 1 year,51.9
+2018,Poliomyelitis,under 1 year,71.1
+2019,Poliomyelitis,under 1 year,78.4
+2020,Poliomyelitis,under 1 year,83.0
+2021,Poliomyelitis,under 1 year,80.1
+2022,Poliomyelitis,under 1 year,68.9
+2023,Poliomyelitis,under 1 year,84.9
+2015,Poliomyelitis,18 months,86.5
+2016,Poliomyelitis,18 months,66.4
+2017,Poliomyelitis,18 months,71.4
+2018,Poliomyelitis,18 months,67.8
+2019,Poliomyelitis,18 months,78.7
+2020,Poliomyelitis,18 months,83.0
+2021,Poliomyelitis,18 months,80.5
+2022,Poliomyelitis,18 months,66.7
+2023,Poliomyelitis,18 months,85.5
+2015,Poliomyelitis,6 years,49.2
+2016,Poliomyelitis,6 years,85.7
+2017,Poliomyelitis,6 years,88.2
+2018,Poliomyelitis,6 years,81.3
+2019,Poliomyelitis,6 years,80.3
+2020,Poliomyelitis,6 years,81.7
+2021,Poliomyelitis,6 years,78.4
+2022,Poliomyelitis,6 years,63.4
+2023,Poliomyelitis,6 years,82.3
+2015,Poliomyelitis,14 years,50.6
+2016,Poliomyelitis,14 years,79.9
+2017,Poliomyelitis,14 years,88.1
+2018,Poliomyelitis,14 years,80.2
+2019,Poliomyelitis,14 years,80.9
+2020,Poliomyelitis,14 years,81.8
+2021,Poliomyelitis,14 years,76.1
+2022,Poliomyelitis,14 years,58.9
+2023,Poliomyelitis,14 years,78.9
+2015,Hib infection,under 1 year,43.2
+2016,Hib infection,under 1 year,36.0
+2017,Hib infection,under 1 year,34.8
+2018,Hib infection,under 1 year,52.5
+2019,Hib infection,under 1 year,76.5
+2020,Hib infection,under 1 year,85.1
+2021,Hib infection,under 1 year,90.9
+2022,Hib infection,under 1 year,74.0
+2023,Hib infection,under 1 year,86.4
+2015,Hib infection,1 year,38.6
+2016,Hib infection,1 year,51.6
+2017,Hib infection,1 year,44.5
+2018,Hib infection,1 year,57.7
+2019,Hib infection,1 year,80.0
+2020,Hib infection,1 year,83.6
+2021,Hib infection,1 year,87.0
+2022,Hib infection,1 year,69.8
+2023,Hib infection,1 year,78.2

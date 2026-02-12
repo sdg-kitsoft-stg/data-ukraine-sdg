@@ -1,0 +1,92 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "reading",
+                "mathematics",
+                "natural sciences",
+                ""
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "School type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lyceum / gymnasium / specialized school",
+                "secondary school / educational complex",
+                "college / technical secondary school / vocational and technical educational institution",
+                ""
+              ]
+            },
+            "title": "by type of educational institution"
+          },
+          {
+            "name": "SES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pupils with low socioeconomic status (25% of pupils with the lowest scores on the PISA Economic Socioeconomic Status Index (ESCS))",
+                "pupils with high socioeconomic status (25% of pupils with the highest scores on the PISA Economic Socioeconomic Status Index (ESCS))",
+                ""
+              ]
+            },
+            "title": "by socioeconomic status"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-2",
+  "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
+}

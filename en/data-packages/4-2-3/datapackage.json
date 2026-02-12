@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "заклади загальної середньої освіти (ЗЗСО)",
+                "заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)",
+                "інші заклади 2",
+                "other",
+                ""
+              ]
+            },
+            "title": "за типом закладу освіти"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-3",
+  "title": "global_indicators.4-2-3-title"
+}

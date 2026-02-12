@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture and related services",
+                "Industry",
+                "Mining and quarrying",
+                "Processing industry",
+                "Supply of electricity, gas, steam and air conditioning",
+                "Water supply; sewage, waste management",
+                "Construction",
+                "Transport, warehousing, postal and courier activities",
+                "Telecommunications",
+                ""
+              ]
+            },
+            "title": "Еconomic activity"
+          },
+          {
+            "name": "including",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hard coal and brown coal extraction",
+                "manufacture of food, beverages and tobacco products",
+                "textile manufacturing, manufacture of clothing, leather, leather goods and other materials",
+                "manufacture of wood products, paper manufacturing and printing",
+                "manufacture of coke and refined petroleum products",
+                "manufacture of chemicals and chemical products",
+                "manufacture of main pharmaceutical products and preparations",
+                "manufacture of rubber and plastic products, other non-metallic mineral products",
+                "metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment",
+                "manufacture of computers, electronic and optical products",
+                "manufacture of electrical equipment",
+                "manufacture of machinery and equipment, not elsewhere classified",
+                "manufacture of motor vehicles, trailers and semi-trailers and other vehicles",
+                "manufacture of furniture, other products, repair and installation of machinery and equipment",
+                ""
+              ]
+            },
+            "title": "including"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-3-a",
+  "title": "Share of workers employed in jobs with hazardous working conditions in the total full-time payroll, %"
+}

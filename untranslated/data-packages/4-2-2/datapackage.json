@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "reading",
+                "math",
+                "science",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "School type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lyceum_gymnasium_specialized",
+                "general_school_complex",
+                "college_technical_vocational",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SES",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "low_ses",
+                "high_ses",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-2",
+  "title": "global_indicators.4-2-2-title"
+}

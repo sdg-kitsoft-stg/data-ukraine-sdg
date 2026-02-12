@@ -1,0 +1,82 @@
+Year,Age,Sex,Households,Value
+2015,,,,58.3
+2016,,,,58.6
+2017,,,,47.3
+2018,,,,43.2
+2019,,,,41.3
+2020,,,,47.2
+2021,,,,39.1
+2022,,,,
+2023,,,,
+2015,up to 18 years,,,66.6
+2016,up to 18 years,,,65.5
+2017,up to 18 years,,,56.7
+2018,up to 18 years,,,51.1
+2019,up to 18 years,,,47.8
+2020,up to 18 years,,,53.0
+2021,up to 18 years,,,43.5
+2022,up to 18 years,,,
+2023,up to 18 years,,,
+2015,18-34 years,,,59.4
+2016,18-34 years,,,57.9
+2017,18-34 years,,,47.4
+2018,18-34 years,,,44.3
+2019,18-34 years,,,40.1
+2020,18-34 years,,,44.7
+2021,18-34 years,,,36.9
+2022,18-34 years,,,
+2023,18-34 years,,,
+2015,35-59 years,,,53.9
+2016,35-59 years,,,55.2
+2017,35-59 years,,,42.0
+2018,35-59 years,,,38.1
+2019,35-59 years,,,36.6
+2020,35-59 years,,,43.8
+2021,35-59 years,,,35.1
+2022,35-59 years,,,
+2023,35-59 years,,,
+2015,60 years and older,,,57.0
+2016,60 years and older,,,58.9
+2017,60 years and older,,,47.6
+2018,60 years and older,,,43.5
+2019,60 years and older,,,44.4
+2020,60 years and older,,,50.6
+2021,60 years and older,,,44.1
+2022,60 years and older,,,
+2023,60 years and older,,,
+2015,,men,,58.0
+2016,,men,,58.5
+2017,,men,,47.3
+2018,,men,,42.4
+2019,,men,,41.5
+2020,,men,,46.2
+2021,,men,,37.6
+2022,,men,,
+2023,,men,,
+2015,,women,,58.6
+2016,,women,,58.6
+2017,,women,,47.3
+2018,,women,,43.9
+2019,,women,,41.0
+2020,,women,,48.0
+2021,,women,,40.4
+2022,,women,,
+2023,,women,,
+2015,,,households with children,66.5
+2016,,,households with children,65.2
+2017,,,households with children,55.1
+2018,,,households with children,49.9
+2019,,,households with children,47.3
+2020,,,households with children,53.6
+2021,,,households with children,43.2
+2022,,,households with children,
+2023,,,households with children,
+2015,,,households without children,48.8
+2016,,,households without children,50.9
+2017,,,households without children,38.1
+2018,,,households without children,35.4
+2019,,,households without children,34.3
+2020,,,households without children,39.7
+2021,,,households without children,34.4
+2022,,,households without children,
+2023,,,households without children,

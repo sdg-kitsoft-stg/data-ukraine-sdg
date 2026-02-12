@@ -1,0 +1,62 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "перша (нижча)",
+                "друга",
+                "третя",
+                "четверта",
+                "п'ята",
+                "шоста",
+                "сьома",
+                "восьма",
+                "дев'ята",
+                "десята (вища)",
+                ""
+              ]
+            },
+            "title": "Децильні (10%-ві) групи за рівнем середньодушових еквівалентних загальних доходів у місяць"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-3-2-a",
+  "title": "Частка витрат на харчування в сукупних витратах домогосподарств, %"
+}

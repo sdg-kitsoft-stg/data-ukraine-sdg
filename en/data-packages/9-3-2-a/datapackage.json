@@ -1,0 +1,50 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Object",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health care facilities",
+                "Educational institutions",
+                "Structural subdivisions on social protection issues",
+                "Employment centers",
+                "Centers for administrative services",
+                "National institutions",
+                "Railway stations, airports, bus stations",
+                "Institutions of the pension fund",
+                "Civil protection structures",
+                "Judge",
+                ""
+              ]
+            },
+            "title": "Object"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3-2-a",
+  "title": "9-3-2-a"
+}

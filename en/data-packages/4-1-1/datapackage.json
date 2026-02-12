@@ -1,0 +1,88 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "reg_Vinnytsya",
+                "reg_Volyn",
+                "reg_Dnipropetrovsk",
+                "reg_Zhytomyr",
+                "reg_Zakarpattya",
+                "reg_Zaporizhzhya",
+                "reg_Ivano-Frankivsk",
+                "reg_Kyiv",
+                "reg_Kirovohrad",
+                "reg_Lviv",
+                "reg_Mykolayiv",
+                "reg_Odesa",
+                "reg_Poltava",
+                "reg_Rivne",
+                "reg_Sumy",
+                "reg_Ternopil",
+                "reg_Kharkiv",
+                "reg_Kherson",
+                "reg_Khmelnytskiy",
+                "reg_Cherkasy",
+                "reg_Chernivtsi",
+                "reg_Chernihiv",
+                "reg_Kyiv_city",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1",
+  "title": "Share of graduates of general secondary education institutions in the current year who have target level of academic achievement in the Ukrainian language"
+}

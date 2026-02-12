@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sou_en",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "coal (2701)",
+                "petroleum (2709)",
+                "natural gas (271121)",
+                ""
+              ]
+            },
+            "title": "Source of energy"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-2-1-a",
+  "title": "Maximum share of imported primary energy (excluding nuclear fuel) from one country (company) in the total supply (imports), %"
+}

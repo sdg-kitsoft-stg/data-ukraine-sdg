@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1_level",
+                "2_level",
+                "3_level",
+                "4_level",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Settlement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "village_",
+                "urban_settl",
+                "city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "males",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1-a",
+  "title": "4-1-1-a"
+}

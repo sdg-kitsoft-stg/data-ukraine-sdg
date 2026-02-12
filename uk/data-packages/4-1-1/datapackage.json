@@ -1,0 +1,88 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Україна",
+                "reg_Vinnytsya",
+                "reg_Volyn",
+                "reg_Dnipropetrovsk",
+                "reg_Zhytomyr",
+                "reg_Zakarpattya",
+                "reg_Zaporizhzhya",
+                "reg_Ivano-Frankivsk",
+                "reg_Kyiv",
+                "reg_Kirovohrad",
+                "reg_Lviv",
+                "reg_Mykolayiv",
+                "reg_Odesa",
+                "reg_Poltava",
+                "reg_Rivne",
+                "reg_Sumy",
+                "reg_Ternopil",
+                "reg_Kharkiv",
+                "reg_Kherson",
+                "reg_Khmelnytskiy",
+                "reg_Cherkasy",
+                "reg_Chernivtsi",
+                "reg_Chernihiv",
+                "reg_Kyiv_city",
+                ""
+              ]
+            },
+            "title": "Область"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-1",
+  "title": "Частка випускників закладів загальної середньої освіти поточного року, які досягли визначених рівнів навчальних досягнень з української мови"
+}

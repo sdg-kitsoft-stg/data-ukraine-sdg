@@ -1,0 +1,744 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: Region - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: Region</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--region.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--region">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--region" class="download-info">Size: 1.4 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">91</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--00.html">0.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--08.html">0.8</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--10.html">1.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--11_reg_vinnytsya.html">11_reg_Vinnytsya</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--12_reg_volyn.html">12_reg_Volyn</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--13_reg_dnipropetrovsk.html">13_reg_Dnipropetrovsk</a></td>
+      <td>334</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--14_reg_donetsk.html">14_reg_Donetsk</a></td>
+      <td>334</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--15_reg_zhytomyr.html">15_reg_Zhytomyr</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--16.html">1.6</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--16_reg_zakarpattya.html">16_reg_Zakarpattya</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--17.html">1.7</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--17_reg_zaporizhzhya.html">17_reg_Zaporizhzhya</a></td>
+      <td>334</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--18.html">1.8</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--18_reg_ivano-frankivsk.html">18_reg_Ivano-Frankivsk</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--19.html">1.9</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--19_reg_kyiv.html">19_reg_Kyiv</a></td>
+      <td>40</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--20_reg_kirovohrad.html">20_reg_Kirovohrad</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--21_reg_luhansk.html">21_reg_Luhansk</a></td>
+      <td>336</td>
+      <td>33</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--22.html">2.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--22_reg_lviv.html">22_reg_Lviv</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--23_reg_mykolayiv.html">23_reg_Mykolayiv</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--24.html">2.4</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--24_reg_odesa.html">24_reg_Odesa</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--25_reg_poltava.html">25_reg_Poltava</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--26.html">2.6</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--26_reg_rivne.html">26_reg_Rivne</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--27_reg_sumy.html">27_reg_Sumy</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--28_reg_ternopil.html">28_reg_Ternopil</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--29.html">2.9</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--29_reg_kharkiv.html">29_reg_Kharkiv</a></td>
+      <td>334</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--30.html">3.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--30_reg_kherson.html">30_reg_Kherson</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--31_reg_khmelnytskiy.html">31_reg_Khmelnytskiy</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--32.html">3.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--32_reg_cherkasy.html">32_reg_Cherkasy</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--33_reg_chernivtsi.html">33_reg_Chernivtsi</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--34_reg_chernihiv.html">34_reg_Chernihiv</a></td>
+      <td>62</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--35.html">3.5</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--35_reg_kyiv_city.html">35_reg_Kyiv_city</a></td>
+      <td>33</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--36.html">3.6</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--39.html">3.9</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--41.html">4.1</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--42.html">4.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--49.html">4.9</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--50.html">5.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--51.html">5.1</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--52.html">5.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--53.html">5.3</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--54.html">5.4</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--55.html">5.5</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--57.html">5.7</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--58.html">5.8</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--60.html">6.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--62.html">6.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--63.html">6.3</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--65.html">6.5</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--66.html">6.6</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--68.html">6.8</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--77.html">7.7</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--79.html">7.9</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--80.html">8.0</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--82.html">8.2</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--87.html">8.7</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--91.html">9.1</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_cherkasy.html">reg_Cherkasy</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_chernihiv.html">reg_Chernihiv</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_chernivtsi.html">reg_Chernivtsi</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_dnipropetrovsk.html">reg_Dnipropetrovsk</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_donetsk.html">reg_Donetsk</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_ivano-frankivsk.html">reg_Ivano-Frankivsk</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kharkiv.html">reg_Kharkiv</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kherson.html">reg_Kherson</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_khmelnytskiy.html">reg_Khmelnytskiy</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kirovohrad.html">reg_Kirovohrad</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kyiv.html">reg_Kyiv</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kyiv_city.html">reg_Kyiv_city</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_kyiv_region.html">reg_Kyiv_region</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_luhansk.html">reg_Luhansk</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_lviv.html">reg_Lviv</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_mykolayiv.html">reg_Mykolayiv</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_odesa.html">reg_Odesa</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_poltava.html">reg_Poltava</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_rivne.html">reg_Rivne</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_sumy.html">reg_Sumy</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_ternopil.html">reg_Ternopil</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_vinnytsya.html">reg_Vinnytsya</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_volyn.html">reg_Volyn</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_zakarpattya.html">reg_Zakarpattya</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_zaporizhzhya.html">reg_Zaporizhzhya</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--reg_zhytomyr.html">reg_Zhytomyr</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--ukraine.html">Ukraine</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--00.html\">0.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--08.html\">0.8<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--10.html\">1.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--11_reg_vinnytsya.html\">11_reg_Vinnytsya<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--12_reg_volyn.html\">12_reg_Volyn<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--13_reg_dnipropetrovsk.html\">13_reg_Dnipropetrovsk<\/a>","Disaggregation combinations using this value":334,"Number of indicators":31},{"Value":"<a href=\"disaggregation-value--14_reg_donetsk.html\">14_reg_Donetsk<\/a>","Disaggregation combinations using this value":334,"Number of indicators":33},{"Value":"<a href=\"disaggregation-value--15_reg_zhytomyr.html\">15_reg_Zhytomyr<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--16.html\">1.6<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--16_reg_zakarpattya.html\">16_reg_Zakarpattya<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--17.html\">1.7<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--17_reg_zaporizhzhya.html\">17_reg_Zaporizhzhya<\/a>","Disaggregation combinations using this value":334,"Number of indicators":31},{"Value":"<a href=\"disaggregation-value--18.html\">1.8<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--18_reg_ivano-frankivsk.html\">18_reg_Ivano-Frankivsk<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--19.html\">1.9<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--19_reg_kyiv.html\">19_reg_Kyiv<\/a>","Disaggregation combinations using this value":40,"Number of indicators":28},{"Value":"<a href=\"disaggregation-value--20_reg_kirovohrad.html\">20_reg_Kirovohrad<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--21_reg_luhansk.html\">21_reg_Luhansk<\/a>","Disaggregation combinations using this value":336,"Number of indicators":33},{"Value":"<a href=\"disaggregation-value--22.html\">2.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--22_reg_lviv.html\">22_reg_Lviv<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--23_reg_mykolayiv.html\">23_reg_Mykolayiv<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--24.html\">2.4<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--24_reg_odesa.html\">24_reg_Odesa<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--25_reg_poltava.html\">25_reg_Poltava<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--26.html\">2.6<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--26_reg_rivne.html\">26_reg_Rivne<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--27_reg_sumy.html\">27_reg_Sumy<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--28_reg_ternopil.html\">28_reg_Ternopil<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--29.html\">2.9<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--29_reg_kharkiv.html\">29_reg_Kharkiv<\/a>","Disaggregation combinations using this value":334,"Number of indicators":31},{"Value":"<a href=\"disaggregation-value--30.html\">3.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--30_reg_kherson.html\">30_reg_Kherson<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--31_reg_khmelnytskiy.html\">31_reg_Khmelnytskiy<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--32.html\">3.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--32_reg_cherkasy.html\">32_reg_Cherkasy<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--33_reg_chernivtsi.html\">33_reg_Chernivtsi<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--34_reg_chernihiv.html\">34_reg_Chernihiv<\/a>","Disaggregation combinations using this value":62,"Number of indicators":29},{"Value":"<a href=\"disaggregation-value--35.html\">3.5<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--35_reg_kyiv_city.html\">35_reg_Kyiv_city<\/a>","Disaggregation combinations using this value":33,"Number of indicators":21},{"Value":"<a href=\"disaggregation-value--36.html\">3.6<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--39.html\">3.9<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--41.html\">4.1<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--42.html\">4.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--49.html\">4.9<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--50.html\">5.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--51.html\">5.1<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--52.html\">5.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--53.html\">5.3<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--54.html\">5.4<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--55.html\">5.5<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--57.html\">5.7<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--58.html\">5.8<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--60.html\">6.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--62.html\">6.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--63.html\">6.3<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--65.html\">6.5<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--66.html\">6.6<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--68.html\">6.8<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--77.html\">7.7<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--79.html\">7.9<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--80.html\">8.0<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--82.html\">8.2<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--87.html\">8.7<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--91.html\">9.1<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reg_cherkasy.html\">reg_Cherkasy<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_chernihiv.html\">reg_Chernihiv<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_chernivtsi.html\">reg_Chernivtsi<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_dnipropetrovsk.html\">reg_Dnipropetrovsk<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_donetsk.html\">reg_Donetsk<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reg_ivano-frankivsk.html\">reg_Ivano-Frankivsk<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_kharkiv.html\">reg_Kharkiv<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_kherson.html\">reg_Kherson<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_khmelnytskiy.html\">reg_Khmelnytskiy<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_kirovohrad.html\">reg_Kirovohrad<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_kyiv.html\">reg_Kyiv<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reg_kyiv_city.html\">reg_Kyiv_city<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_kyiv_region.html\">reg_Kyiv_region<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reg_luhansk.html\">reg_Luhansk<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--reg_lviv.html\">reg_Lviv<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_mykolayiv.html\">reg_Mykolayiv<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_odesa.html\">reg_Odesa<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_poltava.html\">reg_Poltava<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_rivne.html\">reg_Rivne<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_sumy.html\">reg_Sumy<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_ternopil.html\">reg_Ternopil<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_vinnytsya.html\">reg_Vinnytsya<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_volyn.html\">reg_Volyn<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_zakarpattya.html\">reg_Zakarpattya<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_zaporizhzhya.html\">reg_Zaporizhzhya<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--reg_zhytomyr.html\">reg_Zhytomyr<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--ukraine.html\">Ukraine<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--region.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--region">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--region" class="download-info">Size: 314 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">36</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#10-4-1</td>
+    </tr>
+    <tr>
+      <td>#10-4-1-a</td>
+    </tr>
+    <tr>
+      <td>#16-5-2</td>
+    </tr>
+    <tr>
+      <td>#16-5-2-a</td>
+    </tr>
+    <tr>
+      <td>#16-8-3</td>
+    </tr>
+    <tr>
+      <td>#16-8-3-a</td>
+    </tr>
+    <tr>
+      <td>#16-9-1</td>
+    </tr>
+    <tr>
+      <td>#16-9-1-a</td>
+    </tr>
+    <tr>
+      <td>#17-3-1</td>
+    </tr>
+    <tr>
+      <td>#17-3-1-a</td>
+    </tr>
+    <tr>
+      <td>#2-1-1-a</td>
+    </tr>
+    <tr>
+      <td>#2-1-2-a</td>
+    </tr>
+    <tr>
+      <td>#2-1-3-a</td>
+    </tr>
+    <tr>
+      <td>#2-1-4-a</td>
+    </tr>
+    <tr>
+      <td>#2-1-5-a</td>
+    </tr>
+    <tr>
+      <td>#2-3-1</td>
+    </tr>
+    <tr>
+      <td>#3-3-1-a</td>
+    </tr>
+    <tr>
+      <td>#3-4-1-a</td>
+    </tr>
+    <tr>
+      <td>#3-4-2-a</td>
+    </tr>
+    <tr>
+      <td>#3-4-3-a</td>
+    </tr>
+    <tr>
+      <td>#3-4-4-a</td>
+    </tr>
+    <tr>
+      <td>#3-8-1</td>
+    </tr>
+    <tr>
+      <td>#4-1-1</td>
+    </tr>
+    <tr>
+      <td>#4-2-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1-a</td>
+    </tr>
+    <tr>
+      <td>#8-5-1</td>
+    </tr>
+    <tr>
+      <td>#8-5-1-a</td>
+    </tr>
+    <tr>
+      <td>#8-5-2</td>
+    </tr>
+    <tr>
+      <td>#8-5-2-a</td>
+    </tr>
+    <tr>
+      <td>#9-1-1</td>
+    </tr>
+    <tr>
+      <td>#9-1-1-a</td>
+    </tr>
+    <tr>
+      <td>#9-6-1</td>
+    </tr>
+    <tr>
+      <td>#9-6-1-a</td>
+    </tr>
+    <tr>
+      <td>#9-7-1</td>
+    </tr>
+    <tr>
+      <td>#9-7-1-a</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#10-4-1"},{"Indicator":"#10-4-1-a"},{"Indicator":"#16-5-2"},{"Indicator":"#16-5-2-a"},{"Indicator":"#16-8-3"},{"Indicator":"#16-8-3-a"},{"Indicator":"#16-9-1"},{"Indicator":"#16-9-1-a"},{"Indicator":"#17-3-1"},{"Indicator":"#17-3-1-a"},{"Indicator":"#2-1-1-a"},{"Indicator":"#2-1-2-a"},{"Indicator":"#2-1-3-a"},{"Indicator":"#2-1-4-a"},{"Indicator":"#2-1-5-a"},{"Indicator":"#2-3-1"},{"Indicator":"#3-3-1-a"},{"Indicator":"#3-4-1-a"},{"Indicator":"#3-4-2-a"},{"Indicator":"#3-4-3-a"},{"Indicator":"#3-4-4-a"},{"Indicator":"#3-8-1"},{"Indicator":"#4-1-1"},{"Indicator":"#4-2-1"},{"Indicator":"#5-5-1"},{"Indicator":"#5-5-1-a"},{"Indicator":"#8-5-1"},{"Indicator":"#8-5-1-a"},{"Indicator":"#8-5-2"},{"Indicator":"#8-5-2-a"},{"Indicator":"#9-1-1"},{"Indicator":"#9-1-1-a"},{"Indicator":"#9-6-1"},{"Indicator":"#9-6-1-a"},{"Indicator":"#9-7-1"},{"Indicator":"#9-7-1-a"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        
