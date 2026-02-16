@@ -7,7 +7,7 @@ Year,Region,Sex,Type of residence,Value
 2020,Ukraine,,,74.8
 2021,Ukraine,,,73.4
 2022,Ukraine,,,65.6
-2023,Ukraine,,
+2023,Ukraine,,,
 2015,11_reg_Vinnytsya,,,81.3
 2016,11_reg_Vinnytsya,,,81.3
 2017,11_reg_Vinnytsya,,,81.7
@@ -16,7 +16,7 @@ Year,Region,Sex,Type of residence,Value
 2020,11_reg_Vinnytsya,,,78.6
 2021,11_reg_Vinnytsya,,,81.6
 2022,11_reg_Vinnytsya,,,80.3
-2023,11_reg_Vinnytsya,,
+2023,11_reg_Vinnytsya,,,
 2015,12_reg_Volyn,,,70.8
 2016,12_reg_Volyn,,,71.3
 2017,12_reg_Volyn,,,70.5
@@ -25,7 +25,7 @@ Year,Region,Sex,Type of residence,Value
 2020,12_reg_Volyn,,,69.1
 2021,12_reg_Volyn,,,68.9
 2022,12_reg_Volyn,,,64.3
-2023,12_reg_Volyn,,
+2023,12_reg_Volyn,,,
 2015,13_reg_Dnipropetrovsk,,,75.8
 2016,13_reg_Dnipropetrovsk,,,73.3
 2017,13_reg_Dnipropetrovsk,,,73.6
@@ -34,7 +34,7 @@ Year,Region,Sex,Type of residence,Value
 2020,13_reg_Dnipropetrovsk,,,75.8
 2021,13_reg_Dnipropetrovsk,,,75.1
 2022,13_reg_Dnipropetrovsk,,,70.3
-2023,13_reg_Dnipropetrovsk,,
+2023,13_reg_Dnipropetrovsk,,,
 2015,15_reg_Zhytomyr,,,84.6
 2016,15_reg_Zhytomyr,,,84.9
 2017,15_reg_Zhytomyr,,,83.5
@@ -43,7 +43,7 @@ Year,Region,Sex,Type of residence,Value
 2020,15_reg_Zhytomyr,,,86.4
 2021,15_reg_Zhytomyr,,,88.8
 2022,15_reg_Zhytomyr,,,77.4
-2023,15_reg_Zhytomyr,,
+2023,15_reg_Zhytomyr,,,
 2015,16_reg_Zakarpattya,,,86.6
 2016,16_reg_Zakarpattya,,,84.1
 2017,16_reg_Zakarpattya,,,83.8
@@ -52,7 +52,7 @@ Year,Region,Sex,Type of residence,Value
 2020,16_reg_Zakarpattya,,,73.9
 2021,16_reg_Zakarpattya,,,67.6
 2022,16_reg_Zakarpattya,,,60.3
-2023,16_reg_Zakarpattya,,
+2023,16_reg_Zakarpattya,,,
 2015,17_reg_Zaporizhzhya,,,75.6
 2016,17_reg_Zaporizhzhya,,,74.5
 2017,17_reg_Zaporizhzhya,,,76.0
@@ -61,7 +61,7 @@ Year,Region,Sex,Type of residence,Value
 2020,17_reg_Zaporizhzhya,,,77.7
 2021,17_reg_Zaporizhzhya,,,75.1
 2022,17_reg_Zaporizhzhya,,,58.7
-2023,17_reg_Zaporizhzhya,,
+2023,17_reg_Zaporizhzhya,,,
 2015,18_reg_Ivano-Frankivsk,,,55.3
 2016,18_reg_Ivano-Frankivsk,,,55.3
 2017,18_reg_Ivano-Frankivsk,,,56.6
@@ -70,7 +70,7 @@ Year,Region,Sex,Type of residence,Value
 2020,18_reg_Ivano-Frankivsk,,,59.1
 2021,18_reg_Ivano-Frankivsk,,,59.9
 2022,18_reg_Ivano-Frankivsk,,,58.2
-2023,18_reg_Ivano-Frankivsk,,
+2023,18_reg_Ivano-Frankivsk,,,
 2015,19_reg_Kyiv,,,86.6
 2016,19_reg_Kyiv,,,87.0
 2017,19_reg_Kyiv,,,87.1
@@ -79,7 +79,7 @@ Year,Region,Sex,Type of residence,Value
 2020,19_reg_Kyiv,,,82.0
 2021,19_reg_Kyiv,,,83.4
 2022,19_reg_Kyiv,,,77.5
-2023,19_reg_Kyiv,,
+2023,19_reg_Kyiv,,,
 2015,20_reg_Kirovohrad,,,74.6
 2016,20_reg_Kirovohrad,,,74.3
 2017,20_reg_Kirovohrad,,,73.9
@@ -88,7 +88,7 @@ Year,Region,Sex,Type of residence,Value
 2020,20_reg_Kirovohrad,,,73.1
 2021,20_reg_Kirovohrad,,,71.8
 2022,20_reg_Kirovohrad,,,67.5
-2023,20_reg_Kirovohrad,,
+2023,20_reg_Kirovohrad,,,
 2015,22_reg_Lviv,,,67.7
 2016,22_reg_Lviv,,,67.4
 2017,22_reg_Lviv,,,64.9
@@ -97,7 +97,7 @@ Year,Region,Sex,Type of residence,Value
 2020,22_reg_Lviv,,,67.0
 2021,22_reg_Lviv,,,66.3
 2022,22_reg_Lviv,,,64.2
-2023,22_reg_Lviv,,
+2023,22_reg_Lviv,,,
 2015,23_reg_Mykolayiv,,,81.5
 2016,23_reg_Mykolayiv,,,79.7
 2017,23_reg_Mykolayiv,,,77.1
@@ -106,7 +106,7 @@ Year,Region,Sex,Type of residence,Value
 2020,23_reg_Mykolayiv,,,84.1
 2021,23_reg_Mykolayiv,,,81.7
 2022,23_reg_Mykolayiv,,,80.0
-2023,23_reg_Mykolayiv,,
+2023,23_reg_Mykolayiv,,,
 2015,24_reg_Odesa,,,63.0
 2016,24_reg_Odesa,,,62.5
 2017,24_reg_Odesa,,,64.3
@@ -115,7 +115,7 @@ Year,Region,Sex,Type of residence,Value
 2020,24_reg_Odesa,,,65.6
 2021,24_reg_Odesa,,,66.5
 2022,24_reg_Odesa,,,62.4
-2023,24_reg_Odesa,,
+2023,24_reg_Odesa,,,
 2015,25_reg_Poltava,,,79.8
 2016,25_reg_Poltava,,,78.8
 2017,25_reg_Poltava,,,78.1
@@ -124,7 +124,7 @@ Year,Region,Sex,Type of residence,Value
 2020,25_reg_Poltava,,,79.4
 2021,25_reg_Poltava,,,78.1
 2022,25_reg_Poltava,,,73.8
-2023,25_reg_Poltava,,
+2023,25_reg_Poltava,,,
 2015,26_reg_Rivne,,,71.4
 2016,26_reg_Rivne,,,70.9
 2017,26_reg_Rivne,,,72.5
@@ -133,7 +133,7 @@ Year,Region,Sex,Type of residence,Value
 2020,26_reg_Rivne,,,73.2
 2021,26_reg_Rivne,,,74.1
 2022,26_reg_Rivne,,,68.0
-2023,26_reg_Rivne,,
+2023,26_reg_Rivne,,,
 2015,27_reg_Sumy,,,84.9
 2016,27_reg_Sumy,,,83.3
 2017,27_reg_Sumy,,,82.4
@@ -142,7 +142,7 @@ Year,Region,Sex,Type of residence,Value
 2020,27_reg_Sumy,,,83.3
 2021,27_reg_Sumy,,,85.1
 2022,27_reg_Sumy,,,78.8
-2023,27_reg_Sumy,,
+2023,27_reg_Sumy,,,
 2015,28_reg_Ternopil,,,74.2
 2016,28_reg_Ternopil,,,71.7
 2017,28_reg_Ternopil,,,72.0
@@ -151,7 +151,7 @@ Year,Region,Sex,Type of residence,Value
 2020,28_reg_Ternopil,,,70.9
 2021,28_reg_Ternopil,,,73.3
 2022,28_reg_Ternopil,,,69.1
-2023,28_reg_Ternopil,,
+2023,28_reg_Ternopil,,,
 2015,29_reg_Kharkiv,,,81.1
 2016,29_reg_Kharkiv,,,81.1
 2017,29_reg_Kharkiv,,,79.0
@@ -160,7 +160,7 @@ Year,Region,Sex,Type of residence,Value
 2020,29_reg_Kharkiv,,,80.7
 2021,29_reg_Kharkiv,,,81.2
 2022,29_reg_Kharkiv,,,70.9
-2023,29_reg_Kharkiv,,
+2023,29_reg_Kharkiv,,,
 2015,30_reg_Kherson,,,72.7
 2016,30_reg_Kherson,,,71.8
 2017,30_reg_Kherson,,,71.9
@@ -169,7 +169,7 @@ Year,Region,Sex,Type of residence,Value
 2020,30_reg_Kherson,,,69.8
 2021,30_reg_Kherson,,,71.8
 2022,30_reg_Kherson,,,34.7
-2023,30_reg_Kherson,,
+2023,30_reg_Kherson,,,
 2015,31_reg_Khmelnytskiy,,,93.0
 2016,31_reg_Khmelnytskiy,,,86.3
 2017,31_reg_Khmelnytskiy,,,85.5
@@ -178,7 +178,7 @@ Year,Region,Sex,Type of residence,Value
 2020,31_reg_Khmelnytskiy,,,86.2
 2021,31_reg_Khmelnytskiy,,,86.7
 2022,31_reg_Khmelnytskiy,,,79.6
-2023,31_reg_Khmelnytskiy,,
+2023,31_reg_Khmelnytskiy,,,
 2015,32_reg_Cherkasy,,,82.0
 2016,32_reg_Cherkasy,,,81.7
 2017,32_reg_Cherkasy,,,81.6
@@ -187,7 +187,7 @@ Year,Region,Sex,Type of residence,Value
 2020,32_reg_Cherkasy,,,74.6
 2021,32_reg_Cherkasy,,,78.9
 2022,32_reg_Cherkasy,,,73.1
-2023,32_reg_Cherkasy,,
+2023,32_reg_Cherkasy,,,
 2015,33_reg_Chernivtsi,,,76.6
 2016,33_reg_Chernivtsi,,,72.8
 2017,33_reg_Chernivtsi,,,75.0
@@ -196,7 +196,7 @@ Year,Region,Sex,Type of residence,Value
 2020,33_reg_Chernivtsi,,,71.5
 2021,33_reg_Chernivtsi,,,71.8
 2022,33_reg_Chernivtsi,,,66.1
-2023,33_reg_Chernivtsi,,
+2023,33_reg_Chernivtsi,,,
 2015,34_reg_Chernihiv,,,80.9
 2016,34_reg_Chernihiv,,,74.6
 2017,34_reg_Chernihiv,,,79.2
@@ -205,16 +205,16 @@ Year,Region,Sex,Type of residence,Value
 2020,34_reg_Chernihiv,,,78.8
 2021,34_reg_Chernihiv,,,75.8
 2022,34_reg_Chernihiv,,,68.8
-2023,34_reg_Chernihiv,,
-2015,35_19_reg_Kyiv_city,,,86.5
-2016,35_19_reg_Kyiv_city,,,89.1
-2017,35_19_reg_Kyiv_city,,,85.1
-2018,35_19_reg_Kyiv_city,,,84.4
-2019,35_19_reg_Kyiv_city,,,81.1
-2020,35_19_reg_Kyiv_city,,,77.2
-2021,35_19_reg_Kyiv_city,,,71.8
-2022,35_19_reg_Kyiv_city,,,69.8
-2023,35_19_reg_Kyiv_city,,
+2023,34_reg_Chernihiv,,,
+2015,35_reg_Kyiv_city,,,86.5
+2016,35_reg_Kyiv_city,,,89.1
+2017,35_reg_Kyiv_city,,,85.1
+2018,35_reg_Kyiv_city,,,84.4
+2019,35_reg_Kyiv_city,,,81.1
+2020,35_reg_Kyiv_city,,,77.2
+2021,35_reg_Kyiv_city,,,71.8
+2022,35_reg_Kyiv_city,,,69.8
+2023,35_reg_Kyiv_city,,,
 2018,,females,,66.0
 2019,,females,,69.3
 2020,,females,,66.3
