@@ -446,19 +446,30 @@ Subject: Subject
 reading: reading
 math: mathematics
 science: natural sciences
+math_grade6: mathematics 6th grade
+math_grade8: mathematics 8th grade
+ukr_grade6: Ukrainian language 6th grade
+ukr_grade8: Ukrainian language 8th grade
 
 School type: by type of educational institution
 lyceum_gymnasium_specialized: lyceum / gymnasium / specialized school
 general_school_complex: secondary school / educational complex
 college_technical_vocational: college / technical secondary school / vocational and technical educational institution
+lyceum: lyceum
+gymnasium: gymnasium
+other_institution: others
 
 SES: by socioeconomic status
 low_ses: pupils with low socioeconomic status (25% of pupils with the lowest scores on the PISA Economic Socioeconomic Status Index (ESCS))
 high_ses: pupils with high socioeconomic status (25% of pupils with the highest scores on the PISA Economic Socioeconomic Status Index (ESCS))
 
-Type of educational institution: за типом закладу освіти
-gsei: заклади загальної середньої освіти (ЗЗСО)
-pvtei: заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)
-ippte: інші заклади 2
+Type of educational institution: by type of educational institution
+gsei: general secondary educational institutions (GSEI)
+pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
+ippte: other institutions 2
 
 For reference: 'For reference: the legally established minimum subsistence level per month on average per person, UAH'
+
+Sources of funding: by sources of funding
+state_source: from the state budget
+individuals_legal: funds of individuals and legal entities

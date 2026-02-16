@@ -496,19 +496,30 @@ Subject: Галузь
 reading: читання
 math: математика
 science: природа
+math_grade6: математика 6-й клас
+math_grade8: математика 8-й клас
+ukr_grade6: українська мова 6-й клас
+ukr_grade8: українська мова 8-й клас
 
 School type: за типом закладу освіти
 lyceum_gymnasium_specialized: ліцей / гімназія / спеціалізована школа
 general_school_complex: середня школа / навчальний комплекс
 college_technical_vocational: коледж / технікум / професійно-технічний навчальний заклад
+lyceum: ліцей
+gymnasium: гімназія
+other_institution: інші
 
 SES: за соціально-економічним статусом
 low_ses: учні із низьким соціально-економічним статусом (25% учнів з найнижчими значеннями індексу PISA соціально-економічного статусу (ESCS))
 high_ses: учні із високим соціально-економічним статусом (25% учнів з найвищими значеннями індексу PISA соціально-економічного статусу (ESCS))
 
-Type of educational institution: by type of educational institution
-gsei: general secondary educational institutions (GSEI)
-pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
-ippte: other institutions 2
+Type of educational institution: за типом закладу освіти
+gsei: заклади загальної середньої освіти (ЗЗСО)
+pvtei: заклади професійної (професійно-технічної) освіти (ЗП(ПТ)О)
+ippte: інші заклади 2
 
 For reference: 'Довідково: законодавчо встановлений прожитковий мінімум в розрахунку на місяць в середньому на одну особу, грн'
+
+Sources of funding: за джерелами фінансування
+state_source: з державного бюджету
+individuals_legal: кошти фізичних та юридичних осіб
