@@ -1,11 +1,11 @@
 Year,Subject,Sex,Type of residence,Type of educational institution,Value
-2015,all,,,,
-2016,all,,,,
-2017,all,,,,
-2019,all,,,,
-2020,all,,,,
-2022,all,,,,
-2023,all,,,,
+2015,,,,,
+2016,,,,,
+2017,,,,,
+2019,,,,,
+2020,,,,,
+2022,,,,,
+2023,,,,,
 2018,reading,,,,86.2
 2018,math,,,,86.4
 2018,science,,,,
@@ -14,7 +14,7 @@ Year,Subject,Sex,Type of residence,Type of educational institution,Value
 2021,science,,,,
 2024,reading,,,,82.3
 2024,math,,,,85.4
-2024,science,,,83.9
+2024,science,,,,83.9
 2018,reading,females,,,89.9
 2018,math,females,,,88.2
 2021,reading,females,,,86.0
