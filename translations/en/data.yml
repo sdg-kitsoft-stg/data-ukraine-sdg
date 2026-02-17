@@ -254,6 +254,15 @@ age_36_59: 36-59 years
 age_40_64: 40-64 years
 age_60_74: 60-74 years
 age_75: 75 years and older
+aged_6: 6 years
+aged_7: 7 years
+aged_8: 8 years
+aged_9: 9 years
+aged_10: 10 years
+aged_11: 11 years
+aged_12: 12 years
+aged_13: 13 years
+aged_14: 14 years
 aged_15: 15 years
 aged_16: 16 years
 aged_17: 17 years
@@ -460,6 +469,7 @@ college_technical_vocational: college / technical secondary school / vocational 
 lyceum: lyceum
 gymnasium: gymnasium
 other_institution: others
+specialized_school: specialized school
 
 SES: by socioeconomic status
 low_ses: pupils with low socioeconomic status (25% of pupils with the lowest scores on the PISA Economic Socioeconomic Status Index (ESCS))
@@ -468,7 +478,8 @@ high_ses: pupils with high socioeconomic status (25% of pupils with the highest 
 Type of educational institution: by type of educational institution
 gsei: general secondary educational institutions (GSEI)
 pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
-ippte: other institutions 2
+ippte: institutions of professional pre-tertiary education (IPPTE)
+other: other institutions 2
 
 For reference: 'For reference: the legally established minimum subsistence level per month on average per person, UAH'
 
