@@ -2,4 +2,4 @@ SDG_GOAL: 2 End hunger, promote sustainable agriculture
 SDG_TARGET: 2.3 Ensuring the creation of sustainable food production systems that contribute to the preservation of ecosystems and improve the quality of lands and soils
 SDG_INDICATOR: 2.3.2 Share of agricultural land under organic production in the total area of agricultural land, percent (SDG indicator 2.3.2)
 CONTACT_ORGANISATION: Ministry of Agrarian Policy and Food of Ukraine
-REC_USE_LIM: 1 Data of the Statistical Publication "Agriculture of Ukraine" were used for calculation on the total area of agricultural lands at the end of 2019. 2 Data of the Statistical Publication "Agriculture of Ukraine" were used for calculation on the total area of agricultural lands at the beginning of 2020.
+REC_USE_LIM: 1 Data of the Statistical Publication "Agriculture of Ukraine" were used for calculation on the total area of agricultural lands at the end of 2019. <br>2 Data of the Statistical Publication "Agriculture of Ukraine" were used for calculation on the total area of agricultural lands at the beginning of 2020.

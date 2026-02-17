@@ -2,4 +2,4 @@ SDG_GOAL: 3 Healthy lives and well-being
 SDG_TARGET: 3.4 Ending the HIV/AIDS and tuberculosis epidemics, including through the use of innovative practices and treatments
 SDG_INDICATOR: 3.4.1 Number of patients diagnosed with HIV/AIDS for the first time, per 100,000 population (SDG indicator 3.4.1)
 CONTACT_ORGANISATION: State institution "Public Health Center of the Ministry of Health of Ukraine"
-REC_USE_LIM: 1 Excluding the number of children diagnosed with HIV at the stage of confirmation. 2 Data on the resident population of Ukraine (by estimate) as of January 1, 2022 were used in the calculation.
+REC_USE_LIM: 1 Excluding the number of children diagnosed with HIV at the stage of confirmation. <br>2 Data on the resident population of Ukraine (by estimate) as of January 1, 2022 were used in the calculation.

@@ -229,6 +229,8 @@ Cost_train: Cost of training a specialist
 3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
 4_per_doctoral: average costs per one doctoral student, UAH
 
+age_0_17: 0-17 years old inclusive
+age_18_plus: 18 years and older
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
 age_36_60: from 36 years to 60 years inclusive
@@ -473,3 +475,12 @@ For reference: 'For reference: the legally established minimum subsistence level
 Sources of funding: by sources of funding
 state_source: from the state budget
 individuals_legal: funds of individuals and legal entities
+
+direct_obstetric_causes: directly related to obstetric causes
+indirect_obstetric_causes: indirectly related to obstetric causes
+
+Land purpose: by land purpose
+arable_land: arable land
+
+outpatient: outpatient
+stationary: stationary
