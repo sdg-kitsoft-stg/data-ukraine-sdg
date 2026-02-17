@@ -247,12 +247,14 @@ age_60: 60 years and older
 age_65_plus: 65 years and older
 age_65: 65 years
 age_15: up to 15 years
+age_14_30: 14-30 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
 age_25_35: 25-35 years
 age_36_59: 36-59 years
 age_40_64: 40-64 years
 age_60_74: 60-74 years
+age_30_plus: 30 years and older
 age_75: 75 years and older
 aged_6: 6 years
 aged_7: 7 years
@@ -495,3 +497,6 @@ arable_land: arable land
 
 outpatient: outpatient
 stationary: stationary
+
+books_and_materials: participants who have printed books and other materials needed for learning
+own_room: having your own space (room or workspace)
