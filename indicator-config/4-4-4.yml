@@ -35,4 +35,4 @@ graph_target_lines:
   - series: ''
     unit: ''
     label_content: indicator.annotation_2030_target
-    value: 205,2
+    value: 205.2
