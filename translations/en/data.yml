@@ -275,6 +275,9 @@ aged_18: 18 years
 aged_19: 19 years
 aged_20_under: up to 20 years
 
+age_under20: under 20 years
+age_under15: under 15 years
+
 cat_A: A
 cat_B: B
 cat_C: C

@@ -19,14 +19,14 @@ graph_annotations:
     unit: ''
     label: indicator.annotation_2030_target
     preset: target_line
-    text: indicator.annotation_increase_2030_target
+    text: '55'
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.5-2-2-title
+graph_title: global_indicators.5-2-4-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.5-2-2-title
-indicator_number: '5.2.2'
+indicator_name: global_indicators.5-2-4-title
+indicator_number: '5.2.4'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -35,3 +35,9 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+
+graph_target_lines:
+  - series: ''
+    unit: ''
+    label_content: indicator.annotation_2030_target
+    value: 55

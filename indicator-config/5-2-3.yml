@@ -22,11 +22,11 @@ graph_annotations:
     text: indicator.annotation_increase_2030_target
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.5-2-2-title
+graph_title: global_indicators.5-2-3-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.5-2-2-title
-indicator_number: '5.2.2'
+indicator_name: global_indicators.5-2-3-title
+indicator_number: '5.2.3'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
