@@ -254,6 +254,9 @@ age_25_35: 25-35 years
 age_36_59: 36-59 years
 age_40_64: 40-64 years
 age_60_74: 60-74 years
+age_15_64: 15-64 years
+age_15_24: 15-24 years
+age_25_64: 25-64 years
 age_30_plus: 30 years and older
 age_75: 75 years and older
 aged_6: 6 years
@@ -500,3 +503,66 @@ stationary: stationary
 
 books_and_materials: participants who have printed books and other materials needed for learning
 own_room: having your own space (room or workspace)
+
+Specialty:
+spec_101: Ecology
+spec_102: Chemistry
+spec_103: Earth sciences
+spec_104: Physics and astronomy
+spec_105: Applied physics and nanomaterials
+spec_106: Geography
+spec_111: Mathematics
+spec_112: Statistics
+spec_113: Applied mathematics
+spec_121: Software engineering
+spec_122: Computer science and information technologies
+spec_123: Computer science
+spec_124: Computer engineering
+spec_125: Systems analysis
+spec_126: Cybersecurity
+spec_131: Applied mechanics
+spec_132: Materials science and engineering
+spec_133: Industrial engineering
+spec_134: Aviation and space engineering
+spec_135: Shipbuilding
+spec_136: Metallurgy
+spec_141: Electric power engineering, electrical engineering and electromechanics
+spec_142: Power engineering (energy) machinery
+spec_143: Nuclear power engineering
+spec_144: Thermal power engineering
+spec_151: Automation and computer-integrated technologies
+spec_152: Metrology and information-measuring technology
+spec_153: Micro- and nanosystems engineering
+spec_161: Chemical technology and engineering
+spec_162: Biotechnology and bioengineering
+spec_163: Biomedical engineering
+spec_171: Electronics
+spec_172: Electronic communications and radio engineering
+spec_173: Telecommunications and radio engineering
+spec_174: Avionics
+spec_181: Food technologies
+spec_182: Light industry technologies
+spec_183: Environmental protection technologies
+spec_184: Mining
+spec_185: Oil and gas engineering and technologies
+spec_186: Publishing and printing
+spec_191: Architecture and urban planning
+spec_192: Construction and civil engineering
+spec_193: Geodesy and land management
+spec_201: Agronomy
+spec_202: Plant protection and quarantine
+spec_203: Horticulture and viticulture
+spec_204: Technology of production and processing of livestock products
+spec_205: Forestry
+spec_206: Landscape gardening (park management)
+spec_207: Aquatic bioresources and aquaculture
+spec_208: Agricultural engineering
+spec_261: Fire safety
+spec_262: Law enforcement
+spec_263: Civil safety
+spec_271: Maritime and inland water transport
+spec_272: River and sea transport
+spec_273: Air transport
+spec_274: Railway transport
+spec_275: Road transport
+spec_276: Transport technologies
