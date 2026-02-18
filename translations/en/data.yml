@@ -566,3 +566,11 @@ spec_273: Air transport
 spec_274: Railway transport
 spec_275: Road transport
 spec_276: Transport technologies
+
+preschool_wired_gt30: "Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access"
+preschool_wireless_gt30: "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access"
+preschool_wired_or_wireless_gt30: "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access"
+secondary_internet_any_speed: "General secondary educational institutions with Internet access (without specifying the speed)"
+secondary_wired_gt30: "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access"
+secondary_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access"
+secondary_wired_or_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access"
