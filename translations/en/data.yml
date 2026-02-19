@@ -578,3 +578,23 @@ secondary_internet_any_speed: "General secondary educational institutions with I
 secondary_wired_gt30: "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access"
 secondary_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access"
 secondary_wired_or_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access"
+
+Category_type: Type
+status: by status
+sphere: by sphere
+student_professional_pre_tertiary: seeker for professional pre-tertiary education
+student_tertiary: seeker for tertiary education
+teacher_professional_pre_tertiary: pedagogical workers of institution of professional pre-tertiary education
+academic_staff_tertiary: scientific-pedagogical workers of tertiary educational institution
+professional_pre_tertiary_education: professional pre-tertiary education
+tertiary_education: tertiary education
+
+Education Level: by levels (degrees) of education
+edu_fakhovyy_junior_bachelor: professional junior bachelor 2
+edu_bachelor: junior specialist
+edu_specialist:
+edu_master:
+edu_doctor_of_philosophy:
+
+girls: girls
+boys: boys

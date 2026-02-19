@@ -30,6 +30,3 @@ reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-footer_fields:
-  - label: indicator.annotation_2030_target
-    value: indicator.target_2030_complex_text

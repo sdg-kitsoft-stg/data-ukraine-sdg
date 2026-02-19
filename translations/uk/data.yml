@@ -628,3 +628,15 @@ secondary_wired_gt30: "Заклади загальної середньої ос
 secondary_wireless_gt30: "Заклади загальної середньої освіти зі швидкісним (більше 30 Мбіт/с) безпроводовим доступом до мережі Інтернет"
 secondary_wired_or_wireless_gt30: "Заклади загальної середньої освіти зі швидкісним (більше 30 Мбіт/с) проводовим або безпроводовим доступом до мережі Інтернет"
 
+Category_type: Тип
+status: за статусом
+sphere: за сферою
+student_professional_pre_tertiary: здобувач фахової передвищої освіти
+student_tertiary: здобувач вищої освіти
+teacher_professional_pre_tertiary: педагогічний працівник закладу фахової передвищої освіти
+academic_staff_tertiary: науково-педагогічний працівник закладу вищої освіти
+professional_pre_tertiary_education: фахова передвища освіта
+tertiary_education: вища освіта
+
+girls: дівчатка
+boys: хлопчики
