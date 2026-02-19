@@ -1,5 +1,5 @@
 SDG_GOAL: 8 Decent work and economic growth
-SDG_TARGET: 8.1 Ensure a steady GDP growth by modernizing production, developing innovation, increasing export potential and exporting products with high value added
-SDG_INDICATOR: 8.1.1 GDP volume index, %
-UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+SDG_TARGET: 8.1 Ensuring modernization of production, increasing export potential, bringing products with a high share of added value to the foreign market
+SDG_INDICATOR: 8.1.1 Share of gross fixed capital formation in the gross domestic product, percent (SDG indicator 8.1.1)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 

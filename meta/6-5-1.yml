@@ -1,6 +1,5 @@
 SDG_GOAL: 6 Clean water and sanitation
-SDG_TARGET: 6.5 Implement integrated water resources management
-SDG_INDICATOR: 6.5.1 Number of river basins with approved river basin management plans, units
-UNIT_MEASURE: Units
-CONTACT_ORGANISATION: State Agency of Water Resources of Ukraine (SAWR)
-REC_USE_LIM: Developed once every 6 years, from 2024.
+SDG_TARGET: 6.5 Ensuring the implementation of integrated water resources management
+SDG_INDICATOR: 6.5.1 Number of river basins for which management plans have been approved, units (SDG indicator 6.5.1)
+CONTACT_ORGANISATION: Ministry of Environmental Protection and Natural Resources of Ukraine – data are developed once every six years
+REC_USE_LIM: 1 Data have been developed since 2024.

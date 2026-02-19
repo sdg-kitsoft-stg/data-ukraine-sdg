@@ -1,6 +1,5 @@
 SDG_GOAL: 7 Affordable and clean energy
-SDG_TARGET: 7.1 Expand the infrastructure and modernize networks for reliable and sustainable energy supply through the introduction of innovative technologies
-SDG_INDICATOR: 7.1.3 Heat losses in heat networks, %
-UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
-REC_USE_LIM: 2022 — Data were not calculated.
+SDG_TARGET: 7.1 Ensuring security of supply of energy resources and reducing dependence on their imports
+SDG_INDICATOR: '7.1.3 Maximum share of imports of energy resources from one country in the total volume of their imports in quantitative terms by type of energy resources, percent: anthracite coal (code according to UCGFEA 2701 11 00 00); motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99); diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00); liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00); natural gas (code according to UCGFEA 2711 21 00 00); non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00) (SDG indicator 7.1.3)'
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 

@@ -1,6 +1,5 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
-SDG_TARGET: 16.3 Increase confidence in courts and ensure equal access to justice
-SDG_INDICATOR: 16.3.2 Number of persons seeking free legal aid, persons
-UNIT_MEASURE: Persons
-CONTACT_ORGANISATION: Ministry of Justice of Ukraine (MoJ)
-REC_USE_LIM: 2015 — Data for 2015 are calculated from 01.07.2015 in connection with the establishment of local centers of free secondary legal aid in accordance with the Order of the Ministry of Justice of Ukraine of March 10, 2015 № 331/5 "On the development of a system of free secondary legal aid".
+SDG_TARGET: 16.3 Creating conditions for the return and integration of internally displaced persons
+SDG_INDICATOR: 16.3.2 Number of internally displaced persons living in places of temporary residence, persons (SDG indicator 16.3.2)
+CONTACT_ORGANISATION: Ministry of National Unity of Ukraine
+REC_USE_LIM: 1 Data have been developed since 2023. 2 In Luhansk region and Kyiv city, official places of temporary residence of internally displaced persons were not registered in 2023-2024.

@@ -1,6 +1,5 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
-SDG_TARGET: 11.5 Reduce the adverse impact of pollutants, including on the urban environment in particular, through innovative technologies
-SDG_INDICATOR: 11.5.2 Number of cities in which the average annual concentrations of major pollutants in the atmospheric air exceed the average daily maximum permissible concentrations, units
-UNIT_MEASURE: Units
-CONTACT_ORGANISATION: State Emergency Service of Ukraine (SESU) 
-REC_USE_LIM: The observations were conducted annually in 39 cities across the country. <br> 2023 — The observations were not conducted due to military actions in 4 cities of the country – Lysychansk, Mariupol, Rubizhne, Sievierodonetsk.
+SDG_TARGET: 11.5 Reducing the negative impact of territorial communities on the environment
+SDG_INDICATOR: 11.5.2 Share of recovered household waste in the total volume of generated household waste, percent (SDG indicator 11.5.2)
+CONTACT_ORGANISATION: Ministry for Development of Communities and Territories of Ukraine
+REC_USE_LIM: 

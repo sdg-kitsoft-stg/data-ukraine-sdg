@@ -19,13 +19,13 @@
 2-3-2-title: Share of agricultural land under organic production in the total area of agricultural land, percent (SDG indicator 2.3.2)
 2-4-1-title: 'Ukraine’s share in the volume of world exports of the main food groups for the following goods, percent:  sugar, sunflower oil, corn, barley, wheat'
 2-4-2-title: Share of food industry products and agricultural raw material processing in the total volume of exports (groups 1–24 according to the Ukrainian Classification of Goods for Foreign Economic Activity), percent (SDG indicator 2.4.2)
-2-5-1-title: Indicator. Share of land returned to cultivation in the total area of land unavailable as of June 2024, percent (SDG indicator 2.5.1)
+2-5-1-title: Share of land returned to cultivation in the total area of land unavailable as of June 2024, percent (SDG indicator 2.5.1)
 3-1-1-title: Share of persons unable to obtain medical care, purchase medicines and medical products when needed during the last 12 months, percent (SDG indicator 3.1.1)
 3-1-2-title: Share of contracted providers of mental health services at the primary health care level, percent (SDG indicator 3.1.2)
 3-1-3-title: Share of health care expenditures in total household expenditures, percent (SDG indicator 3.1.3)
 3-1-4-title: Share of persons signed a declaration on the choice of a doctor who provides primary medical care, percent (SDG indicator 3.1.4)
 3-1-5-title: Share of persons signed a declaration on the choice of a doctor providing primary medical care and underwent a preventive examination during the year, percent (SDG indicator 3.1.5)
-3-2-1-title: Indicator. Maternal mortality rate, per 100,000 live-births (SDG indicator 3.2.1)
+3-2-1-title: Maternal mortality rate, per 100,000 live-births (SDG indicator 3.2.1)
 3-3-1-title: Mortality rate of children under 5 years of age, per 1,000 live-births (SDG indicator 3.3.1)
 3-3-2-title: Neonatal mortality rate, per 1,000 live-births (SDG indicator 3.3.2)
 3-4-1-title: Number of patients diagnosed with HIV/AIDS for the first time, per 100,000 population (SDG indicator 3.4.1)
@@ -38,143 +38,12 @@
 3-5-5-title: Mortality rate for women from malignant cervical neoplasms aged 30–59 years, per 100,000 women of the corresponding age
 3-5-6-title: Mortality rate from malignant neoplasms of the trachea, bronchi and lungs aged 30–59 years, per 100,000 persons of the corresponding age (SDG indicator 3.5.6)
 3-5-7-title: Mortality rate from intentional self-harm, per 100,000 persons (SDG indicator 3.5.7)
-3-6-1-title: Indicator. Share of multi-profile health care institutions of a capable network that have concluded an agreement with the National Health Service of Ukraine on the provision of rehabilitation care, percent (SDG indicator 3.6.1)
-3-7-1-title: Indicator. Mortality rate due to transport accidents, per 100,000 persons (SDG indicator 3.7.1)
-3-8-1-title: Indicator. Level of immunization of the population according to the Calendar of preventive vaccinations by age groups during the prevention of ten infectious diseases, percent 1
-3-9-1-title: Indicator. Share of persons using tobacco and/or nicotine products among the population aged 15 and older, percent (SDG indicator 3.9.1)
-3-10-1-title: Indicator. Share of persons who drink alcoholic beverages, percent (SDG indicator 3.10.1)
-
-10-1-1-title: Ratio of growth rate of the average per capita total income of the
- least well-off 40% to the whole population, %
-10-1-2-title: Share of total income of the least well-off 40% in the total income
- of population, %
-10-2-1-title: Share of persons who reported that in the past 12 months they
- personally experienced gender-based discrimination in the total number of requests
- to expert councils on gender-based discrimination, %
-10-3-1-title: Share of rural households who suffered from deprivation due to lack
- of access to ambulance services in the settlement, %
-10-3-2-title: Share of rural households who suffered from deprivation due to the lack
- of a medical facility near their home, %
-10-3-3-title: Share of rural households who suffered from deprivation due to the lack
- of regular daily transport to another settlement with developed infrastructure, %
-10-4-1-title: Ratio of the average wage (income) of 10th and first decile groups of
- workers (decile coefficient), times
-10-5-1-title: Ratio of average pension to average wage in the economy (with 35 years
- of insurance experience), %
-11-1-1-title: Solvency ratio of the borrower (ratio of monthly payments of the
- borrower and his/her family on mortgage debt servicing to total monthly income)
-11-1-2-title: Coverage of territorial units of Ukraine (regions) with affordable
- housing programs for different categories of citizens, %
-11-2-1-title: Share of regions that have approved and implemented regional development
- strategies and action plans for their implementation developed with public
- participation, %
-11-3-1-title: Number of cultural and natural heritage sites included in the UNESCO
- World Heritage List, units
-11-3-2-title: Number of monuments of national importance included in the State
- Monument List of Ukraine, units
-11-3-3-title: Area of the nature reserve fund of national importance, % of the
- country area
-11-4-1-title: Status of implementation (development, modernization, improvement)
- of local automated centralized public alert systems, %
-11-5-1-title: Emissions of air pollutants from stationary sources, % to 2015 level
-11-5-2-title: Number of cities in which the average annual concentrations of major
- pollutants in the atmospheric air exceed the average daily maximum permissible
- concentrations, units
-11-6-1-title: Number of workers employed in tourism business entities (CТEA code-2010
- – 55.1, 55.2, 55.3, 79.11, 79.12), persons
-12-1-1-title: Resource intensity of GDP (ratio of consumed volumes of natural resources,
- waste generated and pollutant emissions to GDP), % to 2015 level
-12-2-1-title: Share of post-harvest losses in the total production of cereals, %
-12-2-2-title: Share of post-harvest losses in overall production of vegetables and
- melons, %
-12-3-1-title: Share of enterprises that implemented chemical management systems in
- accordance with international standards in the total number of enterprises using
- hazardous chemicals, %
-12-4-1-title: Volume of waste generated by all economic activities per unit of GDP,
- kg per USD 1,000 PPP in 2011
-12-4-2-title: Share of burned and recycled waste in the total waste generated, %
-13-1-1-title: Ratio of GHG emissions to 1990 level, %
-14-1-1-title: Share of discharges of polluted wastewater in total discharges in the
- marine environment, %
-14-2-1-title: Area of territories and objects of the natural reserve fund of coastal
- regions, % of the territory of coastal areas
-14-2-2-title: Area of territories and objects of the natural reserve fund in the
- Black and Azov Seas, thousands of hectares
-14-3-1-title: Volumes of extraction of aquatic bioresources in the exclusive (maritime)
- economic zone of Ukraine, thousands of tonnes
-15-1-1-title: Area of territories and objects of the natural reserve fund, thousands
- of hectares
-15-1-2-title: Share of area of territories and objects of the natural reserve fund
- in the total area of the country, %
-15-1-3-title: Share of the area of the national environmental network in the total
- area of the country, %
-15-2-1-title: Forested territory of the country, %
-15-2-2-title: Wood stock in forests, millions of cubic metres
-15-3-1-title: Setting and implementation of a voluntary national objective to achieve
- a neutral level of land degradation in the activity area — ‘Maintaining organic matter
- (humus) content in soils’ (organic carbon (humus) content in agricultural soils (%))
- (data from international sources and organizations may be additionally used)
-15-3-2-title: Amount of arable land, thousands of hectares
-15-3-3-title: Share of arable land in total area of the country, %
-15-3-4-title: Area of land used for organic production, thousands of hectares
-15-3-5-title: Area of agricultural land of extensive use (hayfields, pastures),
- thousands of hectares
-15-3-6-title: Share of area of agricultural land of extensive use (hayfields,
- pastures) in total area of the country, %
-15-4-1-title: Area of the nature reserve fund in mountainous regions, thousands
- of hectares
-15-4-2-title: Share of the area of the nature reserve fund in mountainous regions
- in the total area of the country, %
-16-1-1-title: Number of criminal offenses under Articles 115-118, 121 of the Criminal
- Code of Ukraine (evident intentional homicide, intentional grievous bodily harm)
- reported in the past 12 months per 100,000 persons
-16-1-2-title: Number of victims of crimes related to physical violence (intentional
- homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm),
- reported over the past 12 months, per 100,000 persons
-16-1-3-title: Number of victims of rape in the past 12 months, persons
-16-2-1-title: Number of victims of human trafficking or other illicit transactions
- involving the transfer of human beings reported in the past 12 months, persons
-16-2-2-title: Number of specialists trained in combating human trafficking
-16-2-3-title: Number of social services provided to meet the needs of victims of
- human trafficking
-16-2-4-title: Number of counter-trafficking information campaigns conducted
-16-2-5-title: Number of persons covered by counter-trafficking information campaigns
-16-2-6-title: Percentage of funding of regional counter-trafficking programs from
- relevant local budgets
-16-2-7-title: Number of persons who obtained the victim of trafficking status, persons
-16-3-1-title: Level of public confidence in the court, %
-16-3-2-title: Number of persons seeking free legal aid, persons
-16-4-1-title: Share of high-level risks in the overall national aggregate of risks 
- in the system for preventing and counteracting the legalization of illegal incomes,
- the financing of terrorism and the proliferation of weapons of mass destruction, %
-16-5-1-title: Number of weapons seized (criminal proceedings with completed pre-trial
- investigation for the past 12 months, units)
-16-5-2-title: Number of ammunition seized (criminal proceedings with completed
- pre-trial investigation for the past 12 months, units)
-16-5-3-title: Number of criminal offenses related to illicit arms trafficking
- reported in the past 12 months, units
-16-6-1-title: Index of perception of corruption in the public sector by the business
- community and experts
-16-7-1-title: Ukraine’s ranking in the Global Competitiveness Report by sub-index ‘Institutions (government and public institutions)’
-16-8-1-title: Share of the population satisfied with their experience of the use
- of infrastructure and the level of social services in key areas in Donetsk and
- Luhansk regions, %
-16-8-2-title: Share of the population satisfied with the level of administrative
- governance services in Donetsk and Luhansk regions, %
-16-8-3-title: Number of communities in the Donetsk and Luhansk regions that
- implemented mine action, units
-16-8-4-title: Demined area in Donetsk and Luhansk regions, hectares
-16-8-5-title: Number of cases of detection of explosive objects (operative component),
- units 
-16-9-1-title: Index of social cohesion and reconciliation
-17-1-1-title: Ratio of private remittances from abroad to GDP, %
-17-1-2-title: Net foreign direct investment (according to the balance of payments),
- million USD
-17-2-1-title: Ratio of gross external debt to exports of goods and services in
- annual terms, %
-17-3-1-title: Number of projects of public-private partnership
-
-4-1-1-title: Indicator. Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent (SDG indicator 4.1.1)
+3-6-1-title: Share of multi-profile health care institutions of a capable network that have concluded an agreement with the National Health Service of Ukraine on the provision of rehabilitation care, percent (SDG indicator 3.6.1)
+3-7-1-title: Mortality rate due to transport accidents, per 100,000 persons (SDG indicator 3.7.1)
+3-8-1-title: Level of immunization of the population according to the Calendar of preventive vaccinations by age groups during the prevention of ten infectious diseases, percent 1
+3-9-1-title: Share of persons using tobacco and/or nicotine products among the population aged 15 and older, percent (SDG indicator 3.9.1)
+3-10-1-title: Share of persons who drink alcoholic beverages, percent (SDG indicator 3.10.1)
+4-1-1-title: Share of children aged 5 years attending pre-school educational institutions and structural divisions of legal entities under public and private law, percent (SDG indicator 4.1.1)
 4-2-1-title: Share of children aged 6–17 attending general secondary educational institutions, percent (SDG indicator 4.2.1) 1
 4-2-2-title: Share of general secondary education seekers aged 15 who achieved level 2 and above in key fields (reading, mathematics, natural sciences) according to the PISA scale, percent (SDG indicator 4.2.2)
 4-2-3-title: Number of seekers for general secondary, professional (vocational and technical) education from vulnerable categories of the population who are provided with computer equipment, thousand persons (SDG indicator 4.2.3)
@@ -195,111 +64,253 @@
 4-7-2-title: Share of children attending specialized art educational institutions that provide primary art education and structural divisions of legal entities under public and private law, percent (SDG indicator 4.7.2)
 4-7-3-title: Share of children attending specialized extracurricular sports educational institutions and structural divisions of legal entities under public and private law in the total population aged 6–18, percent (SDG indicator 4.7.3)
 4-8-1-title: Share of the population who claim to be proud of their Ukrainian origin or citizenship according to sociological research, percent (SDG indicator 4.8.1)
-5-1-1-title: Number of normative acts which were revised or adopted to provide men 
- and women with equal rights and opportunities and to prevent discrimination against women and girls, units
-5-2-1-title: Percentage of women and girls over the age of 15 who have ever
- partnered with a man and were physically, sexually, or psychologically abused
- by their current or previous intimate partner over the last 12 months, by
- form of violence and age
-5-2-2-title: Number of complaints regarding domestic violence, thousands
-5-2-3-title: Number of established specialized support services for victims of
- domestic violence
-5-2-4-title: Number of child victims of abuse
-5-2-5-title: Number of persons who participated in programs for abusers
-5-2-6-title: Number of specialists trained in preventing and combating domestic
- violence 
-5-2-7-title: Number of specialists trained in preventing and combating
- discrimination against women 
-5-2-8-title: Number of social services provided according to the needs of
- persons that complained regarding domestic violence
-5-2-9-title: Number of information campaigns on combating domestic
- violence conducted
-5-2-10-title: Number of persons covered by information campaigns
- on combating domestic violence
-5-2-11-title: Percentage of increase in zero tolerance to all manifestations of
- violence among the population of Ukraine
-5-2-12-title: Percentage of funds available in relevant local budgets for regional
- programs of combating domestic violence
-5-3-1-title: Ratio of duration of unpaid domestic work (housekeeping,
- care for children and other family members etc.) between men and women, %
-5-4-1-title: Share of women among the Members of Parliament of Ukraine, %
-5-4-2-title: Share of women among the members of regional councils and local
- councils of regional significance, %
-5-4-3-title: Share of women in the category ‘A’, ‘B’, ‘C’ civil service positions 
-5-5-1-title: Birth rate under the age of 20, per 1,000 women aged 15-19
-5-6-1-title: Ratio of average wages for men and women, %
-5-6-2-title: Employment rate of women aged 25-44 with children aged 3-5, %
-6-1-1-title: Safety and quality of drinking water by microbiological parameters
- (% of non-standard samples)
-6-1-2-title: Safety and quality of drinking water by radiation parameters
- (% of non-standard samples)
-6-1-3-title: Safety and quality of drinking water by organoleptic,
- physico-chemical and sanitary-toxicological parameters (% of non-standard samples)
-6-1-4-title: Share of the rural population with access to centralized water 
- supply, %
-6-1-5-title: Share of the urban population with access to centralized water
- supply, %
-6-2-1-title: Share of the rural population with access to a centralized water
- drain, %
-6-2-2-title: Share of the urban population with access to a centralized water
- drain, %
-6-3-1-title: Volume of discharge of polluted (polluted without treatment or
- insufficiently treated) wastewater into water bodies, millions of cubic metres
-6-3-2-title: Share of discharge of polluted (polluted without treatment or
- insufficiently treated) wastewater into water bodies in total discharges, %
-6-4-1-title: Water content of GDP, cubic metres of water used per UAH 1,000
- of GDP (actual prices)
-6-4-2-title: Current water content of GDP to 2015 level, %
-6-5-1-title: Number of river basins with approved river basin management plans, units
-7-1-1-title: Generation of power, billions of KWh
-7-1-2-title: Electric power distribution losses, %
-7-1-3-title: Heat losses in heat networks, %
-7-2-1-title: Maximum share of imported primary energy (excluding nuclear fuel)
- from one country (company) in the total supply (imports), %
-7-2-2-title: Share of one supplier of the nuclear fuel market, %
-7-3-1-title: Share of energy produced from renewable sources in total final energy
- consumption, %
-7-4-1-title: Energy intensity of GDP (primary energy consumption per unit of GDP),
- kg of oil equivalent per USD 1 by PPP 2011
-8-1-1-title: GDP volume index, %
-8-1-2-title: Share of gross fixed capital to GDP, %
-8-1-3-title: Share of exports of goods whose production uses technologies of high
- and medium high level in total exports of goods, % (groups ‘Products of chemical
- and related industries’, ‘Polymers, plastics and articles thereof’, ‘Machinery,
- equipment and mechanisms, electrical equipment’, ‘Ground transportation, aircraft,
- floating craft’, 90th subgroup of the group ‘Optical and photographic devices and
- appliances’ (UCGFEA))
-8-1-4-title: Ukraine`s position as rated by the Global Innovation Index
-8-2-1-title: The return on assets
-8-2-2-title: Labor productivity index, %
-8-3-1-title: Employment rate among those aged 20-64, %
-8-4-1-title: Share of youth not in employment, education or professional training in
- the total number of those aged 15-24, %
-8-5-1-title: Number of victims of accidents at work that led to disability of 1 day
- or more, % of 2015 level
-8-5-2-title: Number of workers killed in accidents at work, % of 2015 level
-8-5-3-title: Share of workers employed in jobs with hazardous working conditions
- in the total full-time payroll, %
-8-6-1-title: Number of persons employed by SMEs, million persons
-8-6-2-title: Share of value added against production costs of SMEs, % of total value
- added against production costs
-8-6-3-title: Ukraine’s position in the rating of Doing Business
-9-1-1-title: Share of the rural population living further than 3 km from paved roads, %
-9-1-2-title: Volume of transported goods, million tonnes
-9-1-3-title: Number of passengers, million persons
-9-1-4-title: Degree of depreciation of assets by TEA ‘Transport, storage, post and courier services’, %
-9-2-1-title: Share of electric transport in domestic traffic, %
-9-3-1-title: Share of hard-surface principal public roads that meet the regulatory
- requirements, %
-9-3-2-title: Share of facilities of public and civil use, improvement equipped
- to the needs of people with disabilities, %
-9-4-1-title: Share of value added against production costs of enterprises that belong to the high-tech sector of processing industry (in particular, manufacture of pharmaceutical products and preparations; computers, electronic and optical products; aircraft and spacecraft; related equipment according to CTEA) in the total value added against production cost, %
-9-4-2-title: Share of value added against production costs of enterprises that belong to the medium high-tech sector of processing industry (including production of chemical products; electrical equipment; machinery and equipment; motor vehicles, trailers and semi-trailers; other vehicles according to CTEA) in total value added against production cost, %
-9-4-3-title: Share of workers employed by enterprises that belong to the high- and medium high-tech sectors of processing industry (including production of pharmaceutical products and preparations; chemicals; mechanical engineering; computers, electronic and optical products; aircraft and spacecraft; related equipment according to CTEA) in the total number of workers employed in industry, %
-9-5-1-title: Share of expenditure on scientific research and development in GDP, %
-9-5-2-title: Share of sales of innovative products in total sales of industrial products, %
-9-6-1-title: Population coverage with Internet services, subscribers per 100 persons
-9-7-1-title: Share of researchers under 40 in the total number of researchers
+5-1-1-title: Share of regulatory and legal acts adopted by the Cabinet of Ministers of Ukraine that comply with the principle of ensuring equal rights and opportunities for women and men in the total number of regulatory and legal acts monitored, percent (SDG indicator 5.1.1)
+5-1-2-title: Share of satisfied appeals in the total number of appeals regarding actions recognized as gender-based discriminatory that were received by state authorities, percent (SDG indicator 5.1.2)
+5-1-3-title: Share of the population that claims to be aware of information about manifestations of gender-based discrimination, percent
+5-1-4-title: Share of the population that is satisfied with the actions of the authorities to eliminate manifestations of gender-based discrimination against themselves or their relatives in the last 12 months, percent (SDG indicator 5.1.4)
+5-2-1-title: Share of the population that is aware of information about manifestations of domestic violence and gender-based violence, tools and opportunities to protect rights in the event of manifestations of such violence and considers such violence unacceptable (has zero tolerance for violence), percent (SDG indicator 5.2.1)
+5-2-2-title: Share of women and girls aged from 15 to 49 years who have experienced gender-based violence by a spouse, fiancé or cohabiting partner in the last 12 months, percent (SDG indicator 5.2.2)
+5-2-3-title: Share of the population that is willing to report cases of gender-based violence and domestic violence to law enforcement agencies, percent
+5-2-4-title: Share of persons who suffered from sexual violence related to the armed aggression of the Russian Federation against Ukraine and who were provided with assistance by general and specialized victim support services in the total number of persons who submitted relevant applications, percent (SDG indicator 5.2.4)
+5-2-5-title: Share of victims of domestic violence and gender-based violence who received assistance from general and specialized victim support services in the total number persons who submitted relevant applications, percent (SDG indicator 5.2.5)
+5-3-1-title: Birth rate under the age of 20, per 1,000 women aged 15–19 (SDG indicator 5.3.1)
+5-3-2-title: Share of women aged 15-49 who make their own informed decisions about sexual relations, contraceptive use and reproductive health, percent (SDG indicator 5.3.2)
+5-4-1-title: Share of preschool children under the age of 2 years in the total number of children of the corresponding age, percent
+5-4-2-title: Share of men receiving assistance at the birth of a child in the total number of assistance recipients, percent
+5-4-3-title: Share of men who took paternity leave at the birth of a child, percent (SDG indicator 5.4.3)
+5-4-4-title: Share of persons with children under 3 years old who returned to work from parental leave before the child reached the age of 3 (when the child was under 1.5 years old), percent (SDG indicator 5.4.4)
+5-4-5-title: Share of employed persons who daily care for children/grandchildren/elderly relatives/relatives with disabilities in the total number of surveyed persons over 18 years of age, percent (SDG indicator 5.4.5)
+5-4-6-title: Share of employed persons who play sports daily or several times a week, are involved in cultural activities or leisure activities outside the home and are engaged in volunteer activities at least once a month in the total number of surveyed persons over 15 years of age, percent
+5-5-1-title: Ratio of women to men in the Verkhovna Rada of Ukraine, percent (SDG indicator 5.5.1)
+5-5-2-title: Ratio of women to men elected as deputies of the Verkhovna Rada of the Autonomous Republic of Crimea, regional, district, city, district councils in cities, village, settlement councils, percent (SDG indicator 5.5.2)
+5-5-3-title: Ratio of women and men in the Cabinet of Ministers of Ukraine, percent (SDG indicator 5.5.3)
+5-5-4-title: Ratio of women to men in civil service positions of category "A", percent (SDG indicator 5.5.4)
+5-5-5-title: Ratio of women to men among Ukrainian ambassadors to foreign countries, percent (SDG indicator 5.5.5)
+5-5-6-title: Ratio of women to men among judges, percent (SDG indicator 5.5.6)
+5-5-7-title: Ratio of women to men among members of the highest governing authority of national non-Olympic sports organisations, percent
+5-5-8-title: Ratio of women to men among members of the highest governing authority of national Olympic sports organizations, percent
+5-6-1-title: Share of persons employed in education, health care and social services in the total number of employed population aged 15 and over, percent (SDG indicator 5.6.1)
+5-6-2-title: Share of registered legal entities in which women hold managerial positions in the total number of registered legal entities, percent                     (SDG indicator 5.6.2)
+5-6-3-title: Share of registered women individual entrepreneurs in the total number of registered individual entrepreneurs, percent
+5-6-4-title: Share of active enterprises in which women hold managerial positions in the total number of active enterprises, percent (SDG indicator 5.6.4)
+5-6-5-title: Share of girls studying in tertiary educational institutions in the field of training "Informatics and Computer Engineering" in the total number of students studying in this field, percent (SDG indicator 5.6.5)
+5-7-1-title: Share of educational institutions that have approved policies/regulations on compliance with the principles of ensuring equal rights and opportunities for women and men, preventing and combating gender-based violence, gender-based discrimination and sexual harassment, percent
+5-7-2-title: Number of educational institutions that have undergone gender-legal expertise of internal regulatory documents, units (SDG indicator 5.7.2)
+5-7-3-title: Number of institutions of professional (vocational and technical), tertiary and postgraduate education that have introduced the institute of counselling on issues of ensuring equal rights and opportunities for women and men, non-discrimination and inclusion, units (SDG indicator 5.7.3)
+5-7-4-title: Share of educational institutions that have introduced the principles of gender-sensitive, non-discriminatory language into document flow, percent (SDG indicator 5.7.4)
+5-7-5-title: Number of certification programs for training specialists in the field of ensuring equal rights and opportunities for women and men, advanced training on issues of ensuring equal rights and opportunities for women and men, gender equality, respect for human dignity, prevention and combating violence and discrimination, in particular on gender-based discrimination, inclusiveness, units (SDG indicator 5.7.5)
+5-7-6-title: Number of pedagogical and scientific-pedagogical workers who have successfully completed advanced training/internship programs on the topic of ensuring equal rights and opportunities for women and men, non-discrimination and inclusion, taking into account the gender aspect, units (SDG indicator 5.7.6)
+6-1-1-title: 'Drinking water that meets state sanitary standards and regulations by types of indicators, percent of non-standard samples:
+for microbiological indicators: urban water supply, rural water supply, non-centralized water supply;
+for sanitary-chemical indicators: urban water supply, rural water supply, non-centralized water supply;
+for radiation indicators: urban water supply, rural water supply, non-centralized water supply (SDG indicator 6.1.1)'
+6-1-2-title: 'Share of the population with access to centralized water supply, percent: urban population, rural population (SDG indicator 6.1.2)'
+6-1-3-title: Share of worn-out water supply grids in the total length of water supply grids, percent (SDG indicator 6.1.3)
+6-1-4-title: Structure of drinking water consumption among the population by supply methods, percent (SDG indicator 6.1.4)
+6-2-1-title: 'Share of the population with access to centralized water drainage systems, percent: urban population, rural population (SDG indicator 6.2.1)'
+6-2-2-title: Share of worn-out water drainage networks in the total length of water drainage grids, percent (SDG indicator 6.2.2)
+6-3-1-title: Volume of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into water bodies, million cubic meters (SDG indicator 6.3.1)
+6-3-2-title: Share of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into water bodies in the total volume of discharges, percent (SDG indicator 6.3.2)
+6-3-3-title: Share of surface water bodies classified as having "good" ecological and chemical status, percent (SDG indicator 6.3.3)
+6-4-1-title: Water capacity of the gross domestic product, cubic metres of water used per UAH 1,000 of the gross domestic product (at current prices)
+6-4-2-title: Current water capacity of the gross domestic product compared to 2015, percent (SDG indicator 6.4.2)
+6-5-1-title: Number of river basins for which management plans have been approved, units (SDG indicator 6.5.1)
+6-5-2-title: Share of transboundary river basins for which agreements on joint water resources management have been concluded, percent               (SDG indicator 6.5.2)
+7-1-1-title: Coverage ratio of electricity consumption by own production (SDG indicator 7.1.1)
+7-1-2-title: Coverage ratio of natural gas consumption by own production (SDG indicator 7.1.2)
+7-1-3-title: 'Maximum share of imports of energy resources from one country in the total volume of their imports in quantitative terms by type of energy resources, percent: anthracite coal (code according to UCGFEA 2701 11 00 00); motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99); diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00); liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00); natural gas (code according to UCGFEA 2711 21 00 00); non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00) (SDG indicator 7.1.3)'
+7-2-1-title: Share of territorial communities covered by microgrid distribution systems based on "smart grids" in the total number of territorial communities, percent (SDG indicator 7.2.1)
+7-3-1-title: 'System average interruption duration index (SAIDI) in electricity supply due to the fault of companies (planned without warning interruptions and interruptions associated with technological disruptions in electricity supply) by type of area at voltage levels of 0.4–20 kilovolts, minutes: urban, rural (SDG indicator 7.3.1)'
+7-3-2-title: 'Indicators of technological costs in power grids: share of technological costs of electricity in power grids (from the selection volume), percent; share of technological costs of electricity in distribution power grids (from the selection volume), percent (SDG indicator 7.3.2)'
+7-3-3-title: Share of losses during district heating transportation, percent (SDG indicator 7.3.3)
+7-3-4-title: Share of the length of pre-insulated pipelines in trunk and local (distribution) heating grids, percent (SDG indicator 7.3.4)
+7-3-5-title: 'Indicators of production and technological costs in natural gas supply grids: production and technological costs during natural gas transportation, million cubic metres, production and technological costs during natural gas distribution, million cubic metres (SDG indicator 7.3.5)'
+7-4-1-title: Share of greenhouse gas emissions at enterprises producing electricity and heat compared to 1990, percent (SDG indicator 7.4.1)
+7-4-2-title: 'Share of energy produced from renewable sources in total final energy consumption by sectors, percent: electricity, heating and cooling, transport (SDG indicator 7.4.2)'
+7-4-3-title: Share of electricity from renewable sources that was not released to the Unified Energy System of Ukraine as a result of the execution of the transmission system operator's commands, percent (SDG indicator 7.4.3)
+7-4-4-title: Share of renewable electricity facilities in the installed generating capacity of the Unified Energy System of Ukraine, percent
+7-5-1-title: Energy intensity of the gross domestic product (primary energy expenditures per unit of the gross domestic product) at the purchasing power parity of the base year, tons of oil equivalent/thousand international dollars (SDG indicator 7.5.1)
+7-5-2-title: 'Indicators of energy consumption by households: share of energy consumption by the household sector in total final energy consumption, percent; specific energy consumption of residential buildings, kilowatt-hours per square metre (SDG indicator 7.5.2)'
+7-5-3-title: 'Average monthly electricity consumption per household consumer, kilowatt–hours: without electric heating, with electric heating  (SDG indicator 7.5.3)'
+7-5-4-title: Level of equipping consumers with smart electricity meters, percent (SDG indicator 7.5.4)
+7-5-5-title: Specific natural gas consumption by household consumers for comprehensive use, including for heating, cubic meters/square meter
+7-5-6-title: Average monthly natural gas consumption per household consumers for comprehensive use, including for heating, cubic meters
+7-5-7-title: Level of equipping consumers with commercial natural gas metering units equipped with remote data transmission capabilities, percent
+7-5-8-title: Specific consumption of equivalent fuel per unit of heat energy supplied (from collectors of sources) in district heating systems, kilograms of equivalent fuel per giga-calorie (SDG indicator 7.5.8)
+7-5-9-title: 'Level of equipping buildings with commercial metering units by types, percent: heat energy (in residential buildings; in non-residential buildings); hot water (in residential buildings; in non-residential buildings); drinking water (in residential buildings; in non-residential buildings)  (SDG indicator 7.5.9)'
+7-5-10-title: Energy transparency index, points (SDG indicator 7.5.10)
+7-6-1-title: Share of persons living in households and suffering from insufficient funds for timely and full payment of housing and communal services and for the purchase of liquefied gas, solid and liquid domestic heating fuel, percent (SDG indicator 7.6.1)
+7-6-2-title: Share of persons living in households and suffering from insufficient funds to maintain a sufficiently warm temperature in their homes (for the purchase of fuel, heater, etc.) during the heating season, percent (SDG indicator 7.6.2)
+7-6-3-title: Average monthly share of the total expenditures of an average household for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), given the amount of non-cash benefits and subsidies, percent (SDG indicator 7.6.3)
+7-6-4-title: Average monthly share of the total expenditures of an average household for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), which is covered by benefits and subsidies, percent (SDG indicator 7.6.4)
+7-7-1-title: Share of households receiving subsidies for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), percent (SDG indicator 7.7.1)
+7-7-2-title: Share of households receiving subsidies for the purchase of liquefied gas, solid and liquid domestic heating fuel, percent (SDG indicator 7.7.2)
+8-1-1-title: Share of gross fixed capital formation in the gross domestic product, percent (SDG indicator 8.1.1)
+8-1-2-title: Share of exports of goods whose production uses technologies of high and medium high level in total exports of goods (groups 28−38, 39−40, 84−85, 86−89, 90, 91 (except for commodity heading 9113) according to UCGFEA), percent (SDG indicator 8.1.2)
+8-1-3-title: Ukraine’s position as rated by the Global Innovation Index (SDG indicator 8.1.3)
+8-1-4-title: Labor productivity index, percent (SDG indicator 8.1.4)
+8-2-1-title: Employment rate of the population aged 15–70 years, percent (SDG indicator 8.2.1)
+8-2-2-title: Unemployment rate of the population aged 15–70 years (by ILO methodology), percent (SDG indicator 8.2.2)
+8-2-3-title: Share of unemployed aged 15–70 who have been looking for work for 12 months or more in the total number of unemployed, percent (SDG indicator 8.2.3)
+8-2-4-title: Share of youth not in employment, education or professional training in the total population of the relevant age, percent
+8-3-1-title: Number of persons injured as a result of accidents at work (excluding accidents that occurred as a result of the armed aggression of the Russian Federation against Ukraine) per 100,000 working persons (SDG indicator 8.3.1)
+8-3-2-title: Share of workers employed in jobs with hazardous working conditions in the total number of regular employees, percent
+8-4-1-title: Share of persons employed of entities of medium and small entrepreneurship in the total number of persons employed at business entities, percent (SDG indicator 8.4.1)
+8-4-2-title: Share of value added by production costs of medium and small entrepreneurship in the total value added by production costs of business entities, percent (SDG indicator 8.4.2)
+9-1-1-title: Share of expenditures on research and development (R&D) in the gross domestic product, percent (SDG indicator 9.1.1)
+9-1-2-title: Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent
+9-1-3-title: Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent (SDG indicator 9.1.3)
+9-1-4-title: R&D personnel per 1,000 employees (aged 15 and over), persons (SDG indicator 9.1.4)
+9-1-5-title: Share of funds attracted by tertiary educational institutions for scientific activities from other sources not prohibited by law in the total amount of funds allocated for scientific activities, percent (SDG indicator 9.1.5)
+9-1-6-title: Number of concluded agreements on technology transfer, units (SDG indicator 9.1.6)
+9-1-7-title: Amount of funds received as a result of the implementation of technology transfer agreements, million UAH (SDG indicator 9.1.7)
+9-1-8-title: Share of innovatively active enterprises in the total number of enterprises, percent
+9-1-9-title: R&D personnel per million persons of the present population, persons (SDG indicator 9.1.9)
+9-2-1-title: Share of the volume of sold products (goods, services) of enterprises that belong to production using technologies of high, medium-high, medium-low and low level in the total volume of sold products (goods, services) of industrial enterprises, percent (SDG indicator 9.2.1)
+9-2-2-title: Share of persons employed at enterprises that belong to production using technologies of high, medium-high, medium-low and low level in the total number of persons employed at industrial enterprises, percent (SDG indicator 9.2.2)
+9-2-3-title: Share of value added by production costs of enterprises belonging to production using high level technologies in the total value added by production costs of industrial enterprises, percent (SDG indicator 9.2.3)
+9-2-4-title: Share of value added by production costs of enterprises belonging to production using high level and medium-high level technologies in the total value added by production costs of industrial enterprises, percent (SDG indicator 9.2.4)
+9-2-5-title: Share of persons employed at enterprises that belong to production using technologies of high and medium-high level in the total number of persons employed at industrial enterprises, percent (SDG indicator 9.2.5)
+9-2-6-title: Share of operating enterprises that belong to production using technologies of high level in the total number of operating enterprises of the processing industry, percent (SDG indicator 9.2.6)
+9-2-7-title: Share of gross value added of the processing industry in the gross domestic product, percent (SDG indicator 9.2.7)
+9-2-8-title: Share of persons employed at business entities of the processing industry in the total number of persons employed at business entities, percent (SDG indicator 9.2.8)
+9-3-1-title: Volume of goods transported by all modes of transport, million tons per year (SDG indicator 9.3.1)
+9-3-2-title: Number of passengers transported by all modes of transport, million persons per year (SDG indicator 9.3.2)
+9-3-3-title: Level of satisfaction of consumers of transport services per 100 persons, percent (SDG indicator 9.3.3)
+9-3-4-title: Share of the rural population living at a distance of more than 3 kilometers from a paved road, percent (SDG indicator 9.3.4)
+9-3-5-title: Share of motor transport in the total volume of the unified transport system, percent (SDG indicator 9.3.5)
+9-3-6-title: Share of railway transport in the total volume of the unified transport system, percent (SDG indicator 9.3.6)
+9-3-7-title: Share of water transport in the total volume of the unified transport system, percent (SDG indicator 9.3.7)
+9-3-8-title: Share of air transport in the total volume of the unified transport system, percent (SDG indicator 9.3.8)
+9-3-9-title: Share of pipeline transport in the total volume of the unified transport system, percent (SDG indicator 9.3.9)
+9-4-1-title: Share of public roads of state importance with a hard surface that meet regulatory requirements, percent (SDG indicator 9.4.1)
+9-4-2-title: Share of settlements in which sections of streets and roads that are combined with highways of national importance have a hard surface, percent (SDG indicator 9.4.2)
+9-5-1-title: Share of electrified sections of internal railways, percent (SDG indicator 9.5.1)
+9-5-2-title: Indicator of charging stations for electric vehicles (number of charging stations per 200 kilometers of international and national roads of public importance), units (SDG indicator 9.5.2)
+9-6-1-title: Share of households covered by high-speed broadband Internet access networks, percent (SDG indicator 9.6.1)
+9-6-2-title: Share of households with fixed broadband Internet access at a speed of at least 100 Mbps, percent (SDG indicator 9.6.2)
+9-6-3-title: Share of households with fixed broadband Internet access at a speed of at least 1 Gbps, percent (SDG indicator 9.6.3)
+9-6-4-title: Share of the population aged 16 to 74 who used Internet services during the last three months, percent (SDG indicator 9.6.4)
+9-7-1-title: Share of financed restoration and development projects included in the Unified Digital Integrated Information and Analytical System for Management of the Process of Reconstruction of Real Estate, Construction and Infrastructure (DREAM Ecosystem) in the total number of submitted projects, percent (SDG indicator 9.7.1)
+9-7-2-title: Share of implemented restoration and development projects included in the Unified Digital Integrated Information and Analytical System for Management of the Process of Reconstruction of Real Estate, Construction and Infrastructure (DREAM Ecosystem) in the total number of submitted projects, percent (SDG indicator 9.7.2)
+10-1-1-title: Gini index (SDG indicator 10.1.1)
+10-1-2-title: Ratio of the average monthly wage (income) of the 10th and 1st decile groups of employees (decile coefficient), times
+10-2-1-title: Share of persons who reported that they had personally encountered manifestations of gender-based discrimination in the last 12 months in the total number of persons who submitted appeals to the expert council on gender-based discrimination and commissions, percent
+10-2-2-title: Share of reports of discrimination in the total number of reports received by the Commissioner for Human Rights of the Verkhovna Rada of Ukraine during the reporting period, percent (SDG indicator 10.2.2)
+10-2-3-title: Difference in average wages per hour worked for women and men, percent (SDG indicator 10.2.3)
+10-3-1-title: Share of households suffering from the absence of health care facilities near housing, percent (SDG indicator 10.3.1)
+10-3-2-title: Share of rural households that suffer from the lack of regular daily transport links with another settlement with developed infrastructure, percent (SDG indicator 10.3.2)
+10-3-3-title: Share of persons provided with basic social services in territorial community in the total number of persons in need of such services, percent (SDG indicator 10.3.3)
+10-4-1-title: Wage replacement rate by pensions (relative to 0.5 average wage, full average wage and 1.5 average wage) (SDG indicator 10.4.1) 1
+10-4-2-title: Ratio of average pension to average wage in the economy of Ukraine (with relevant insurance experience), percent
+10-5-1-title: Share of persons among groups with reduced mobility who reported that in the last 12 months they personally faced obstacles in access to public places, percent (SDG indicator 10.5.1)
+10-6-1-title: Share of persons who have personally encountered manifestations of age discrimination in the professional environment, in the labour market, in career growth, in the service sector, etc., percent (SDG indicator 10.6.1)
+10-7-1-title: Increasing the level of manageability of migration and mobility of people, in particular through the implementation of a planned and well-managed migration policy (SDG indicator 10.7.1)
+10-7-2-title: Effective management of migration processes and counteraction to illegal migration, which will contribute to safe, legal and responsible migration (SDG indicator 10.7.2)
+11-1-1-title: Share of families/citizens (total of all family members) who have benefited from housing programs in the total number of families/citizens in need of housing, percent (SDG indicator 11.1.1)
+11-1-2-title: Share of families/citizens (total of all family members) living in social housing in the total number of families/citizens in need of housing, percent (SDG indicator 11.1.2)
+11-1-3-title: Share of families/citizens (total of all family members) living in the housing stock for temporary residence in the total number of families/citizens in need of housing, percent (SDG indicator 11.1.3)
+11-1-4-title: Share of applicants who received compensation for housing damaged as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for damaged housing using the electronic public service "eRecovery", percent (SDG indicator 11.1.4)
+11-1-5-title: Share of applicants in respect of whom a positive decision was made to provide compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for destroyed housing using the electronic public service "eRecovery", percent (SDG indicator 11.1.5)
+11-1-6-title: Share of applicants who used the received compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants in respect of whom a positive decision was made to provide compensation for destroyed housing using the electronic public service "Recovery", percent (SDG indicator 11.1.6)
+11-2-1-title: Average speed of public transport in regional centers, kilometers per hour (SDG indicator 11.2.1)
+11-2-2-title: Reducing in the number of persons killed or injured as a result of traffic accidents on public vehicles, compared to 2024, percent (SDG indicator 11.2.2)
+11-2-3-title: Share of electric buses and buses equipped with spark-ignition internal combustion engines, operating exclusively on compressed natural gas methane, liquefied natural gas methane or biogas and/or buses with a hydrogen fuel cell in the total number of buses on urban public bus routes, percent (SDG indicator 11.2.3)
+11-2-4-title: Share of parking lots allocated for paid parking in cities with a population of more than 250,000 inhabitants in the total number of parking lots, percent (SDG indicator 11.2.4)
+11-2-5-title: Share of equipped parking spaces for delivery vehicles in cities with a population of more than 250,000 inhabitants in the total number of places organized for parking, percent (SDG indicator 11.2.5)
+11-2-6-title: Cost of car parking services in cities with a population of more than 250,000 inhabitants, UAH per hour (per month)
+11-2-7-title: Share of trips by urban electric transport and electric buses in the total number of urban public routes, percent (SDG indicator 11.2.7)
+11-2-8-title: Share of bicycle paths (paths, bicycle lanes, etc., pedestrian zones and streets with a speed limit of up to 30 kilometers per hour) in the total number of motor roads in settlements or on the territory of territorial community, percent (SDG indicator 11.2.8)
+11-2-9-title: Share of public transport accessible to persons with disabilities and provided with ramps, percent (SDG indicator 11.2.9)
+11-2-10-title: Number of tourist infrastructure facilities accessible to persons with disabilities, units (SDG indicator 11.2.10)
+11-3-1-title: Share of the built-up areas of cities, which is an open space for common use, percent (SDG indicator 11.3.1)
+11-3-2-title: Share of cities where a transport model has been created/developed within pedestrian accessibility, percent (SDG indicator 11.3.2)
+11-3-3-title: Share of urban inhabitants who have access to water bodies within pedestrian accessibility, percent (SDG indicator 11.3.3)
+11-3-4-title: Share of the number of public places that meet the criterion of inclusiveness in the total number of public places in territorial communities and cities, percent (SDG indicator 11.3.4)
+11-4-1-title: Share of the population aware of the rules of conduct in emergency situations, percent (SDG indicator 11.4.1)
+11-4-2-title: Share of the population provided with shelters in the civil protection facilities fund, in the total population of the relevant territory, percent (SDG indicator 11.4.2)
+11-4-3-title: Share of urban planning documents at the regional and local levels (except for detailed plans) with developed engineering and technical measures of civil protection in the total number of such documents, percent (SDG indicator 11.4.3)
+11-4-4-title: Suitability for use of the civil protection facilities fund (suitable/unsuitable), percent (SDG indicator 11.4.4)
+11-4-5-title: Share of territorial communities with emergency response plans developed in accordance with the established procedure, percent
+11-4-6-title: Share of the required number of units to provide voluntary and local fire protection in rural area, given the time of arrival to the place of call not more than 20 minutes, percent (SDG indicator 11.4.6)
+11-4-7-title: Share of automated centralized warning systems in which technical modernization has been carried out in the total number of automated centralized warning systems, percent (SDG indicator 11.4.7)
+11-5-1-title: Mass of household waste, million tons (SDG indicator 11.5.1)
+11-5-2-title: Share of recovered household waste in the total volume of generated household waste, percent (SDG indicator 11.5.2)
+11-5-3-title: Share of wastewater that has undergone complete biological treatment in the total amount of wastewater, percent (SDG indicator 11.5.3)
+11-6-1-title: Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units (SDG indicator 11.6.1)
+11-6-2-title: Number of cultural heritage monuments of national importance included in the State Register of Immovable Monuments of Ukraine, units (SDG indicator 11.6.2)
+11-6-3-title: Area of the nature reserve fund of national importance and local importance, percent of the territory of Ukraine (SDG indicator 11.6.3)
+11-6-4-title: Number of cultural heritage monuments of national importance for which protection agreements have been concluded, units
+11-6-5-title: Number of destinations certified according to international standards of sustainable development, units (SDG indicator 11.6.5)
+11-7-1-title: Specific energy consumption of buildings, kilowatt-hours per square metrе (SDG indicator 11.7.1)
+11-7-2-title: Number of buildings with energy efficiency class B and above, units (SDG indicator 11.7.2)
+12-1-1-title: Volume of generated waste per person, kilograms (SDG indicator 12.1.1)
+12-1-2-title: Share of recovered waste in the volume of generated waste, percent (SDG indicator 12.1.2)
+12-1-3-title: Share of separately collected waste transferred to biological decomposition in the total amount of separately collected waste, percent
+12-2-1-title: Food loss index, percent (SDG indicator 12.2.1)
+12-3-1-title: 'Resource intensity of the gross domestic product (ratio of consumed physical volumes of natural resources, generated waste and emissions of pollutants to the volume of the gross domestic product) compared to 2015, percent: energy intensity of the gross domestic product, material intensity of the gross domestic product, carbon intensity of the gross domestic product, water intensity of the gross domestic product, waste intensity of the gross domestic product (SDG indicator 12.3.1)'
+12-4-1-title: Share of enterprises that have implemented chemical management systems in accordance with international standards in the total number of enterprises using hazardous chemicals, percent (SDG indicator 12.4.1)
+12-5-1-title: Number of educational programs for general secondary educational institutions, in which the issues of responsible consumption and production are integrated, units (SDG indicator 12.5.1)
+12-5-2-title: Share of the population informed about the importance of responsible consumption, percent (SDG indicator 12.5.2)
+13-1-1-title: Total volume of emissions and absorption of greenhouse gases compared to 1990, percent (SDG indicator 13.1.1)
+13-2-1-title: Increasing in capacity of biomass boiler houses compared to 2020, percent (SDG indicator 13.2.1)
+14-1-1-title: Concentration of the main pollutants in seawater by substances, milligrams per cubic meter (SDG indicator 14.1.1)
+14-1-2-title: 'Amount of litter in the marine environment and on the coast: beach garbage, units per 100 meters of beach length, 
+floating marine debris, units per square kilometer of sea surface (SDG indicator 14.1.2)'
+14-1-3-title: Volume of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into the marine environment, million cubic meters (SDG indicator 14.1.3)
+14-2-1-title: Average annual change in hydrogen index in seawater, pH units (SDG indicator 14.2.1)
+14-2-2-title: Area of territories and objects of the nature reserve fund of the coastal regions in the total area of the territory of the coastal regions, percent (SDG indicator 14.2.2)
+14-2-3-title: 'Water quality indicator (milligrams per cubic decimeter) by components, percent: phosphate phosphorus; total phosphorus; nitrate nitrogen; nitrite nitrogen; ammonium nitrogen; dissolved mineral nitrogen; total nitrogen; chlorophyll-a; transparency; dissolved oxygen; biological oxygen consumption in five days (SDG indicator 14.2.3)'
+14-3-1-title: Share of caught aquatic biological resources in the total volume of established limits, percent (SDG indicator 14.3.1)
+15-1-1-title: Area of territories and objects of the nature reserve fund, thousand hectares (SDG indicator 15.1.1)
+15-1-2-title: Number of species of fauna and flora listed in the Red Book of Ukraine, units (SDG indicator 15.1.2)
+15-2-1-title: Forested territory of the country, percent (SDG indicator 15.2.1)
+15-2-2-title: Wood stocks in forests, million cubic meters (SDG indicator 15.2.2)
+15-3-1-title: Content of organic matter (humus) in soils of agricultural land, percent (SDG indicator 15.3.1)
+15-3-2-title: Share of degraded lands in the total area of agricultural land, information about which is entered into the State Land Cadastre, percent
+15-4-1-title: Area of the nature reserve fund in mountainous regions, thousand hectares (SDG indicator 15.4.1)
+15-4-2-title: Share of the area of the nature reserve fund in mountainous regions in the total area of the territory of Ukraine, percent
+15-5-1-title: Share of seized objects of the animal world in the total number of objects of the animal world, percent
+15-5-2-title: Share of cases of illegal hunting for which persons who violated the rules of hunting are brought to justice, percent
+15-6-1-title: Share of restored forests that were damaged or destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total area of damaged or destroyed forests, percent (SDG indicator 15.6.1)
+16-1-1-title: Share of the territory of Ukraine where state authorities exercise their powers in full, percent (SDG indicator 16.1.1)
+16-2-1-title: Area of the allegedly contaminated area identified by the results of a non-technical survey, square kilometers (hectares)
+16-2-2-title: Area of demined territories according to the results of external control of the quality of demining, square kilometers (hectares) (SDG indicator 16.2.2)
+16-2-3-title: Area of territories cleared of explosive objects according to the results of prompt response, square kilometers (hectares)
+16-2-4-title: Area of agricultural land demined at the expenditures of funds provided in the state budget to compensate for the costs of humanitarian demining of agricultural land, hectares (SDG indicator 16.2.4)
+16-3-1-title: Share of registered unemployed internally displaced persons employed with the assistance of the State Employment Service in the total number of registered unemployed internally displaced persons, percent (SDG indicator 16.3.1)
+16-3-2-title: Number of internally displaced persons living in places of temporary residence, persons (SDG indicator 16.3.2)
+16-3-3-title: Share of families from among internally displaced persons who are recipients of state social assistance to low-income families, percent (SDG indicator 16.3.3)
+16-4-1-title: Share of the population that is afraid of becoming a victim of physical violence by strangers, percent (SDG indicator 16.4.1)
+16-4-2-title: Share of messages received by the National Police at the emergency service telephone number 102, which reported the commission (possible commission) of violent acts (murder, bodily harm, domestic violence, sexual violence, rape, robbery, burglary, fight, illegal deprivation of liberty, hostage-taking, threat of physical violence) against the applicant or another person(s) not related to the armed aggression of the Russian Federation against Ukraine in the total number of messages received by the specified service, percent (SDG indicator 16.4.2)
+16-5-1-title: Share of criminal proceedings in which persons were notified of suspicion in the total number of criminal proceedings opened in the reporting year on trafficking in human beings or other illegal transactions on the transfer of a person, percent 1 (SDG indicator 16.5.1)
+16-5-2-title: Share of persons who have been granted the status of a victim of trafficking in human beings in the total number of persons who applied for the establishment of such status in the past year, percent (SDG indicator 16.5.2)
+16-5-3-title: Share of the population that is aware of actions in case of exploitation, recruitment, transportation, transfer, concealment or detention of people by the threat or use of force or other forms of coercion, percent (SDG indicator 16.5.3)
+16-6-1-title: Number of persons applying free legal aid, persons (SDG indicator 16.6.1)
+16-6-2-title: Level of awareness of the possibility of receiving free legal aid, percent (SDG indicator 16.6.2)
+16-6-3-title: Level of awareness of alternative ways of resolving conflicts (disputes), percent (SDG indicator 16.6.3)
+16-7-1-title: Number of identified risks based on the results of the National Risk Assessment in the field of prevention and counteraction the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction, units (SDG indicator 16.7.1)
+16-7-2-title: Indicator of risks of money laundering and terrorist financing in the Basel Anti-Money Laundering Index rating of the Basel Institute on Governance, points (SDG indicator 16.7.2)
+16-8-1-title: Share of recorded evident intentional homicide, ntentional grievous bodily harm, robbery (criminal offenses under Articles 115, 116, 118, 121, 187 of the Criminal Code of Ukraine) committed with the use of firearms and/or explosive devices in the total number of recorded evident intentional homicide, ntentional grievous bodily harm, robbery, percent (SDG indicator 16.8.1)
+16-8-2-title: Number of voluntarily surrendered firearms from among the previously registered, units (SDG indicator 16.8.2)
+16-9-1-title: Perception of the level of corruption according to the Corruption Perceptions Index, calculated by the international organization Transparency International, points (SDG indicator 16.9.1)
+16-9-2-title: Share of the population/business representatives who had their own corruption experience according to the results of the standard survey on corruption in Ukraine, conducted according to the methodology approved by the National Agency on Corruption Prevention, percent                                   (SDG indicator 16.9.2)
+16-10-1-title: Share of citizens who trust public authorities, percent (SDG indicator 16.10.1)
+16-10-2-title: Share of citizens who trust local self-government authorities, percent (SDG indicator 16.10.2)
+16-10-3-title: Share of citizens who positively assess the activities of state authorities, percent (SDG indicator 16.10.3)
+16-10-4-title: Share of citizens who positively assess the activities of local self-government authorities, percent (SDG indicator 16.10.4)
+16-10-5-title: Level of satisfaction of the subjects of application with the quality of the provision of administrative services in centers for the provision of administrative services, percent 1 (SDG indicator 16.10.5)
+16-11-1-title: Share of the population that used Internet services to interact with public authorities, percent (SDG indicator 16.11.1)
+16-11-2-title: Number of users of the Unified State Web Portal of Open Data, million persons (SDG indicator 16.11.2)
+16-12-1-title: Number of public consultations conducted by executive authorities, units (SDG indicator 16.12.1)
+16-13-1-title: National level of cooperation in territorial communities (as an indicator of social cohesion), points (SDG indicator 16.13.1)
+16-13-2-title: National level of social tolerance, points (SDG indicator 16.13.2)
+16-13-3-title: Share of the population that feels safe in their area of residence, percent (SDG indicator 16.13.3)
+17-1-1-title: Volume of private remittances to Ukraine, percent of the gross domestic product (SDG indicator 17.1.1)
+17-1-2-title: Volume of foreign direct investment (according to the balance of payments), percent of the gross domestic product (SDG indicator 17.1.2)
+17-1-3-title: Volume of registered issues of domestic local loan bonds, billion UAH per year (ratio of bond issues to the gross domestic product, percent) (SDG indicator 17.1.3)
+17-1-4-title: Volume of registered issues of shares, corporate bonds, billion UAH per year (ratio of attracted private capital to the gross domestic product, percent) (SDG indicator 17.1.4)
+17-2-1-title: Number of public-private partnership projects, units (SDG indicator 17.2.1)
 
 1-1-1-a-title: Share of the population whose average per capita equivalent total
  expenditure is lower than the actual (estimated) subsistence minimum, %

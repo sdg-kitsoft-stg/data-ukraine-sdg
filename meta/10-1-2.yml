@@ -1,6 +1,5 @@
 SDG_GOAL: 10 Reduce inequality
-SDG_TARGET: 10.1 Ensure accelerated growth of income of the least well-off 40 percent of the population
-SDG_INDICATOR: 10.1.2 Share of total income of the least well-off 40% in the total income of population, %
-UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: 2022-2023 — In accordance with the norms of the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct random surveys of the population (households), as a result of which they do not have the opportunity to receive information based on their results.
+SDG_TARGET: 10.1 Promoting the reduce of difference in the level of income of the population
+SDG_INDICATOR: 10.1.2 Ratio of the average monthly wage (income) of the 10th and 1st decile groups of employees (decile coefficient), times  (SDG indicator 10.1.2)
+CONTACT_ORGANISATION: Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine
+REC_USE_LIM: 1 Regional data are not available. 2 Data are calculated for partially occupied regions and have atypical values.

@@ -15,10 +15,7 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations:
-  - series: ''
-    unit: ''
-    label: indicator.annotation_2030_target
-    preset: target_line
+  - label: indicator.annotation_2030_target
     text: indicator.annotation_increase_2030_target
 graph_limits: []
 graph_stacked_disaggregation: ''

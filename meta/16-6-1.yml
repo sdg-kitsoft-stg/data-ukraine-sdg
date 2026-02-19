@@ -1,5 +1,5 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
-SDG_TARGET: 16.6 Reduce the scale of corruption
-SDG_INDICATOR: 16.6.1 Index of perception of corruption in the public sector by the business community and experts
-UNIT_MEASURE: The position of Ukraine in the rating according to the Corruption Perception Index
-CONTACT_ORGANISATION: Ministry of Economy of Ukraine (MEU)
+SDG_TARGET: 16.6 Ensuring equal access of the population to legal aid
+SDG_INDICATOR: 16.6.1 Number of persons applying free legal aid, persons (SDG indicator 16.6.1)
+CONTACT_ORGANISATION: Coordination Centre for Legal Aid Provision
+REC_USE_LIM: 1 Data for 2015 are calculated from 01.07.2015 in connection with the establishment of local centers of free secondary legal aid in accordance with the Order of the Ministry of Justice of Ukraine of March 10, 2015 No. 331/5 "On the development of a system of free secondary legal aid". 2 Disaggregated data by region are provided on the number of registered client applications, since a person may change their place of residence during the year (this especially applies to internally displaced persons, the most frequent occurrence was in 2022).

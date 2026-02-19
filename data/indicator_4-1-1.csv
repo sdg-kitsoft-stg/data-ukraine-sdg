@@ -1,13 +1,13 @@
 Year,Region,Sex,Type of residence,Value
-2015,Ukraine,,,70.6
-2016,Ukraine,,,69.8
-2017,Ukraine,,,69.5
-2018,Ukraine,,,69.1
-2019,Ukraine,,,70.5
-2020,Ukraine,,,74.8
-2021,Ukraine,,,73.4
-2022,Ukraine,,,65.6
-2023,Ukraine,,,
+2015,,,,70.6
+2016,,,,69.8
+2017,,,,69.5
+2018,,,,69.1
+2019,,,,70.5
+2020,,,,74.8
+2021,,,,73.4
+2022,,,,65.6
+2023,,,,
 2015,11_reg_Vinnytsya,,,81.3
 2016,11_reg_Vinnytsya,,,81.3
 2017,11_reg_Vinnytsya,,,81.7

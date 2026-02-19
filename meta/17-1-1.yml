@@ -1,5 +1,5 @@
 SDG_GOAL: 17 Partnership for sustainable development
-SDG_TARGET: 17.1 Mobilize additional financial resources by promoting foreign and domestic investment
-SDG_INDICATOR: 17.1.1 Ratio of private remittances from abroad to GDP, %
-UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: National Bank of Ukraine (NBU)
+SDG_TARGET: 17.1 Attracting additional financial resources for recovery from the consequences of the armed aggression of the Russian Federation against Ukraine and modernization of the state
+SDG_INDICATOR: 17.1.1 Volume of private remittances to Ukraine, percent of the gross domestic product (SDG indicator 17.1.1)
+CONTACT_ORGANISATION: National Bank of Ukraine
+REC_USE_LIM: 1 Data for 2024 − 31.01.2026.

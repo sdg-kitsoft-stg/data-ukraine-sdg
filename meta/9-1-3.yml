@@ -1,6 +1,5 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
-SDG_TARGET: 9.1 Develop quality, reliable, sustainable and accessible infrastructure based on the use of innovation technologies, including ecologically clean means of transport
-SDG_INDICATOR: 9.1.3 Number of passengers, million persons
-UNIT_MEASURE: million persons
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: 2022 by mode of transport, 2023 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine "On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War".
+SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepreneurs to realize their scientific and innovative potential
+SDG_INDICATOR: 9.1.3 Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent (SDG indicator 9.1.3)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
+REC_USE_LIM: 1 The indicator was not calculated in 2016. 2 Symbol (с) – data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. 3 Data are provided for legal entities with an average number of employees of 50 or more.

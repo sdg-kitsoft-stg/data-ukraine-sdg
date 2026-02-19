@@ -1,6 +1,5 @@
 SDG_GOAL: 14 Conserve marine resources
-SDG_TARGET: 14.3 Implement effective regulation of extraction of marine resources
-SDG_INDICATOR: 14.3.1 Volumes of extraction of aquatic bioresources in the exclusive (maritime) economic zone of Ukraine, thousands of tonnes
-UNIT_MEASURE: Thousands of tonnes
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: 2018-2023 — Data of the State Agency for Land Reclamation and Fisheries of Ukraine. <br> 2022-2023 — Data can be updated.
+SDG_TARGET: 14.3 Introduction of effective regulation of marine biological resources extraction
+SDG_INDICATOR: 14.3.1 Share of caught aquatic biological resources in the total volume of established limits, percent (SDG indicator 14.3.1)
+CONTACT_ORGANISATION: State Agency of Ukraine for the Development of Melioration, Fisheries and Food Programs
+REC_USE_LIM: 1 Data have been developed since 2017.

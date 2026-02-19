@@ -1,6 +1,5 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
-SDG_TARGET: 16.2 Increase detection of victims of human trafficking and all forms of exploitation
-SDG_INDICATOR: 16.2.3 Number of social services provided to meet the needs of victims of human trafficking
-UNIT_MEASURE: Units
-CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
-REC_USE_LIM: 2021-2023 — Data from National Social Service of Ukraine.
+SDG_TARGET: 16.2 Clearing the territory of explosive objects that appeared as a result of the armed aggression of the Russian Federation against Ukraine through demining (humanitarian demining)
+SDG_INDICATOR: 16.2.3 Area of territories cleared of explosive objects according to the results of prompt response, square kilometers (hectares)  (SDG indicator 16.2.3)
+CONTACT_ORGANISATION: Ministry of Defence of Ukraine
+REC_USE_LIM: 1 Data have been developed since 2022. 2 Lacking data indicates that the indicated territories were not contaminated with explosive objects, with the exception of the territories of Donetsk and Luhansk regions, since at the time of providing the data these territories are occupied or located in zones of active hostilities.

@@ -1,6 +1,5 @@
 SDG_GOAL: 5 Gender equality
-SDG_TARGET: 5.1 Create an environment for ending all forms of discrimination against women and girls
-SDG_INDICATOR: 5.1.1 Number of normative acts which were revised or adopted to provide men and women with equal rights and opportunities and to prevent discrimination against women and girls, units
-REC_USE_LIM: 2015-2020 — These clarifications on the basis of the letter of the Ministry of Social Policy from 22.02.2021 № 3256/0/2-21/57.
-UNIT_MEASURE: Units
-CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine (MSP)
+SDG_TARGET: 5.1 Ensuring the implementation of effective state policy in all spheres of society to reduce inequality between women and men and prevent discrimination
+SDG_INDICATOR: 5.1.1 Share of regulatory and legal acts adopted by the Cabinet of Ministers of Ukraine that comply with the principle of ensuring equal rights and opportunities for women and men in the total number of regulatory and legal acts monitored, percent (SDG indicator 5.1.1)
+CONTACT_ORGANISATION: Government Commissioner for Gender Equality Policy
+REC_USE_LIM: 1 Data have been developed since 2019.

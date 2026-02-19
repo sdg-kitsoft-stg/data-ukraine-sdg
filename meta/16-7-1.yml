@@ -1,6 +1,5 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
-SDG_TARGET: 16.7 Increase the efficiency of government bodies and local self-government
-SDG_INDICATOR: 16.7.1 Ukraine’s ranking in the Global Competitiveness Report by sub-index "Institutions (government and public institutions)"
-UNIT_MEASURE: Rate
-CONTACT_ORGANISATION: Ministry of Economy of Ukraine (MEU)
-REC_USE_LIM: 2018-2019 — Starting from GCR 2018, new methodology is applied to assess the country's position. The assessment by sub-indices is calculated on a 100-point scale (100 points is an ideal state or the "border" of competitiveness). In previous reports, the assessment was calculated on a 7-point scale. Most of the sub-indices were reformatted. Therefore, to compare the positions of the country, given in GCR 2018 and further ratings, with those of the previous ratings, which were assessed using old methodology, is incorrect. <br> 2020-2023 — There is no information on SDG indicator on the World Economic Forum website.
+SDG_TARGET: 16.7 Strengthening the system for preventing and counteracting the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction and ensuring its compliance with the standards of the Financial Action Task Force (FATF)
+SDG_INDICATOR: 16.7.1 Number of identified risks based on the results of the National Risk Assessment in the field of prevention and counteraction the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction, units (SDG indicator 16.7.1)
+CONTACT_ORGANISATION: State Financial Monitoring Service of Ukraine – data are developed once every three years
+REC_USE_LIM: 1 According to the methodology for conducting the National Risk Assessment, risk levels are divided into high – 9 units, significant – 22 units, moderate – 5 units, and insignificant – 1 unit.

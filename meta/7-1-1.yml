@@ -1,5 +1,5 @@
 SDG_GOAL: 7 Affordable and clean energy
-SDG_TARGET: 7.1 Expand the infrastructure and modernize networks for reliable and sustainable energy supply through the introduction of innovative technologies
-SDG_INDICATOR: 7.1.1 Generation of power, billions of KWh
-UNIT_MEASURE: billions of KWh
-CONTACT_ORGANISATION: Ministry of Energy of Ukraine (MoE)
+SDG_TARGET: 7.1 Ensuring security of supply of energy resources and reducing dependence on their imports
+SDG_INDICATOR: 7.1.1 Coverage ratio of electricity consumption by own production (SDG indicator 7.1.1)
+CONTACT_ORGANISATION: National Energy and Utilities Regulatory Commission
+REC_USE_LIM: 1 Data have been developed since 2021.
