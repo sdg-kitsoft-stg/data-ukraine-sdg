@@ -1,5 +1,5 @@
 Year,EducationInternetType,Region,Value
-2015,preschool_wired_gt30,,
+2015,preschool_wired_gt30,Ukraine,
 2015,preschool_wired_gt30,11_reg_Vinnytsya,
 2015,preschool_wired_gt30,12_reg_Volyn,
 2015,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -25,7 +25,7 @@ Year,EducationInternetType,Region,Value
 2015,preschool_wired_gt30,33_reg_Chernivtsi,
 2015,preschool_wired_gt30,34_reg_Chernihiv,
 2015,preschool_wired_gt30,35_reg_Kyiv_city,
-2015,preschool_wireless_gt30,,
+2015,preschool_wireless_gt30,Ukraine,
 2015,preschool_wireless_gt30,11_reg_Vinnytsya,
 2015,preschool_wireless_gt30,12_reg_Volyn,
 2015,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -51,7 +51,7 @@ Year,EducationInternetType,Region,Value
 2015,preschool_wireless_gt30,33_reg_Chernivtsi,
 2015,preschool_wireless_gt30,34_reg_Chernihiv,
 2015,preschool_wireless_gt30,35_reg_Kyiv_city,
-2015,preschool_wired_or_wireless_gt30,,
+2015,preschool_wired_or_wireless_gt30,Ukraine,
 2015,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2015,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2015,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -77,7 +77,7 @@ Year,EducationInternetType,Region,Value
 2015,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2015,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2015,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2015,secondary_internet_any_speed,,86.74
+2015,secondary_internet_any_speed,Ukraine,86.74
 2015,secondary_internet_any_speed,11_reg_Vinnytsya,83.91
 2015,secondary_internet_any_speed,12_reg_Volyn,74.86
 2015,secondary_internet_any_speed,13_reg_Dnipropetrovsk,97.71
@@ -103,7 +103,7 @@ Year,EducationInternetType,Region,Value
 2015,secondary_internet_any_speed,33_reg_Chernivtsi,92.22
 2015,secondary_internet_any_speed,34_reg_Chernihiv,93.44
 2015,secondary_internet_any_speed,35_reg_Kyiv_city,95.70
-2015,secondary_wired_gt30,,
+2015,secondary_wired_gt30,Ukraine,
 2015,secondary_wired_gt30,11_reg_Vinnytsya,
 2015,secondary_wired_gt30,12_reg_Volyn,
 2015,secondary_wired_gt30,13_reg_Dnipropetrovsk,
@@ -129,7 +129,7 @@ Year,EducationInternetType,Region,Value
 2015,secondary_wired_gt30,33_reg_Chernivtsi,
 2015,secondary_wired_gt30,34_reg_Chernihiv,
 2015,secondary_wired_gt30,35_reg_Kyiv_city,
-2015,secondary_wireless_gt30,,
+2015,secondary_wireless_gt30,Ukraine,
 2015,secondary_wireless_gt30,11_reg_Vinnytsya,
 2015,secondary_wireless_gt30,12_reg_Volyn,
 2015,secondary_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -155,7 +155,7 @@ Year,EducationInternetType,Region,Value
 2015,secondary_wireless_gt30,33_reg_Chernivtsi,
 2015,secondary_wireless_gt30,34_reg_Chernihiv,
 2015,secondary_wireless_gt30,35_reg_Kyiv_city,
-2015,secondary_wired_or_wireless_gt30,,
+2015,secondary_wired_or_wireless_gt30,Ukraine,
 2015,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2015,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2015,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -181,7 +181,7 @@ Year,EducationInternetType,Region,Value
 2015,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2015,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2015,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2016,preschool_wired_gt30,,
+2016,preschool_wired_gt30,Ukraine,
 2016,preschool_wired_gt30,11_reg_Vinnytsya,
 2016,preschool_wired_gt30,12_reg_Volyn,
 2016,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -207,7 +207,7 @@ Year,EducationInternetType,Region,Value
 2016,preschool_wired_gt30,33_reg_Chernivtsi,
 2016,preschool_wired_gt30,34_reg_Chernihiv,
 2016,preschool_wired_gt30,35_reg_Kyiv_city,
-2016,preschool_wireless_gt30,,
+2016,preschool_wireless_gt30,Ukraine,
 2016,preschool_wireless_gt30,11_reg_Vinnytsya,
 2016,preschool_wireless_gt30,12_reg_Volyn,
 2016,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -233,7 +233,7 @@ Year,EducationInternetType,Region,Value
 2016,preschool_wireless_gt30,33_reg_Chernivtsi,
 2016,preschool_wireless_gt30,34_reg_Chernihiv,
 2016,preschool_wireless_gt30,35_reg_Kyiv_city,
-2016,preschool_wired_or_wireless_gt30,,
+2016,preschool_wired_or_wireless_gt30,Ukraine,
 2016,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2016,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2016,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -259,7 +259,7 @@ Year,EducationInternetType,Region,Value
 2016,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2016,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2016,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2016,secondary_internet_any_speed,,89.71
+2016,secondary_internet_any_speed,Ukraine,89.71
 2016,secondary_internet_any_speed,11_reg_Vinnytsya,85.48
 2016,secondary_internet_any_speed,12_reg_Volyn,78.56
 2016,secondary_internet_any_speed,13_reg_Dnipropetrovsk,94.28
@@ -285,7 +285,7 @@ Year,EducationInternetType,Region,Value
 2016,secondary_internet_any_speed,33_reg_Chernivtsi,99.05
 2016,secondary_internet_any_speed,34_reg_Chernihiv,94.88
 2016,secondary_internet_any_speed,35_reg_Kyiv_city,96.54
-2016,secondary_wired_gt30,,
+2016,secondary_wired_gt30,Ukraine,
 2016,secondary_wired_gt30,11_reg_Vinnytsya,
 2016,secondary_wired_gt30,12_reg_Volyn,
 2016,secondary_wired_gt30,13_reg_Dnipropetrovsk,
@@ -311,7 +311,7 @@ Year,EducationInternetType,Region,Value
 2016,secondary_wired_gt30,33_reg_Chernivtsi,
 2016,secondary_wired_gt30,34_reg_Chernihiv,
 2016,secondary_wired_gt30,35_reg_Kyiv_city,
-2016,secondary_wireless_gt30,,
+2016,secondary_wireless_gt30,Ukraine,
 2016,secondary_wireless_gt30,11_reg_Vinnytsya,
 2016,secondary_wireless_gt30,12_reg_Volyn,
 2016,secondary_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -337,7 +337,7 @@ Year,EducationInternetType,Region,Value
 2016,secondary_wireless_gt30,33_reg_Chernivtsi,
 2016,secondary_wireless_gt30,34_reg_Chernihiv,
 2016,secondary_wireless_gt30,35_reg_Kyiv_city,
-2016,secondary_wired_or_wireless_gt30,,
+2016,secondary_wired_or_wireless_gt30,Ukraine,
 2016,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2016,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2016,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -363,7 +363,7 @@ Year,EducationInternetType,Region,Value
 2016,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2016,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2016,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2017,preschool_wired_gt30,,
+2017,preschool_wired_gt30,Ukraine,
 2017,preschool_wired_gt30,11_reg_Vinnytsya,
 2017,preschool_wired_gt30,12_reg_Volyn,
 2017,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -389,7 +389,7 @@ Year,EducationInternetType,Region,Value
 2017,preschool_wired_gt30,33_reg_Chernivtsi,
 2017,preschool_wired_gt30,34_reg_Chernihiv,
 2017,preschool_wired_gt30,35_reg_Kyiv_city,
-2017,preschool_wireless_gt30,,
+2017,preschool_wireless_gt30,Ukraine,
 2017,preschool_wireless_gt30,11_reg_Vinnytsya,
 2017,preschool_wireless_gt30,12_reg_Volyn,
 2017,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -415,7 +415,7 @@ Year,EducationInternetType,Region,Value
 2017,preschool_wireless_gt30,33_reg_Chernivtsi,
 2017,preschool_wireless_gt30,34_reg_Chernihiv,
 2017,preschool_wireless_gt30,35_reg_Kyiv_city,
-2017,preschool_wired_or_wireless_gt30,,
+2017,preschool_wired_or_wireless_gt30,Ukraine,
 2017,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2017,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2017,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -441,7 +441,7 @@ Year,EducationInternetType,Region,Value
 2017,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2017,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2017,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2017,secondary_internet_any_speed,,92.02
+2017,secondary_internet_any_speed,Ukraine,92.02
 2017,secondary_internet_any_speed,11_reg_Vinnytsya,86.46
 2017,secondary_internet_any_speed,12_reg_Volyn,81.65
 2017,secondary_internet_any_speed,13_reg_Dnipropetrovsk,95.87
@@ -467,7 +467,7 @@ Year,EducationInternetType,Region,Value
 2017,secondary_internet_any_speed,33_reg_Chernivtsi,99.52
 2017,secondary_internet_any_speed,34_reg_Chernihiv,95.01
 2017,secondary_internet_any_speed,35_reg_Kyiv_city,98.49
-2017,secondary_wired_gt30,,
+2017,secondary_wired_gt30,Ukraine,
 2017,secondary_wired_gt30,11_reg_Vinnytsya,
 2017,secondary_wired_gt30,12_reg_Volyn,
 2017,secondary_wired_gt30,13_reg_Dnipropetrovsk,
@@ -493,7 +493,7 @@ Year,EducationInternetType,Region,Value
 2017,secondary_wired_gt30,33_reg_Chernivtsi,
 2017,secondary_wired_gt30,34_reg_Chernihiv,
 2017,secondary_wired_gt30,35_reg_Kyiv_city,
-2017,secondary_wireless_gt30,,
+2017,secondary_wireless_gt30,Ukraine,
 2017,secondary_wireless_gt30,11_reg_Vinnytsya,
 2017,secondary_wireless_gt30,12_reg_Volyn,
 2017,secondary_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -519,7 +519,7 @@ Year,EducationInternetType,Region,Value
 2017,secondary_wireless_gt30,33_reg_Chernivtsi,
 2017,secondary_wireless_gt30,34_reg_Chernihiv,
 2017,secondary_wireless_gt30,35_reg_Kyiv_city,
-2017,secondary_wired_or_wireless_gt30,,
+2017,secondary_wired_or_wireless_gt30,Ukraine,
 2017,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2017,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2017,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -545,7 +545,7 @@ Year,EducationInternetType,Region,Value
 2017,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2017,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2017,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2018,preschool_wired_gt30,,
+2018,preschool_wired_gt30,Ukraine,
 2018,preschool_wired_gt30,11_reg_Vinnytsya,
 2018,preschool_wired_gt30,12_reg_Volyn,
 2018,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -571,7 +571,7 @@ Year,EducationInternetType,Region,Value
 2018,preschool_wired_gt30,33_reg_Chernivtsi,
 2018,preschool_wired_gt30,34_reg_Chernihiv,
 2018,preschool_wired_gt30,35_reg_Kyiv_city,
-2018,preschool_wireless_gt30,,
+2018,preschool_wireless_gt30,Ukraine,
 2018,preschool_wireless_gt30,11_reg_Vinnytsya,
 2018,preschool_wireless_gt30,12_reg_Volyn,
 2018,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -597,7 +597,7 @@ Year,EducationInternetType,Region,Value
 2018,preschool_wireless_gt30,33_reg_Chernivtsi,
 2018,preschool_wireless_gt30,34_reg_Chernihiv,
 2018,preschool_wireless_gt30,35_reg_Kyiv_city,
-2018,preschool_wired_or_wireless_gt30,,
+2018,preschool_wired_or_wireless_gt30,Ukraine,
 2018,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2018,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2018,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -623,7 +623,7 @@ Year,EducationInternetType,Region,Value
 2018,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2018,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2018,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2018,secondary_internet_any_speed,,
+2018,secondary_internet_any_speed,Ukraine,
 2018,secondary_internet_any_speed,11_reg_Vinnytsya,
 2018,secondary_internet_any_speed,12_reg_Volyn,
 2018,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -649,7 +649,7 @@ Year,EducationInternetType,Region,Value
 2018,secondary_internet_any_speed,33_reg_Chernivtsi,
 2018,secondary_internet_any_speed,34_reg_Chernihiv,
 2018,secondary_internet_any_speed,35_reg_Kyiv_city,
-2018,secondary_wired_gt30,,31.29
+2018,secondary_wired_gt30,Ukraine,31.29
 2018,secondary_wired_gt30,11_reg_Vinnytsya,14.67
 2018,secondary_wired_gt30,12_reg_Volyn,21.75
 2018,secondary_wired_gt30,13_reg_Dnipropetrovsk,48.62
@@ -675,7 +675,7 @@ Year,EducationInternetType,Region,Value
 2018,secondary_wired_gt30,33_reg_Chernivtsi,44.72
 2018,secondary_wired_gt30,34_reg_Chernihiv,16.47
 2018,secondary_wired_gt30,35_reg_Kyiv_city,79.87
-2018,secondary_wireless_gt30,,14.43
+2018,secondary_wireless_gt30,Ukraine,14.43
 2018,secondary_wireless_gt30,11_reg_Vinnytsya,6.82
 2018,secondary_wireless_gt30,12_reg_Volyn,8.77
 2018,secondary_wireless_gt30,13_reg_Dnipropetrovsk,24.88
@@ -701,7 +701,7 @@ Year,EducationInternetType,Region,Value
 2018,secondary_wireless_gt30,33_reg_Chernivtsi,23.87
 2018,secondary_wireless_gt30,34_reg_Chernihiv,6.83
 2018,secondary_wireless_gt30,35_reg_Kyiv_city,32.08
-2018,secondary_wired_or_wireless_gt30,,
+2018,secondary_wired_or_wireless_gt30,Ukraine,
 2018,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2018,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2018,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -727,7 +727,7 @@ Year,EducationInternetType,Region,Value
 2018,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2018,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2018,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2019,preschool_wired_gt30,,
+2019,preschool_wired_gt30,Ukraine,
 2019,preschool_wired_gt30,11_reg_Vinnytsya,
 2019,preschool_wired_gt30,12_reg_Volyn,
 2019,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -753,7 +753,7 @@ Year,EducationInternetType,Region,Value
 2019,preschool_wired_gt30,33_reg_Chernivtsi,
 2019,preschool_wired_gt30,34_reg_Chernihiv,
 2019,preschool_wired_gt30,35_reg_Kyiv_city,
-2019,preschool_wireless_gt30,,
+2019,preschool_wireless_gt30,Ukraine,
 2019,preschool_wireless_gt30,11_reg_Vinnytsya,
 2019,preschool_wireless_gt30,12_reg_Volyn,
 2019,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -779,7 +779,7 @@ Year,EducationInternetType,Region,Value
 2019,preschool_wireless_gt30,33_reg_Chernivtsi,
 2019,preschool_wireless_gt30,34_reg_Chernihiv,
 2019,preschool_wireless_gt30,35_reg_Kyiv_city,
-2019,preschool_wired_or_wireless_gt30,,
+2019,preschool_wired_or_wireless_gt30,Ukraine,
 2019,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2019,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2019,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -805,7 +805,7 @@ Year,EducationInternetType,Region,Value
 2019,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2019,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2019,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2019,secondary_internet_any_speed,,
+2019,secondary_internet_any_speed,Ukraine,
 2019,secondary_internet_any_speed,11_reg_Vinnytsya,
 2019,secondary_internet_any_speed,12_reg_Volyn,
 2019,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -831,7 +831,7 @@ Year,EducationInternetType,Region,Value
 2019,secondary_internet_any_speed,33_reg_Chernivtsi,
 2019,secondary_internet_any_speed,34_reg_Chernihiv,
 2019,secondary_internet_any_speed,35_reg_Kyiv_city,
-2019,secondary_wired_gt30,,41.06
+2019,secondary_wired_gt30,Ukraine,41.06
 2019,secondary_wired_gt30,11_reg_Vinnytsya,21.22
 2019,secondary_wired_gt30,12_reg_Volyn,34.05
 2019,secondary_wired_gt30,13_reg_Dnipropetrovsk,52.80
@@ -857,7 +857,7 @@ Year,EducationInternetType,Region,Value
 2019,secondary_wired_gt30,33_reg_Chernivtsi,63.54
 2019,secondary_wired_gt30,34_reg_Chernihiv,19.92
 2019,secondary_wired_gt30,35_reg_Kyiv_city,78.30
-2019,secondary_wireless_gt30,,19.32
+2019,secondary_wireless_gt30,Ukraine,19.32
 2019,secondary_wireless_gt30,11_reg_Vinnytsya,8.09
 2019,secondary_wireless_gt30,12_reg_Volyn,14.95
 2019,secondary_wireless_gt30,13_reg_Dnipropetrovsk,35.76
@@ -883,7 +883,7 @@ Year,EducationInternetType,Region,Value
 2019,secondary_wireless_gt30,33_reg_Chernivtsi,30.13
 2019,secondary_wireless_gt30,34_reg_Chernihiv,8.60
 2019,secondary_wireless_gt30,35_reg_Kyiv_city,33.93
-2019,secondary_wired_or_wireless_gt30,,
+2019,secondary_wired_or_wireless_gt30,Ukraine,
 2019,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2019,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2019,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -909,7 +909,7 @@ Year,EducationInternetType,Region,Value
 2019,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2019,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2019,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2020,preschool_wired_gt30,,
+2020,preschool_wired_gt30,Ukraine,
 2020,preschool_wired_gt30,11_reg_Vinnytsya,
 2020,preschool_wired_gt30,12_reg_Volyn,
 2020,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -935,7 +935,7 @@ Year,EducationInternetType,Region,Value
 2020,preschool_wired_gt30,33_reg_Chernivtsi,
 2020,preschool_wired_gt30,34_reg_Chernihiv,
 2020,preschool_wired_gt30,35_reg_Kyiv_city,
-2020,preschool_wireless_gt30,,
+2020,preschool_wireless_gt30,Ukraine,
 2020,preschool_wireless_gt30,11_reg_Vinnytsya,
 2020,preschool_wireless_gt30,12_reg_Volyn,
 2020,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -961,7 +961,7 @@ Year,EducationInternetType,Region,Value
 2020,preschool_wireless_gt30,33_reg_Chernivtsi,
 2020,preschool_wireless_gt30,34_reg_Chernihiv,
 2020,preschool_wireless_gt30,35_reg_Kyiv_city,
-2020,preschool_wired_or_wireless_gt30,,
+2020,preschool_wired_or_wireless_gt30,Ukraine,
 2020,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2020,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2020,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -987,7 +987,7 @@ Year,EducationInternetType,Region,Value
 2020,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2020,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2020,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2020,secondary_internet_any_speed,,
+2020,secondary_internet_any_speed,Ukraine,
 2020,secondary_internet_any_speed,11_reg_Vinnytsya,
 2020,secondary_internet_any_speed,12_reg_Volyn,
 2020,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -1013,7 +1013,7 @@ Year,EducationInternetType,Region,Value
 2020,secondary_internet_any_speed,33_reg_Chernivtsi,
 2020,secondary_internet_any_speed,34_reg_Chernihiv,
 2020,secondary_internet_any_speed,35_reg_Kyiv_city,
-2020,secondary_wired_gt30,,60.49
+2020,secondary_wired_gt30,Ukraine,60.49
 2020,secondary_wired_gt30,11_reg_Vinnytsya,42.80
 2020,secondary_wired_gt30,12_reg_Volyn,76.58
 2020,secondary_wired_gt30,13_reg_Dnipropetrovsk,68.81
@@ -1039,7 +1039,7 @@ Year,EducationInternetType,Region,Value
 2020,secondary_wired_gt30,33_reg_Chernivtsi,95.88
 2020,secondary_wired_gt30,34_reg_Chernihiv,38.15
 2020,secondary_wired_gt30,35_reg_Kyiv_city,34.26
-2020,secondary_wireless_gt30,,28.75
+2020,secondary_wireless_gt30,Ukraine,28.75
 2020,secondary_wireless_gt30,11_reg_Vinnytsya,17.56
 2020,secondary_wireless_gt30,12_reg_Volyn,21.37
 2020,secondary_wireless_gt30,13_reg_Dnipropetrovsk,50.97
@@ -1065,7 +1065,7 @@ Year,EducationInternetType,Region,Value
 2020,secondary_wireless_gt30,33_reg_Chernivtsi,52.58
 2020,secondary_wireless_gt30,34_reg_Chernihiv,20.47
 2020,secondary_wireless_gt30,35_reg_Kyiv_city,19.44
-2020,secondary_wired_or_wireless_gt30,,
+2020,secondary_wired_or_wireless_gt30,Ukraine,
 2020,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2020,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2020,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1091,7 +1091,7 @@ Year,EducationInternetType,Region,Value
 2020,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2020,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2020,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2021,preschool_wired_gt30,,
+2021,preschool_wired_gt30,Ukraine,
 2021,preschool_wired_gt30,11_reg_Vinnytsya,
 2021,preschool_wired_gt30,12_reg_Volyn,
 2021,preschool_wired_gt30,13_reg_Dnipropetrovsk,
@@ -1117,7 +1117,7 @@ Year,EducationInternetType,Region,Value
 2021,preschool_wired_gt30,33_reg_Chernivtsi,
 2021,preschool_wired_gt30,34_reg_Chernihiv,
 2021,preschool_wired_gt30,35_reg_Kyiv_city,
-2021,preschool_wireless_gt30,,
+2021,preschool_wireless_gt30,Ukraine,
 2021,preschool_wireless_gt30,11_reg_Vinnytsya,
 2021,preschool_wireless_gt30,12_reg_Volyn,
 2021,preschool_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1143,7 +1143,7 @@ Year,EducationInternetType,Region,Value
 2021,preschool_wireless_gt30,33_reg_Chernivtsi,
 2021,preschool_wireless_gt30,34_reg_Chernihiv,
 2021,preschool_wireless_gt30,35_reg_Kyiv_city,
-2021,preschool_wired_or_wireless_gt30,,
+2021,preschool_wired_or_wireless_gt30,Ukraine,
 2021,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2021,preschool_wired_or_wireless_gt30,12_reg_Volyn,
 2021,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1169,7 +1169,7 @@ Year,EducationInternetType,Region,Value
 2021,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2021,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,
 2021,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2021,secondary_internet_any_speed,,
+2021,secondary_internet_any_speed,Ukraine,
 2021,secondary_internet_any_speed,11_reg_Vinnytsya,
 2021,secondary_internet_any_speed,12_reg_Volyn,
 2021,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -1195,7 +1195,7 @@ Year,EducationInternetType,Region,Value
 2021,secondary_internet_any_speed,33_reg_Chernivtsi,
 2021,secondary_internet_any_speed,34_reg_Chernihiv,
 2021,secondary_internet_any_speed,35_reg_Kyiv_city,
-2021,secondary_wired_gt30,,74.34
+2021,secondary_wired_gt30,Ukraine,74.34
 2021,secondary_wired_gt30,11_reg_Vinnytsya,63.21
 2021,secondary_wired_gt30,12_reg_Volyn,85.71
 2021,secondary_wired_gt30,13_reg_Dnipropetrovsk,75.43
@@ -1221,7 +1221,7 @@ Year,EducationInternetType,Region,Value
 2021,secondary_wired_gt30,33_reg_Chernivtsi,99.13
 2021,secondary_wired_gt30,34_reg_Chernihiv,53.11
 2021,secondary_wired_gt30,35_reg_Kyiv_city,88.01
-2021,secondary_wireless_gt30,,38.87
+2021,secondary_wireless_gt30,Ukraine,38.87
 2021,secondary_wireless_gt30,11_reg_Vinnytsya,26.10
 2021,secondary_wireless_gt30,12_reg_Volyn,18.63
 2021,secondary_wireless_gt30,13_reg_Dnipropetrovsk,56.97
@@ -1247,7 +1247,7 @@ Year,EducationInternetType,Region,Value
 2021,secondary_wireless_gt30,33_reg_Chernivtsi,57.73
 2021,secondary_wireless_gt30,34_reg_Chernihiv,23.68
 2021,secondary_wireless_gt30,35_reg_Kyiv_city,61.36
-2021,secondary_wired_or_wireless_gt30,,
+2021,secondary_wired_or_wireless_gt30,Ukraine,
 2021,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2021,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2021,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1273,7 +1273,7 @@ Year,EducationInternetType,Region,Value
 2021,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2021,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2021,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2022,preschool_wired_gt30,,58.88
+2022,preschool_wired_gt30,Ukraine,58.88
 2022,preschool_wired_gt30,11_reg_Vinnytsya,51.54
 2022,preschool_wired_gt30,12_reg_Volyn,50.52
 2022,preschool_wired_gt30,13_reg_Dnipropetrovsk,54.78
@@ -1299,7 +1299,7 @@ Year,EducationInternetType,Region,Value
 2022,preschool_wired_gt30,33_reg_Chernivtsi,87.95
 2022,preschool_wired_gt30,34_reg_Chernihiv,43.53
 2022,preschool_wired_gt30,35_reg_Kyiv_city,80.91
-2022,preschool_wireless_gt30,,30.87
+2022,preschool_wireless_gt30,Ukraine,30.87
 2022,preschool_wireless_gt30,11_reg_Vinnytsya,30.34
 2022,preschool_wireless_gt30,12_reg_Volyn,29.07
 2022,preschool_wireless_gt30,13_reg_Dnipropetrovsk,33.30
@@ -1325,7 +1325,7 @@ Year,EducationInternetType,Region,Value
 2022,preschool_wireless_gt30,33_reg_Chernivtsi,7.69
 2022,preschool_wireless_gt30,34_reg_Chernihiv,19.15
 2022,preschool_wireless_gt30,35_reg_Kyiv_city,69.02
-2022,preschool_wired_or_wireless_gt30,,64.68
+2022,preschool_wired_or_wireless_gt30,Ukraine,64.68
 2022,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,58.99
 2022,preschool_wired_or_wireless_gt30,12_reg_Volyn,59.79
 2022,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,58.68
@@ -1351,7 +1351,7 @@ Year,EducationInternetType,Region,Value
 2022,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,88.72
 2022,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,50.25
 2022,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,84.23
-2022,secondary_internet_any_speed,,
+2022,secondary_internet_any_speed,Ukraine,
 2022,secondary_internet_any_speed,11_reg_Vinnytsya,
 2022,secondary_internet_any_speed,12_reg_Volyn,
 2022,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -1377,7 +1377,7 @@ Year,EducationInternetType,Region,Value
 2022,secondary_internet_any_speed,33_reg_Chernivtsi,
 2022,secondary_internet_any_speed,34_reg_Chernihiv,
 2022,secondary_internet_any_speed,35_reg_Kyiv_city,
-2022,secondary_wired_gt30,,80.30
+2022,secondary_wired_gt30,Ukraine,80.30
 2022,secondary_wired_gt30,11_reg_Vinnytsya,77.58
 2022,secondary_wired_gt30,12_reg_Volyn,86.37
 2022,secondary_wired_gt30,13_reg_Dnipropetrovsk,80.79
@@ -1403,7 +1403,7 @@ Year,EducationInternetType,Region,Value
 2022,secondary_wired_gt30,33_reg_Chernivtsi,98.52
 2022,secondary_wired_gt30,34_reg_Chernihiv,76.14
 2022,secondary_wired_gt30,35_reg_Kyiv_city,88.43
-2022,secondary_wireless_gt30,,39.94
+2022,secondary_wireless_gt30,Ukraine,39.94
 2022,secondary_wireless_gt30,11_reg_Vinnytsya,34.68
 2022,secondary_wireless_gt30,12_reg_Volyn,26.15
 2022,secondary_wireless_gt30,13_reg_Dnipropetrovsk,61.46
@@ -1429,7 +1429,7 @@ Year,EducationInternetType,Region,Value
 2022,secondary_wireless_gt30,33_reg_Chernivtsi,59.35
 2022,secondary_wireless_gt30,34_reg_Chernihiv,23.35
 2022,secondary_wireless_gt30,35_reg_Kyiv_city,69.26
-2022,secondary_wired_or_wireless_gt30,,
+2022,secondary_wired_or_wireless_gt30,Ukraine,
 2022,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2022,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2022,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1455,7 +1455,7 @@ Year,EducationInternetType,Region,Value
 2022,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2022,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2022,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2023,preschool_wired_gt30,,62.15
+2023,preschool_wired_gt30,Ukraine,62.15
 2023,preschool_wired_gt30,11_reg_Vinnytsya,58.78
 2023,preschool_wired_gt30,12_reg_Volyn,54.05
 2023,preschool_wired_gt30,13_reg_Dnipropetrovsk,54.86
@@ -1481,7 +1481,7 @@ Year,EducationInternetType,Region,Value
 2023,preschool_wired_gt30,33_reg_Chernivtsi,86.70
 2023,preschool_wired_gt30,34_reg_Chernihiv,45.95
 2023,preschool_wired_gt30,35_reg_Kyiv_city,78.73
-2023,preschool_wireless_gt30,,36.09
+2023,preschool_wireless_gt30,Ukraine,36.09
 2023,preschool_wireless_gt30,11_reg_Vinnytsya,39.73
 2023,preschool_wireless_gt30,12_reg_Volyn,32.43
 2023,preschool_wireless_gt30,13_reg_Dnipropetrovsk,40.39
@@ -1507,7 +1507,7 @@ Year,EducationInternetType,Region,Value
 2023,preschool_wireless_gt30,33_reg_Chernivtsi,7.42
 2023,preschool_wireless_gt30,34_reg_Chernihiv,24.80
 2023,preschool_wireless_gt30,35_reg_Kyiv_city,71.20
-2023,preschool_wired_or_wireless_gt30,,68.18
+2023,preschool_wired_or_wireless_gt30,Ukraine,68.18
 2023,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,65.92
 2023,preschool_wired_or_wireless_gt30,12_reg_Volyn,62.16
 2023,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,60.85
@@ -1533,7 +1533,7 @@ Year,EducationInternetType,Region,Value
 2023,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,87.98
 2023,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,54.05
 2023,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,82.10
-2023,secondary_internet_any_speed,,
+2023,secondary_internet_any_speed,Ukraine,
 2023,secondary_internet_any_speed,11_reg_Vinnytsya,
 2023,secondary_internet_any_speed,12_reg_Volyn,
 2023,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -1559,7 +1559,7 @@ Year,EducationInternetType,Region,Value
 2023,secondary_internet_any_speed,33_reg_Chernivtsi,
 2023,secondary_internet_any_speed,34_reg_Chernihiv,
 2023,secondary_internet_any_speed,35_reg_Kyiv_city,
-2023,secondary_wired_gt30,,82.16
+2023,secondary_wired_gt30,Ukraine,82.16
 2023,secondary_wired_gt30,11_reg_Vinnytsya,80.67
 2023,secondary_wired_gt30,12_reg_Volyn,89.60
 2023,secondary_wired_gt30,13_reg_Dnipropetrovsk,81.48
@@ -1585,7 +1585,7 @@ Year,EducationInternetType,Region,Value
 2023,secondary_wired_gt30,33_reg_Chernivtsi,98.81
 2023,secondary_wired_gt30,34_reg_Chernihiv,81.82
 2023,secondary_wired_gt30,35_reg_Kyiv_city,89.52
-2023,secondary_wireless_gt30,,42.70
+2023,secondary_wireless_gt30,Ukraine,42.70
 2023,secondary_wireless_gt30,11_reg_Vinnytsya,41.67
 2023,secondary_wireless_gt30,12_reg_Volyn,22.31
 2023,secondary_wireless_gt30,13_reg_Dnipropetrovsk,65.33
@@ -1611,7 +1611,7 @@ Year,EducationInternetType,Region,Value
 2023,secondary_wireless_gt30,33_reg_Chernivtsi,57.61
 2023,secondary_wireless_gt30,34_reg_Chernihiv,24.94
 2023,secondary_wireless_gt30,35_reg_Kyiv_city,76.38
-2023,secondary_wired_or_wireless_gt30,,
+2023,secondary_wired_or_wireless_gt30,Ukraine,
 2023,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,
 2023,secondary_wired_or_wireless_gt30,12_reg_Volyn,
 2023,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,
@@ -1637,7 +1637,7 @@ Year,EducationInternetType,Region,Value
 2023,secondary_wired_or_wireless_gt30,33_reg_Chernivtsi,
 2023,secondary_wired_or_wireless_gt30,34_reg_Chernihiv,
 2023,secondary_wired_or_wireless_gt30,35_reg_Kyiv_city,
-2024,preschool_wired_gt30,,65.13
+2024,preschool_wired_gt30,Ukraine,65.13
 2024,preschool_wired_gt30,11_reg_Vinnytsya,60.52
 2024,preschool_wired_gt30,12_reg_Volyn,56.50
 2024,preschool_wired_gt30,13_reg_Dnipropetrovsk,54.49
@@ -1663,7 +1663,7 @@ Year,EducationInternetType,Region,Value
 2024,preschool_wired_gt30,33_reg_Chernivtsi,88.24
 2024,preschool_wired_gt30,34_reg_Chernihiv,50.27
 2024,preschool_wired_gt30,35_reg_Kyiv_city,81.10
-2024,preschool_wireless_gt30,,39.87
+2024,preschool_wireless_gt30,Ukraine,39.87
 2024,preschool_wireless_gt30,11_reg_Vinnytsya,40.55
 2024,preschool_wireless_gt30,12_reg_Volyn,34.52
 2024,preschool_wireless_gt30,13_reg_Dnipropetrovsk,37.80
@@ -1689,7 +1689,7 @@ Year,EducationInternetType,Region,Value
 2024,preschool_wireless_gt30,33_reg_Chernivtsi,10.74
 2024,preschool_wireless_gt30,34_reg_Chernihiv,26.49
 2024,preschool_wireless_gt30,35_reg_Kyiv_city,76.83
-2024,preschool_wired_or_wireless_gt30,,71.18
+2024,preschool_wired_or_wireless_gt30,Ukraine,71.18
 2024,preschool_wired_or_wireless_gt30,11_reg_Vinnytsya,67.59
 2024,preschool_wired_or_wireless_gt30,12_reg_Volyn,65.48
 2024,preschool_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,59.54
@@ -1715,7 +1715,7 @@ Year,EducationInternetType,Region,Value
 2024,preschool_wired_or_wireless_gt30,33_reg_Chernivtsi,89.00
 2024,preschool_wired_or_wireless_gt30,34_reg_Chernihiv,54.59
 2024,preschool_wired_or_wireless_gt30,35_reg_Kyiv_city,84.97
-2024,secondary_internet_any_speed,,
+2024,secondary_internet_any_speed,Ukraine,
 2024,secondary_internet_any_speed,11_reg_Vinnytsya,
 2024,secondary_internet_any_speed,12_reg_Volyn,
 2024,secondary_internet_any_speed,13_reg_Dnipropetrovsk,
@@ -1741,7 +1741,7 @@ Year,EducationInternetType,Region,Value
 2024,secondary_internet_any_speed,33_reg_Chernivtsi,
 2024,secondary_internet_any_speed,34_reg_Chernihiv,
 2024,secondary_internet_any_speed,35_reg_Kyiv_city,
-2024,secondary_wired_gt30,,81.48
+2024,secondary_wired_gt30,Ukraine,81.48
 2024,secondary_wired_gt30,11_reg_Vinnytsya,83.05
 2024,secondary_wired_gt30,12_reg_Volyn,88.04
 2024,secondary_wired_gt30,13_reg_Dnipropetrovsk,83.33
@@ -1767,7 +1767,7 @@ Year,EducationInternetType,Region,Value
 2024,secondary_wired_gt30,33_reg_Chernivtsi,98.18
 2024,secondary_wired_gt30,34_reg_Chernihiv,85.09
 2024,secondary_wired_gt30,35_reg_Kyiv_city,88.75
-2024,secondary_wireless_gt30,,44.84
+2024,secondary_wireless_gt30,Ukraine,44.84
 2024,secondary_wireless_gt30,11_reg_Vinnytsya,39.90
 2024,secondary_wireless_gt30,12_reg_Volyn,27.06
 2024,secondary_wireless_gt30,13_reg_Dnipropetrovsk,64.02
@@ -1793,7 +1793,7 @@ Year,EducationInternetType,Region,Value
 2024,secondary_wireless_gt30,33_reg_Chernivtsi,64.55
 2024,secondary_wireless_gt30,34_reg_Chernihiv,26.83
 2024,secondary_wireless_gt30,35_reg_Kyiv_city,77.51
-2024,secondary_wired_or_wireless_gt30,,84.38
+2024,secondary_wired_or_wireless_gt30,Ukraine,84.38
 2024,secondary_wired_or_wireless_gt30,11_reg_Vinnytsya,87.16
 2024,secondary_wired_or_wireless_gt30,12_reg_Volyn,89.41
 2024,secondary_wired_or_wireless_gt30,13_reg_Dnipropetrovsk,85.61
