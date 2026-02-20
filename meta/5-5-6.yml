@@ -3,12 +3,7 @@ SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men
 SDG_INDICATOR: 5.5.6 Ratio of women to men among judges, percent (SDG indicator 5.5.6)
 UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: High Qualification Commission of Judges of Ukraine
+REC_USE_LIM: "2015-2016 - Data have been developed since 2017. <br>Taking into account the actual number of judges who hold full-time judicial positions in the Supreme Administrative Court of Ukraine, the Supreme Economic Court of Ukraine, and the Supreme Specialized Court of Ukraine for Civil and Criminal Cases. <br>Taking into account the actual number of judges who hold full-time judicial positions in the Supreme Court of Ukraine."
 footer_fields:
     - label: "Target values of the indicator for 2030"
       value: 'men – 50, women – 50'
-    - label: "2015-2016"
-      value: 'Data have been developed since 2017.'
-    - label: "Higher specialized courts"
-      value: 'Taking into account the actual number of judges who hold full-time judicial positions in the Supreme Administrative Court of Ukraine, the Supreme Economic Court of Ukraine, and the Supreme Specialized Court of Ukraine for Civil and Criminal Cases.'
-    - label: "Supreme Court"
-      value: 'Taking into account the actual number of judges who hold full-time judicial positions in the Supreme Court of Ukraine.'
