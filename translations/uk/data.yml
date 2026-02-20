@@ -640,3 +640,12 @@ tertiary_education: вища освіта
 
 girls: дівчатка
 boys: хлопчики
+
+Education Level: за рівнями (ступенями) освіти
+edu_fakhovyy_junior_bachelor: фаховий молодший бакалавр
+edu_junior: молодший спеціаліст
+edu_junior_bachelor: молодший бакалавр
+edu_bachelor: бакалавр
+edu_specialist: спеціаліст
+edu_master: магістр
+edu_doctor_of_philosophy: доктор філософії

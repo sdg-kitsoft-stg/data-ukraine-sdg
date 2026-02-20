@@ -590,11 +590,13 @@ professional_pre_tertiary_education: professional pre-tertiary education
 tertiary_education: tertiary education
 
 Education Level: by levels (degrees) of education
-edu_fakhovyy_junior_bachelor: professional junior bachelor 2
-edu_bachelor: junior specialist
-edu_specialist:
-edu_master:
-edu_doctor_of_philosophy:
+edu_fakhovyy_junior_bachelor: professional junior bachelor
+edu_junior: junior specialist
+edu_junior_bachelor: junior bachelor
+edu_bachelor: bachelor
+edu_specialist: specialist
+edu_master: master
+edu_doctor_of_philosophy: doctor of philosophy
 
 girls: girls
 boys: boys
