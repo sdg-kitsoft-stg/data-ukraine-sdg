@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "The consumer price index for food. %",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Індекс споживчих цін на продукти харчування, %"
+          },
+          {
+            "name": "by main product groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "хліб і хлібопродукти",
+                "м’ясо і м’ясопродукти",
+                "молоко",
+                "риба та продукти з риби",
+                "овочі",
+                "фрукти",
+                "цукор",
+                "олія соняшникова",
+                "яйця",
+                ""
+              ]
+            },
+            "title": "за основними групами продуктів"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-4-1-a",
+  "title": "Індекс споживчих цін на продукти харчування, %"
+}

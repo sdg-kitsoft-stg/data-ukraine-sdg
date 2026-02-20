@@ -1,0 +1,131 @@
+Year,Age,Sex,Type of residence,Households,Reason of disability,Value
+2015,,,,,,43.4
+2016,,,,,,44.2
+2017,,,,,,45.2
+2018,,,,,,46.4
+2019,,,,,,47.9
+2020,,,,,,49.8
+2021,,,,,,52.5
+2022,,,,,,53.9
+2023,,,,,,53.6
+2024,,,,,,52.3
+2015,up to 18 years,,,,,82.1
+2016,up to 18 years,,,,,82.0
+2017,up to 18 years,,,,,80.0
+2018,up to 18 years,,,,,80.0
+2019,up to 18 years,,,,,81.3
+2020,up to 18 years,,,,,82.0
+2021,up to 18 years,,,,,82.3
+2022,up to 18 years,,,,,82.8
+2023,up to 18 years,,,,,83.1
+2024,up to 18 years,,,,,83.8
+2015,18-34 years,,,,,86.7
+2016,18-34 years,,,,,87.1
+2017,18-34 years,,,,,86.6
+2018,18-34 years,,,,,86.4
+2019,18-34 years,,,,,86.7
+2020,18-34 years,,,,,87.4
+2021,18-34 years,,,,,88.4
+2022,18-34 years,,,,,88.2
+2023,18-34 years,,,,,86.0
+2024,18-34 years,,,,,83.7
+2015,35-59 years,,,,,73.1
+2016,35-59 years,,,,,72.8
+2017,35-59 years,,,,,72.4
+2018,35-59 years,,,,,72.2
+2019,35-59 years,,,,,71.9
+2020,35-59 years,,,,,74.2
+2021,35-59 years,,,,,73.6
+2022,35-59 years,,,,,72.3
+2023,35-59 years,,,,,67.7
+2024,35-59 years,,,,,64.5
+2015,60 years and older,,,,,37.9
+2016,60 years and older,,,,,38.2
+2017,60 years and older,,,,,38.7
+2018,60 years and older,,,,,39.3
+2019,60 years and older,,,,,40.0
+2020,60 years and older,,,,,40.7
+2021,60 years and older,,,,,41.5
+2022,60 years and older,,,,,42.4
+2023,60 years and older,,,,,44.0
+2024,60 years and older,,,,,46.0
+2015,,women,,,,68.5
+2016,,women,,,,68.7
+2017,,women,,,,68.7
+2018,,women,,,,68.9
+2019,,women,,,,69.4
+2020,,women,,,,70.2
+2021,,women,,,,71.4
+2022,,women,,,,71.9
+2023,,women,,,,70.9
+2024,,women,,,,70.4
+2015,,men,,,,59.9
+2016,,men,,,,60.1
+2017,,men,,,,60.2
+2018,,men,,,,60.7
+2019,,men,,,,61.4
+2020,,men,,,,62.7
+2021,,men,,,,64.4
+2022,,men,,,,65.0
+2023,,men,,,,62.5
+2024,,men,,,,60.1
+2015,,,urban,,,63.1
+2016,,,urban,,,63.4
+2017,,,urban,,,63.8
+2018,,,urban,,,64.4
+2019,,,urban,,,65.2
+2020,,,urban,,,66.5
+2021,,,urban,,,68.5
+2022,,,urban,,,69.3
+2023,,,urban,,,68.3
+2024,,,urban,,,68.0
+2015,,,rural,,,76.2
+2016,,,rural,,,76.3
+2017,,,rural,,,76.5
+2018,,,rural,,,76.8
+2019,,,rural,,,77.3
+2020,,,rural,,,78.0
+2021,,,rural,,,79.2
+2022,,,rural,,,79.5
+2023,,,rural,,,77.7
+2024,,,rural,,,76.7
+2015,,,,households with children,,99.9
+2016,,,,households with children,,99.9
+2017,,,,households with children,,99.9
+2018,,,,households with children,,99.9
+2019,,,,households with children,,99.9
+2020,,,,households with children,,99.9
+2021,,,,households with children,,99.9
+2022,,,,households with children,,99.9
+2023,,,,households with children,,99.9
+2024,,,,households with children,,100.0
+2015,,,,households without children,,42.5
+2016,,,,households without children,,43.3
+2017,,,,households without children,,44.0
+2018,,,,households without children,,44.9
+2019,,,,households without children,,46.0
+2020,,,,households without children,,47.5
+2021,,,,households without children,,49.6
+2022,,,,households without children,,50.8
+2023,,,,households without children,,50.7
+2024,,,,households without children,,50.9
+2015,,,,,war actions,60.5
+2016,,,,,war actions,61.0
+2017,,,,,war actions,61.8
+2018,,,,,war actions,62.0
+2019,,,,,war actions,62.7
+2020,,,,,war actions,63.4
+2021,,,,,war actions,63.4
+2022,,,,,war actions,63.1
+2023,,,,,war actions,39.3
+2024,,,,,war actions,38.3
+2015,,,,,since childhood,90.0
+2016,,,,,since childhood,90.1
+2017,,,,,since childhood,89.6
+2018,,,,,since childhood,89.3
+2019,,,,,since childhood,89.4
+2020,,,,,since childhood,89.5
+2021,,,,,since childhood,89.6
+2022,,,,,since childhood,89.7
+2023,,,,,since childhood,89.8
+2024,,,,,since childhood,90.3

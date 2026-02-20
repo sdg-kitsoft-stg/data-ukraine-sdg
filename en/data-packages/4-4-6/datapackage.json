@@ -1,0 +1,58 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Category_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "by status",
+                "by sphere",
+                ""
+              ]
+            },
+            "title": "Type"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "seeker for professional pre-tertiary education",
+                "seeker for tertiary education",
+                "pedagogical workers of institution of professional pre-tertiary education",
+                "scientific-pedagogical workers of tertiary educational institution",
+                "professional pre-tertiary education",
+                "tertiary education",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-6",
+  "title": "Satisfaction index of participants in the educational process of institutions for professional pre-tertiary and tertiary education with the quality of education (by type of participants in the educational process) (SDG indicator 4.4.6)"
+}

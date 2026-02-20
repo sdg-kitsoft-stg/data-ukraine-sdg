@@ -1,0 +1,145 @@
+Year,Еconomic activity,Value
+2015,,6.5
+2016,,6.5
+2017,,6.6
+2018,,7.0
+2019,,7.4
+2020,,7.4
+2021,,7.3
+2022,,6.1
+2023,,6.1
+2015,"agriculture, forestry and fisheries",0.6
+2016,"agriculture, forestry and fisheries",0.6
+2017,"agriculture, forestry and fisheries",0.6
+2018,"agriculture, forestry and fisheries",0.6
+2019,"agriculture, forestry and fisheries",0.6
+2020,"agriculture, forestry and fisheries",0.5
+2021,"agriculture, forestry and fisheries",0.5
+2022,"agriculture, forestry and fisheries",0.5
+2023,"agriculture, forestry and fisheries",0.4
+2015,industry,1.5
+2016,industry,1.6
+2017,industry,1.6
+2018,industry,1.6
+2019,industry,1.5
+2020,industry,1.5
+2021,industry,1.4
+2022,industry,1.2
+2023,industry,1.1
+2015,construction,0.3
+2016,construction,0.3
+2017,construction,0.3
+2018,construction,0.3
+2019,construction,0.3
+2020,construction,0.3
+2021,construction,0.3
+2022,construction,0.3
+2023,construction,
+2015,wholesale and retail trade; repair of motor vehicles and motorcycles,2.0
+2016,wholesale and retail trade; repair of motor vehicles and motorcycles,1.9
+2017,wholesale and retail trade; repair of motor vehicles and motorcycles,1.9
+2018,wholesale and retail trade; repair of motor vehicles and motorcycles,2.1
+2019,wholesale and retail trade; repair of motor vehicles and motorcycles,2.0
+2020,wholesale and retail trade; repair of motor vehicles and motorcycles,2.0
+2021,wholesale and retail trade; repair of motor vehicles and motorcycles,2.0
+2022,wholesale and retail trade; repair of motor vehicles and motorcycles,1.6
+2023,wholesale and retail trade; repair of motor vehicles and motorcycles,1.6
+2015,"transport, warehousing, post and courier services",0.5
+2016,"transport, warehousing, post and courier services",0.5
+2017,"transport, warehousing, post and courier services",0.5
+2018,"transport, warehousing, post and courier services",0.5
+2019,"transport, warehousing, post and courier services",0.5
+2020,"transport, warehousing, post and courier services",0.5
+2021,"transport, warehousing, post and courier services",0.5
+2022,"transport, warehousing, post and courier services",0.4
+2023,"transport, warehousing, post and courier services",0.4
+2015,temporary accommodation and catering,0.2
+2016,temporary accommodation and catering,0.2
+2017,temporary accommodation and catering,0.2
+2018,temporary accommodation and catering,0.3
+2019,temporary accommodation and catering,
+2020,temporary accommodation and catering,
+2021,temporary accommodation and catering,
+2022,temporary accommodation and catering,
+2023,temporary accommodation and catering,
+2015,information and telecommunications,0.2
+2016,information and telecommunications,0.2
+2017,information and telecommunications,0.3
+2018,information and telecommunications,0.3
+2019,information and telecommunications,0.3
+2020,information and telecommunications,0.4
+2021,information and telecommunications,
+2022,information and telecommunications,
+2023,information and telecommunications,0.4
+2015,financial and insurance activities,0.2
+2016,financial and insurance activities,0.1
+2017,financial and insurance activities,0.1
+2018,financial and insurance activities,
+2019,financial and insurance activities,0.1
+2020,financial and insurance activities,0.1
+2021,financial and insurance activities,0.1
+2022,financial and insurance activities,0.1
+2023,financial and insurance activities,0.0
+2015,real estate transactions,0.2
+2016,real estate transactions,
+2017,real estate transactions,
+2018,real estate transactions,0.2
+2019,real estate transactions,
+2020,real estate transactions,
+2021,real estate transactions,
+2022,real estate transactions,
+2023,real estate transactions,
+2015,"professional, scientific and technical activities",0.3
+2016,"professional, scientific and technical activities",0.3
+2017,"professional, scientific and technical activities",
+2018,"professional, scientific and technical activities",
+2019,"professional, scientific and technical activities",
+2020,"professional, scientific and technical activities",
+2021,"professional, scientific and technical activities",
+2022,"professional, scientific and technical activities",
+2023,"professional, scientific and technical activities",0.3
+2015,administrative and support service activities,0.3
+2016,administrative and support service activities,0.3
+2017,administrative and support service activities,0.3
+2018,administrative and support service activities,0.3
+2019,administrative and support service activities,
+2020,administrative and support service activities,
+2021,administrative and support service activities,
+2022,administrative and support service activities,
+2023,administrative and support service activities,
+2015,education,0.0
+2016,education,0.0
+2017,education,0.0
+2018,education,0.0
+2019,education,0.0
+2020,education,0.0
+2021,education,0.0
+2022,education,0.0
+2023,education,0.0
+2015,health care and social assistance,0.1
+2016,health care and social assistance,0.1
+2017,health care and social assistance,0.1
+2018,health care and social assistance,0.3
+2019,health care and social assistance,
+2020,health care and social assistance,
+2021,health care and social assistance,
+2022,health care and social assistance,
+2023,health care and social assistance,
+2015,"arts, sports, entertainment and recreation",0.0
+2016,"arts, sports, entertainment and recreation",
+2017,"arts, sports, entertainment and recreation",
+2018,"arts, sports, entertainment and recreation",
+2019,"arts, sports, entertainment and recreation",
+2020,"arts, sports, entertainment and recreation",
+2021,"arts, sports, entertainment and recreation",
+2022,"arts, sports, entertainment and recreation",0.0
+2023,"arts, sports, entertainment and recreation",
+2015,provision of other services,0.1
+2016,provision of other services,0.1
+2017,provision of other services,0.1
+2018,provision of other services,0.2
+2019,provision of other services,0.2
+2020,provision of other services,0.2
+2021,provision of other services,
+2022,provision of other services,
+2023,provision of other services,0.1

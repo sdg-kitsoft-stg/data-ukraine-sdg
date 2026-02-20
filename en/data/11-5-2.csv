@@ -1,0 +1,100 @@
+Year,Pollutants,Value
+2015,,34.0
+2016,,34.0
+2017,,34.0
+2018,,35.0
+2019,,36.0
+2020,,35.0
+2021,,34.0
+2022,,34.0
+2023,,30.0
+2015,suspended matter (dust),11.0
+2016,suspended matter (dust),10.0
+2017,suspended matter (dust),9.0
+2018,suspended matter (dust),11.0
+2019,suspended matter (dust),11.0
+2020,suspended matter (dust),7.0
+2021,suspended matter (dust),7.0
+2022,suspended matter (dust),8.0
+2023,suspended matter (dust),8.0
+2015,sulfur dioxide,
+2016,sulfur dioxide,
+2017,sulfur dioxide,
+2018,sulfur dioxide,
+2019,sulfur dioxide,1.0
+2020,sulfur dioxide,1.0
+2021,sulfur dioxide,
+2022,sulfur dioxide,1.0
+2023,sulfur dioxide,1.0
+2015,carbon monoxide,2.0
+2016,carbon monoxide,5.0
+2017,carbon monoxide,4.0
+2018,carbon monoxide,3.0
+2019,carbon monoxide,4.0
+2020,carbon monoxide,2.0
+2021,carbon monoxide,1.0
+2022,carbon monoxide,2.0
+2023,carbon monoxide,1.0
+2015,nitrogen dioxide,23.0
+2016,nitrogen dioxide,23.0
+2017,nitrogen dioxide,21.0
+2018,nitrogen dioxide,22.0
+2019,nitrogen dioxide,26.0
+2020,nitrogen dioxide,25.0
+2021,nitrogen dioxide,26.0
+2022,nitrogen dioxide,24.0
+2023,nitrogen dioxide,22.0
+2015,nitrogen oxide,1.0
+2016,nitrogen oxide,2.0
+2017,nitrogen oxide,1.0
+2018,nitrogen oxide,2.0
+2019,nitrogen oxide,2.0
+2020,nitrogen oxide,2.0
+2021,nitrogen oxide,2.0
+2022,nitrogen oxide,2.0
+2023,nitrogen oxide,1.0
+2015,phenol,6.0
+2016,phenol,5.0
+2017,phenol,8.0
+2018,phenol,7.0
+2019,phenol,9.0
+2020,phenol,6.0
+2021,phenol,6.0
+2022,phenol,7.0
+2023,phenol,7.0
+2015,soot,1.0
+2016,soot,1.0
+2017,soot,1.0
+2018,soot,1.0
+2019,soot,1.0
+2020,soot,
+2021,soot,
+2022,soot,1.0
+2023,soot,
+2015,hydrogen fluoride,2.0
+2016,hydrogen fluoride,2.0
+2017,hydrogen fluoride,2.0
+2018,hydrogen fluoride,2.0
+2019,hydrogen fluoride,3.0
+2020,hydrogen fluoride,
+2021,hydrogen fluoride,2.0
+2022,hydrogen fluoride,1.0
+2023,hydrogen fluoride,4.0
+2015,ammonia,2.0
+2016,ammonia,2.0
+2017,ammonia,1.0
+2018,ammonia,1.0
+2019,ammonia,2.0
+2020,ammonia,2.0
+2021,ammonia,1.0
+2022,ammonia,1.0
+2023,ammonia,1.0
+2015,formaldehyde,22.0
+2016,formaldehyde,23.0
+2017,formaldehyde,24.0
+2018,formaldehyde,25.0
+2019,formaldehyde,25.0
+2020,formaldehyde,23.0
+2021,formaldehyde,24.0
+2022,formaldehyde,25.0
+2023,formaldehyde,20.0

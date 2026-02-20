@@ -1,0 +1,66 @@
+Year,Subject,Sex,Type of residence,by type of educational institution,Value
+2015,,,,,
+2016,,,,,
+2017,,,,,
+2019,,,,,
+2020,,,,,
+2022,,,,,
+2023,,,,,
+2018,reading,,,,86.2
+2018,mathematics,,,,86.4
+2018,natural sciences,,,,
+2021,reading,,,,83.1
+2021,mathematics,,,,83.3
+2021,natural sciences,,,,
+2024,reading,,,,82.3
+2024,mathematics,,,,85.4
+2024,natural sciences,,,,83.9
+2018,reading,women,,,89.9
+2018,mathematics,women,,,88.2
+2021,reading,women,,,86.0
+2021,mathematics,women,,,84.7
+2024,reading,women,,,85.5
+2024,mathematics,women,,,83.5
+2024,natural sciences,women,,,84.2
+2018,reading,men,,,83.0
+2018,mathematics,men,,,85.2
+2021,reading,men,,,79.6
+2021,mathematics,men,,,83.1
+2024,reading,men,,,79.6
+2024,mathematics,men,,,87.8
+2024,natural sciences,men,,,84.4
+2018,reading,,urban,,89.9
+2018,mathematics,,urban,,91.1
+2021,reading,,urban,,87.1
+2021,mathematics,,urban,,88.8
+2024,reading,,urban,,87.3
+2024,mathematics,,urban,,91.0
+2024,natural sciences,,urban,,87.3
+2018,reading,,rural,,78.4
+2018,mathematics,,rural,,76.8
+2021,reading,,rural,,76.9
+2021,mathematics,,rural,,77.2
+2024,reading,,rural,,74.7
+2024,mathematics,,rural,,77.1
+2024,natural sciences,,rural,,78.8
+2018,reading,,,general secondary educational institutions (GSEI),84.8
+2018,mathematics,,,general secondary educational institutions (GSEI),84.4
+2021,reading,,,general secondary educational institutions (GSEI),79.5
+2021,mathematics,,,general secondary educational institutions (GSEI),81.1
+2024,reading,,,general secondary educational institutions (GSEI),83.9
+2024,mathematics,,,general secondary educational institutions (GSEI),85.3
+2024,natural sciences,,,general secondary educational institutions (GSEI),83.3
+2018,reading,,,gymnasium,88.7
+2018,mathematics,,,gymnasium,91.7
+2021,reading,,,gymnasium,91.7
+2021,mathematics,,,gymnasium,93.1
+2024,reading,,,gymnasium,80.5
+2024,mathematics,,,gymnasium,84.2
+2024,natural sciences,,,gymnasium,83.7
+2018,reading,,,specialized school,93.9
+2018,mathematics,,,specialized school,94.7
+2021,reading,,,specialized school,92.9
+2021,mathematics,,,specialized school,92.1
+2024,reading,,,specialized school,91.0
+2024,mathematics,,,specialized school,97.6
+2024,natural sciences,,,specialized school,89.4

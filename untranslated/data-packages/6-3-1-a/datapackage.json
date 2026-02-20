@@ -1,0 +1,49 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s_11_indu",
+                "s_12_agri",
+                "s_13_fores",
+                "s_14_transp",
+                "s_15_commun",
+                "s_16_constr",
+                "s_17_trade",
+                "s_18_logis",
+                "s_19_resid",
+                "s_20_care",
+                "s_21_pub_ed",
+                "s_22_oth_sec",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-1-a",
+  "title": "global_indicators.6-3-1-a-title"
+}

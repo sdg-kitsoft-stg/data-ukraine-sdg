@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ТЕС ГК",
+                "ТЕЦ та коген. установки",
+                "ГЕС",
+                "ГАЕС",
+                "АЕС",
+                "Блокстанції",
+                "Альтерн. джер. енергії (ВЕС, СЕС, Біомаса)",
+                ""
+              ]
+            },
+            "title": "Виробіток електроенергії"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-1",
+  "title": "Коефіцієнт покриття споживання електричної енергії власним виробництвом (індикатор ЦСР 7.1.1)"
+}

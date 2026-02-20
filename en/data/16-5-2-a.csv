@@ -1,0 +1,1171 @@
+Year,Type of ammunition,Region,Value
+2015,,,204326.0
+2016,,,177757.0
+2017,,,280276.0
+2018,,,273167.0
+2019,,,206918.0
+2020,,,180562.0
+2021,,,135152.0
+2022,,,200990.0
+2023,,,724993.0
+2015,cartridges,,202142.0
+2016,cartridges,,174954.0
+2017,cartridges,,278238.0
+2018,cartridges,,271141.0
+2019,cartridges,,204899.0
+2020,cartridges,,179186.0
+2021,cartridges,,134166.0
+2022,cartridges,,199850.0
+2023,cartridges,,720336.0
+2015,grenades,,2099.0
+2016,grenades,,2698.0
+2017,grenades,,1935.0
+2018,grenades,,1918.0
+2019,grenades,,1889.0
+2020,grenades,,1228.0
+2021,grenades,,926.0
+2022,grenades,,1110.0
+2023,grenades,,4418.0
+2015,mines,,26.0
+2016,mines,,61.0
+2017,mines,,57.0
+2018,mines,,48.0
+2019,mines,,84.0
+2020,mines,,24.0
+2021,mines,,7.0
+2022,mines,,9.0
+2023,mines,,148.0
+2015,improvised explosive devices,,59.0
+2016,improvised explosive devices,,44.0
+2017,improvised explosive devices,,46.0
+2018,improvised explosive devices,,60.0
+2019,improvised explosive devices,,46.0
+2020,improvised explosive devices,,124.0
+2021,improvised explosive devices,,53.0
+2022,improvised explosive devices,,21.0
+2023,improvised explosive devices,,91.0
+2015,,Vinnytsya,3982.0
+2016,,Vinnytsya,6624.0
+2017,,Vinnytsya,5909.0
+2018,,Vinnytsya,12284.0
+2019,,Vinnytsya,12436.0
+2020,,Vinnytsya,7006.0
+2021,,Vinnytsya,1786.0
+2022,,Vinnytsya,3279.0
+2023,,Vinnytsya,14133.0
+2015,cartridges,Vinnytsya,3952.0
+2016,cartridges,Vinnytsya,6584.0
+2017,cartridges,Vinnytsya,5893.0
+2018,cartridges,Vinnytsya,12247.0
+2019,cartridges,Vinnytsya,12423.0
+2020,cartridges,Vinnytsya,6988.0
+2021,cartridges,Vinnytsya,1777.0
+2022,cartridges,Vinnytsya,3257.0
+2023,cartridges,Vinnytsya,14037.0
+2015,grenades,Vinnytsya,29.0
+2016,grenades,Vinnytsya,39.0
+2017,grenades,Vinnytsya,16.0
+2018,grenades,Vinnytsya,36.0
+2019,grenades,Vinnytsya,13.0
+2020,grenades,Vinnytsya,18.0
+2021,grenades,Vinnytsya,9.0
+2022,grenades,Vinnytsya,22.0
+2023,grenades,Vinnytsya,95.0
+2015,mines,Vinnytsya,1.0
+2016,mines,Vinnytsya,
+2017,mines,Vinnytsya,
+2018,mines,Vinnytsya,1.0
+2019,mines,Vinnytsya,
+2020,mines,Vinnytsya,
+2021,mines,Vinnytsya,
+2022,mines,Vinnytsya,
+2023,mines,Vinnytsya,
+2015,improvised explosive devices,Vinnytsya,
+2016,improvised explosive devices,Vinnytsya,1.0
+2017,improvised explosive devices,Vinnytsya,
+2018,improvised explosive devices,Vinnytsya,
+2019,improvised explosive devices,Vinnytsya,
+2020,improvised explosive devices,Vinnytsya,
+2021,improvised explosive devices,Vinnytsya,
+2022,improvised explosive devices,Vinnytsya,
+2023,improvised explosive devices,Vinnytsya,1.0
+2015,,Volyn,1536.0
+2016,,Volyn,2392.0
+2017,,Volyn,5351.0
+2018,,Volyn,4581.0
+2019,,Volyn,2461.0
+2020,,Volyn,5316.0
+2021,,Volyn,1631.0
+2022,,Volyn,3989.0
+2023,,Volyn,3590.0
+2015,cartridges,Volyn,1508.0
+2016,cartridges,Volyn,1664.0
+2017,cartridges,Volyn,5312.0
+2018,cartridges,Volyn,4555.0
+2019,cartridges,Volyn,2440.0
+2020,cartridges,Volyn,5074.0
+2021,cartridges,Volyn,1618.0
+2022,cartridges,Volyn,3968.0
+2023,cartridges,Volyn,3560.0
+2015,grenades,Volyn,28.0
+2016,grenades,Volyn,713.0
+2017,grenades,Volyn,31.0
+2018,grenades,Volyn,26.0
+2019,grenades,Volyn,20.0
+2020,grenades,Volyn,232.0
+2021,grenades,Volyn,13.0
+2022,grenades,Volyn,18.0
+2023,grenades,Volyn,30.0
+2015,mines,Volyn,
+2016,mines,Volyn,15.0
+2017,mines,Volyn,8.0
+2018,mines,Volyn,
+2019,mines,Volyn,
+2020,mines,Volyn,10.0
+2021,mines,Volyn,
+2022,mines,Volyn,3.0
+2023,mines,Volyn,
+2015,improvised explosive devices,Volyn,
+2016,improvised explosive devices,Volyn,
+2017,improvised explosive devices,Volyn,
+2018,improvised explosive devices,Volyn,
+2019,improvised explosive devices,Volyn,1.0
+2020,improvised explosive devices,Volyn,
+2021,improvised explosive devices,Volyn,
+2022,improvised explosive devices,Volyn,
+2023,improvised explosive devices,Volyn,
+2015,,Dnipropetrovsk,43122.0
+2016,,Dnipropetrovsk,10419.0
+2017,,Dnipropetrovsk,27831.0
+2018,,Dnipropetrovsk,21941.0
+2019,,Dnipropetrovsk,21774.0
+2020,,Dnipropetrovsk,23838.0
+2021,,Dnipropetrovsk,24945.0
+2022,,Dnipropetrovsk,26961.0
+2023,,Dnipropetrovsk,72843.0
+2015,cartridges,Dnipropetrovsk,42751.0
+2016,cartridges,Dnipropetrovsk,10320.0
+2017,cartridges,Dnipropetrovsk,27620.0
+2018,cartridges,Dnipropetrovsk,21697.0
+2019,cartridges,Dnipropetrovsk,21498.0
+2020,cartridges,Dnipropetrovsk,23696.0
+2021,cartridges,Dnipropetrovsk,24750.0
+2022,cartridges,Dnipropetrovsk,26732.0
+2023,cartridges,Dnipropetrovsk,72166.0
+2015,grenades,Dnipropetrovsk,339.0
+2016,grenades,Dnipropetrovsk,98.0
+2017,grenades,Dnipropetrovsk,208.0
+2018,grenades,Dnipropetrovsk,237.0
+2019,grenades,Dnipropetrovsk,262.0
+2020,grenades,Dnipropetrovsk,135.0
+2021,grenades,Dnipropetrovsk,192.0
+2022,grenades,Dnipropetrovsk,222.0
+2023,grenades,Dnipropetrovsk,650.0
+2015,mines,Dnipropetrovsk,3.0
+2016,mines,Dnipropetrovsk,
+2017,mines,Dnipropetrovsk,2.0
+2018,mines,Dnipropetrovsk,2.0
+2019,mines,Dnipropetrovsk,4.0
+2020,mines,Dnipropetrovsk,1.0
+2021,mines,Dnipropetrovsk,
+2022,mines,Dnipropetrovsk,1.0
+2023,mines,Dnipropetrovsk,2.0
+2015,improvised explosive devices,Dnipropetrovsk,29.0
+2016,improvised explosive devices,Dnipropetrovsk,1.0
+2017,improvised explosive devices,Dnipropetrovsk,1.0
+2018,improvised explosive devices,Dnipropetrovsk,5.0
+2019,improvised explosive devices,Dnipropetrovsk,10.0
+2020,improvised explosive devices,Dnipropetrovsk,6.0
+2021,improvised explosive devices,Dnipropetrovsk,3.0
+2022,improvised explosive devices,Dnipropetrovsk,6.0
+2023,improvised explosive devices,Dnipropetrovsk,25.0
+2015,,Donetsk,19780.0
+2016,,Donetsk,30997.0
+2017,,Donetsk,47498.0
+2018,,Donetsk,37417.0
+2019,,Donetsk,54489.0
+2020,,Donetsk,14330.0
+2021,,Donetsk,12720.0
+2022,,Donetsk,6735.0
+2023,,Donetsk,54933.0
+2015,cartridges,Donetsk,19344.0
+2016,cartridges,Donetsk,30594.0
+2017,cartridges,Donetsk,47187.0
+2018,cartridges,Donetsk,37122.0
+2019,cartridges,Donetsk,54233.0
+2020,cartridges,Donetsk,14243.0
+2021,cartridges,Donetsk,12627.0
+2022,cartridges,Donetsk,6691.0
+2023,cartridges,Donetsk,54301.0
+2015,grenades,Donetsk,428.0
+2016,grenades,Donetsk,395.0
+2017,grenades,Donetsk,305.0
+2018,grenades,Donetsk,283.0
+2019,grenades,Donetsk,249.0
+2020,grenades,Donetsk,84.0
+2021,grenades,Donetsk,84.0
+2022,grenades,Donetsk,44.0
+2023,grenades,Donetsk,627.0
+2015,mines,Donetsk,6.0
+2016,mines,Donetsk,5.0
+2017,mines,Donetsk,3.0
+2018,mines,Donetsk,4.0
+2019,mines,Donetsk,4.0
+2020,mines,Donetsk,
+2021,mines,Donetsk,
+2022,mines,Donetsk,
+2023,mines,Donetsk,2.0
+2015,improvised explosive devices,Donetsk,2.0
+2016,improvised explosive devices,Donetsk,3.0
+2017,improvised explosive devices,Donetsk,3.0
+2018,improvised explosive devices,Donetsk,8.0
+2019,improvised explosive devices,Donetsk,3.0
+2020,improvised explosive devices,Donetsk,3.0
+2021,improvised explosive devices,Donetsk,9.0
+2022,improvised explosive devices,Donetsk,
+2023,improvised explosive devices,Donetsk,3.0
+2015,,Zhytomyr,3461.0
+2016,,Zhytomyr,3321.0
+2017,,Zhytomyr,3686.0
+2018,,Zhytomyr,2006.0
+2019,,Zhytomyr,2725.0
+2020,,Zhytomyr,4256.0
+2021,,Zhytomyr,4240.0
+2022,,Zhytomyr,9849.0
+2023,,Zhytomyr,9280.0
+2015,cartridges,Zhytomyr,3434.0
+2016,cartridges,Zhytomyr,3284.0
+2017,cartridges,Zhytomyr,3650.0
+2018,cartridges,Zhytomyr,1984.0
+2019,cartridges,Zhytomyr,2714.0
+2020,cartridges,Zhytomyr,4245.0
+2021,cartridges,Zhytomyr,4232.0
+2022,cartridges,Zhytomyr,9801.0
+2023,cartridges,Zhytomyr,9193.0
+2015,grenades,Zhytomyr,27.0
+2016,grenades,Zhytomyr,35.0
+2017,grenades,Zhytomyr,35.0
+2018,grenades,Zhytomyr,14.0
+2019,grenades,Zhytomyr,10.0
+2020,grenades,Zhytomyr,9.0
+2021,grenades,Zhytomyr,7.0
+2022,grenades,Zhytomyr,48.0
+2023,grenades,Zhytomyr,86.0
+2015,mines,Zhytomyr,
+2016,mines,Zhytomyr,2.0
+2017,mines,Zhytomyr,1.0
+2018,mines,Zhytomyr,1.0
+2019,mines,Zhytomyr,
+2020,mines,Zhytomyr,
+2021,mines,Zhytomyr,1.0
+2022,mines,Zhytomyr,
+2023,mines,Zhytomyr,1.0
+2015,improvised explosive devices,Zhytomyr,
+2016,improvised explosive devices,Zhytomyr,
+2017,improvised explosive devices,Zhytomyr,
+2018,improvised explosive devices,Zhytomyr,7.0
+2019,improvised explosive devices,Zhytomyr,1.0
+2020,improvised explosive devices,Zhytomyr,2.0
+2021,improvised explosive devices,Zhytomyr,
+2022,improvised explosive devices,Zhytomyr,
+2023,improvised explosive devices,Zhytomyr,
+2015,,Zakarpattya,1663.0
+2016,,Zakarpattya,866.0
+2017,,Zakarpattya,1773.0
+2018,,Zakarpattya,1777.0
+2019,,Zakarpattya,1821.0
+2020,,Zakarpattya,1772.0
+2021,,Zakarpattya,2883.0
+2022,,Zakarpattya,3875.0
+2023,,Zakarpattya,207935.0
+2015,cartridges,Zakarpattya,1652.0
+2016,cartridges,Zakarpattya,857.0
+2017,cartridges,Zakarpattya,1763.0
+2018,cartridges,Zakarpattya,1762.0
+2019,cartridges,Zakarpattya,1812.0
+2020,cartridges,Zakarpattya,1752.0
+2021,cartridges,Zakarpattya,2875.0
+2022,cartridges,Zakarpattya,3842.0
+2023,cartridges,Zakarpattya,207576.0
+2015,grenades,Zakarpattya,8.0
+2016,grenades,Zakarpattya,9.0
+2017,grenades,Zakarpattya,10.0
+2018,grenades,Zakarpattya,15.0
+2019,grenades,Zakarpattya,9.0
+2020,grenades,Zakarpattya,20.0
+2021,grenades,Zakarpattya,7.0
+2022,grenades,Zakarpattya,33.0
+2023,grenades,Zakarpattya,358.0
+2015,mines,Zakarpattya,
+2016,mines,Zakarpattya,
+2017,mines,Zakarpattya,
+2018,mines,Zakarpattya,
+2019,mines,Zakarpattya,
+2020,mines,Zakarpattya,
+2021,mines,Zakarpattya,1.0
+2022,mines,Zakarpattya,
+2023,mines,Zakarpattya,
+2015,improvised explosive devices,Zakarpattya,3.0
+2016,improvised explosive devices,Zakarpattya,
+2017,improvised explosive devices,Zakarpattya,
+2018,improvised explosive devices,Zakarpattya,
+2019,improvised explosive devices,Zakarpattya,
+2020,improvised explosive devices,Zakarpattya,
+2021,improvised explosive devices,Zakarpattya,
+2022,improvised explosive devices,Zakarpattya,
+2023,improvised explosive devices,Zakarpattya,1.0
+2015,,Zaporizhzhya,6385.0
+2016,,Zaporizhzhya,40202.0
+2017,,Zaporizhzhya,34304.0
+2018,,Zaporizhzhya,5202.0
+2019,,Zaporizhzhya,5231.0
+2020,,Zaporizhzhya,9316.0
+2021,,Zaporizhzhya,5797.0
+2022,,Zaporizhzhya,7301.0
+2023,,Zaporizhzhya,14889.0
+2015,cartridges,Zaporizhzhya,6267.0
+2016,cartridges,Zaporizhzhya,39459.0
+2017,cartridges,Zaporizhzhya,34052.0
+2018,cartridges,Zaporizhzhya,5086.0
+2019,cartridges,Zaporizhzhya,5115.0
+2020,cartridges,Zaporizhzhya,9285.0
+2021,cartridges,Zaporizhzhya,5743.0
+2022,cartridges,Zaporizhzhya,7241.0
+2023,cartridges,Zaporizhzhya,14780.0
+2015,grenades,Zaporizhzhya,110.0
+2016,grenades,Zaporizhzhya,731.0
+2017,grenades,Zaporizhzhya,251.0
+2018,grenades,Zaporizhzhya,115.0
+2019,grenades,Zaporizhzhya,113.0
+2020,grenades,Zaporizhzhya,26.0
+2021,grenades,Zaporizhzhya,50.0
+2022,grenades,Zaporizhzhya,57.0
+2023,grenades,Zaporizhzhya,109.0
+2015,mines,Zaporizhzhya,
+2016,mines,Zaporizhzhya,8.0
+2017,mines,Zaporizhzhya,1.0
+2018,mines,Zaporizhzhya,
+2019,mines,Zaporizhzhya,
+2020,mines,Zaporizhzhya,3.0
+2021,mines,Zaporizhzhya,4.0
+2022,mines,Zaporizhzhya,3.0
+2023,mines,Zaporizhzhya,
+2015,improvised explosive devices,Zaporizhzhya,8.0
+2016,improvised explosive devices,Zaporizhzhya,4.0
+2017,improvised explosive devices,Zaporizhzhya,
+2018,improvised explosive devices,Zaporizhzhya,1.0
+2019,improvised explosive devices,Zaporizhzhya,3.0
+2020,improvised explosive devices,Zaporizhzhya,2.0
+2021,improvised explosive devices,Zaporizhzhya,
+2022,improvised explosive devices,Zaporizhzhya,
+2023,improvised explosive devices,Zaporizhzhya,
+2015,,Ivano-Frankivsk,3573.0
+2016,,Ivano-Frankivsk,3317.0
+2017,,Ivano-Frankivsk,5177.0
+2018,,Ivano-Frankivsk,17075.0
+2019,,Ivano-Frankivsk,5996.0
+2020,,Ivano-Frankivsk,2695.0
+2021,,Ivano-Frankivsk,2960.0
+2022,,Ivano-Frankivsk,5269.0
+2023,,Ivano-Frankivsk,10885.0
+2015,cartridges,Ivano-Frankivsk,3546.0
+2016,cartridges,Ivano-Frankivsk,3284.0
+2017,cartridges,Ivano-Frankivsk,5150.0
+2018,cartridges,Ivano-Frankivsk,17002.0
+2019,cartridges,Ivano-Frankivsk,5973.0
+2020,cartridges,Ivano-Frankivsk,2675.0
+2021,cartridges,Ivano-Frankivsk,2949.0
+2022,cartridges,Ivano-Frankivsk,5247.0
+2023,cartridges,Ivano-Frankivsk,10824.0
+2015,grenades,Ivano-Frankivsk,27.0
+2016,grenades,Ivano-Frankivsk,31.0
+2017,grenades,Ivano-Frankivsk,24.0
+2018,grenades,Ivano-Frankivsk,69.0
+2019,grenades,Ivano-Frankivsk,23.0
+2020,grenades,Ivano-Frankivsk,20.0
+2021,grenades,Ivano-Frankivsk,11.0
+2022,grenades,Ivano-Frankivsk,22.0
+2023,grenades,Ivano-Frankivsk,61.0
+2015,mines,Ivano-Frankivsk,
+2016,mines,Ivano-Frankivsk,
+2017,mines,Ivano-Frankivsk,2.0
+2018,mines,Ivano-Frankivsk,4.0
+2019,mines,Ivano-Frankivsk,
+2020,mines,Ivano-Frankivsk,
+2021,mines,Ivano-Frankivsk,
+2022,mines,Ivano-Frankivsk,
+2023,mines,Ivano-Frankivsk,
+2015,improvised explosive devices,Ivano-Frankivsk,
+2016,improvised explosive devices,Ivano-Frankivsk,2.0
+2017,improvised explosive devices,Ivano-Frankivsk,1.0
+2018,improvised explosive devices,Ivano-Frankivsk,
+2019,improvised explosive devices,Ivano-Frankivsk,
+2020,improvised explosive devices,Ivano-Frankivsk,
+2021,improvised explosive devices,Ivano-Frankivsk,
+2022,improvised explosive devices,Ivano-Frankivsk,
+2023,improvised explosive devices,Ivano-Frankivsk,
+2015,,Kyiv,8154.0
+2016,,Kyiv,10017.0
+2017,,Kyiv,32340.0
+2018,,Kyiv,5467.0
+2019,,Kyiv,6608.0
+2020,,Kyiv,3945.0
+2021,,Kyiv,2838.0
+2022,,Kyiv,42928.0
+2023,,Kyiv,47849.0
+2015,cartridges,Kyiv,8122.0
+2016,cartridges,Kyiv,9976.0
+2017,cartridges,Kyiv,32203.0
+2018,cartridges,Kyiv,5423.0
+2019,cartridges,Kyiv,6548.0
+2020,cartridges,Kyiv,3906.0
+2021,cartridges,Kyiv,2815.0
+2022,cartridges,Kyiv,42857.0
+2023,cartridges,Kyiv,47673.0
+2015,grenades,Kyiv,32.0
+2016,grenades,Kyiv,41.0
+2017,grenades,Kyiv,136.0
+2018,grenades,Kyiv,43.0
+2019,grenades,Kyiv,58.0
+2020,grenades,Kyiv,39.0
+2021,grenades,Kyiv,23.0
+2022,grenades,Kyiv,70.0
+2023,grenades,Kyiv,176.0
+2015,mines,Kyiv,
+2016,mines,Kyiv,
+2017,mines,Kyiv,
+2018,mines,Kyiv,
+2019,mines,Kyiv,
+2020,mines,Kyiv,
+2021,mines,Kyiv,
+2022,mines,Kyiv,
+2023,mines,Kyiv,
+2015,improvised explosive devices,Kyiv,
+2016,improvised explosive devices,Kyiv,
+2017,improvised explosive devices,Kyiv,1.0
+2018,improvised explosive devices,Kyiv,1.0
+2019,improvised explosive devices,Kyiv,2.0
+2020,improvised explosive devices,Kyiv,
+2021,improvised explosive devices,Kyiv,
+2022,improvised explosive devices,Kyiv,1.0
+2023,improvised explosive devices,Kyiv,
+2015,,Kirovohrad,2361.0
+2016,,Kirovohrad,1256.0
+2017,,Kirovohrad,5508.0
+2018,,Kirovohrad,8830.0
+2019,,Kirovohrad,4151.0
+2020,,Kirovohrad,4836.0
+2021,,Kirovohrad,3948.0
+2022,,Kirovohrad,7371.0
+2023,,Kirovohrad,23346.0
+2015,cartridges,Kirovohrad,2286.0
+2016,cartridges,Kirovohrad,1239.0
+2017,cartridges,Kirovohrad,5481.0
+2018,cartridges,Kirovohrad,8771.0
+2019,cartridges,Kirovohrad,4100.0
+2020,cartridges,Kirovohrad,4777.0
+2021,cartridges,Kirovohrad,3908.0
+2022,cartridges,Kirovohrad,7329.0
+2023,cartridges,Kirovohrad,23174.0
+2015,grenades,Kirovohrad,74.0
+2016,grenades,Kirovohrad,13.0
+2017,grenades,Kirovohrad,16.0
+2018,grenades,Kirovohrad,53.0
+2019,grenades,Kirovohrad,49.0
+2020,grenades,Kirovohrad,41.0
+2021,grenades,Kirovohrad,34.0
+2022,grenades,Kirovohrad,42.0
+2023,grenades,Kirovohrad,140.0
+2015,mines,Kirovohrad,
+2016,mines,Kirovohrad,
+2017,mines,Kirovohrad,11.0
+2018,mines,Kirovohrad,3.0
+2019,mines,Kirovohrad,2.0
+2020,mines,Kirovohrad,
+2021,mines,Kirovohrad,
+2022,mines,Kirovohrad,
+2023,mines,Kirovohrad,14.0
+2015,improvised explosive devices,Kirovohrad,1.0
+2016,improvised explosive devices,Kirovohrad,4.0
+2017,improvised explosive devices,Kirovohrad,
+2018,improvised explosive devices,Kirovohrad,3.0
+2019,improvised explosive devices,Kirovohrad,
+2020,improvised explosive devices,Kirovohrad,18.0
+2021,improvised explosive devices,Kirovohrad,6.0
+2022,improvised explosive devices,Kirovohrad,
+2023,improvised explosive devices,Kirovohrad,18.0
+2015,,Luhansk,16674.0
+2016,,Luhansk,16888.0
+2017,,Luhansk,14655.0
+2018,,Luhansk,15700.0
+2019,,Luhansk,15017.0
+2020,,Luhansk,16238.0
+2021,,Luhansk,11387.0
+2022,,Luhansk,974.0
+2023,,Luhansk,
+2015,cartridges,Luhansk,16453.0
+2016,cartridges,Luhansk,16764.0
+2017,cartridges,Luhansk,14436.0
+2018,cartridges,Luhansk,15485.0
+2019,cartridges,Luhansk,14907.0
+2020,cartridges,Luhansk,16099.0
+2021,cartridges,Luhansk,11317.0
+2022,cartridges,Luhansk,956.0
+2023,cartridges,Luhansk,
+2015,grenades,Luhansk,214.0
+2016,grenades,Luhansk,123.0
+2017,grenades,Luhansk,216.0
+2018,grenades,Luhansk,205.0
+2019,grenades,Luhansk,109.0
+2020,grenades,Luhansk,135.0
+2021,grenades,Luhansk,68.0
+2022,grenades,Luhansk,16.0
+2023,grenades,Luhansk,
+2015,mines,Luhansk,3.0
+2016,mines,Luhansk,
+2017,mines,Luhansk,2.0
+2018,mines,Luhansk,5.0
+2019,mines,Luhansk,1.0
+2020,mines,Luhansk,1.0
+2021,mines,Luhansk,
+2022,mines,Luhansk,2.0
+2023,mines,Luhansk,
+2015,improvised explosive devices,Luhansk,4.0
+2016,improvised explosive devices,Luhansk,1.0
+2017,improvised explosive devices,Luhansk,1.0
+2018,improvised explosive devices,Luhansk,5.0
+2019,improvised explosive devices,Luhansk,
+2020,improvised explosive devices,Luhansk,3.0
+2021,improvised explosive devices,Luhansk,2.0
+2022,improvised explosive devices,Luhansk,
+2023,improvised explosive devices,Luhansk,
+2015,,Lviv,2435.0
+2016,,Lviv,1399.0
+2017,,Lviv,10073.0
+2018,,Lviv,4847.0
+2019,,Lviv,4685.0
+2020,,Lviv,4560.0
+2021,,Lviv,6063.0
+2022,,Lviv,5308.0
+2023,,Lviv,10292.0
+2015,cartridges,Lviv,2418.0
+2016,cartridges,Lviv,1386.0
+2017,cartridges,Lviv,10006.0
+2018,cartridges,Lviv,4813.0
+2019,cartridges,Lviv,4650.0
+2020,cartridges,Lviv,4545.0
+2021,cartridges,Lviv,6046.0
+2022,cartridges,Lviv,5277.0
+2023,cartridges,Lviv,10243.0
+2015,grenades,Lviv,17.0
+2016,grenades,Lviv,13.0
+2017,grenades,Lviv,42.0
+2018,grenades,Lviv,34.0
+2019,grenades,Lviv,34.0
+2020,grenades,Lviv,15.0
+2021,grenades,Lviv,15.0
+2022,grenades,Lviv,31.0
+2023,grenades,Lviv,49.0
+2015,mines,Lviv,
+2016,mines,Lviv,
+2017,mines,Lviv,
+2018,mines,Lviv,
+2019,mines,Lviv,
+2020,mines,Lviv,
+2021,mines,Lviv,
+2022,mines,Lviv,
+2023,mines,Lviv,
+2015,improvised explosive devices,Lviv,
+2016,improvised explosive devices,Lviv,
+2017,improvised explosive devices,Lviv,25.0
+2018,improvised explosive devices,Lviv,
+2019,improvised explosive devices,Lviv,1.0
+2020,improvised explosive devices,Lviv,
+2021,improvised explosive devices,Lviv,2.0
+2022,improvised explosive devices,Lviv,
+2023,improvised explosive devices,Lviv,
+2015,,Mykolayiv,9515.0
+2016,,Mykolayiv,2834.0
+2017,,Mykolayiv,6209.0
+2018,,Mykolayiv,8323.0
+2019,,Mykolayiv,4231.0
+2020,,Mykolayiv,1624.0
+2021,,Mykolayiv,4280.0
+2022,,Mykolayiv,15152.0
+2023,,Mykolayiv,21411.0
+2015,cartridges,Mykolayiv,9451.0
+2016,cartridges,Mykolayiv,2813.0
+2017,cartridges,Mykolayiv,6175.0
+2018,cartridges,Mykolayiv,8282.0
+2019,cartridges,Mykolayiv,4198.0
+2020,cartridges,Mykolayiv,1611.0
+2021,cartridges,Mykolayiv,4267.0
+2022,cartridges,Mykolayiv,15111.0
+2023,cartridges,Mykolayiv,21258.0
+2015,grenades,Mykolayiv,61.0
+2016,grenades,Mykolayiv,18.0
+2017,grenades,Mykolayiv,33.0
+2018,grenades,Mykolayiv,41.0
+2019,grenades,Mykolayiv,32.0
+2020,grenades,Mykolayiv,13.0
+2021,grenades,Mykolayiv,13.0
+2022,grenades,Mykolayiv,41.0
+2023,grenades,Mykolayiv,149.0
+2015,mines,Mykolayiv,2.0
+2016,mines,Mykolayiv,
+2017,mines,Mykolayiv,
+2018,mines,Mykolayiv,
+2019,mines,Mykolayiv,1.0
+2020,mines,Mykolayiv,
+2021,mines,Mykolayiv,
+2022,mines,Mykolayiv,
+2023,mines,Mykolayiv,3.0
+2015,improvised explosive devices,Mykolayiv,1.0
+2016,improvised explosive devices,Mykolayiv,3.0
+2017,improvised explosive devices,Mykolayiv,1.0
+2018,improvised explosive devices,Mykolayiv,
+2019,improvised explosive devices,Mykolayiv,
+2020,improvised explosive devices,Mykolayiv,
+2021,improvised explosive devices,Mykolayiv,
+2022,improvised explosive devices,Mykolayiv,
+2023,improvised explosive devices,Mykolayiv,1.0
+2015,,Odesa,21340.0
+2016,,Odesa,3665.0
+2017,,Odesa,5009.0
+2018,,Odesa,12350.0
+2019,,Odesa,11256.0
+2020,,Odesa,5687.0
+2021,,Odesa,6878.0
+2022,,Odesa,9145.0
+2023,,Odesa,22220.0
+2015,cartridges,Odesa,21301.0
+2016,cartridges,Odesa,3622.0
+2017,cartridges,Odesa,4986.0
+2018,cartridges,Odesa,12303.0
+2019,cartridges,Odesa,11180.0
+2020,cartridges,Odesa,5635.0
+2021,cartridges,Odesa,6817.0
+2022,cartridges,Odesa,9102.0
+2023,cartridges,Odesa,22066.0
+2015,grenades,Odesa,38.0
+2016,grenades,Odesa,20.0
+2017,grenades,Odesa,22.0
+2018,grenades,Odesa,46.0
+2019,grenades,Odesa,73.0
+2020,grenades,Odesa,52.0
+2021,grenades,Odesa,61.0
+2022,grenades,Odesa,43.0
+2023,grenades,Odesa,151.0
+2015,mines,Odesa,
+2016,mines,Odesa,
+2017,mines,Odesa,
+2018,mines,Odesa,1.0
+2019,mines,Odesa,1.0
+2020,mines,Odesa,
+2021,mines,Odesa,
+2022,mines,Odesa,
+2023,mines,Odesa,2.0
+2015,improvised explosive devices,Odesa,1.0
+2016,improvised explosive devices,Odesa,23.0
+2017,improvised explosive devices,Odesa,1.0
+2018,improvised explosive devices,Odesa,
+2019,improvised explosive devices,Odesa,2.0
+2020,improvised explosive devices,Odesa,
+2021,improvised explosive devices,Odesa,
+2022,improvised explosive devices,Odesa,
+2023,improvised explosive devices,Odesa,1.0
+2015,,Poltava,5632.0
+2016,,Poltava,7072.0
+2017,,Poltava,6276.0
+2018,,Poltava,5369.0
+2019,,Poltava,3343.0
+2020,,Poltava,5730.0
+2021,,Poltava,2393.0
+2022,,Poltava,4909.0
+2023,,Poltava,21199.0
+2015,cartridges,Poltava,5588.0
+2016,cartridges,Poltava,7025.0
+2017,cartridges,Poltava,6219.0
+2018,cartridges,Poltava,5327.0
+2019,cartridges,Poltava,3308.0
+2020,cartridges,Poltava,5713.0
+2021,cartridges,Poltava,2377.0
+2022,cartridges,Poltava,4849.0
+2023,cartridges,Poltava,21083.0
+2015,grenades,Poltava,44.0
+2016,grenades,Poltava,47.0
+2017,grenades,Poltava,57.0
+2018,grenades,Poltava,35.0
+2019,grenades,Poltava,34.0
+2020,grenades,Poltava,16.0
+2021,grenades,Poltava,16.0
+2022,grenades,Poltava,50.0
+2023,grenades,Poltava,115.0
+2015,mines,Poltava,
+2016,mines,Poltava,
+2017,mines,Poltava,
+2018,mines,Poltava,
+2019,mines,Poltava,1.0
+2020,mines,Poltava,
+2021,mines,Poltava,
+2022,mines,Poltava,
+2023,mines,Poltava,
+2015,improvised explosive devices,Poltava,
+2016,improvised explosive devices,Poltava,
+2017,improvised explosive devices,Poltava,
+2018,improvised explosive devices,Poltava,7.0
+2019,improvised explosive devices,Poltava,
+2020,improvised explosive devices,Poltava,1.0
+2021,improvised explosive devices,Poltava,
+2022,improvised explosive devices,Poltava,10.0
+2023,improvised explosive devices,Poltava,1.0
+2015,,Rivne,3798.0
+2016,,Rivne,2783.0
+2017,,Rivne,5092.0
+2018,,Rivne,9344.0
+2019,,Rivne,14106.0
+2020,,Rivne,29331.0
+2021,,Rivne,4242.0
+2022,,Rivne,3988.0
+2023,,Rivne,6273.0
+2015,cartridges,Rivne,3735.0
+2016,cartridges,Rivne,2721.0
+2017,cartridges,Rivne,5036.0
+2018,cartridges,Rivne,9257.0
+2019,cartridges,Rivne,13876.0
+2020,cartridges,Rivne,29215.0
+2021,cartridges,Rivne,4205.0
+2022,cartridges,Rivne,3963.0
+2023,cartridges,Rivne,6191.0
+2015,grenades,Rivne,62.0
+2016,grenades,Rivne,61.0
+2017,grenades,Rivne,53.0
+2018,grenades,Rivne,82.0
+2019,grenades,Rivne,211.0
+2020,grenades,Rivne,114.0
+2021,grenades,Rivne,37.0
+2022,grenades,Rivne,24.0
+2023,grenades,Rivne,81.0
+2015,mines,Rivne,
+2016,mines,Rivne,1.0
+2017,mines,Rivne,2.0
+2018,mines,Rivne,5.0
+2019,mines,Rivne,15.0
+2020,mines,Rivne,1.0
+2021,mines,Rivne,
+2022,mines,Rivne,
+2023,mines,Rivne,
+2015,improvised explosive devices,Rivne,1.0
+2016,improvised explosive devices,Rivne,
+2017,improvised explosive devices,Rivne,1.0
+2018,improvised explosive devices,Rivne,
+2019,improvised explosive devices,Rivne,4.0
+2020,improvised explosive devices,Rivne,1.0
+2021,improvised explosive devices,Rivne,
+2022,improvised explosive devices,Rivne,1.0
+2023,improvised explosive devices,Rivne,1.0
+2015,,Sumy,3254.0
+2016,,Sumy,3283.0
+2017,,Sumy,12851.0
+2018,,Sumy,3590.0
+2019,,Sumy,2556.0
+2020,,Sumy,2125.0
+2021,,Sumy,2526.0
+2022,,Sumy,4410.0
+2023,,Sumy,6526.0
+2015,cartridges,Sumy,3159.0
+2016,cartridges,Sumy,3248.0
+2017,cartridges,Sumy,12806.0
+2018,cartridges,Sumy,3557.0
+2019,cartridges,Sumy,2537.0
+2020,cartridges,Sumy,2114.0
+2021,cartridges,Sumy,2486.0
+2022,cartridges,Sumy,4381.0
+2023,cartridges,Sumy,6417.0
+2015,grenades,Sumy,92.0
+2016,grenades,Sumy,15.0
+2017,grenades,Sumy,44.0
+2018,grenades,Sumy,33.0
+2019,grenades,Sumy,9.0
+2020,grenades,Sumy,11.0
+2021,grenades,Sumy,40.0
+2022,grenades,Sumy,29.0
+2023,grenades,Sumy,74.0
+2015,mines,Sumy,1.0
+2016,mines,Sumy,20.0
+2017,mines,Sumy,
+2018,mines,Sumy,
+2019,mines,Sumy,10.0
+2020,mines,Sumy,
+2021,mines,Sumy,
+2022,mines,Sumy,
+2023,mines,Sumy,31.0
+2015,improvised explosive devices,Sumy,2.0
+2016,improvised explosive devices,Sumy,
+2017,improvised explosive devices,Sumy,1.0
+2018,improvised explosive devices,Sumy,
+2019,improvised explosive devices,Sumy,
+2020,improvised explosive devices,Sumy,
+2021,improvised explosive devices,Sumy,
+2022,improvised explosive devices,Sumy,
+2023,improvised explosive devices,Sumy,4.0
+2015,,Ternopil,2074.0
+2016,,Ternopil,1674.0
+2017,,Ternopil,4576.0
+2018,,Ternopil,2867.0
+2019,,Ternopil,2248.0
+2020,,Ternopil,2046.0
+2021,,Ternopil,2201.0
+2022,,Ternopil,3819.0
+2023,,Ternopil,6308.0
+2015,cartridges,Ternopil,2056.0
+2016,cartridges,Ternopil,1658.0
+2017,cartridges,Ternopil,4543.0
+2018,cartridges,Ternopil,2830.0
+2019,cartridges,Ternopil,2211.0
+2020,cartridges,Ternopil,2022.0
+2021,cartridges,Ternopil,2172.0
+2022,cartridges,Ternopil,3801.0
+2023,cartridges,Ternopil,6261.0
+2015,grenades,Ternopil,18.0
+2016,grenades,Ternopil,16.0
+2017,grenades,Ternopil,33.0
+2018,grenades,Ternopil,36.0
+2019,grenades,Ternopil,26.0
+2020,grenades,Ternopil,24.0
+2021,grenades,Ternopil,29.0
+2022,grenades,Ternopil,18.0
+2023,grenades,Ternopil,46.0
+2015,mines,Ternopil,
+2016,mines,Ternopil,
+2017,mines,Ternopil,
+2018,mines,Ternopil,
+2019,mines,Ternopil,
+2020,mines,Ternopil,
+2021,mines,Ternopil,
+2022,mines,Ternopil,
+2023,mines,Ternopil,1.0
+2015,improvised explosive devices,Ternopil,
+2016,improvised explosive devices,Ternopil,
+2017,improvised explosive devices,Ternopil,
+2018,improvised explosive devices,Ternopil,1.0
+2019,improvised explosive devices,Ternopil,11.0
+2020,improvised explosive devices,Ternopil,
+2021,improvised explosive devices,Ternopil,
+2022,improvised explosive devices,Ternopil,
+2023,improvised explosive devices,Ternopil,
+2015,,Kharkiv,15470.0
+2016,,Kharkiv,10051.0
+2017,,Kharkiv,12498.0
+2018,,Kharkiv,9327.0
+2019,,Kharkiv,5971.0
+2020,,Kharkiv,10032.0
+2021,,Kharkiv,6714.0
+2022,,Kharkiv,8068.0
+2023,,Kharkiv,84871.0
+2015,cartridges,Kharkiv,15215.0
+2016,cartridges,Kharkiv,9960.0
+2017,cartridges,Kharkiv,12365.0
+2018,cartridges,Kharkiv,9164.0
+2019,cartridges,Kharkiv,5768.0
+2020,cartridges,Kharkiv,9837.0
+2021,cartridges,Kharkiv,6637.0
+2022,cartridges,Kharkiv,7974.0
+2023,cartridges,Kharkiv,83922.0
+2015,grenades,Kharkiv,247.0
+2016,grenades,Kharkiv,81.0
+2017,grenades,Kharkiv,117.0
+2018,grenades,Kharkiv,149.0
+2019,grenades,Kharkiv,162.0
+2020,grenades,Kharkiv,115.0
+2021,grenades,Kharkiv,74.0
+2022,grenades,Kharkiv,93.0
+2023,grenades,Kharkiv,917.0
+2015,mines,Kharkiv,4.0
+2016,mines,Kharkiv,10.0
+2017,mines,Kharkiv,10.0
+2018,mines,Kharkiv,11.0
+2019,mines,Kharkiv,39.0
+2020,mines,Kharkiv,8.0
+2021,mines,Kharkiv,
+2022,mines,Kharkiv,
+2023,mines,Kharkiv,4.0
+2015,improvised explosive devices,Kharkiv,4.0
+2016,improvised explosive devices,Kharkiv,
+2017,improvised explosive devices,Kharkiv,6.0
+2018,improvised explosive devices,Kharkiv,3.0
+2019,improvised explosive devices,Kharkiv,2.0
+2020,improvised explosive devices,Kharkiv,72.0
+2021,improvised explosive devices,Kharkiv,3.0
+2022,improvised explosive devices,Kharkiv,1.0
+2023,improvised explosive devices,Kharkiv,28.0
+2015,,Kherson,4280.0
+2016,,Kherson,3330.0
+2017,,Kherson,6172.0
+2018,,Kherson,39934.0
+2019,,Kherson,6161.0
+2020,,Kherson,5022.0
+2021,,Kherson,5452.0
+2022,,Kherson,1244.0
+2023,,Kherson,5179.0
+2015,cartridges,Kherson,4257.0
+2016,cartridges,Kherson,3299.0
+2017,cartridges,Kherson,6117.0
+2018,cartridges,Kherson,39807.0
+2019,cartridges,Kherson,6124.0
+2020,cartridges,Kherson,4992.0
+2021,cartridges,Kherson,5385.0
+2022,cartridges,Kherson,1237.0
+2023,cartridges,Kherson,5122.0
+2015,grenades,Kherson,23.0
+2016,grenades,Kherson,30.0
+2017,grenades,Kherson,48.0
+2018,grenades,Kherson,123.0
+2019,grenades,Kherson,35.0
+2020,grenades,Kherson,28.0
+2021,grenades,Kherson,66.0
+2022,grenades,Kherson,6.0
+2023,grenades,Kherson,57.0
+2015,mines,Kherson,
+2016,mines,Kherson,
+2017,mines,Kherson,7.0
+2018,mines,Kherson,2.0
+2019,mines,Kherson,1.0
+2020,mines,Kherson,
+2021,mines,Kherson,1.0
+2022,mines,Kherson,
+2023,mines,Kherson,
+2015,improvised explosive devices,Kherson,
+2016,improvised explosive devices,Kherson,1.0
+2017,improvised explosive devices,Kherson,
+2018,improvised explosive devices,Kherson,2.0
+2019,improvised explosive devices,Kherson,1.0
+2020,improvised explosive devices,Kherson,2.0
+2021,improvised explosive devices,Kherson,
+2022,improvised explosive devices,Kherson,1.0
+2023,improvised explosive devices,Kherson,
+2015,,Khmelnytskiy,1271.0
+2016,,Khmelnytskiy,1002.0
+2017,,Khmelnytskiy,9839.0
+2018,,Khmelnytskiy,4023.0
+2019,,Khmelnytskiy,3376.0
+2020,,Khmelnytskiy,3404.0
+2021,,Khmelnytskiy,3309.0
+2022,,Khmelnytskiy,1839.0
+2023,,Khmelnytskiy,5746.0
+2015,cartridges,Khmelnytskiy,1255.0
+2016,cartridges,Khmelnytskiy,994.0
+2017,cartridges,Khmelnytskiy,9813.0
+2018,cartridges,Khmelnytskiy,3994.0
+2019,cartridges,Khmelnytskiy,3177.0
+2020,cartridges,Khmelnytskiy,3396.0
+2021,cartridges,Khmelnytskiy,3294.0
+2022,cartridges,Khmelnytskiy,1831.0
+2023,cartridges,Khmelnytskiy,5710.0
+2015,grenades,Khmelnytskiy,16.0
+2016,grenades,Khmelnytskiy,8.0
+2017,grenades,Khmelnytskiy,24.0
+2018,grenades,Khmelnytskiy,26.0
+2019,grenades,Khmelnytskiy,199.0
+2020,grenades,Khmelnytskiy,8.0
+2021,grenades,Khmelnytskiy,15.0
+2022,grenades,Khmelnytskiy,8.0
+2023,grenades,Khmelnytskiy,35.0
+2015,mines,Khmelnytskiy,
+2016,mines,Khmelnytskiy,
+2017,mines,Khmelnytskiy,
+2018,mines,Khmelnytskiy,
+2019,mines,Khmelnytskiy,
+2020,mines,Khmelnytskiy,
+2021,mines,Khmelnytskiy,
+2022,mines,Khmelnytskiy,
+2023,mines,Khmelnytskiy,1.0
+2015,improvised explosive devices,Khmelnytskiy,
+2016,improvised explosive devices,Khmelnytskiy,
+2017,improvised explosive devices,Khmelnytskiy,2.0
+2018,improvised explosive devices,Khmelnytskiy,3.0
+2019,improvised explosive devices,Khmelnytskiy,
+2020,improvised explosive devices,Khmelnytskiy,
+2021,improvised explosive devices,Khmelnytskiy,
+2022,improvised explosive devices,Khmelnytskiy,
+2023,improvised explosive devices,Khmelnytskiy,
+2015,,Cherkasy,3016.0
+2016,,Cherkasy,4663.0
+2017,,Cherkasy,3576.0
+2018,,Cherkasy,2601.0
+2019,,Cherkasy,2791.0
+2020,,Cherkasy,2852.0
+2021,,Cherkasy,3585.0
+2022,,Cherkasy,2445.0
+2023,,Cherkasy,10166.0
+2015,cartridges,Cherkasy,2972.0
+2016,cartridges,Cherkasy,4619.0
+2017,cartridges,Cherkasy,3514.0
+2018,cartridges,Cherkasy,2549.0
+2019,cartridges,Cherkasy,2751.0
+2020,cartridges,Cherkasy,2832.0
+2021,cartridges,Cherkasy,3572.0
+2022,cartridges,Cherkasy,2403.0
+2023,cartridges,Cherkasy,10036.0
+2015,grenades,Cherkasy,37.0
+2016,grenades,Cherkasy,44.0
+2017,grenades,Cherkasy,54.0
+2018,grenades,Cherkasy,51.0
+2019,grenades,Cherkasy,35.0
+2020,grenades,Cherkasy,19.0
+2021,grenades,Cherkasy,12.0
+2022,grenades,Cherkasy,42.0
+2023,grenades,Cherkasy,130.0
+2015,mines,Cherkasy,6.0
+2016,mines,Cherkasy,
+2017,mines,Cherkasy,8.0
+2018,mines,Cherkasy,
+2019,mines,Cherkasy,5.0
+2020,mines,Cherkasy,
+2021,mines,Cherkasy,
+2022,mines,Cherkasy,
+2023,mines,Cherkasy,
+2015,improvised explosive devices,Cherkasy,1.0
+2016,improvised explosive devices,Cherkasy,
+2017,improvised explosive devices,Cherkasy,
+2018,improvised explosive devices,Cherkasy,1.0
+2019,improvised explosive devices,Cherkasy,
+2020,improvised explosive devices,Cherkasy,1.0
+2021,improvised explosive devices,Cherkasy,1.0
+2022,improvised explosive devices,Cherkasy,
+2023,improvised explosive devices,Cherkasy,
+2015,,Chernivtsi,921.0
+2016,,Chernivtsi,196.0
+2017,,Chernivtsi,1668.0
+2018,,Chernivtsi,3538.0
+2019,,Chernivtsi,1956.0
+2020,,Chernivtsi,5455.0
+2021,,Chernivtsi,1328.0
+2022,,Chernivtsi,2675.0
+2023,,Chernivtsi,7459.0
+2015,cartridges,Chernivtsi,911.0
+2016,cartridges,Chernivtsi,192.0
+2017,cartridges,Chernivtsi,1659.0
+2018,cartridges,Chernivtsi,3528.0
+2019,cartridges,Chernivtsi,1903.0
+2020,cartridges,Chernivtsi,5448.0
+2021,cartridges,Chernivtsi,1323.0
+2022,cartridges,Chernivtsi,2663.0
+2023,cartridges,Chernivtsi,7437.0
+2015,grenades,Chernivtsi,10.0
+2016,grenades,Chernivtsi,4.0
+2017,grenades,Chernivtsi,9.0
+2018,grenades,Chernivtsi,10.0
+2019,grenades,Chernivtsi,53.0
+2020,grenades,Chernivtsi,7.0
+2021,grenades,Chernivtsi,5.0
+2022,grenades,Chernivtsi,12.0
+2023,grenades,Chernivtsi,22.0
+2015,mines,Chernivtsi,
+2016,mines,Chernivtsi,
+2017,mines,Chernivtsi,
+2018,mines,Chernivtsi,
+2019,mines,Chernivtsi,
+2020,mines,Chernivtsi,
+2021,mines,Chernivtsi,
+2022,mines,Chernivtsi,
+2023,mines,Chernivtsi,
+2015,improvised explosive devices,Chernivtsi,
+2016,improvised explosive devices,Chernivtsi,
+2017,improvised explosive devices,Chernivtsi,
+2018,improvised explosive devices,Chernivtsi,
+2019,improvised explosive devices,Chernivtsi,
+2020,improvised explosive devices,Chernivtsi,
+2021,improvised explosive devices,Chernivtsi,
+2022,improvised explosive devices,Chernivtsi,
+2023,improvised explosive devices,Chernivtsi,
+2015,,Chernihiv,6855.0
+2016,,Chernihiv,3185.0
+2017,,Chernihiv,4742.0
+2018,,Chernihiv,8477.0
+2019,,Chernihiv,3672.0
+2020,,Chernihiv,4431.0
+2021,,Chernihiv,5061.0
+2022,,Chernihiv,10837.0
+2023,,Chernihiv,17802.0
+2015,cartridges,Chernihiv,6811.0
+2016,cartridges,Chernihiv,3158.0
+2017,cartridges,Chernihiv,4728.0
+2018,cartridges,Chernihiv,8429.0
+2019,cartridges,Chernihiv,3654.0
+2020,cartridges,Chernihiv,4413.0
+2021,cartridges,Chernihiv,5051.0
+2022,cartridges,Chernihiv,10778.0
+2023,cartridges,Chernihiv,17668.0
+2015,grenades,Chernihiv,44.0
+2016,grenades,Chernihiv,26.0
+2017,grenades,Chernihiv,13.0
+2018,grenades,Chernihiv,47.0
+2019,grenades,Chernihiv,18.0
+2020,grenades,Chernihiv,18.0
+2021,grenades,Chernihiv,10.0
+2022,grenades,Chernihiv,59.0
+2023,grenades,Chernihiv,129.0
+2015,mines,Chernihiv,
+2016,mines,Chernihiv,
+2017,mines,Chernihiv,
+2018,mines,Chernihiv,
+2019,mines,Chernihiv,
+2020,mines,Chernihiv,
+2021,mines,Chernihiv,
+2022,mines,Chernihiv,
+2023,mines,Chernihiv,4.0
+2015,improvised explosive devices,Chernihiv,
+2016,improvised explosive devices,Chernihiv,1.0
+2017,improvised explosive devices,Chernihiv,1.0
+2018,improvised explosive devices,Chernihiv,1.0
+2019,improvised explosive devices,Chernihiv,
+2020,improvised explosive devices,Chernihiv,
+2021,improvised explosive devices,Chernihiv,
+2022,improvised explosive devices,Chernihiv,
+2023,improvised explosive devices,Chernihiv,1.0
+2015,,the city of Kyiv,9851.0
+2016,,the city of Kyiv,6250.0
+2017,,the city of Kyiv,7531.0
+2018,,the city of Kyiv,26260.0
+2019,,the city of Kyiv,7857.0
+2020,,the city of Kyiv,4715.0
+2021,,the city of Kyiv,5985.0
+2022,,the city of Kyiv,8620.0
+2023,,the city of Kyiv,39858.0
+2015,cartridges,the city of Kyiv,9808.0
+2016,cartridges,the city of Kyiv,6164.0
+2017,cartridges,the city of Kyiv,7394.0
+2018,cartridges,the city of Kyiv,26130.0
+2019,cartridges,the city of Kyiv,7799.0
+2020,cartridges,the city of Kyiv,4673.0
+2021,cartridges,the city of Kyiv,5923.0
+2022,cartridges,the city of Kyiv,8559.0
+2023,cartridges,the city of Kyiv,39638.0
+2015,grenades,the city of Kyiv,42.0
+2016,grenades,the city of Kyiv,86.0
+2017,grenades,the city of Kyiv,136.0
+2018,grenades,the city of Kyiv,109.0
+2019,grenades,the city of Kyiv,53.0
+2020,grenades,the city of Kyiv,29.0
+2021,grenades,the city of Kyiv,35.0
+2022,grenades,the city of Kyiv,60.0
+2023,grenades,the city of Kyiv,131.0
+2015,mines,the city of Kyiv,
+2016,mines,the city of Kyiv,
+2017,mines,the city of Kyiv,
+2018,mines,the city of Kyiv,9.0
+2019,mines,the city of Kyiv,
+2020,mines,the city of Kyiv,
+2021,mines,the city of Kyiv,
+2022,mines,the city of Kyiv,
+2023,mines,the city of Kyiv,83.0
+2015,improvised explosive devices,the city of Kyiv,1.0
+2016,improvised explosive devices,the city of Kyiv,
+2017,improvised explosive devices,the city of Kyiv,1.0
+2018,improvised explosive devices,the city of Kyiv,12.0
+2019,improvised explosive devices,the city of Kyiv,5.0
+2020,improvised explosive devices,the city of Kyiv,13.0
+2021,improvised explosive devices,the city of Kyiv,27.0
+2022,improvised explosive devices,the city of Kyiv,1.0
+2023,improvised explosive devices,the city of Kyiv,6.0

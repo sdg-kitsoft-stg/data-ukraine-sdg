@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "читання",
+                "математика",
+                "природа",
+                ""
+              ]
+            },
+            "title": "Галузь"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Type of educational institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "заклади загальної середньої освіти (ЗЗСО)",
+                "гімназія",
+                "спеціалізована школа",
+                ""
+              ]
+            },
+            "title": "за типом закладу освіти"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-3-1",
+  "title": "Частка випускників початкової школи, які досягли базового і вищих рівнів сформованості компетентностей (читацької, математичної, природничо–наукової) за шкалою загальнодержавного зовнішнього моніторингу якості початкової освіти, відсотків (індикатор ЦСР 4.3.1)"
+}

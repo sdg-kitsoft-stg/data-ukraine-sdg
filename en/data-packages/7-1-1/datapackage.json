@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Generation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Power generating companies of TPP",
+                "TPP and cogeneration units",
+                "HPS",
+                "HAPP",
+                "NPP",
+                "Block stations",
+                "Alternative energy sources (WPS, SPS, Biomass)",
+                ""
+              ]
+            },
+            "title": "Electricity generation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-1",
+  "title": "Coverage ratio of electricity consumption by own production (SDG indicator 7.1.1)"
+}

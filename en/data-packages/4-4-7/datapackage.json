@@ -1,0 +1,118 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Specialty",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ecology",
+                "Chemistry",
+                "Earth sciences",
+                "Physics and astronomy",
+                "Applied physics and nanomaterials",
+                "Geography",
+                "Mathematics",
+                "Statistics",
+                "Applied mathematics",
+                "Software engineering",
+                "Computer science and information technologies",
+                "Computer science",
+                "Computer engineering",
+                "Systems analysis",
+                "Cybersecurity",
+                "Applied mechanics",
+                "Materials science and engineering",
+                "Industrial engineering",
+                "Aviation and space engineering",
+                "Shipbuilding",
+                "Metallurgy",
+                "Electric power engineering, electrical engineering and electromechanics",
+                "Power engineering (energy) machinery",
+                "Nuclear power engineering",
+                "Thermal power engineering",
+                "Automation and computer-integrated technologies",
+                "Metrology and information-measuring technology",
+                "Micro- and nanosystems engineering",
+                "Chemical technology and engineering",
+                "Biotechnology and bioengineering",
+                "Biomedical engineering",
+                "Electronics",
+                "Electronic communications and radio engineering",
+                "Telecommunications and radio engineering",
+                "Avionics",
+                "Food technologies",
+                "Light industry technologies",
+                "Environmental protection technologies",
+                "Mining",
+                "Oil and gas engineering and technologies",
+                "Publishing and printing",
+                "Architecture and urban planning",
+                "Construction and civil engineering",
+                "Geodesy and land management",
+                "Agronomy",
+                "Plant protection and quarantine",
+                "Horticulture and viticulture",
+                "Technology of production and processing of livestock products",
+                "Forestry",
+                "Landscape gardening (park management)",
+                "Aquatic bioresources and aquaculture",
+                "Agricultural engineering",
+                "Fire safety",
+                "Law enforcement",
+                "Civil safety",
+                "Maritime and inland water transport",
+                "River and sea transport",
+                "Air transport",
+                "Railway transport",
+                "Road transport",
+                "Transport technologies",
+                ""
+              ]
+            },
+            "title": null
+          },
+          {
+            "name": "Education Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "professional junior bachelor",
+                "junior specialist",
+                "junior bachelor",
+                "bachelor",
+                "specialist",
+                "master",
+                "doctor of philosophy",
+                ""
+              ]
+            },
+            "title": "by levels (degrees) of education"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-7",
+  "title": "Share of women among seekers for professional pre-tertiary and tertiary education by specialties of fields of knowledge 10-20, 25-27, percent (SDG indicator 4.4.7)"
+}

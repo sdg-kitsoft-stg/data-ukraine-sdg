@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Supply of electricity to the grid",
+                "Productive supply of electricity to the grid",
+                "Reported actual value of technological electric power consumption",
+                "Technological electric power consumption in distribution system",
+                ""
+              ]
+            },
+            "title": "Category"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "million kWh",
+                "percentage",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "including",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "normative value of technological electric power consumption",
+                "excess value of technological electric power consumption",
+                ""
+              ]
+            },
+            "title": "including"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-1-2-a",
+  "title": "Electric power distribution losses, %"
+}

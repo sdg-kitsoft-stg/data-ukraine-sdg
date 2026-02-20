@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "by main product groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "цукор",
+                "олія соняшникова",
+                "кукурудза",
+                "ячмінь",
+                "пшениця",
+                ""
+              ]
+            },
+            "title": "за основними групами продуктів"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-4-1",
+  "title": "Частка сільськогосподарських площ при продуктивному та сталому сільському господарстві"
+}

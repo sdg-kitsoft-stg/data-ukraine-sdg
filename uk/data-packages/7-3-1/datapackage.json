@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Група"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-3-1",
+  "title": "Індекс середньої тривалості довгих перерв в електропостачанні в системі (SAIDI) з вини компаній (планових без попереджень переривань та переривань, пов’язаних з технологічними порушеннями в електропостачанні) за типами місцевості на рівнях напруги 0,4–20 кВ, хвилин: міська; сільська (індикатор ЦСР 7.3.1)"
+}

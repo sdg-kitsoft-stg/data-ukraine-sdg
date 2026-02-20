@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Cost_train",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "середні витрати на одного приведеного студента, грн",
+                "середні витрати на одного аспіранта, який навчається без відриву від виробництва, грн",
+                "середні витрати на одного аспіранта, який навчається з відривом від виробництва, грн",
+                "середні витрати на одного докторанта, грн",
+                ""
+              ]
+            },
+            "title": "Витрати на підготовку фахівця"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-3-a",
+  "title": "4-4-3-a"
+}

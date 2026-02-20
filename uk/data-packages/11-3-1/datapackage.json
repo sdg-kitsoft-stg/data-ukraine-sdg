@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "inherit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "культурна",
+                "природна",
+                ""
+              ]
+            },
+            "title": "Тип спадщини"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-3-1",
+  "title": "Частка забудованої території міст, яка є відкритим простором для загального користування, відсотків  (індикатор ЦСР 11.3.1)"
+}

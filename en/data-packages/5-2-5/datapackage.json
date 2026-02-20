@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "17_reg_Zaporizhzhia",
+                "Ivano-Frankivsk",
+                "19_reg_Kyivska",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "23_reg_Mykolaiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "31_reg_Khmelnytskyi",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "99_reg_Kyiv_city",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-2-5",
+  "title": "Share of victims of domestic violence and gender-based violence who received assistance from general and specialized victim support services in the total number persons who submitted relevant applications, percent (SDG indicator 5.2.5)"
+}

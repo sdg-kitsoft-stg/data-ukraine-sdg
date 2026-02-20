@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "CourtLevel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "місцевих судів",
+                "апеляційних судів",
+                "вищих спеціалізованих судів",
+                "Верховного суду",
+                ""
+              ]
+            },
+            "title": "Співвідношення жінок та чоловіків серед"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінок",
+                "чоловіків",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-5-6",
+  "title": "5-5-6"
+}

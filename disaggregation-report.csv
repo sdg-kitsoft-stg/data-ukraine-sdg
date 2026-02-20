@@ -1,0 +1,57 @@
+Disaggregation,Number of indicators,Number of values
+Age,28,58
+Ammunition,2,4
+Article,6,13
+by main product groups,2,12
+by type of place of registration of service providers,1,2
+Cat,1,3
+Category,3,10
+Category_type,1,2
+Cause of death,1,2
+Component,2,17
+Cost_train,1,4
+CouncilLevel,1,6
+CourtLevel,1,4
+Decile groups,2,10
+Ec_activ,12,74
+Education Level,1,7
+EducationInternetType,1,7
+Farm caregory,1,3
+Form of rehabilitation assistance,1,2
+Fund,1,1
+Gender,4,4
+Generation,2,7
+GHG_ratio,2,2
+Group,14,44
+Households,8,2
+including,4,16
+Infectious diseases,2,10
+inherit,2,2
+Land purpose,1,1
+Level,1,4
+Level_ed,1,6
+m_trans,6,15
+Mode of transport,1,2
+Object,2,10
+Organization,2,4
+Pollutants,2,10
+Products,1,3
+Reason of disability,1,2
+Region,41,31
+Res_inten,2,5
+School type,1,3
+SES,2,4
+Settlement,1,3
+Sex of the head of household,1,2
+Sex,46,9
+Sou_en,2,3
+Sources of funding,1,2
+Specialty,1,61
+strategy,2,3
+Subject,3,7
+Type of educational institution,3,8
+Type of residence,54,2
+Type of water supply,6,2
+Type_weapon,2,5
+Unit,17,15
+Zone,2,3

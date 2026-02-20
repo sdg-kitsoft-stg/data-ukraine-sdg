@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-2-3",
+  "title": "Water quality indicator (milligrams per cubic decimeter) by components, percent: phosphate phosphorus; total phosphorus; nitrate nitrogen; nitrite nitrogen; ammonium nitrogen; dissolved mineral nitrogen; total nitrogen; chlorophyll-a; transparency; dissolved oxygen; biological oxygen consumption in five days (SDG indicator 14.2.3)"
+}

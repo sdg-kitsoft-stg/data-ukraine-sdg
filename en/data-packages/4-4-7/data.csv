@@ -1,0 +1,691 @@
+Year,,by levels (degrees) of education,Value
+2015,,,41.27
+2016,,,24.04
+2017,,,23.72
+2018,,,23.36
+2019,,,23.24
+2020,,,23.08
+2021,,,22.98
+2022,,,21.57
+2023,,,19.4
+2024,,,19.0
+2015,Ecology,,100.0
+2016,Ecology,,59.08
+2017,Ecology,,58.76
+2018,Ecology,,57.4
+2019,Ecology,,55.95
+2020,Ecology,,54.88
+2021,Ecology,,54.77
+2022,Ecology,,46.74
+2023,Ecology,,41.01
+2024,Ecology,,38.33
+2015,Chemistry,,
+2016,Chemistry,,74.21
+2017,Chemistry,,72.23
+2018,Chemistry,,71.45
+2019,Chemistry,,70.45
+2020,Chemistry,,66.47
+2021,Chemistry,,62.58
+2022,Chemistry,,60.32
+2023,Chemistry,,55.29
+2024,Chemistry,,53.11
+2015,Earth sciences,,100.0
+2016,Earth sciences,,49.75
+2017,Earth sciences,,46.82
+2018,Earth sciences,,43.48
+2019,Earth sciences,,42.44
+2020,Earth sciences,,42.35
+2021,Earth sciences,,42.26
+2022,Earth sciences,,37.23
+2023,Earth sciences,,27.32
+2024,Earth sciences,,26.48
+2015,Physics and astronomy,,50.0
+2016,Physics and astronomy,,37.99
+2017,Physics and astronomy,,38.5
+2018,Physics and astronomy,,37.53
+2019,Physics and astronomy,,34.62
+2020,Physics and astronomy,,33.05
+2021,Physics and astronomy,,33.17
+2022,Physics and astronomy,,30.23
+2023,Physics and astronomy,,24.95
+2024,Physics and astronomy,,23.23
+2015,Applied physics and nanomaterials,,
+2016,Applied physics and nanomaterials,,22.8
+2017,Applied physics and nanomaterials,,24.05
+2018,Applied physics and nanomaterials,,24.09
+2019,Applied physics and nanomaterials,,23.49
+2020,Applied physics and nanomaterials,,23.16
+2021,Applied physics and nanomaterials,,23.67
+2022,Applied physics and nanomaterials,,23.26
+2023,Applied physics and nanomaterials,,20.52
+2024,Applied physics and nanomaterials,,19.49
+2015,Geography,,
+2016,Geography,,
+2017,Geography,,63.99
+2018,Geography,,61.32
+2019,Geography,,61.08
+2020,Geography,,60.75
+2021,Geography,,55.26
+2022,Geography,,47.54
+2023,Geography,,42.62
+2024,Geography,,40.44
+2015,Mathematics,,100.0
+2016,Mathematics,,67.35
+2017,Mathematics,,64.39
+2018,Mathematics,,61.94
+2019,Mathematics,,58.25
+2020,Mathematics,,53.3
+2021,Mathematics,,51.05
+2022,Mathematics,,48.75
+2023,Mathematics,,45.28
+2024,Mathematics,,45.91
+2015,Statistics,,
+2016,Statistics,,55.15
+2017,Statistics,,55.38
+2018,Statistics,,54.04
+2019,Statistics,,50.84
+2020,Statistics,,44.55
+2021,Statistics,,43.84
+2022,Statistics,,43.89
+2023,Statistics,,31.1
+2024,Statistics,,28.66
+2015,Applied mathematics,,
+2016,Applied mathematics,,33.89
+2017,Applied mathematics,,32.54
+2018,Applied mathematics,,32.23
+2019,Applied mathematics,,31.73
+2020,Applied mathematics,,30.95
+2021,Applied mathematics,,31.31
+2022,Applied mathematics,,29.85
+2023,Applied mathematics,,29.05
+2024,Applied mathematics,,31.14
+2015,Software engineering,,
+2016,Software engineering,,16.02
+2017,Software engineering,,14.92
+2018,Software engineering,,14.6
+2019,Software engineering,,14.62
+2020,Software engineering,,14.55
+2021,Software engineering,,14.79
+2022,Software engineering,,14.57
+2023,Software engineering,,14.96
+2024,Software engineering,,16.17
+2015,Computer science and information technologies,,
+2016,Computer science and information technologies,,22.47
+2017,Computer science and information technologies,,22.79
+2018,Computer science and information technologies,,22.3
+2019,Computer science and information technologies,,22.95
+2020,Computer science and information technologies,,15.99
+2021,Computer science and information technologies,,13.56
+2022,Computer science and information technologies,,9.09
+2023,Computer science and information technologies,,7.41
+2024,Computer science and information technologies,,9.09
+2015,Computer science,,
+2016,Computer science,,19.05
+2017,Computer science,,20.37
+2018,Computer science,,20.27
+2019,Computer science,,19.74
+2020,Computer science,,20.12
+2021,Computer science,,20.28
+2022,Computer science,,19.03
+2023,Computer science,,18.99
+2024,Computer science,,20.42
+2015,Computer engineering,,
+2016,Computer engineering,,11.85
+2017,Computer engineering,,11.77
+2018,Computer engineering,,11.5
+2019,Computer engineering,,11.21
+2020,Computer engineering,,11.09
+2021,Computer engineering,,11.31
+2022,Computer engineering,,10.87
+2023,Computer engineering,,10.78
+2024,Computer engineering,,10.77
+2015,Systems analysis,,
+2016,Systems analysis,,34.06
+2017,Systems analysis,,34.57
+2018,Systems analysis,,33.57
+2019,Systems analysis,,32.96
+2020,Systems analysis,,32.94
+2021,Systems analysis,,32.62
+2022,Systems analysis,,31.58
+2023,Systems analysis,,30.37
+2024,Systems analysis,,34.43
+2015,Cybersecurity,,
+2016,Cybersecurity,,19.58
+2017,Cybersecurity,,19.54
+2018,Cybersecurity,,18.64
+2019,Cybersecurity,,18.12
+2020,Cybersecurity,,17.4
+2021,Cybersecurity,,17.73
+2022,Cybersecurity,,17.06
+2023,Cybersecurity,,16.92
+2024,Cybersecurity,,19.62
+2015,Applied mechanics,,33.33
+2016,Applied mechanics,,10.05
+2017,Applied mechanics,,9.16
+2018,Applied mechanics,,8.95
+2019,Applied mechanics,,8.57
+2020,Applied mechanics,,7.88
+2021,Applied mechanics,,7.05
+2022,Applied mechanics,,6.57
+2023,Applied mechanics,,5.77
+2024,Applied mechanics,,5.22
+2015,Materials science and engineering,,
+2016,Materials science and engineering,,22.75
+2017,Materials science and engineering,,22.3
+2018,Materials science and engineering,,21.25
+2019,Materials science and engineering,,20.99
+2020,Materials science and engineering,,21.0
+2021,Materials science and engineering,,22.03
+2022,Materials science and engineering,,18.74
+2023,Materials science and engineering,,14.73
+2024,Materials science and engineering,,13.87
+2015,Industrial engineering,,
+2016,Industrial engineering,,7.73
+2017,Industrial engineering,,7.54
+2018,Industrial engineering,,7.36
+2019,Industrial engineering,,7.41
+2020,Industrial engineering,,7.63
+2021,Industrial engineering,,7.68
+2022,Industrial engineering,,7.19
+2023,Industrial engineering,,5.79
+2024,Industrial engineering,,4.8
+2015,Aviation and space engineering,,
+2016,Aviation and space engineering,,15.73
+2017,Aviation and space engineering,,16.02
+2018,Aviation and space engineering,,16.11
+2019,Aviation and space engineering,,15.57
+2020,Aviation and space engineering,,15.28
+2021,Aviation and space engineering,,16.12
+2022,Aviation and space engineering,,13.78
+2023,Aviation and space engineering,,13.06
+2024,Aviation and space engineering,,13.28
+2015,Shipbuilding,,
+2016,Shipbuilding,,7.89
+2017,Shipbuilding,,6.16
+2018,Shipbuilding,,6.11
+2019,Shipbuilding,,6.85
+2020,Shipbuilding,,6.59
+2021,Shipbuilding,,7.75
+2022,Shipbuilding,,8.38
+2023,Shipbuilding,,7.66
+2024,Shipbuilding,,8.84
+2015,Metallurgy,,
+2016,Metallurgy,,19.75
+2017,Metallurgy,,19.92
+2018,Metallurgy,,19.79
+2019,Metallurgy,,20.7
+2020,Metallurgy,,20.23
+2021,Metallurgy,,20.48
+2022,Metallurgy,,19.06
+2023,Metallurgy,,14.8
+2024,Metallurgy,,11.86
+2015,"Electric power engineering, electrical engineering and electromechanics",,
+2016,"Electric power engineering, electrical engineering and electromechanics",,8.39
+2017,"Electric power engineering, electrical engineering and electromechanics",,8.63
+2018,"Electric power engineering, electrical engineering and electromechanics",,8.54
+2019,"Electric power engineering, electrical engineering and electromechanics",,7.98
+2020,"Electric power engineering, electrical engineering and electromechanics",,7.85
+2021,"Electric power engineering, electrical engineering and electromechanics",,7.35
+2022,"Electric power engineering, electrical engineering and electromechanics",,7.03
+2023,"Electric power engineering, electrical engineering and electromechanics",,6.15
+2024,"Electric power engineering, electrical engineering and electromechanics",,5.69
+2015,Power engineering (energy) machinery,,
+2016,Power engineering (energy) machinery,,4.15
+2017,Power engineering (energy) machinery,,4.56
+2018,Power engineering (energy) machinery,,4.58
+2019,Power engineering (energy) machinery,,4.48
+2020,Power engineering (energy) machinery,,4.47
+2021,Power engineering (energy) machinery,,3.83
+2022,Power engineering (energy) machinery,,3.94
+2023,Power engineering (energy) machinery,,3.96
+2024,Power engineering (energy) machinery,,4.02
+2015,Nuclear power engineering,,
+2016,Nuclear power engineering,,16.44
+2017,Nuclear power engineering,,16.03
+2018,Nuclear power engineering,,16.31
+2019,Nuclear power engineering,,18.13
+2020,Nuclear power engineering,,19.27
+2021,Nuclear power engineering,,20.3
+2022,Nuclear power engineering,,20.0
+2023,Nuclear power engineering,,17.78
+2024,Nuclear power engineering,,20.06
+2015,Thermal power engineering,,
+2016,Thermal power engineering,,20.92
+2017,Thermal power engineering,,20.87
+2018,Thermal power engineering,,19.9
+2019,Thermal power engineering,,18.67
+2020,Thermal power engineering,,19.24
+2021,Thermal power engineering,,18.62
+2022,Thermal power engineering,,17.38
+2023,Thermal power engineering,,15.23
+2024,Thermal power engineering,,14.06
+2015,Automation and computer-integrated technologies,,
+2016,Automation and computer-integrated technologies,,14.59
+2017,Automation and computer-integrated technologies,,13.94
+2018,Automation and computer-integrated technologies,,12.88
+2019,Automation and computer-integrated technologies,,11.96
+2020,Automation and computer-integrated technologies,,11.11
+2021,Automation and computer-integrated technologies,,10.41
+2022,Automation and computer-integrated technologies,,9.68
+2023,Automation and computer-integrated technologies,,9.15
+2024,Automation and computer-integrated technologies,,9.8
+2015,Metrology and information-measuring technology,,
+2016,Metrology and information-measuring technology,,35.93
+2017,Metrology and information-measuring technology,,33.52
+2018,Metrology and information-measuring technology,,32.82
+2019,Metrology and information-measuring technology,,31.8
+2020,Metrology and information-measuring technology,,29.09
+2021,Metrology and information-measuring technology,,26.11
+2022,Metrology and information-measuring technology,,21.39
+2023,Metrology and information-measuring technology,,19.87
+2024,Metrology and information-measuring technology,,22.63
+2015,Micro- and nanosystems engineering,,
+2016,Micro- and nanosystems engineering,,17.66
+2017,Micro- and nanosystems engineering,,16.21
+2018,Micro- and nanosystems engineering,,16.43
+2019,Micro- and nanosystems engineering,,16.31
+2020,Micro- and nanosystems engineering,,15.44
+2021,Micro- and nanosystems engineering,,14.52
+2022,Micro- and nanosystems engineering,,13.02
+2023,Micro- and nanosystems engineering,,12.44
+2024,Micro- and nanosystems engineering,,13.43
+2015,Chemical technology and engineering,,
+2016,Chemical technology and engineering,,56.63
+2017,Chemical technology and engineering,,55.99
+2018,Chemical technology and engineering,,54.49
+2019,Chemical technology and engineering,,53.3
+2020,Chemical technology and engineering,,53.44
+2021,Chemical technology and engineering,,53.02
+2022,Chemical technology and engineering,,49.46
+2023,Chemical technology and engineering,,40.79
+2024,Chemical technology and engineering,,36.19
+2015,Biotechnology and bioengineering,,
+2016,Biotechnology and bioengineering,,67.81
+2017,Biotechnology and bioengineering,,68.89
+2018,Biotechnology and bioengineering,,71.06
+2019,Biotechnology and bioengineering,,70.7
+2020,Biotechnology and bioengineering,,69.68
+2021,Biotechnology and bioengineering,,68.71
+2022,Biotechnology and bioengineering,,64.78
+2023,Biotechnology and bioengineering,,61.05
+2024,Biotechnology and bioengineering,,60.5
+2015,Biomedical engineering,,
+2016,Biomedical engineering,,41.96
+2017,Biomedical engineering,,40.37
+2018,Biomedical engineering,,40.04
+2019,Biomedical engineering,,40.67
+2020,Biomedical engineering,,42.71
+2021,Biomedical engineering,,43.59
+2022,Biomedical engineering,,43.02
+2023,Biomedical engineering,,37.47
+2024,Biomedical engineering,,40.08
+2015,Electronics,,
+2016,Electronics,,11.05
+2017,Electronics,,11.04
+2018,Electronics,,10.79
+2019,Electronics,,10.58
+2020,Electronics,,11.07
+2021,Electronics,,10.91
+2022,Electronics,,9.7
+2023,Electronics,,8.05
+2024,Electronics,,7.96
+2015,Electronic communications and radio engineering,,
+2016,Electronic communications and radio engineering,,
+2017,Electronic communications and radio engineering,,
+2018,Electronic communications and radio engineering,,
+2019,Electronic communications and radio engineering,,
+2020,Electronic communications and radio engineering,,100.0
+2021,Electronic communications and radio engineering,,33.33
+2022,Electronic communications and radio engineering,,
+2023,Electronic communications and radio engineering,,8.61
+2024,Electronic communications and radio engineering,,8.98
+2015,Telecommunications and radio engineering,,
+2016,Telecommunications and radio engineering,,15.68
+2017,Telecommunications and radio engineering,,14.9
+2018,Telecommunications and radio engineering,,13.72
+2019,Telecommunications and radio engineering,,12.9
+2020,Telecommunications and radio engineering,,12.39
+2021,Telecommunications and radio engineering,,12.19
+2022,Telecommunications and radio engineering,,11.43
+2023,Telecommunications and radio engineering,,10.66
+2024,Telecommunications and radio engineering,,10.66
+2015,Avionics,,
+2016,Avionics,,16.14
+2017,Avionics,,13.89
+2018,Avionics,,12.74
+2019,Avionics,,13.35
+2020,Avionics,,13.36
+2021,Avionics,,13.17
+2022,Avionics,,13.59
+2023,Avionics,,13.78
+2024,Avionics,,15.53
+2015,Food technologies,,
+2016,Food technologies,,61.32
+2017,Food technologies,,60.69
+2018,Food technologies,,60.25
+2019,Food technologies,,59.74
+2020,Food technologies,,59.58
+2021,Food technologies,,59.51
+2022,Food technologies,,56.29
+2023,Food technologies,,49.51
+2024,Food technologies,,45.4
+2015,Light industry technologies,,
+2016,Light industry technologies,,92.06
+2017,Light industry technologies,,91.99
+2018,Light industry technologies,,92.17
+2019,Light industry technologies,,91.76
+2020,Light industry technologies,,91.41
+2021,Light industry technologies,,90.35
+2022,Light industry technologies,,88.05
+2023,Light industry technologies,,75.58
+2024,Light industry technologies,,69.27
+2015,Environmental protection technologies,,
+2016,Environmental protection technologies,,58.71
+2017,Environmental protection technologies,,56.36
+2018,Environmental protection technologies,,52.48
+2019,Environmental protection technologies,,49.07
+2020,Environmental protection technologies,,47.09
+2021,Environmental protection technologies,,45.88
+2022,Environmental protection technologies,,38.65
+2023,Environmental protection technologies,,25.37
+2024,Environmental protection technologies,,26.17
+2015,Mining,,33.33
+2016,Mining,,13.97
+2017,Mining,,13.22
+2018,Mining,,13.33
+2019,Mining,,13.72
+2020,Mining,,14.55
+2021,Mining,,15.72
+2022,Mining,,15.07
+2023,Mining,,12.26
+2024,Mining,,11.98
+2015,Oil and gas engineering and technologies,,
+2016,Oil and gas engineering and technologies,,6.43
+2017,Oil and gas engineering and technologies,,7.67
+2018,Oil and gas engineering and technologies,,8.48
+2019,Oil and gas engineering and technologies,,9.05
+2020,Oil and gas engineering and technologies,,9.61
+2021,Oil and gas engineering and technologies,,10.64
+2022,Oil and gas engineering and technologies,,10.79
+2023,Oil and gas engineering and technologies,,8.17
+2024,Oil and gas engineering and technologies,,7.09
+2015,Publishing and printing,,
+2016,Publishing and printing,,51.65
+2017,Publishing and printing,,50.74
+2018,Publishing and printing,,49.77
+2019,Publishing and printing,,51.23
+2020,Publishing and printing,,53.93
+2021,Publishing and printing,,57.21
+2022,Publishing and printing,,55.36
+2023,Publishing and printing,,56.58
+2024,Publishing and printing,,58.04
+2015,Architecture and urban planning,,85.71
+2016,Architecture and urban planning,,59.11
+2017,Architecture and urban planning,,60.19
+2018,Architecture and urban planning,,59.44
+2019,Architecture and urban planning,,58.64
+2020,Architecture and urban planning,,59.15
+2021,Architecture and urban planning,,59.82
+2022,Architecture and urban planning,,60.39
+2023,Architecture and urban planning,,61.94
+2024,Architecture and urban planning,,65.39
+2015,Construction and civil engineering,,38.46
+2016,Construction and civil engineering,,21.44
+2017,Construction and civil engineering,,20.77
+2018,Construction and civil engineering,,20.58
+2019,Construction and civil engineering,,20.8
+2020,Construction and civil engineering,,20.89
+2021,Construction and civil engineering,,22.06
+2022,Construction and civil engineering,,20.52
+2023,Construction and civil engineering,,18.03
+2024,Construction and civil engineering,,17.45
+2015,Geodesy and land management,,
+2016,Geodesy and land management,,43.59
+2017,Geodesy and land management,,42.92
+2018,Geodesy and land management,,42.31
+2019,Geodesy and land management,,41.76
+2020,Geodesy and land management,,40.42
+2021,Geodesy and land management,,40.3
+2022,Geodesy and land management,,35.04
+2023,Geodesy and land management,,29.92
+2024,Geodesy and land management,,26.99
+2015,Agronomy,,25.0
+2016,Agronomy,,27.14
+2017,Agronomy,,26.14
+2018,Agronomy,,24.63
+2019,Agronomy,,24.1
+2020,Agronomy,,23.64
+2021,Agronomy,,24.43
+2022,Agronomy,,22.34
+2023,Agronomy,,18.49
+2024,Agronomy,,17.79
+2015,Plant protection and quarantine,,
+2016,Plant protection and quarantine,,45.72
+2017,Plant protection and quarantine,,43.63
+2018,Plant protection and quarantine,,41.39
+2019,Plant protection and quarantine,,40.55
+2020,Plant protection and quarantine,,40.12
+2021,Plant protection and quarantine,,38.45
+2022,Plant protection and quarantine,,30.85
+2023,Plant protection and quarantine,,19.55
+2024,Plant protection and quarantine,,21.53
+2015,Horticulture and viticulture,,
+2016,Horticulture and viticulture,,35.29
+2017,Horticulture and viticulture,,36.89
+2018,Horticulture and viticulture,,33.05
+2019,Horticulture and viticulture,,30.84
+2020,Horticulture and viticulture,,28.68
+2021,Horticulture and viticulture,,31.03
+2022,Horticulture and viticulture,,26.08
+2023,Horticulture and viticulture,,22.74
+2024,Horticulture and viticulture,,28.89
+2015,Technology of production and processing of livestock products,,100.0
+2016,Technology of production and processing of livestock products,,52.77
+2017,Technology of production and processing of livestock products,,50.49
+2018,Technology of production and processing of livestock products,,48.99
+2019,Technology of production and processing of livestock products,,48.85
+2020,Technology of production and processing of livestock products,,48.89
+2021,Technology of production and processing of livestock products,,49.09
+2022,Technology of production and processing of livestock products,,46.76
+2023,Technology of production and processing of livestock products,,38.61
+2024,Technology of production and processing of livestock products,,33.5
+2015,Forestry,,
+2016,Forestry,,
+2017,Forestry,,11.9
+2018,Forestry,,11.82
+2019,Forestry,,10.92
+2020,Forestry,,11.16
+2021,Forestry,,11.21
+2022,Forestry,,11.93
+2023,Forestry,,10.26
+2024,Forestry,,8.5
+2015,Landscape gardening (park management),,
+2016,Landscape gardening (park management),,
+2017,Landscape gardening (park management),,59.33
+2018,Landscape gardening (park management),,62.28
+2019,Landscape gardening (park management),,62.08
+2020,Landscape gardening (park management),,61.74
+2021,Landscape gardening (park management),,62.77
+2022,Landscape gardening (park management),,65.05
+2023,Landscape gardening (park management),,59.99
+2024,Landscape gardening (park management),,48.18
+2015,Aquatic bioresources and aquaculture,,
+2016,Aquatic bioresources and aquaculture,,
+2017,Aquatic bioresources and aquaculture,,32.22
+2018,Aquatic bioresources and aquaculture,,29.82
+2019,Aquatic bioresources and aquaculture,,26.7
+2020,Aquatic bioresources and aquaculture,,25.26
+2021,Aquatic bioresources and aquaculture,,24.18
+2022,Aquatic bioresources and aquaculture,,22.06
+2023,Aquatic bioresources and aquaculture,,19.16
+2024,Aquatic bioresources and aquaculture,,13.45
+2015,Agricultural engineering,,
+2016,Agricultural engineering,,
+2017,Agricultural engineering,,2.11
+2018,Agricultural engineering,,2.18
+2019,Agricultural engineering,,2.13
+2020,Agricultural engineering,,2.44
+2021,Agricultural engineering,,2.68
+2022,Agricultural engineering,,2.9
+2023,Agricultural engineering,,2.74
+2024,Agricultural engineering,,2.41
+2015,Fire safety,,
+2016,Fire safety,,
+2017,Fire safety,,
+2018,Fire safety,,
+2019,Fire safety,,10.4
+2020,Fire safety,,10.84
+2021,Fire safety,,12.88
+2022,Fire safety,,15.39
+2023,Fire safety,,16.9
+2024,Fire safety,,17.16
+2015,Law enforcement,,50.0
+2016,Law enforcement,,52.82
+2017,Law enforcement,,47.52
+2018,Law enforcement,,48.24
+2019,Law enforcement,,48.92
+2020,Law enforcement,,51.29
+2021,Law enforcement,,53.95
+2022,Law enforcement,,50.01
+2023,Law enforcement,,47.85
+2024,Law enforcement,,50.71
+2015,Civil safety,,
+2016,Civil safety,,31.37
+2017,Civil safety,,34.2
+2018,Civil safety,,37.53
+2019,Civil safety,,38.63
+2020,Civil safety,,40.7
+2021,Civil safety,,40.89
+2022,Civil safety,,35.21
+2023,Civil safety,,30.79
+2024,Civil safety,,32.27
+2015,Maritime and inland water transport,,
+2016,Maritime and inland water transport,,
+2017,Maritime and inland water transport,,
+2018,Maritime and inland water transport,,
+2019,Maritime and inland water transport,,
+2020,Maritime and inland water transport,,
+2021,Maritime and inland water transport,,
+2022,Maritime and inland water transport,,1.12
+2023,Maritime and inland water transport,,1.35
+2024,Maritime and inland water transport,,1.79
+2015,River and sea transport,,
+2016,River and sea transport,,
+2017,River and sea transport,,0.46
+2018,River and sea transport,,0.57
+2019,River and sea transport,,0.65
+2020,River and sea transport,,0.73
+2021,River and sea transport,,0.87
+2022,River and sea transport,,0.99
+2023,River and sea transport,,0.99
+2024,River and sea transport,,7.02
+2015,Air transport,,
+2016,Air transport,,
+2017,Air transport,,20.53
+2018,Air transport,,17.3
+2019,Air transport,,16.09
+2020,Air transport,,15.79
+2021,Air transport,,14.43
+2022,Air transport,,13.63
+2023,Air transport,,13.91
+2024,Air transport,,14.75
+2015,Railway transport,,
+2016,Railway transport,,
+2017,Railway transport,,18.56
+2018,Railway transport,,18.46
+2019,Railway transport,,17.47
+2020,Railway transport,,16.39
+2021,Railway transport,,15.59
+2022,Railway transport,,13.78
+2023,Railway transport,,12.76
+2024,Railway transport,,12.16
+2015,Road transport,,
+2016,Road transport,,
+2017,Road transport,,1.36
+2018,Road transport,,1.57
+2019,Road transport,,1.57
+2020,Road transport,,1.58
+2021,Road transport,,1.61
+2022,Road transport,,1.83
+2023,Road transport,,1.82
+2024,Road transport,,1.66
+2015,Transport technologies,,
+2016,Transport technologies,,
+2017,Transport technologies,,38.0
+2018,Transport technologies,,37.76
+2019,Transport technologies,,37.88
+2020,Transport technologies,,37.34
+2021,Transport technologies,,36.93
+2022,Transport technologies,,36.6
+2023,Transport technologies,,33.23
+2024,Transport technologies,,29.42
+2015,,professional junior bachelor,
+2016,,professional junior bachelor,
+2017,,professional junior bachelor,
+2018,,professional junior bachelor,
+2019,,professional junior bachelor,
+2020,,professional junior bachelor,20.38
+2021,,professional junior bachelor,20.37
+2022,,professional junior bachelor,19.62
+2023,,professional junior bachelor,18.83
+2024,,professional junior bachelor,16.77
+2015,,junior specialist,27.27
+2016,,junior specialist,20.2
+2017,,junior specialist,19.82
+2018,,junior specialist,19.61
+2019,,junior specialist,19.44
+2020,,junior specialist,18.96
+2021,,junior specialist,18.31
+2022,,junior specialist,17.87
+2023,,junior specialist,13.09
+2024,,junior specialist,14.01
+2015,,junior bachelor,
+2016,,junior bachelor,
+2017,,junior bachelor,
+2018,,junior bachelor,
+2019,,junior bachelor,31.03
+2020,,junior bachelor,26.53
+2021,,junior bachelor,27.86
+2022,,junior bachelor,25.12
+2023,,junior bachelor,13.91
+2024,,junior bachelor,11.5
+2015,,bachelor,
+2016,,bachelor,24.31
+2017,,bachelor,23.92
+2018,,bachelor,24.0
+2019,,bachelor,24.02
+2020,,bachelor,24.15
+2021,,bachelor,24.47
+2022,,bachelor,23.87
+2023,,bachelor,21.99
+2024,,bachelor,22.55
+2015,,specialist,100.0
+2016,,specialist,22.24
+2017,,specialist,17.95
+2018,,specialist,24.78
+2019,,specialist,22.86
+2020,,specialist,23.81
+2021,,specialist,23.08
+2022,,specialist,10.0
+2023,,specialist,12.22
+2024,,specialist,
+2015,,master,
+2016,,master,30.64
+2017,,master,28.35
+2018,,master,27.06
+2019,,master,27.41
+2020,,master,27.13
+2021,,master,26.01
+2022,,master,19.51
+2023,,master,14.74
+2024,,master,14.88
+2015,,doctor of philosophy,44.9
+2016,,doctor of philosophy,36.37
+2017,,doctor of philosophy,32.4
+2018,,doctor of philosophy,30.24
+2019,,doctor of philosophy,28.82
+2020,,doctor of philosophy,27.7
+2021,,doctor of philosophy,27.91
+2022,,doctor of philosophy,20.66
+2023,,doctor of philosophy,13.71
+2024,,doctor of philosophy,9.68

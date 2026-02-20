@@ -1,0 +1,59 @@
+Value,Disaggregation combinations using this value,Number of indicators
+15-24 years,19,2
+25-64 years,19,2
+age_0_17,1,1
+age_14_30,1,1
+age_15,1,1
+age_15_17,2,2
+age_15_24,3,1
+age_15_64,3,1
+age_18,8,8
+age_18_24,1,1
+age_18_34,6,6
+age_18_plus,1,1
+age_1_18_35,176,8
+age_25_35,1,1
+age_25_64,3,1
+age_2_36_60,178,9
+age_2_61_64,2,1
+age_2_65_70,2,1
+age_30_plus,1,1
+age_35_59,6,6
+age_36_59,171,3
+age_3_61,176,8
+age_40_64,6,2
+age_60,174,8
+age_60_74,1,1
+age_65,1,1
+age_65_plus,5,1
+age_75,1,1
+age_under15,1,1
+age_under20,24,1
+age_vac_1_under 1 year,6,1
+age_vac_1_under_1_year,143,1
+age_vac_2_1 year,2,1
+age_vac_2_1_year,71,1
+age_vac_3_18 months,3,1
+age_vac_3_18_months,95,1
+age_vac_4_6 years,3,1
+age_vac_4_6_years,141,1
+age_vac_5_14 years,1,1
+age_vac_5_14_years,24,1
+age_vac_6_16 years,1,1
+age_vac_7_adult,48,2
+aged_10,1,1
+aged_11,1,1
+aged_12,1,1
+aged_13,1,1
+aged_14,1,1
+aged_15,2,2
+aged_16,2,2
+aged_17,2,2
+aged_18,1,1
+aged_19,1,1
+aged_20_under,1,1
+aged_6,1,1
+aged_7,1,1
+aged_8,1,1
+aged_9,1,1
+under_35,2,1

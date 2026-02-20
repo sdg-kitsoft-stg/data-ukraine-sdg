@@ -1,0 +1,1398 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation report - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation report</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#by-disaggregation">By disaggregation</a></li>
+                <li><a href="#by-indicator">By indicator</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="by-disaggregation" tabindex="-1">By disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="disaggregation-report.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-report">Download CSV of disaggregations</a>
+            <div id="disaggregation-report" class="download-info">Size: 1.0 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">56</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Disaggregation</th>
+      <th>Number of indicators</th>
+      <th>Number of values</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation--age.html">Age</a></td>
+      <td>28</td>
+      <td>58</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--ammunition.html">Ammunition</a></td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--article.html">Article</a></td>
+      <td>6</td>
+      <td>13</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--by-main-product-groups.html">by main product groups</a></td>
+      <td>2</td>
+      <td>12</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--by-type-of-place-of-registration-of-service-providers.html">by type of place of registration of service providers</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--cat.html">Cat</a></td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--category.html">Category</a></td>
+      <td>3</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--category_type.html">Category_type</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--cause-of-death.html">Cause of death</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--component.html">Component</a></td>
+      <td>2</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--cost_train.html">Cost_train</a></td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--councillevel.html">CouncilLevel</a></td>
+      <td>1</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--courtlevel.html">CourtLevel</a></td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--decile-groups.html">Decile groups</a></td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>12</td>
+      <td>74</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--education-level.html">Education Level</a></td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--educationinternettype.html">EducationInternetType</a></td>
+      <td>1</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--farm-caregory.html">Farm caregory</a></td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--form-of-rehabilitation-assistance.html">Form of rehabilitation assistance</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--fund.html">Fund</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--gender.html">Gender</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--generation.html">Generation</a></td>
+      <td>2</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--ghg_ratio.html">GHG_ratio</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>14</td>
+      <td>44</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--households.html">Households</a></td>
+      <td>8</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--including.html">including</a></td>
+      <td>4</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--infectious-diseases.html">Infectious diseases</a></td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--inherit.html">inherit</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--land-purpose.html">Land purpose</a></td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--level.html">Level</a></td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--level_ed.html">Level_ed</a></td>
+      <td>1</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>6</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--mode-of-transport.html">Mode of transport</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--object.html">Object</a></td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--organization.html">Organization</a></td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--pollutants.html">Pollutants</a></td>
+      <td>2</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--products.html">Products</a></td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--reason-of-disability.html">Reason of disability</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>41</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--res_inten.html">Res_inten</a></td>
+      <td>2</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--school-type.html">School type</a></td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--ses.html">SES</a></td>
+      <td>2</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--settlement.html">Settlement</a></td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--sex-of-the-head-of-household.html">Sex of the head of household</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>46</td>
+      <td>9</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--sou_en.html">Sou_en</a></td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--sources-of-funding.html">Sources of funding</a></td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--specialty.html">Specialty</a></td>
+      <td>1</td>
+      <td>61</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--strategy.html">strategy</a></td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--subject.html">Subject</a></td>
+      <td>3</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--type-of-educational-institution.html">Type of educational institution</a></td>
+      <td>3</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>54</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>6</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--type_weapon.html">Type_weapon</a></td>
+      <td>2</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--unit.html">Unit</a></td>
+      <td>17</td>
+      <td>15</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation--zone.html">Zone</a></td>
+      <td>2</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['disaggregation-table'] = [{"Disaggregation":"<a href=\"disaggregation--age.html\">Age<\/a>","Number of indicators":28,"Number of values":58},{"Disaggregation":"<a href=\"disaggregation--ammunition.html\">Ammunition<\/a>","Number of indicators":2,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--article.html\">Article<\/a>","Number of indicators":6,"Number of values":13},{"Disaggregation":"<a href=\"disaggregation--by-main-product-groups.html\">by main product groups<\/a>","Number of indicators":2,"Number of values":12},{"Disaggregation":"<a href=\"disaggregation--by-type-of-place-of-registration-of-service-providers.html\">by type of place of registration of service providers<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--cat.html\">Cat<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--category.html\">Category<\/a>","Number of indicators":3,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--category_type.html\">Category_type<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--cause-of-death.html\">Cause of death<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--component.html\">Component<\/a>","Number of indicators":2,"Number of values":17},{"Disaggregation":"<a href=\"disaggregation--cost_train.html\">Cost_train<\/a>","Number of indicators":1,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--councillevel.html\">CouncilLevel<\/a>","Number of indicators":1,"Number of values":6},{"Disaggregation":"<a href=\"disaggregation--courtlevel.html\">CourtLevel<\/a>","Number of indicators":1,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--decile-groups.html\">Decile groups<\/a>","Number of indicators":2,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of indicators":12,"Number of values":74},{"Disaggregation":"<a href=\"disaggregation--education-level.html\">Education Level<\/a>","Number of indicators":1,"Number of values":7},{"Disaggregation":"<a href=\"disaggregation--educationinternettype.html\">EducationInternetType<\/a>","Number of indicators":1,"Number of values":7},{"Disaggregation":"<a href=\"disaggregation--farm-caregory.html\">Farm caregory<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--form-of-rehabilitation-assistance.html\">Form of rehabilitation assistance<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--fund.html\">Fund<\/a>","Number of indicators":1,"Number of values":1},{"Disaggregation":"<a href=\"disaggregation--gender.html\">Gender<\/a>","Number of indicators":4,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--generation.html\">Generation<\/a>","Number of indicators":2,"Number of values":7},{"Disaggregation":"<a href=\"disaggregation--ghg_ratio.html\">GHG_ratio<\/a>","Number of indicators":2,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of indicators":14,"Number of values":44},{"Disaggregation":"<a href=\"disaggregation--households.html\">Households<\/a>","Number of indicators":8,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--including.html\">including<\/a>","Number of indicators":4,"Number of values":16},{"Disaggregation":"<a href=\"disaggregation--infectious-diseases.html\">Infectious diseases<\/a>","Number of indicators":2,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--inherit.html\">inherit<\/a>","Number of indicators":2,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--land-purpose.html\">Land purpose<\/a>","Number of indicators":1,"Number of values":1},{"Disaggregation":"<a href=\"disaggregation--level.html\">Level<\/a>","Number of indicators":1,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--level_ed.html\">Level_ed<\/a>","Number of indicators":1,"Number of values":6},{"Disaggregation":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of indicators":6,"Number of values":15},{"Disaggregation":"<a href=\"disaggregation--mode-of-transport.html\">Mode of transport<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--object.html\">Object<\/a>","Number of indicators":2,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--organization.html\">Organization<\/a>","Number of indicators":2,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--pollutants.html\">Pollutants<\/a>","Number of indicators":2,"Number of values":10},{"Disaggregation":"<a href=\"disaggregation--products.html\">Products<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--reason-of-disability.html\">Reason of disability<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of indicators":41,"Number of values":31},{"Disaggregation":"<a href=\"disaggregation--res_inten.html\">Res_inten<\/a>","Number of indicators":2,"Number of values":5},{"Disaggregation":"<a href=\"disaggregation--school-type.html\">School type<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--ses.html\">SES<\/a>","Number of indicators":2,"Number of values":4},{"Disaggregation":"<a href=\"disaggregation--settlement.html\">Settlement<\/a>","Number of indicators":1,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--sex-of-the-head-of-household.html\">Sex of the head of household<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of indicators":46,"Number of values":9},{"Disaggregation":"<a href=\"disaggregation--sou_en.html\">Sou_en<\/a>","Number of indicators":2,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--sources-of-funding.html\">Sources of funding<\/a>","Number of indicators":1,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--specialty.html\">Specialty<\/a>","Number of indicators":1,"Number of values":61},{"Disaggregation":"<a href=\"disaggregation--strategy.html\">strategy<\/a>","Number of indicators":2,"Number of values":3},{"Disaggregation":"<a href=\"disaggregation--subject.html\">Subject<\/a>","Number of indicators":3,"Number of values":7},{"Disaggregation":"<a href=\"disaggregation--type-of-educational-institution.html\">Type of educational institution<\/a>","Number of indicators":3,"Number of values":8},{"Disaggregation":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of indicators":54,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of indicators":6,"Number of values":2},{"Disaggregation":"<a href=\"disaggregation--type_weapon.html\">Type_weapon<\/a>","Number of indicators":2,"Number of values":5},{"Disaggregation":"<a href=\"disaggregation--unit.html\">Unit<\/a>","Number of indicators":17,"Number of values":15},{"Disaggregation":"<a href=\"disaggregation--zone.html\">Zone<\/a>","Number of indicators":2,"Number of values":3}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="by-indicator" tabindex="-1">By indicator</h2>
+            
+        <div class="my-3">
+            <a href="disaggregation-by-indicator-report.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-by-indicator-report">Download CSV of indicators</a>
+            <div id="disaggregation-by-indicator-report" class="download-info">Size: 5.3 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">187</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicator-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+      <th>Disaggregations</th>
+      <th>Number of disaggregations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-1-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#1-1-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#1-1-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#1-1-3</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#1-2-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#1-2-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--households.html">Households</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#1-3-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--sex-of-the-head-of-household.html">Sex of the head of household</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#1-3-2-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--decile-groups.html">Decile groups</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#1-3-3</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a>, <a href="disaggregation--decile-groups.html">Decile groups</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#1-3-4</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--households.html">Households</a>, <a href="disaggregation--reason-of-disability.html">Reason of disability</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>#10-1-1</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#10-1-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#10-1-2</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#10-1-2-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#10-4-1</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#10-4-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#11-2-1</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--strategy.html">strategy</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#11-2-1-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--strategy.html">strategy</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#11-3-1</td>
+      <td><a href="disaggregation--inherit.html">inherit</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#11-3-1-a</td>
+      <td><a href="disaggregation--inherit.html">inherit</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#11-5-2</td>
+      <td><a href="disaggregation--pollutants.html">Pollutants</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#11-5-2-a</td>
+      <td><a href="disaggregation--pollutants.html">Pollutants</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#12-1-1</td>
+      <td><a href="disaggregation--res_inten.html">Res_inten</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#12-1-1-a</td>
+      <td><a href="disaggregation--res_inten.html">Res_inten</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#13-1-1</td>
+      <td><a href="disaggregation--ghg_ratio.html">GHG_ratio</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#13-1-1-a</td>
+      <td><a href="disaggregation--ghg_ratio.html">GHG_ratio</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#15-3-1</td>
+      <td><a href="disaggregation--zone.html">Zone</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#15-3-1-a</td>
+      <td><a href="disaggregation--zone.html">Zone</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-1-1</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-1-1-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-1-2</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#16-1-2-a</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#16-1-3</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-1-3-a</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-2-1</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-2-1-a</td>
+      <td><a href="disaggregation--group.html">Group</a>, <a href="disaggregation--unit.html">Unit</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-3-1</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-3-1-a</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-3-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-3-2-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-5-1</td>
+      <td><a href="disaggregation--type_weapon.html">Type_weapon</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-5-1-a</td>
+      <td><a href="disaggregation--type_weapon.html">Type_weapon</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-5-2</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--ammunition.html">Ammunition</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-5-2-a</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--ammunition.html">Ammunition</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-5-3</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-5-3-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--article.html">Article</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-8-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-8-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-8-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#16-8-2-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#16-8-3</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-8-3-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#16-8-4</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--organization.html">Organization</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-8-4-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--organization.html">Organization</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#16-9-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--component.html">Component</a>, <a href="disaggregation--gender.html">Gender</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#16-9-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--component.html">Component</a>, <a href="disaggregation--gender.html">Gender</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#17-3-1</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#17-3-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-1</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-2</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-2-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-3</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-3-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-4</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-4-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-1-5-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-2-2-a</td>
+      <td><a href="disaggregation--farm-caregory.html">Farm caregory</a>, <a href="disaggregation--products.html">Products</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#2-3-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--land-purpose.html">Land purpose</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#2-3-1-a</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-4-1</td>
+      <td><a href="disaggregation--by-main-product-groups.html">by main product groups</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#2-4-1-a</td>
+      <td><a href="disaggregation--by-main-product-groups.html">by main product groups</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-1-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-1-2</td>
+      <td><a href="disaggregation--by-type-of-place-of-registration-of-service-providers.html">by type of place of registration of service providers</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-1-3</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-1-4</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#3-1-5</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#3-10-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#3-2-1</td>
+      <td><a href="disaggregation--cause-of-death.html">Cause of death</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-2-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-3-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--gender.html">Gender</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#3-4-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-4-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#3-4-2-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-4-3-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-4-4-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-5-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-5-2-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-6-1</td>
+      <td><a href="disaggregation--form-of-rehabilitation-assistance.html">Form of rehabilitation assistance</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-6-2-a</td>
+      <td><a href="disaggregation--mode-of-transport.html">Mode of transport</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-7-1-a</td>
+      <td><a href="disaggregation--age.html">Age</a>, <a href="disaggregation--infectious-diseases.html">Infectious diseases</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#3-8-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--infectious-diseases.html">Infectious diseases</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#3-8-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-8-2-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#3-9-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-1-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--region.html">Region</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#4-1-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--level.html">Level</a>, <a href="disaggregation--settlement.html">Settlement</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#4-2-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#4-2-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-2-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--subject.html">Subject</a>, <a href="disaggregation--ses.html">SES</a>, <a href="disaggregation--school-type.html">School type</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>#4-2-3</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-educational-institution.html">Type of educational institution</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-3-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--subject.html">Subject</a>, <a href="disaggregation--type-of-educational-institution.html">Type of educational institution</a></td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>#4-3-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--subject.html">Subject</a>, <a href="disaggregation--type-of-educational-institution.html">Type of educational institution</a>, <a href="disaggregation--ses.html">SES</a></td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>#4-4-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-4-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-4-2-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--level_ed.html">Level_ed</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#4-4-3</td>
+      <td><a href="disaggregation--sources-of-funding.html">Sources of funding</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-4-3-a</td>
+      <td><a href="disaggregation--cost_train.html">Cost_train</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-4-4</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-4-4-a</td>
+      <td><a href="disaggregation--fund.html">Fund</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-4-5</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-4-6</td>
+      <td><a href="disaggregation--category.html">Category</a>, <a href="disaggregation--category_type.html">Category_type</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-4-7</td>
+      <td><a href="disaggregation--specialty.html">Specialty</a>, <a href="disaggregation--education-level.html">Education Level</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-5-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-5-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-5-2-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#4-6-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--educationinternettype.html">EducationInternetType</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-6-2</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-7-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-7-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#4-7-3</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-7-3-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#4-8-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-2-2-a</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-2-5</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-3-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#5-3-1-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--gender.html">Gender</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#5-4-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#5-4-2</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-4-3-a</td>
+      <td><a href="disaggregation--cat.html">Cat</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-5-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#5-5-2</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--region.html">Region</a>, <a href="disaggregation--councillevel.html">CouncilLevel</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#5-5-3</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-5-4</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--age.html">Age</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#5-5-5</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-5-6</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--courtlevel.html">CourtLevel</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#5-6-1</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#5-6-1-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#6-1-1</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-1-1-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-1-2</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-1-2-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-1-3</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-1-3-a</td>
+      <td><a href="disaggregation--type-of-residence.html">Type of residence</a>, <a href="disaggregation--type-of-water-supply.html">Type of water supply</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#6-3-1</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#6-3-1-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#6-3-2</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#6-3-2-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#7-1-1</td>
+      <td><a href="disaggregation--generation.html">Generation</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#7-1-1-a</td>
+      <td><a href="disaggregation--generation.html">Generation</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#7-1-2</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--category.html">Category</a>, <a href="disaggregation--including.html">including</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#7-1-2-a</td>
+      <td><a href="disaggregation--unit.html">Unit</a>, <a href="disaggregation--category.html">Category</a>, <a href="disaggregation--including.html">including</a></td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>#7-2-1</td>
+      <td><a href="disaggregation--sou_en.html">Sou_en</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#7-2-1-a</td>
+      <td><a href="disaggregation--sou_en.html">Sou_en</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-2-2</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-2-2-a</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-3-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#8-3-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#8-4-1</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-4-1-a</td>
+      <td><a href="disaggregation--sex.html">Sex</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-5-1</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-5-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-5-2</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-5-2-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-5-3</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a>, <a href="disaggregation--including.html">including</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#8-5-3-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a>, <a href="disaggregation--including.html">including</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#8-6-1</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-6-1-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-6-2</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#8-6-2-a</td>
+      <td><a href="disaggregation--group.html">Group</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-1</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-2</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-2-a</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-3</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-3-a</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-4</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-1-4-a</td>
+      <td><a href="disaggregation--m_trans.html">m_trans</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-3-2</td>
+      <td><a href="disaggregation--object.html">Object</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-3-2-a</td>
+      <td><a href="disaggregation--object.html">Object</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-5-2</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-5-2-a</td>
+      <td><a href="disaggregation--ec_activ.html">Ec_activ</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-6-1</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#9-6-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a>, <a href="disaggregation--type-of-residence.html">Type of residence</a></td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>#9-7-1</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>#9-7-1-a</td>
+      <td><a href="disaggregation--region.html">Region</a></td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicator-table'] = [{"Indicator":"#1-1-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":4},{"Indicator":"#1-1-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":3},{"Indicator":"#1-1-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":4},{"Indicator":"#1-1-3","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":3},{"Indicator":"#1-2-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":4},{"Indicator":"#1-2-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>","Number of disaggregations":3},{"Indicator":"#1-3-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--sex-of-the-head-of-household.html\">Sex of the head of household<\/a>","Number of disaggregations":2},{"Indicator":"#1-3-2-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--decile-groups.html\">Decile groups<\/a>","Number of disaggregations":2},{"Indicator":"#1-3-3","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>, <a href=\"disaggregation--decile-groups.html\">Decile groups<\/a>","Number of disaggregations":3},{"Indicator":"#1-3-4","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--households.html\">Households<\/a>, <a href=\"disaggregation--reason-of-disability.html\">Reason of disability<\/a>","Number of disaggregations":5},{"Indicator":"#10-1-1","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#10-1-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#10-1-2","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#10-1-2-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#10-4-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#10-4-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#11-2-1","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--strategy.html\">strategy<\/a>","Number of disaggregations":2},{"Indicator":"#11-2-1-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--strategy.html\">strategy<\/a>","Number of disaggregations":2},{"Indicator":"#11-3-1","Disaggregations":"<a href=\"disaggregation--inherit.html\">inherit<\/a>","Number of disaggregations":1},{"Indicator":"#11-3-1-a","Disaggregations":"<a href=\"disaggregation--inherit.html\">inherit<\/a>","Number of disaggregations":1},{"Indicator":"#11-5-2","Disaggregations":"<a href=\"disaggregation--pollutants.html\">Pollutants<\/a>","Number of disaggregations":1},{"Indicator":"#11-5-2-a","Disaggregations":"<a href=\"disaggregation--pollutants.html\">Pollutants<\/a>","Number of disaggregations":1},{"Indicator":"#12-1-1","Disaggregations":"<a href=\"disaggregation--res_inten.html\">Res_inten<\/a>","Number of disaggregations":1},{"Indicator":"#12-1-1-a","Disaggregations":"<a href=\"disaggregation--res_inten.html\">Res_inten<\/a>","Number of disaggregations":1},{"Indicator":"#13-1-1","Disaggregations":"<a href=\"disaggregation--ghg_ratio.html\">GHG_ratio<\/a>","Number of disaggregations":1},{"Indicator":"#13-1-1-a","Disaggregations":"<a href=\"disaggregation--ghg_ratio.html\">GHG_ratio<\/a>","Number of disaggregations":1},{"Indicator":"#15-3-1","Disaggregations":"<a href=\"disaggregation--zone.html\">Zone<\/a>","Number of disaggregations":1},{"Indicator":"#15-3-1-a","Disaggregations":"<a href=\"disaggregation--zone.html\">Zone<\/a>","Number of disaggregations":1},{"Indicator":"#16-1-1","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":2},{"Indicator":"#16-1-1-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":2},{"Indicator":"#16-1-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":3},{"Indicator":"#16-1-2-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":3},{"Indicator":"#16-1-3","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>","Number of disaggregations":2},{"Indicator":"#16-1-3-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>","Number of disaggregations":2},{"Indicator":"#16-2-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>","Number of disaggregations":2},{"Indicator":"#16-2-1-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>, <a href=\"disaggregation--unit.html\">Unit<\/a>","Number of disaggregations":2},{"Indicator":"#16-3-1","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#16-3-1-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#16-3-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#16-3-2-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#16-5-1","Disaggregations":"<a href=\"disaggregation--type_weapon.html\">Type_weapon<\/a>","Number of disaggregations":1},{"Indicator":"#16-5-1-a","Disaggregations":"<a href=\"disaggregation--type_weapon.html\">Type_weapon<\/a>","Number of disaggregations":1},{"Indicator":"#16-5-2","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--ammunition.html\">Ammunition<\/a>","Number of disaggregations":2},{"Indicator":"#16-5-2-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--ammunition.html\">Ammunition<\/a>","Number of disaggregations":2},{"Indicator":"#16-5-3","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":2},{"Indicator":"#16-5-3-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--article.html\">Article<\/a>","Number of disaggregations":2},{"Indicator":"#16-8-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#16-8-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#16-8-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#16-8-2-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#16-8-3","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#16-8-3-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#16-8-4","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--organization.html\">Organization<\/a>","Number of disaggregations":2},{"Indicator":"#16-8-4-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--organization.html\">Organization<\/a>","Number of disaggregations":2},{"Indicator":"#16-9-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--component.html\">Component<\/a>, <a href=\"disaggregation--gender.html\">Gender<\/a>","Number of disaggregations":4},{"Indicator":"#16-9-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--component.html\">Component<\/a>, <a href=\"disaggregation--gender.html\">Gender<\/a>","Number of disaggregations":4},{"Indicator":"#17-3-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#17-3-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-1","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-2","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-2-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-3","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-3-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-4","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-4-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-1-5-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#2-2-2-a","Disaggregations":"<a href=\"disaggregation--farm-caregory.html\">Farm caregory<\/a>, <a href=\"disaggregation--products.html\">Products<\/a>","Number of disaggregations":2},{"Indicator":"#2-3-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--land-purpose.html\">Land purpose<\/a>","Number of disaggregations":2},{"Indicator":"#2-3-1-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#2-4-1","Disaggregations":"<a href=\"disaggregation--by-main-product-groups.html\">by main product groups<\/a>","Number of disaggregations":1},{"Indicator":"#2-4-1-a","Disaggregations":"<a href=\"disaggregation--by-main-product-groups.html\">by main product groups<\/a>","Number of disaggregations":1},{"Indicator":"#3-1-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-1-2","Disaggregations":"<a href=\"disaggregation--by-type-of-place-of-registration-of-service-providers.html\">by type of place of registration of service providers<\/a>","Number of disaggregations":1},{"Indicator":"#3-1-3","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-1-4","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#3-1-5","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#3-10-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#3-2-1","Disaggregations":"<a href=\"disaggregation--cause-of-death.html\">Cause of death<\/a>","Number of disaggregations":1},{"Indicator":"#3-2-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-3-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--gender.html\">Gender<\/a>","Number of disaggregations":2},{"Indicator":"#3-4-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#3-4-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#3-4-2-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#3-4-3-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#3-4-4-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#3-5-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-5-2-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-6-1","Disaggregations":"<a href=\"disaggregation--form-of-rehabilitation-assistance.html\">Form of rehabilitation assistance<\/a>","Number of disaggregations":1},{"Indicator":"#3-6-2-a","Disaggregations":"<a href=\"disaggregation--mode-of-transport.html\">Mode of transport<\/a>","Number of disaggregations":1},{"Indicator":"#3-7-1-a","Disaggregations":"<a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--infectious-diseases.html\">Infectious diseases<\/a>","Number of disaggregations":2},{"Indicator":"#3-8-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--infectious-diseases.html\">Infectious diseases<\/a>","Number of disaggregations":3},{"Indicator":"#3-8-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-8-2-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#3-9-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#4-1-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#4-1-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--level.html\">Level<\/a>, <a href=\"disaggregation--settlement.html\">Settlement<\/a>","Number of disaggregations":3},{"Indicator":"#4-2-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":4},{"Indicator":"#4-2-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#4-2-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--subject.html\">Subject<\/a>, <a href=\"disaggregation--ses.html\">SES<\/a>, <a href=\"disaggregation--school-type.html\">School type<\/a>","Number of disaggregations":5},{"Indicator":"#4-2-3","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-educational-institution.html\">Type of educational institution<\/a>","Number of disaggregations":2},{"Indicator":"#4-3-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--subject.html\">Subject<\/a>, <a href=\"disaggregation--type-of-educational-institution.html\">Type of educational institution<\/a>","Number of disaggregations":4},{"Indicator":"#4-3-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--subject.html\">Subject<\/a>, <a href=\"disaggregation--type-of-educational-institution.html\">Type of educational institution<\/a>, <a href=\"disaggregation--ses.html\">SES<\/a>","Number of disaggregations":5},{"Indicator":"#4-4-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#4-4-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#4-4-2-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--level_ed.html\">Level_ed<\/a>","Number of disaggregations":3},{"Indicator":"#4-4-3","Disaggregations":"<a href=\"disaggregation--sources-of-funding.html\">Sources of funding<\/a>","Number of disaggregations":1},{"Indicator":"#4-4-3-a","Disaggregations":"<a href=\"disaggregation--cost_train.html\">Cost_train<\/a>","Number of disaggregations":1},{"Indicator":"#4-4-4","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#4-4-4-a","Disaggregations":"<a href=\"disaggregation--fund.html\">Fund<\/a>","Number of disaggregations":1},{"Indicator":"#4-4-5","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#4-4-6","Disaggregations":"<a href=\"disaggregation--category.html\">Category<\/a>, <a href=\"disaggregation--category_type.html\">Category_type<\/a>","Number of disaggregations":2},{"Indicator":"#4-4-7","Disaggregations":"<a href=\"disaggregation--specialty.html\">Specialty<\/a>, <a href=\"disaggregation--education-level.html\">Education Level<\/a>","Number of disaggregations":2},{"Indicator":"#4-5-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#4-5-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#4-5-2-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":3},{"Indicator":"#4-6-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--educationinternettype.html\">EducationInternetType<\/a>","Number of disaggregations":2},{"Indicator":"#4-6-2","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#4-7-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#4-7-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#4-7-3","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#4-7-3-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":1},{"Indicator":"#4-8-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#5-2-2-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#5-2-5","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#5-3-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#5-3-1-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--gender.html\">Gender<\/a>","Number of disaggregations":3},{"Indicator":"#5-4-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#5-4-2","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#5-4-3-a","Disaggregations":"<a href=\"disaggregation--cat.html\">Cat<\/a>","Number of disaggregations":1},{"Indicator":"#5-5-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#5-5-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#5-5-2","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--councillevel.html\">CouncilLevel<\/a>","Number of disaggregations":3},{"Indicator":"#5-5-3","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#5-5-4","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--age.html\">Age<\/a>","Number of disaggregations":2},{"Indicator":"#5-5-5","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#5-5-6","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--courtlevel.html\">CourtLevel<\/a>","Number of disaggregations":2},{"Indicator":"#5-6-1","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#5-6-1-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#6-1-1","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-1-1-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-1-2","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-1-2-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-1-3","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-1-3-a","Disaggregations":"<a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>, <a href=\"disaggregation--type-of-water-supply.html\">Type of water supply<\/a>","Number of disaggregations":2},{"Indicator":"#6-3-1","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#6-3-1-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#6-3-2","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#6-3-2-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#7-1-1","Disaggregations":"<a href=\"disaggregation--generation.html\">Generation<\/a>","Number of disaggregations":1},{"Indicator":"#7-1-1-a","Disaggregations":"<a href=\"disaggregation--generation.html\">Generation<\/a>","Number of disaggregations":1},{"Indicator":"#7-1-2","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--category.html\">Category<\/a>, <a href=\"disaggregation--including.html\">including<\/a>","Number of disaggregations":3},{"Indicator":"#7-1-2-a","Disaggregations":"<a href=\"disaggregation--unit.html\">Unit<\/a>, <a href=\"disaggregation--category.html\">Category<\/a>, <a href=\"disaggregation--including.html\">including<\/a>","Number of disaggregations":3},{"Indicator":"#7-2-1","Disaggregations":"<a href=\"disaggregation--sou_en.html\">Sou_en<\/a>","Number of disaggregations":1},{"Indicator":"#7-2-1-a","Disaggregations":"<a href=\"disaggregation--sou_en.html\">Sou_en<\/a>","Number of disaggregations":1},{"Indicator":"#8-2-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#8-2-2-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#8-3-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#8-3-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#8-4-1","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#8-4-1-a","Disaggregations":"<a href=\"disaggregation--sex.html\">Sex<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-2","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-2-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#8-5-3","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>, <a href=\"disaggregation--including.html\">including<\/a>","Number of disaggregations":2},{"Indicator":"#8-5-3-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>, <a href=\"disaggregation--including.html\">including<\/a>","Number of disaggregations":2},{"Indicator":"#8-6-1","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#8-6-1-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#8-6-2","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#8-6-2-a","Disaggregations":"<a href=\"disaggregation--group.html\">Group<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-2","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-2-a","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-3","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-3-a","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-4","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-1-4-a","Disaggregations":"<a href=\"disaggregation--m_trans.html\">m_trans<\/a>","Number of disaggregations":1},{"Indicator":"#9-3-2","Disaggregations":"<a href=\"disaggregation--object.html\">Object<\/a>","Number of disaggregations":1},{"Indicator":"#9-3-2-a","Disaggregations":"<a href=\"disaggregation--object.html\">Object<\/a>","Number of disaggregations":1},{"Indicator":"#9-5-2","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#9-5-2-a","Disaggregations":"<a href=\"disaggregation--ec_activ.html\">Ec_activ<\/a>","Number of disaggregations":1},{"Indicator":"#9-6-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#9-6-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>, <a href=\"disaggregation--type-of-residence.html\">Type of residence<\/a>","Number of disaggregations":2},{"Indicator":"#9-7-1","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1},{"Indicator":"#9-7-1-a","Disaggregations":"<a href=\"disaggregation--region.html\">Region<\/a>","Number of disaggregations":1}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

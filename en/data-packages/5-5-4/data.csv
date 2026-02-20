@@ -1,0 +1,41 @@
+Year,Age,Sex,Value
+2020,36-60 years,men,64
+2020,36-60 years,women,36
+2021,36-60 years,men,72
+2021,36-60 years,women,28
+2023,36-60 years,men,68
+2023,36-60 years,women,32
+2024,36-60 years,men,71
+2024,36-60 years,women,29
+2021,61-64 years,men,75
+2021,61-64 years,women,25
+2023,61-64 years,men,71
+2023,61-64 years,women,29
+2024,61-64 years,men,75
+2024,61-64 years,women,25
+2020,65-70 years,men,100
+2020,65-70 years,women,0
+2021,65-70 years,men,100
+2021,65-70 years,women,0
+2023,65-70 years,men,100
+2023,65-70 years,women,0
+2024,65-70 years,men,100
+2024,65-70 years,women,0
+2020,,men,67
+2020,,women,33
+2021,,men,72
+2021,,women,28
+2022,,men,69
+2022,,women,31
+2023,,men,69
+2023,,women,31
+2024,,men,73
+2024,,women,27
+2020,under 35 years,men,75
+2020,under 35 years,women,25
+2021,under 35 years,men,68
+2021,under 35 years,women,32
+2023,under 35 years,men,64
+2023,under 35 years,women,36
+2024,under 35 years,men,76
+2024,under 35 years,women,24

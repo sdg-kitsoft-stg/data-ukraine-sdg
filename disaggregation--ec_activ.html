@@ -1,0 +1,587 @@
+
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>Disaggregation: Ec_activ - SDG data build documentation</title>
+
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
+                }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
+            </style>
+        </head>
+        <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html">SDG data build documentation</a>
+                </div>
+            </nav>
+            <main id="main-content" role="main">
+                <div class="container">
+                    <h1 style="margin:20px 0">Disaggregation: Ec_activ</h1>
+                    <div>
+                        
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="values--disaggregation--ec_activ.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--ec_activ">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--ec_activ" class="download-info">Size: 1.2 kB</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">74</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Value</th>
+      <th>Disaggregation combinations using this value</th>
+      <th>Number of indicators</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="disaggregation-value--11_agricul.html">11_agricul</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--11_ext_quar.html">11_ext_quar</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--12_ext_coal.html">12_ext_coal</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--12_indu.html">12_indu</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--13_constr.html">13_constr</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--13_ext_oil.html">13_ext_oil</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--14_ext_ores.html">14_ext_ores</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--14_motor_veh.html">14_motor_veh</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--15_courier.html">15_courier</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--15_ext_miner.html">15_ext_miner</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--16_cater.html">16_cater</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--16_serv.html">16_serv</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--17_proc_ind.html">17_proc_ind</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--17_telecom.html">17_telecom</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--18_insurance.html">18_insurance</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--18_man_food.html">18_man_food</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--19_estate.html">19_estate</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--19_man_bev.html">19_man_bev</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--1_agr_and_rel.html">1_agr_and_rel</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--20_man_tobac.html">20_man_tobac</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--20_scientific.html">20_scientific</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--21_man_text.html">21_man_text</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--21_support.html">21_support</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--22_man_cloth.html">22_man_cloth</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--22_public_.html">22_public</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--23_educ.html">23_educ</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--23_man_leather.html">23_man_leather</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--24_health.html">24_health</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--24_man_wood.html">24_man_wood</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--25_arts.html">25_arts</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--25_man_paper.html">25_man_paper</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--26_other_serv.html">26_other_serv</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--26_print.html">26_print</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--27_man_coke.html">27_man_coke</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--28_man_chemic.html">28_man_chemic</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--29_man_pharmac.html">29_man_pharmac</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--2_indus.html">2_indus</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--30_man_rubber.html">30_man_rubber</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--31_man_non_met.html">31_man_non_met</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--32_man_met.html">32_man_met</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--33_man_equip.html">33_man_equip</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--34_man_pc.html">34_man_pc</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--35_man_el_equip.html">35_man_el_equip</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--36_not_class.html">36_not_class</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--37_man_motor.html">37_man_motor</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--38_man_oth_veh.html">38_man_oth_veh</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--39_man_furn.html">39_man_furn</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--3_mining.html">3_mining</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--40_man_oth_prod.html">40_man_oth_prod</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--41_repair.html">41_repair</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--42_suppl_elec.html">42_suppl_elec</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--43_suppl_wat.html">43_suppl_wat</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--44_collec_wat.html">44_collec_wat</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--45_waste_wat.html">45_waste_wat</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--46_restor.html">46_restor</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--47_waste_act.html">47_waste_act</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--4_proc_ind.html">4_proc_ind</a></td>
+      <td>28</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--5_el_gas.html">5_el_gas</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--6_water.html">6_water</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--7_constr.html">7_constr</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--8_trans_act.html">8_trans_act</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--9_telec.html">9_telec</a></td>
+      <td>2</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_11_indu.html">s_11_indu</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_12_agri.html">s_12_agri</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_13_fores.html">s_13_fores</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_14_transp.html">s_14_transp</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_15_commun.html">s_15_commun</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_16_constr.html">s_16_constr</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_17_trade.html">s_17_trade</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_18_logis.html">s_18_logis</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_19_resid.html">s_19_resid</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_20_care.html">s_20_care</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_21_pub_ed.html">s_21_pub_ed</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--s_22_oth_sec.html">s_22_oth_sec</a></td>
+      <td>4</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--11_agricul.html\">11_agricul<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--11_ext_quar.html\">11_ext_quar<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--12_ext_coal.html\">12_ext_coal<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--12_indu.html\">12_indu<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--13_constr.html\">13_constr<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--13_ext_oil.html\">13_ext_oil<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--14_ext_ores.html\">14_ext_ores<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--14_motor_veh.html\">14_motor_veh<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--15_courier.html\">15_courier<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--15_ext_miner.html\">15_ext_miner<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--16_cater.html\">16_cater<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--16_serv.html\">16_serv<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--17_proc_ind.html\">17_proc_ind<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--17_telecom.html\">17_telecom<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--18_insurance.html\">18_insurance<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--18_man_food.html\">18_man_food<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--19_estate.html\">19_estate<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--19_man_bev.html\">19_man_bev<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--1_agr_and_rel.html\">1_agr_and_rel<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--20_man_tobac.html\">20_man_tobac<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--20_scientific.html\">20_scientific<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--21_man_text.html\">21_man_text<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--21_support.html\">21_support<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--22_man_cloth.html\">22_man_cloth<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--22_public_.html\">22_public<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--23_educ.html\">23_educ<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--23_man_leather.html\">23_man_leather<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--24_health.html\">24_health<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--24_man_wood.html\">24_man_wood<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--25_arts.html\">25_arts<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--25_man_paper.html\">25_man_paper<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--26_other_serv.html\">26_other_serv<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--26_print.html\">26_print<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--27_man_coke.html\">27_man_coke<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--28_man_chemic.html\">28_man_chemic<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--29_man_pharmac.html\">29_man_pharmac<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--2_indus.html\">2_indus<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--30_man_rubber.html\">30_man_rubber<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--31_man_non_met.html\">31_man_non_met<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--32_man_met.html\">32_man_met<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--33_man_equip.html\">33_man_equip<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--34_man_pc.html\">34_man_pc<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--35_man_el_equip.html\">35_man_el_equip<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--36_not_class.html\">36_not_class<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--37_man_motor.html\">37_man_motor<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--38_man_oth_veh.html\">38_man_oth_veh<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--39_man_furn.html\">39_man_furn<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--3_mining.html\">3_mining<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--40_man_oth_prod.html\">40_man_oth_prod<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--41_repair.html\">41_repair<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--42_suppl_elec.html\">42_suppl_elec<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--43_suppl_wat.html\">43_suppl_wat<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--44_collec_wat.html\">44_collec_wat<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--45_waste_wat.html\">45_waste_wat<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--46_restor.html\">46_restor<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--47_waste_act.html\">47_waste_act<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--4_proc_ind.html\">4_proc_ind<\/a>","Disaggregation combinations using this value":28,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--5_el_gas.html\">5_el_gas<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--6_water.html\">6_water<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--7_constr.html\">7_constr<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--8_trans_act.html\">8_trans_act<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--9_telec.html\">9_telec<\/a>","Disaggregation combinations using this value":2,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--s_11_indu.html\">s_11_indu<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_12_agri.html\">s_12_agri<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_13_fores.html\">s_13_fores<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_14_transp.html\">s_14_transp<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_15_commun.html\">s_15_commun<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_16_constr.html\">s_16_constr<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_17_trade.html\">s_17_trade<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_18_logis.html\">s_18_logis<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_19_resid.html\">s_19_resid<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_20_care.html\">s_20_care<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_21_pub_ed.html\">s_21_pub_ed<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4},{"Value":"<a href=\"disaggregation-value--s_22_oth_sec.html\">s_22_oth_sec<\/a>","Disaggregation combinations using this value":4,"Number of indicators":4}];
+            </script>
+            
+        </div>
+        <div>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
+            
+        <div class="my-3">
+            <a href="indicators--disaggregation--ec_activ.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--ec_activ">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--ec_activ" class="download-info">Size: 106 Bytes</div>
+        </div>
+        
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">12</span>
+                </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#5-6-1</td>
+    </tr>
+    <tr>
+      <td>#5-6-1-a</td>
+    </tr>
+    <tr>
+      <td>#6-3-1</td>
+    </tr>
+    <tr>
+      <td>#6-3-1-a</td>
+    </tr>
+    <tr>
+      <td>#6-3-2</td>
+    </tr>
+    <tr>
+      <td>#6-3-2-a</td>
+    </tr>
+    <tr>
+      <td>#8-5-3</td>
+    </tr>
+    <tr>
+      <td>#8-5-3-a</td>
+    </tr>
+    <tr>
+      <td>#8-6-1</td>
+    </tr>
+    <tr>
+      <td>#8-6-1-a</td>
+    </tr>
+    <tr>
+      <td>#9-5-2</td>
+    </tr>
+    <tr>
+      <td>#9-5-2-a</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#5-6-1"},{"Indicator":"#5-6-1-a"},{"Indicator":"#6-3-1"},{"Indicator":"#6-3-1-a"},{"Indicator":"#6-3-2"},{"Indicator":"#6-3-2-a"},{"Indicator":"#8-5-3"},{"Indicator":"#8-5-3-a"},{"Indicator":"#8-6-1"},{"Indicator":"#8-6-1-a"},{"Indicator":"#9-5-2"},{"Indicator":"#9-5-2-a"}];
+            </script>
+            
+        </div>
+        
+                    </div>
+                </div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
+        </html>
+        

@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Pollutants",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pol_11_dust",
+                "pol_12_sulfur",
+                "pol_13_carbon",
+                "pol_14_nitrogen",
+                "pol_15_nitrix",
+                "pol_16_phenol",
+                "pol_17_soot",
+                "pol_18_hydrogen",
+                "pol_19_ammonia",
+                "pol_20_form",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-2",
+  "title": "11-5-2"
+}

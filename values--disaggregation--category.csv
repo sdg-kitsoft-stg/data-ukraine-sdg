@@ -1,0 +1,11 @@
+Value,Disaggregation combinations using this value,Number of indicators
+academic_staff_tertiary,1,1
+electr_1_supply,2,2
+electr_2_pr_supply,2,2
+electr_3_act_value,12,2
+electr_4_tech_cons,4,2
+professional_pre_tertiary_education,1,1
+student_professional_pre_tertiary,1,1
+student_tertiary,1,1
+teacher_professional_pre_tertiary,1,1
+tertiary_education,1,1

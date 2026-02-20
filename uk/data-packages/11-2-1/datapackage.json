@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "strategy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Регіональна стратегія",
+                "Регіональна стратегія та план заходів з її реалізації (перший етап)",
+                "Регіональна стратегія та план заходів з її реалізації (другий етап)",
+                ""
+              ]
+            },
+            "title": "Складові регіональної стратегії"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "відсоток",
+                "кількість регіонів",
+                ""
+              ]
+            },
+            "title": "Одиниця виміру"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-2-1",
+  "title": "Показник середньої швидкості руху громадського транспорту в обласних центрах, кілометрів на годину (індикатор ЦСР 11.2.1)"
+}

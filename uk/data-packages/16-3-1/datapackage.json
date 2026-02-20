@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Населення",
+                "Учасники судових проваджень",
+                "Експертне середовище (адвокати, юристи)",
+                ""
+              ]
+            },
+            "title": "Група"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-1",
+  "title": "Частка працевлаштованих за сприяння Державної служби зайнятості зареєстрованих безробітних внутрішньо переміщених осіб у загальній кількості зареєстрованих безробітних внутрішньо переміщених осіб, відсотків  (індикатор ЦСР 16.3.1)"
+}

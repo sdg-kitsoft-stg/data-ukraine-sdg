@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Article",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total number of victims of criminal offenses, Аrt. of CCU",
+                "intentional homicide (and relevant attempts), Аrticles 115-118",
+                "rape (and relevant attempts), Аrt. 152",
+                "intentional grievous bodily harm, Аrt. 121",
+                "human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149",
+                ""
+              ]
+            },
+            "title": "Article of the Criminal Code of Ukraine"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "all",
+                "females",
+                "adolescents",
+                "young (under 14)",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Victims of criminal offenses (per 100 thousand population)",
+                "Victims of criminal offenses (total)",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-2",
+  "title": "16-1-2"
+}

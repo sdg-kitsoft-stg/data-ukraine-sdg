@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "industry",
+                "agriculture",
+                "forestry",
+                "transport",
+                "communication",
+                "construction",
+                "trade and catering",
+                "logistics",
+                "residential sector",
+                "health care, physical education",
+                "public education",
+                "other sectors",
+                ""
+              ]
+            },
+            "title": "Еconomic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-2-a",
+  "title": "Share of discharge of polluted (polluted without treatment or insufficiently treated) wastewater into water bodies in total discharges, %"
+}

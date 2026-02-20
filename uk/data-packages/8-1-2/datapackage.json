@@ -1,0 +1,40 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Група"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-1-2",
+  "title": "Частка експорту товарів з використанням у виробництві технологій високого та середньовисокого рівня в загальному обсязі експорту товарів (груп 28−38, 39−40, 84−85, 86−89, 90, 91 (крім товарної позиції 9113) згідно з УКТЗЕД), відсотків (індикатор ЦСР 8.1.2)"
+}
