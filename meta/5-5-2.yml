@@ -1,5 +1,10 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men at higher levels of decision-making in political and public life
 SDG_INDICATOR: 5.5.2 Ratio of women to men elected as deputies of the Verkhovna Rada of the Autonomous Republic of Crimea, regional, district, city, district councils in cities, village, settlement councils, percent (SDG indicator 5.5.2)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: Central Election Commission
-REC_USE_LIM: 1 Data were calculated using information provided by territorial election commissions. Information is provided given the fact that elections of deputies of the Verkhovna Rada of the Autonomous Republic of Crimea, deputies of local councils in the temporarily occupied territories of the Autonomous Republic of Crimea, the city of Sevastopol, deputies of Donetsk and Luhansk regional councils and in certain districts, cities, settlements and villages of Donetsk and Luhansk regions were not scheduled and were not conducted, or it was established that it was impossible to hold elections. 2 No elections were conducted in 2024. Data will be available within 3 months from the date of the next local elections.
+footer_fields:
+    - label: "Ukraine"
+      value: 'Data were calculated using information provided by territorial election commissions. Information is provided given the fact that elections of deputies of the Verkhovna Rada of the Autonomous Republic of Crimea, deputies of local councils in the temporarily occupied territories of the Autonomous Republic of Crimea, the city of Sevastopol, deputies of Donetsk and Luhansk regional councils and in certain districts, cities, settlements and villages of Donetsk and Luhansk regions were not scheduled and were not conducted, or it was established that it was impossible to hold elections.'
+    - label: "2024"
+      value: 'No elections were conducted in 2024. Data will be available within 3 months from the date of the next local elections.'
