@@ -1,5 +1,12 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men at higher levels of decision-making in political and public life
 SDG_INDICATOR: 5.5.4 Ratio of women to men in civil service positions of category "A", percent (SDG indicator 5.5.4)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: National Agency of Ukraine on Civil Service
-REC_USE_LIM: 1 Data have been developed since 2020. 2 Information on the number of working women and men civil servants by age group in 2022 is not available from the National Agency for Civil Service.
+footer_fields:
+    - label: "Target values of the indicator for 2030"
+      value: 'men – 60, women – 40'
+    - label: "2020"
+      value: 'Data have been developed since 2020.'
+    - label: "2022"
+      value: 'Information on the number of working women and men civil servants by age group in 2022 is not available from the National Agency for Civil Service.'

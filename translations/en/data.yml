@@ -239,6 +239,9 @@ age_60: 60 years and older
 age_18: up to 18 years 
 age_1_18_35: 18-35 years
 age_2_36_60: 36-60 years
+age_2_61_64: 61-64 years
+age_2_65_70: 65-70 years
+under_35: under 35 years
 age_3_61: 61 years and older
 
 age_18_34: 18-34 years
@@ -289,6 +292,16 @@ males: men
 females: women
 mal: men
 femal: women
+women: women
+men: men
+
+CouncilLevel: by level of councils
+regional_councils: regional councils
+district_councils: district councils
+city_councils: city councils (including Kyiv City council)
+district_councils_in_cities: district councils in cities
+settlement_councils: settlement councils
+village_councils: village councils
 
 Level: Levels of academic achievement
 Level_ed: Level of education

@@ -259,7 +259,10 @@ age_65_plus: 65 років і старші
 
 age_18: до 18 років
 age_1_18_35: 18 – 35 років 
-age_2_36_60: 36 – 60 років 
+age_2_36_60: 36 – 60 років
+age_2_61_64: 61-64 роки
+age_2_65_70: 65-70 років
+under_35: менше 35 років
 age_3_61: 61 рік і старші
 
 age_18_34: 18 – 34 роки
@@ -307,6 +310,16 @@ female: жінки
 children: діти
 mal: чоловік
 femal: жінка
+women: жінок
+men: чоловіків
+
+CouncilLevel: за рівнем рад
+regional_councils: обласні ради
+district_councils: районні ради
+city_councils: міські ради (у тому числі Київська міська рада)
+district_councils_in_cities: районні у містах ради
+settlement_councils: селищні ради
+village_councils: сільські ради
 
 Households: Домогосподарства
 hh_ch: домогосподарства з дітьми
