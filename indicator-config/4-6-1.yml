@@ -10,6 +10,8 @@ data_show_map: false
 data_start_values:
   - field: Region
     value: Ukraine
+  - field: EducationInternetType
+    value: preschool_wired_gt30
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
