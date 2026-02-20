@@ -1,6 +1,8 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.1 Ensuring the implementation of effective state policy in all spheres of society to reduce inequality between women and men and prevent discrimination
 SDG_INDICATOR: 5.1.3 Share of the population that claims to be aware of information about manifestations of gender-based discrimination, percent (SDG indicator 5.1.3)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available after involving development partners
-REC_USE_LIM:
-footer_reference: increase by 5 percent every 3 years
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase by 5 percent every 3 years'

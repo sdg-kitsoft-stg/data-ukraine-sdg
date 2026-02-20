@@ -1,5 +1,8 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.4 Ensuring state support for the development of pre-school education infrastructure and care for children and family members who need outside help, as well as encouraging equal distribution of household work and such care
 SDG_INDICATOR: 5.4.6 Share of employed persons who play sports daily or several times a week, are involved in cultural activities or leisure activities outside the home and are engaged in volunteer activities at least once a month in the total number of surveyed persons over 15 years of age, percent                 (SDG indicator 5.4.6)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available after involving development partners
-REC_USE_LIM: 
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase by 5 percent every 3 years'

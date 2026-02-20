@@ -1,5 +1,14 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.4 Ensuring state support for the development of pre-school education infrastructure and care for children and family members who need outside help, as well as encouraging equal distribution of household work and such care
 SDG_INDICATOR: 5.4.2 Share of men receiving assistance at the birth of a child in the total number of assistance recipients, percent (SDG indicator 5.4.2)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: National Social Service of Ukraine
-REC_USE_LIM: 1 Data have been developed since 2020. 2 Data are calculated on the basis of monthly information from regional and Kyiv city state administrations, as defined by the letter of the Ministry of Social Policy dated 15.05.2019 No. 802/0/111-19/203. 3 Data are calculated on the basis of information collected in accordance with the Order of the Ministry of Social Policy of Ukraine dated 04.10.22 No. 272 "On Approval of the Reporting Form No. 2 (annual) "Report on Provision of State Assistance to Families with Children" and the Instructions for its Completion", registered with the Ministry of Justice of Ukraine on 18.10.2022 under No. 1268/38604. 4 Data were not provided.
+footer_fields:
+    - label: "2015-2019"
+      value: "Data have been developed since 2020."
+    - label: "2020-2021"
+      value: "Data are calculated on the basis of monthly information from regional and Kyiv city state administrations, as defined by the letter of the Ministry of Social Policy dated 15.05.2019 No. 802/0/111-19/203."
+    - label: "2022-2024"
+      value: 'Data are calculated on the basis of information collected in accordance with the Order of the Ministry of Social Policy of Ukraine dated 04.10.22 No. 272 "On Approval of the Reporting Form No. 2 (annual) "Report on Provision of State Assistance to Families with Children" and the Instructions for its Completion", registered with the Ministry of Justice of Ukraine on 18.10.2022 under No. 1268/38604.'
+    - label: "Luhansk 2024, Kherson 2022"
+      value: "Data were not provided."
