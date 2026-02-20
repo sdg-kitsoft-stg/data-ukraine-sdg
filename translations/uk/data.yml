@@ -662,3 +662,9 @@ edu_bachelor: бакалавр
 edu_specialist: спеціаліст
 edu_master: магістр
 edu_doctor_of_philosophy: доктор філософії
+
+CourtLevel: Співвідношення жінок та чоловіків серед
+local_courts: місцевих судів
+appellate_courts: апеляційних судів
+higher_specialized_courts: вищих спеціалізованих судів
+supreme_court: Верховного суду

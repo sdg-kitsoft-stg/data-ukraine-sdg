@@ -613,3 +613,9 @@ edu_doctor_of_philosophy: doctor of philosophy
 
 girls: girls
 boys: boys
+
+CourtLevel: Ratio of women to men among
+local_courts: local courts
+appellate_courts: appellate courts
+higher_specialized_courts: higher specialized courts
+supreme_court: Supreme Court

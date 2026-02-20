@@ -1,5 +1,8 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men at higher levels of decision-making in political and public life
 SDG_INDICATOR: 5.5.5 Ratio of women to men among Ukrainian ambassadors to foreign countries, percent (SDG indicator 5.5.5)
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: Ministry of Foreign Affairs of Ukraine
-REC_USE_LIM: 
+footer_fields:
+    - label: "Target values of the indicator for 2030"
+      value: 'men – 77.2, women – 22.8'
