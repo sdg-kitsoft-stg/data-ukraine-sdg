@@ -1305,3 +1305,8 @@ A608: activities of households as producers of goods for own consumption
 A609: activities of households as producers of services for own consumption
 A610: activities of extraterritorial organizations and bodies
 A611: no code for NACE Rev.2
+
+volume_of_waste_per_person: Volume of generated waste per person, kilograms
+by_safety: by safety
+hazardous_waste: hazardous waste
+non_hazardous_waste: non-hazardous waste
