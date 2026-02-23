@@ -360,6 +360,8 @@ dg_10: 10th group (high income)
 33_reg_Chernivtsi: Chernivtsi
 34_reg_Chernihiv: Chernihiv
 35_reg_Kyiv_city: the city of Kyiv
+autonomous_Republic_of_Crimea: Autonomous Republic of Crimea
+city_Sevastopol: city Sevastopol
 
 farms_1_all: Farms of all categories
 farms_2_enterprise: Enterprises
@@ -1315,3 +1317,633 @@ non_hazardous_waste: non-hazardous waste
 
 Organisation and legal forms: by the organisational and legal forms
 Type of economic activity: by types of economic activity
+
+accounting_bookkeeping_and_auditing_activities_tax_consultancy: accounting, bookkeeping and auditing activities; tax consultancy
+activities_in_the_field_of_compulsory_social_insurance: activities in the field of compulsory social insurance
+activities_in_the_field_of_defense: activities in the field of defense
+activities_in_the_field_of_justice_and_justice: activities in the field of justice and justice
+activities_in_the_field_of_public_order_and_safety: activities in the field of public order and safety
+activities_of_amusement_parks_and_theme_parks: activities of amusement parks and theme parks
+activities_of_call_centres: activities of call centres
+activities_of_collection_agencies_and_credit_bureaus: activities of collection agencies and credit bureaus
+activities_of_employment_placement_agencies: activities of employment placement agencies
+activities_of_extraterritorial_organizations_and_bodies: activities of extraterritorial organizations and bodies
+activities_of_fire_services: activities of fire services
+activities_of_head_offices: activities of head offices
+activities_of_holding_companies: activities of holding companies
+activities_of_households_as_employers_of_domestic_workers: activities of households as employers of domestic workers
+activities_of_households_as_producers_of_goods_for_own_consumption: activities of households as producers of goods for own consumption
+activities_of_households_as_producers_of_services_for_own_consumption: activities of households as producers of services for own consumption
+activities_of_insurance_agents_and_brokers: activities of insurance agents and brokers
+activities_of_organizations_of_industrialists_and_entrepreneurs: activities of organizations of industrialists and entrepreneurs
+activities_of_other_public_organizations_n_e_c: activities of other public organizations, n.e.c.
+activities_of_political_organizations: activities of political organizations
+activities_of_professional_public_organizations: activities of professional public organizations
+activities_of_religious_organizations: activities of religious organizations
+activities_of_sport_clubs: activities of sport clubs
+activities_of_trade_unions: activities of trade unions
+administration_of_financial_markets: administration of financial markets
+advertising_agencies: advertising agencies
+agents_involved_in_the_sale_of_a_variety_of_goods: agents involved in the sale of a variety of goods
+agents_involved_in_the_sale_of_agricultural_raw_materials_live_animals_textile_raw_materials_and_semi_finished_goods: agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods
+agents_involved_in_the_sale_of_food_beverages_and_tobacco: agents involved in the sale of food, beverages and tobacco
+agents_involved_in_the_sale_of_fuels_ores_metals_and_industrial_chemicals: agents involved in the sale of fuels, ores, metals and industrial chemicals
+agents_involved_in_the_sale_of_furniture_household_goods_hardware_and_ironmongery: agents involved in the sale of furniture, household goods, hardware and ironmongery
+agents_involved_in_the_sale_of_machinery_industrial_equipment_ships_and_aircraft: agents involved in the sale of machinery, industrial equipment, ships and aircraft
+agents_involved_in_the_sale_of_textiles_clothing_fur_footwear_and_leather_goods: agents involved in the sale of textiles, clothing, fur, footwear and leather goods
+agents_involved_in_the_sale_of_timber_and_building_materials: agents involved in the sale of timber and building materials
+agents_specialised_in_the_sale_of_other_particular_products: agents specialised in the sale of other particular products
+aluminium_production: aluminium production
+architectural_activities: architectural activities
+artistic_creation: artistic creation
+beverage_serving_activities: beverage serving activities
+binding_and_related_services: binding and related services
+book_publishing: book publishing
+botanical_and_zoological_gardens_and_nature_reserves_activities: botanical and zoological gardens and nature reserves activities
+building_of_pleasure_and_sporting_boats: building of pleasure and sporting boats
+building_of_ships_and_floating_structures: building of ships and floating structures
+business_and_other_management_consultancy_activities: business and other management consultancy activities
+buying_and_selling_of_own_real_estate: buying and selling of own real estate
+camping_grounds_recreational_vehicle_parks_and_trailer_parks: camping grounds, recreational vehicle parks and trailer parks
+cargo_handling: cargo handling
+casting_of_iron: casting of iron
+casting_of_light_metals: casting of light metals
+casting_of_other_non_ferrous_metals: casting of other non-ferrous metals
+casting_of_steel: casting of steel
+central_banking: central banking
+child_day_care_activities: child day-care activities
+cold_drawing_of_bars: cold drawing of bars
+cold_drawing_of_wire: cold drawing of wire
+cold_forming_or_folding: cold forming or folding
+cold_rolling_of_narrow_strip: cold rolling of narrow strip
+collection_of_hazardous_waste: collection of hazardous waste
+collection_of_non_hazardous_waste: collection of non-hazardous waste
+combined_facilities_support_activities: combined facilities support activities
+combined_office_administrative_service_activities: combined office administrative service activities
+computer_consultancy_activities: computer consultancy activities
+computer_facilities_management_activities: computer facilities management activities
+computer_programming_activities: computer programming activities
+construction_of_bridges_and_tunnels: construction of bridges and tunnels
+construction_of_other_civil_engineering_projects_n_e_c: construction of other civil engineering projects n.e.c.
+construction_of_railways_and_underground_railways: construction of railways and underground railways
+construction_of_residential_and_non_residential_buildings: construction of residential and non-residential buildings
+construction_of_roads_and_motorways: construction of roads and motorways
+construction_of_utility_projects_for_electricity_and_telecommunications: construction of utility projects for electricity and telecommunications
+construction_of_utility_projects_for_fluids: construction of utility projects for fluids
+construction_of_water_projects: construction of water projects
+copper_production: copper production
+cultural_education: cultural education
+cutting_shaping_and_finishing_of_stone: cutting, shaping and finishing of stone
+data_processing_hosting_and_related_activities: data processing, hosting and related activities
+demolition: demolition
+dental_practice_activities: dental practice activities
+development_of_building_projects: development of building projects
+dismantling_of_wrecks: dismantling of wrecks
+dispensing_chemist_in_specialised_stores: dispensing chemist in specialised stores
+distilling_rectifying_and_blending_of_spirits: distilling, rectifying and blending of spirits
+distribution_of_electricity: distribution of electricity
+distribution_of_gaseous_fuels_through_mains: distribution of gaseous fuels through mains
+driving_school_activities: driving school activities
+educational_support_activities: educational support activities
+electrical_installation: electrical installation
+engineering_activities_and_related_technical_consultancy: engineering activities and related technical consultancy
+event_catering_activities: event catering activities
+extraction_of_crude_petroleum: extraction of crude petroleum
+extraction_of_natural_gas: extraction of natural gas
+extraction_of_peat: extraction of peat
+extraction_of_salt: extraction of salt
+financial_leasing: financial leasing
+finishing_of_textiles: finishing of textiles
+fitness_facilities: fitness facilities
+floor_and_wall_covering: floor and wall covering
+forging_pressing_stamping_and_roll_forming_of_metal_powder_metallurgy: forging, pressing, stamping and roll-forming of metal; powder metallurgy
+freight_air_transport: freight air transport
+freight_rail_transport: freight rail transport
+freight_transport_by_road: freight transport by road
+freshwater_aquaculture: freshwater aquaculture
+freshwater_fishing: freshwater fishing
+fund_management_activities: fund management activities
+funeral_and_related_activities: funeral and related activities
+gambling_and_betting_activities: gambling and betting activities
+gathering_of_wild_growing_non_wood_products: gathering of wild growing non-wood products
+general_cleaning_of_buildings: general cleaning of buildings
+general_government_administration: general government administration
+general_medical_practice_activities: general medical practice activities
+general_secondary_education: general secondary education
+growing_of_beverage_crops: growing of beverage crops
+growing_of_cereals_except_rice_leguminous_crops_and_oil_seeds: growing of cereals (except rice), leguminous crops and oil seeds
+growing_of_fibre_crops: growing of fibre crops
+growing_of_grapes: growing of grapes
+growing_of_other_non_perennial_crops: growing of other non-perennial crops
+growing_of_other_perennial_crops: growing of other perennial crops
+growing_of_other_tree_and_bush_fruits_and_nuts: growing of other tree and bush fruits and nuts
+growing_of_pome_fruits_and_stone_fruits: growing of pome fruits and stone fruits
+growing_of_rice: growing of rice
+growing_of_spices_aromatic_drug_and_pharmaceutical_crops: growing of spices, aromatic, drug and pharmaceutical crops
+growing_of_sugar_cane: growing of sugar cane
+growing_of_tobacco: growing of tobacco
+growing_of_vegetables_and_melons_roots_and_tubers: growing of vegetables and melons, roots and tubers
+hairdressing_and_other_beauty_treatment: hairdressing and other beauty treatment
+holiday_and_other_short_stay_accommodation: holiday and other short-stay accommodation
+hospital_activities: hospital activities
+hotels_and_similar_accommodation: hotels and similar accommodation
+hunting_trapping_and_related_service_activities: hunting, trapping and related service activities
+inland_freight_water_transport: inland freight water transport
+inland_passenger_water_transport: inland passenger water transport
+installation_of_industrial_machinery_and_equipment: installation of industrial machinery and equipment
+international_activities: international activities
+investigation_activities: investigation activities
+joinery_installation: joinery installation
+landscape_service_activities: landscape service activities
+lead_zinc_and_tin_production: lead, zinc and tin production
+leasing_of_intellectual_property_and_similar_products_except_copyrighted_works: leasing of intellectual property and similar products, except copyrighted works
+legal_activities: legal activities
+library_and_archives_activities: library and archives activities
+life_insurance: life insurance
+logging: logging
+machining: machining
+maintenance_and_repair_of_motor_vehicles: maintenance and repair of motor vehicles
+management_of_real_estate_on_a_fee_or_contract_basis: management of real estate on a fee or contract basis
+manufacture_and_processing_of_other_glass_including_technical_glassware: manufacture and processing of other glass, including technical glassware
+manufacture_of_agricultural_and_forestry_machinery: manufacture of agricultural and forestry machinery
+manufacture_of_air_and_spacecraft_and_related_machinery: manufacture of air and spacecraft and related machinery
+manufacture_of_articles_of_fur: manufacture of articles of fur
+manufacture_of_assembled_parquet_floors: manufacture of assembled parquet floors
+manufacture_of_basic_iron_and_steel_and_of_ferro_alloys: manufacture of basic iron and steel and of ferro-alloys
+manufacture_of_basic_pharmaceutical_products: manufacture of basic pharmaceutical products
+manufacture_of_batteries_and_accumulators: manufacture of batteries and accumulators
+manufacture_of_bearings_gears_gearing_and_driving_elements: manufacture of bearings, gears, gearing and driving elements
+manufacture_of_beer: manufacture of beer
+manufacture_of_bicycles_and_invalid_carriages: manufacture of bicycles and invalid carriages
+manufacture_of_bodies_coachwork_for_motor_vehicles_manufacture_of_trailers_and_semi_trailers: manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+manufacture_of_bread_manufacture_of_fresh_pastry_goods_and_cakes: manufacture of bread; manufacture of fresh pastry goods and cakes
+manufacture_of_bricks_tiles_and_construction_products_in_baked_clay: manufacture of bricks, tiles and construction products, in baked clay
+manufacture_of_brooms_and_brushes: manufacture of brooms and brushes
+manufacture_of_builders_ware_of_plastic: manufacture of buildersТ ware of plastic
+manufacture_of_carpets_and_rugs: manufacture of carpets and rugs
+manufacture_of_cement: manufacture of cement
+manufacture_of_central_heating_radiators_and_boilers: manufacture of central heating radiators and boilers
+manufacture_of_ceramic_household_and_ornamental_articles: manufacture of ceramic household and ornamental articles
+manufacture_of_ceramic_insulators_and_insulating_fittings: manufacture of ceramic insulators and insulating fittings
+manufacture_of_ceramic_sanitary_fixtures: manufacture of ceramic sanitary fixtures
+manufacture_of_ceramic_tiles_and_flags: manufacture of ceramic tiles and flags
+manufacture_of_cider_and_other_fruit_wines: manufacture of cider and other fruit wines
+manufacture_of_cocoa_chocolate_and_sugar_confectionery: manufacture of cocoa, chocolate and sugar confectionery
+manufacture_of_coke_oven_products: manufacture of coke oven products
+manufacture_of_communication_equipment: manufacture of communication equipment
+manufacture_of_computers_and_peripheral_equipment: manufacture of computers and peripheral equipment
+manufacture_of_concrete_products_for_construction_purposes: manufacture of concrete products for construction purposes
+manufacture_of_condiments_and_seasonings: manufacture of condiments and seasonings
+manufacture_of_consumer_electronics: manufacture of consumer electronics
+manufacture_of_cordage_rope_twine_and_netting: manufacture of cordage, rope, twine and netting
+manufacture_of_corrugated_paper_and_paperboard_and_of_containers_of_paper_and_paperboard: manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+manufacture_of_cutlery: manufacture of cutlery
+manufacture_of_doors_and_windows_of_metal: manufacture of doors and windows of metal
+manufacture_of_dyes_and_pigments: manufacture of dyes and pigments
+manufacture_of_electric_domestic_appliances: manufacture of electric domestic appliances
+manufacture_of_electric_lighting_equipment: manufacture of electric lighting equipment
+manufacture_of_electric_motors_generators_and_transformers: manufacture of electric motors, generators and transformers
+manufacture_of_electrical_and_electronic_equipment_for_motor_vehicles: manufacture of electrical and electronic equipment for motor vehicles
+manufacture_of_electricity_distribution_and_control_apparatus: manufacture of electricity distribution and control apparatus
+manufacture_of_electronic_components: manufacture of electronic components
+manufacture_of_engines_and_turbines_except_aircraft_vehicle_and_cycle_engines: manufacture of engines and turbines, except aircraft, vehicle and cycle engines
+manufacture_of_essential_oils: manufacture of essential oils
+manufacture_of_explosives: manufacture of explosives
+manufacture_of_fasteners_and_screw_machine_products: manufacture of fasteners and screw machine products
+manufacture_of_fertilisers_and_nitrogen_compounds: manufacture of fertilisers and nitrogen compounds
+manufacture_of_fibre_cement: manufacture of fibre cement
+manufacture_of_fibre_optic_cables: manufacture of fibre optic cables
+manufacture_of_flat_glass: manufacture of flat glass
+manufacture_of_fluid_power_equipment: manufacture of fluid power equipment
+manufacture_of_footwear: manufacture of footwear
+manufacture_of_fruit_and_vegetable_juice: manufacture of fruit and vegetable juice
+manufacture_of_games_and_toys: manufacture of games and toys
+manufacture_of_gas: manufacture of gas
+manufacture_of_glass_fibres: manufacture of glass fibres
+manufacture_of_glues: manufacture of glues
+manufacture_of_grain_mill_products: manufacture of grain mill products
+manufacture_of_hollow_glass: manufacture of hollow glass
+manufacture_of_homogenised_food_preparations_and_dietetic_food: manufacture of homogenised food preparations and dietetic food
+manufacture_of_household_and_sanitary_goods_and_of_toilet_requisites: manufacture of household and sanitary goods and of toilet requisites
+manufacture_of_ice_cream: manufacture of ice cream
+manufacture_of_imitation_jewellery_and_related_articles: manufacture of imitation jewellery and related articles
+manufacture_of_industrial_gases: manufacture of industrial gases
+manufacture_of_instruments_and_appliances_for_measuring_testing_and_navigation: manufacture of instruments and appliances for measuring, testing and navigation
+manufacture_of_irradiation_electromedical_and_electrotherapeutic_equipment: manufacture of irradiation, electromedical and electrotherapeutic equipment
+manufacture_of_jewellery_and_related_articles: manufacture of jewellery and related articles
+manufacture_of_kitchen_furniture: manufacture of kitchen furniture
+manufacture_of_knitted_and_crocheted_fabrics: manufacture of knitted and crocheted fabrics
+manufacture_of_knitted_and_crocheted_hosiery: manufacture of knitted and crocheted hosiery
+manufacture_of_leather_clothes: manufacture of leather clothes
+manufacture_of_lifting_and_handling_equipment: manufacture of lifting and handling equipment
+manufacture_of_light_metal_packaging: manufacture of light metal packaging
+manufacture_of_lime_and_plaster: manufacture of lime and plaster
+manufacture_of_loaded_electronic_boards: manufacture of loaded electronic boards
+manufacture_of_locks_and_hinges: manufacture of locks and hinges
+manufacture_of_luggage_handbags_and_the_like_saddlery_and_harness: manufacture of luggage, handbags and the like, saddlery and harness
+manufacture_of_macaroni_noodles_couscous_and_similar_farinaceous_products: manufacture of macaroni, noodles, couscous and similar farinaceous products
+manufacture_of_machinery_for_food_beverage_and_tobacco_processing: manufacture of machinery for food, beverage and tobacco processing
+manufacture_of_machinery_for_metallurgy: manufacture of machinery for metallurgy
+manufacture_of_machinery_for_mining_quarrying_and_construction: manufacture of machinery for mining, quarrying and construction
+manufacture_of_machinery_for_paper_and_paperboard_production: manufacture of machinery for paper and paperboard production
+manufacture_of_machinery_for_textile_apparel_and_leather_production: manufacture of machinery for textile, apparel and leather production
+manufacture_of_made_up_textile_articles_except_apparel: manufacture of made-up textile articles, except apparel
+manufacture_of_magnetic_and_optical_media: manufacture of magnetic and optical media
+manufacture_of_malt: manufacture of malt
+manufacture_of_man_made_fibres: manufacture of man-made fibres
+manufacture_of_margarine_and_similar_edible_fats: manufacture of margarine and similar edible fats
+manufacture_of_mattresses: manufacture of mattresses
+manufacture_of_medical_and_dental_instruments_and_supplies: manufacture of medical and dental instruments and supplies
+manufacture_of_metal_forming_machinery: manufacture of metal forming machinery
+manufacture_of_metal_structures_and_parts_of_structures: manufacture of metal structures and parts of structures
+manufacture_of_military_fighting_vehicles: manufacture of military fighting vehicles
+manufacture_of_mortars: manufacture of mortars
+manufacture_of_motor_vehicles: manufacture of motor vehicles
+manufacture_of_motorcycles: manufacture of motorcycles
+manufacture_of_musical_instruments: manufacture of musical instruments
+manufacture_of_non_domestic_cooling_and_ventilation_equipment: manufacture of non-domestic cooling and ventilation equipment
+manufacture_of_non_electric_domestic_appliances: manufacture of non-electric domestic appliances
+manufacture_of_non_wovens_and_articles_made_from_non_wovens_except_apparel: manufacture of non-wovens and articles made from non-wovens, except apparel
+manufacture_of_office_and_shop_furniture: manufacture of office and shop furniture
+manufacture_of_office_machinery_and_equipment_except_computers_and_peripheral_equipment: manufacture of office machinery and equipment (except computers and peripheral equipment)
+manufacture_of_optical_instruments_and_photographic_equipment: manufacture of optical instruments and photographic equipment
+manufacture_of_other_articles_of_concrete_plaster_and_cement: manufacture of other articles of concrete, plaster and cement
+manufacture_of_other_articles_of_paper_and_paperboard: manufacture of other articles of paper and paperboard
+manufacture_of_other_builders_carpentry_and_joinery: manufacture of other builders' carpentry and joinery
+manufacture_of_other_ceramic_products: manufacture of other ceramic products
+manufacture_of_other_chemical_products_n_e_c: manufacture of other chemical products n.e.c.
+manufacture_of_other_electrical_equipment: manufacture of other electrical equipment
+manufacture_of_other_electronic_and_electric_wires_and_cables: manufacture of other electronic and electric wires and cables
+manufacture_of_other_fabricated_metal_products_n_e_c: manufacture of other fabricated metal products n.e.c.
+manufacture_of_other_food_products_n_e_c: manufacture of other food products n.e.c.
+manufacture_of_other_furniture: manufacture of other furniture
+manufacture_of_other_general_purpose_machinery_n_e_c: manufacture of other general-purpose machinery n.e.c.
+manufacture_of_other_inorganic_basic_chemicals: manufacture of other inorganic basic chemicals
+manufacture_of_other_knitted_and_crocheted_apparel: manufacture of other knitted and crocheted apparel
+manufacture_of_other_machine_tools: manufacture of other machine tools
+manufacture_of_other_non_distilled_fermented_beverages: manufacture of other non-distilled fermented beverages
+manufacture_of_other_non_metallic_mineral_products_n_e_c: manufacture of other non-metallic mineral products n.e.c.
+manufacture_of_other_organic_basic_chemicals: manufacture of other organic basic chemicals
+manufacture_of_other_outerwear: manufacture of other outerwear
+manufacture_of_other_parts_and_accessories_for_motor_vehicles: manufacture of other parts and accessories for motor vehicles
+manufacture_of_other_plastic_products: manufacture of other plastic products
+manufacture_of_other_products_of_wood_manufacture_of_articles_of_cork_straw_and_plaiting_materials: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
+manufacture_of_other_pumps_and_compressors: manufacture of other pumps and compressors
+manufacture_of_other_rubber_products: manufacture of other rubber products
+manufacture_of_other_special_purpose_machinery_n_e_c: manufacture of other special-purpose machinery n.e.c.
+manufacture_of_other_tanks_reservoirs_and_containers_of_metal: manufacture of other tanks, reservoirs and containers of metal
+manufacture_of_other_taps_and_valves: manufacture of other taps and valves
+manufacture_of_other_technical_and_industrial_textiles: manufacture of other technical and industrial textiles
+manufacture_of_other_technical_ceramic_products: manufacture of other technical ceramic products
+manufacture_of_other_textiles_n_e_c: manufacture of other textiles n.e.c.
+manufacture_of_other_transport_equipment_n_e_c: manufacture of other transport equipment n.e.c.
+manufacture_of_other_wearing_apparel_and_accessories: manufacture of other wearing apparel and accessories
+manufacture_of_ovens_furnaces_and_furnace_burners: manufacture of ovens, furnaces and furnace burners
+manufacture_of_paints_varnishes_and_similar_coatings_printing_ink_and_mastics: manufacture of paints, varnishes and similar coatings, printing ink and mastics
+manufacture_of_paper_and_paperboard: manufacture of paper and paperboard
+manufacture_of_paper_stationery: manufacture of paper stationery
+manufacture_of_perfumes_and_toilet_preparations: manufacture of perfumes and toilet preparations
+manufacture_of_pesticides_and_other_agrochemical_products: manufacture of pesticides and other agrochemical products
+manufacture_of_pharmaceutical_preparations: manufacture of pharmaceutical preparations
+manufacture_of_plaster_products_for_construction_purposes: manufacture of plaster products for construction purposes
+manufacture_of_plastic_packing_goods: manufacture of plastic packing goods
+manufacture_of_plastic_plates_sheets_tubes_and_profiles: manufacture of plastic plates, sheets, tubes and profiles
+manufacture_of_plastics_and_rubber_machinery: manufacture of plastics and rubber machinery
+manufacture_of_plastics_in_primary_forms: manufacture of plastics in primary forms
+manufacture_of_power_driven_hand_tools: manufacture of power-driven hand tools
+manufacture_of_prepared_feeds_for_farm_animals: manufacture of prepared feeds for farm animals
+manufacture_of_prepared_meals_and_dishes: manufacture of prepared meals and dishes
+manufacture_of_prepared_pet_foods: manufacture of prepared pet foods
+manufacture_of_pulp: manufacture of pulp
+manufacture_of_railway_locomotives_and_rolling_stock: manufacture of railway locomotives and rolling stock
+manufacture_of_ready_mixed_concrete: manufacture of ready-mixed concrete
+manufacture_of_refined_petroleum_products: manufacture of refined petroleum products
+manufacture_of_refractory_products: manufacture of refractory products
+manufacture_of_rubber_tyres_and_tubes_retreading_and_rebuilding_of_rubber_tyres: manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+manufacture_of_rusks_and_biscuits_manufacture_of_preserved_pastry_goods_and_cakes: manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes
+manufacture_of_soap_and_detergents_cleaning_and_polishing_preparations: manufacture of soap and detergents, cleaning and polishing preparations
+manufacture_of_soft_drinks_production_of_mineral_waters_and_other_bottled_waters: manufacture of soft drinks; production of mineral waters and other bottled waters
+manufacture_of_sports_goods: manufacture of sports goods
+manufacture_of_starches_and_starch_products: manufacture of starches and starch products
+manufacture_of_steam_generators_except_central_heating_hot_water_boilers: manufacture of steam generators, except central heating hot water boilers
+manufacture_of_steel_drums_and_similar_containers: manufacture of steel drums and similar containers
+manufacture_of_sugar: manufacture of sugar
+manufacture_of_synthetic_rubber_in_primary_forms: manufacture of synthetic rubber in primary forms
+manufacture_of_tobacco_products: manufacture of tobacco products
+manufacture_of_tools: manufacture of tools
+manufacture_of_tubes_pipes_hollow_profiles_and_related_fittings_of_steel: manufacture of tubes, pipes, hollow profiles and related fittings, of steel
+manufacture_of_underwear: manufacture of underwear
+manufacture_of_vegetable_and_animal_oils_and_fats: manufacture of vegetable and animal oils and fats
+manufacture_of_veneer_sheets_and_wood_based_panels: manufacture of veneer sheets and wood-based panels
+manufacture_of_wallpaper: manufacture of wallpaper
+manufacture_of_watches_and_clocks: manufacture of watches and clocks
+manufacture_of_weapons_and_ammunition: manufacture of weapons and ammunition
+manufacture_of_wine_from_grape: manufacture of wine from grape
+manufacture_of_wire_products_chain_and_springs: manufacture of wire products, chain and springs
+manufacture_of_wiring_devices: manufacture of wiring devices
+manufacture_of_wooden_containers: manufacture of wooden containers
+manufacture_of_workwear: manufacture of workwear
+marine_aquaculture: marine aquaculture
+marine_fishing: marine fishing
+market_research_and_public_opinion_polling: market research and public opinion polling
+media_representation: media representation
+mining_of_chemical_and_fertiliser_minerals: mining of chemical and fertiliser minerals
+mining_of_hard_coal: mining of hard coal
+mining_of_iron_ores: mining of iron ores
+mining_of_lignite: mining of lignite
+mining_of_other_non_ferrous_metal_ores: mining of other non-ferrous metal ores
+mining_of_uranium_and_thorium_ores: mining of uranium and thorium ores
+mining_support_service_activities: mining support service activities
+mixed_farming: mixed farming
+motion_picture_projection_activities: motion picture projection activities
+motion_picture_video_and_television_programme_activities: motion picture, video and television programme activities
+motion_picture_video_and_television_programme_distribution_activities: motion picture, video and television programme distribution activities
+motion_picture_video_and_television_programme_production_activities: motion picture, video and television programme production activities
+museums_activities: museums activities
+news_agency_activities: news agency activities
+non_life_insurance: non-life insurance
+non_specialised_wholesale_of_food_beverages_and_tobacco: non-specialised wholesale of food, beverages and tobacco
+non_specialised_wholesale_trade: non-specialised wholesale trade
+nuclear_materials_production: nuclear materials production
+operation_of_arts_facilities: operation of arts facilities
+operation_of_dairies_and_cheese_making: operation of dairies and cheese making
+operation_of_gravel_and_sand_pits_mining_of_clays_and_kaolin: operation of gravel and sand pits; mining of clays and kaolin
+operation_of_historical_sites_and_buildings_and_similar_visitor_attractions: operation of historical sites and buildings and similar visitor attractions
+operation_of_sports_facilities: operation of sports facilities
+organisation_of_conventions_and_trade_shows: organisation of conventions and trade shows
+other_accommodation: other accommodation
+other_activities_auxiliary_to_financial_services_except_insurance_and_pension_funding: other activities auxiliary to financial services, except insurance and pension funding
+other_activities_auxiliary_to_insurance_and_pension_funding: other activities auxiliary to insurance and pension funding
+other_amusement_and_recreation_activities: other amusement and recreation activities
+other_building_and_industrial_cleaning_activities: other building and industrial cleaning activities
+other_building_completion_and_finishing: other building completion and finishing
+other_business_support_service_activities_n_e_c: other business support service activities n.e.c.
+other_cleaning_activities: other cleaning activities
+other_construction_installation: other construction installation
+other_credit_granting: other credit granting
+other_education_n_e_c: other education n.e.c.
+other_financial_service_activities_except_insurance_and_pension_funding_n_e_c: other financial service activities, except insurance and pension funding n.e.c.
+other_food_service_activities: other food service activities
+other_human_health_activities: other human health activities
+other_human_resources_provision: other human resources provision
+other_information_service_activities_n_e_c: other information service activities n.e.c.
+other_information_technology_and_computer_service_activities: other information technology and computer service activities
+other_manufacturing_n_e_c: other manufacturing n.e.c.
+other_mining_and_quarrying_n_e_c: other mining and quarrying n.e.c.
+other_monetary_intermediation: other monetary intermediation
+other_non_ferrous_metal_production: other non-ferrous metal production
+other_passenger_land_transport_n_e_c: other passenger land transport n.e.c.
+other_personal_service_activities_n_e_c: other personal service activities n.e.c.
+other_postal_and_courier_activities: other postal and courier activities
+other_printing: other printing
+other_processing_and_preserving_of_fruit_and_vegetables: other processing and preserving of fruit and vegetables
+other_professional_scientific_and_technical_activities_n_e_c: other professional, scientific and technical activities n.e.c.
+other_publishing_activities: other publishing activities
+other_research_and_experimental_development_on_natural_sciences_and_engineering: other research and experimental development on natural sciences and engineering
+other_reservation_service_and_related_activities: other reservation service and related activities
+other_residential_care_activities: other residential care activities
+other_retail_sale_in_non_specialised_stores: other retail sale in non-specialised stores
+other_retail_sale_not_in_stores_stalls_or_markets: other retail sale not in stores, stalls or markets
+other_retail_sale_of_food_in_specialised_stores: other retail sale of food in specialised stores
+other_retail_sale_of_new_goods_in_specialised_stores: other retail sale of new goods in specialised stores
+other_social_work_activities_without_accommodation_n_e_c: other social work activities without accommodation n.e.c.
+other_software_publishing: other software publishing
+other_specialised_construction_activities_n_e_c: other specialised construction activities n.e.c.
+other_sports_activities: other sports activities
+other_telecommunications_activities: other telecommunications activities
+other_transportation_support_activities: other transportation support activities
+packaging_activities: packaging activities
+painting_and_glazing: painting and glazing
+passenger_air_transport: passenger air transport
+passenger_rail_transport_interurban: passenger rail transport, interurban
+pension_funding: pension funding
+performing_arts: performing arts
+photocopying_document_preparation_and_other_specialised_office_support_activities: photocopying, document preparation and other specialised office support activities
+photographic_activities: photographic activities
+physical_well_being_activities: physical well-being activities
+plant_propagation: plant propagation
+plastering: plastering
+plumbing_heat_and_air_conditioning_installation: plumbing, heat and air-conditioning installation
+post_harvest_crop_activities: post-harvest crop activities
+post_secondary_non_tertiary_education: post-secondary non-tertiary education
+postal_activities_under_universal_service_obligation: postal activities under universal service obligation
+pre_press_and_pre_media_services: pre-press and pre-media services
+pre_primary_education: pre-primary education
+precious_metals_production: precious metals production
+preparation_and_spinning_of_textile_fibres: preparation and spinning of textile fibres
+primary_education: primary education
+printing_of_newspapers: printing of newspapers
+private_security_activities: private security activities
+processing_and_preserving_of_fish_crustaceans_and_molluscs: processing and preserving of fish, crustaceans and molluscs
+processing_and_preserving_of_meat: processing and preserving of meat
+processing_and_preserving_of_potatoes: processing and preserving of potatoes
+processing_and_preserving_of_poultry_meat: processing and preserving of poultry meat
+processing_of_tea_and_coffee: processing of tea and coffee
+production_of_abrasive_products: production of abrasive products
+production_of_electricity: production of electricity
+production_of_meat_and_poultry_meat_products: production of meat and poultry meat products
+public_relations_and_communication_activities: public relations and communication activities
+publishing_of_computer_games: publishing of computer games
+publishing_of_directories_and_mailing_lists: publishing of directories and mailing lists
+publishing_of_journals_and_periodicals: publishing of journals and periodicals
+publishing_of_newspapers: publishing of newspapers
+quarrying_of_ornamental_and_building_stone_limestone_gypsum_chalk_and_slate: quarrying of ornamental and building stone, limestone, gypsum, chalk and slate
+radio_broadcasting: radio broadcasting
+raising_of_camels_and_camelids: raising of camels and camelids
+raising_of_dairy_cattle: raising of dairy cattle
+raising_of_horses_and_other_equines: raising of horses and other equines
+raising_of_other_animals: raising of other animals
+raising_of_other_cattle_and_buffaloes: raising of other cattle and buffaloes
+raising_of_poultry: raising of poultry
+raising_of_sheep_and_goats: raising of sheep and goats
+raising_of_swine_pigs: raising of swine/pigs
+real_estate_agencies: real estate agencies
+recovery_of_sorted_materials: recovery of sorted materials
+regulation_and_promotion_of_effective_economic_activity: regulation and promotion of effective economic activity
+regulation_in_the_fields_of_health_education_culture_and_other_social_sectors_except_compulsory_social_insurance: regulation in the fields of health, education, culture and other social sectors, except compulsory social insurance
+reinsurance: reinsurance
+remediation_activities_and_other_waste_management_services: remediation activities and other waste management services
+removal_services: removal services
+renting_and_leasing_of_agricultural_machinery_and_equipment: renting and leasing of agricultural machinery and equipment
+renting_and_leasing_of_air_transport_equipment: renting and leasing of air transport equipment
+renting_and_leasing_of_cars_and_light_motor_vehicles: renting and leasing of cars and light motor vehicles
+renting_and_leasing_of_construction_and_civil_engineering_machinery: renting and leasing of construction and civil engineering machinery
+renting_and_leasing_of_office_machinery_and_equipment_including_computers: renting and leasing of office machinery and equipment (including computers)
+renting_and_leasing_of_other_machinery_equipment_and_tangible_goods_n_e_c: renting and leasing of other machinery, equipment and tangible goods n.e.c.
+renting_and_leasing_of_other_personal_and_household_goods: renting and leasing of other personal and household goods
+renting_and_leasing_of_recreational_and_sports_goods: renting and leasing of recreational and sports goods
+renting_and_leasing_of_trucks: renting and leasing of trucks
+renting_and_leasing_of_water_transport_equipment: renting and leasing of water transport equipment
+renting_and_operating_of_own_or_leased_real_estate: renting and operating of own or leased real estate
+renting_of_video_tapes_and_disks: renting of video tapes and disks
+repair_and_maintenance_of_aircraft_and_spacecraft: repair and maintenance of aircraft and spacecraft
+repair_and_maintenance_of_other_transport_equipment: repair and maintenance of other transport equipment
+repair_and_maintenance_of_ships_and_boats: repair and maintenance of ships and boats
+repair_of_communication_equipment: repair of communication equipment
+repair_of_computers_and_peripheral_equipment: repair of computers and peripheral equipment
+repair_of_consumer_electronics: repair of consumer electronics
+repair_of_electrical_equipment: repair of electrical equipment
+repair_of_electronic_and_optical_equipment: repair of electronic and optical equipment
+repair_of_fabricated_metal_products: repair of fabricated metal products
+repair_of_footwear_and_leather_goods: repair of footwear and leather goods
+repair_of_furniture_and_home_furnishings: repair of furniture and home furnishings
+repair_of_household_appliances_and_home_and_garden_equipment: repair of household appliances and home and garden equipment
+repair_of_machinery: repair of machinery
+repair_of_other_equipment: repair of other equipment
+repair_of_other_personal_and_household_goods: repair of other personal and household goods
+repair_of_watches_clocks_and_jewellery: repair of watches, clocks and jewellery
+reproduction_of_recorded_media: reproduction of recorded media
+research_and_experimental_development_on_biotechnology: research and experimental development on biotechnology
+research_and_experimental_development_on_social_sciences_and_humanities: research and experimental development on social sciences and humanities
+residential_care_activities_for_mental_retardation_mental_health_and_substance_abuse: residential care activities for mental retardation, mental health and substance abuse
+residential_care_activities_for_the_elderly_and_disabled: residential care activities for the elderly and disabled
+residential_nursing_care_activities: residential nursing care activities
+restaurants_and_mobile_food_service_activities: restaurants and mobile food service activities
+retail_sale_in_non_specialised_stores_with_food_beverages_or_tobacco_predominating: retail sale in non-specialised stores with food, beverages or tobacco predominating
+retail_sale_of_audio_and_video_equipment_in_specialised_stores: retail sale of audio and video equipment in specialised stores
+retail_sale_of_automotive_fuel_in_specialised_stores: retail sale of automotive fuel in specialised stores
+retail_sale_of_beverages_in_specialised_stores: retail sale of beverages in specialised stores
+retail_sale_of_books_in_specialised_stores: retail sale of books in specialised stores
+retail_sale_of_bread_cakes_flour_confectionery_and_sugar_confectionery_in_specialised_stores: retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores
+retail_sale_of_carpets_rugs_wall_and_floor_coverings_in_specialised_stores: retail sale of carpets, rugs, wall and floor coverings in specialised stores
+retail_sale_of_clothing_in_specialised_stores: retail sale of clothing in specialised stores
+retail_sale_of_computers_peripheral_units_and_software_in_specialised_stores: retail sale of computers, peripheral units and software in specialised stores
+retail_sale_of_cosmetic_and_toilet_articles_in_specialised_stores: retail sale of cosmetic and toilet articles in specialised stores
+retail_sale_of_electrical_household_appliances_in_specialised_stores: retail sale of electrical household appliances in specialised stores
+retail_sale_of_fish_crustaceans_and_molluscs_in_specialised_stores: retail sale of fish, crustaceans and molluscs in specialised stores
+retail_sale_of_flowers_plants_seeds_fertilisers_pet_animals_and_pet_food_in_specialised_stores: retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores
+retail_sale_of_footwear_and_leather_goods_in_specialised_stores: retail sale of footwear and leather goods in specialised stores
+retail_sale_of_fruit_and_vegetables_in_specialised_stores: retail sale of fruit and vegetables in specialised stores
+retail_sale_of_furniture_lighting_equipment_and_other_household_articles_in_specialised_stores: retail sale of furniture, lighting equipment and other household articles in specialised stores
+retail_sale_of_games_and_toys_in_specialised_stores: retail sale of games and toys in specialised stores
+retail_sale_of_hardware_paints_and_glass_in_specialised_stores: retail sale of hardware, paints and glass in specialised stores
+retail_sale_of_meat_and_meat_products_in_specialised_stores: retail sale of meat and meat products in specialised stores
+retail_sale_of_medical_and_orthopaedic_goods_in_specialised_stores: retail sale of medical and orthopaedic goods in specialised stores
+retail_sale_of_music_and_video_recordings_in_specialised_stores: retail sale of music and video recordings in specialised stores
+retail_sale_of_newspapers_and_stationery_in_specialised_stores: retail sale of newspapers and stationery in specialised stores
+retail_sale_of_second_hand_goods_in_stores: retail sale of second-hand goods in stores
+retail_sale_of_sporting_equipment_in_specialised_stores: retail sale of sporting equipment in specialised stores
+retail_sale_of_telecommunications_equipment_in_specialised_stores: retail sale of telecommunications equipment in specialised stores
+retail_sale_of_textiles_in_specialised_stores: retail sale of textiles in specialised stores
+retail_sale_of_tobacco_products_in_specialised_stores: retail sale of tobacco products in specialised stores
+retail_sale_of_watches_and_jewellery_in_specialised_stores: retail sale of watches and jewellery in specialised stores
+retail_sale_via_mail_order_houses_or_via_internet: retail sale via mail order houses or via internet
+retail_sale_via_stalls_and_markets_of_food_beverages_and_tobacco_products: retail sale via stalls and markets of food, beverages and tobacco products
+retail_sale_via_stalls_and_markets_of_other_goods: retail sale via stalls and markets of other goods
+retail_sale_via_stalls_and_markets_of_textiles_clothing_and_footwear: retail sale via stalls and markets of textiles, clothing and footwear
+retail_trade_of_motor_vehicle_parts_and_accessories: retail trade of motor vehicle parts and accessories
+risk_and_damage_evaluation: risk and damage evaluation
+roofing_activities: roofing activities
+sale_maintenance_and_repair_of_motorcycles_and_related_parts_and_accessories: sale, maintenance and repair of motorcycles and related parts and accessories
+sale_of_cars_and_light_motor_vehicles: sale of cars and light motor vehicles
+sale_of_other_motor_vehicles: sale of other motor vehicles
+satellite_telecommunications_activities: satellite telecommunications activities
+sawmilling_and_planing_of_wood: sawmilling and planing of wood
+sea_and_coastal_freight_water_transport: sea and coastal freight water transport
+sea_and_coastal_passenger_water_transport: sea and coastal passenger water transport
+security_and_commodity_contracts_brokerage: security and commodity contracts brokerage
+security_systems_service_activities: security systems service activities
+seed_processing_for_propagation: seed processing for propagation
+service_activities_incidental_to_air_transportation: service activities incidental to air transportation
+service_activities_incidental_to_land_transportation: service activities incidental to land transportation
+service_activities_incidental_to_water_transportation: service activities incidental to water transportation
+sewerage: sewerage
+shaping_and_processing_of_flat_glass: shaping and processing of flat glass
+silviculture_and_other_forestry_activities: silviculture and other forestry activities
+site_preparation: site preparation
+social_work_activities_without_accommodation_for_the_elderly_and_disabled: social work activities without accommodation for the elderly and disabled
+sound_recording_and_music_publishing_activities: sound recording and music publishing activities
+specialised_design_activities: specialised design activities
+specialist_medical_practice_activities: specialist medical practice activities
+sports_and_recreation_education: sports and recreation education
+steam_and_air_conditioning_supply: steam and air conditioning supply
+striking_of_coins: striking of coins
+support_activities_for_animal_production: support activities for animal production
+support_activities_for_crop_production: support activities for crop production
+support_activities_for_other_mining_and_quarrying: support activities for other mining and quarrying
+support_activities_to_performing_arts: support activities to performing arts
+support_services_to_forestry: support services to forestry
+tanning_and_dressing_of_leather_dressing_and_dyeing_of_fur: tanning and dressing of leather; dressing and dyeing of fur
+taxi_operation: taxi operation
+technical_and_vocational_secondary_education: technical and vocational secondary education
+technical_testing_and_analysis: technical testing and analysis
+television_programming_and_broadcasting_activities: television programming and broadcasting activities
+temporary_employment_agency_activities: temporary employment agency activities
+test_drilling_and_boring: test drilling and boring
+tour_operator_activities: tour operator activities
+trade_of_electricity: trade of electricity
+trade_of_gas_through_mains: trade of gas through mains
+translation_and_interpretation_activities: translation and interpretation activities
+transmission_of_electricity: transmission of electricity
+transport_via_pipeline: transport via pipeline
+travel_agency_activities: travel agency activities
+treatment_and_coating_of_metals: treatment and coating of metals
+treatment_and_disposal_of_hazardous_waste: treatment and disposal of hazardous waste
+treatment_and_disposal_of_non_hazardous_waste: treatment and disposal of non-hazardous waste
+trusts_funds_and_similar_financial_entities: trusts, funds and similar financial entities
+urban_and_suburban_passenger_land_transport: urban and suburban passenger land transport
+veterinary_activities: veterinary activities
+warehousing_and_storage: warehousing and storage
+washing_and_dry_cleaning_of_textile_and_fur_products: washing and (dry-)cleaning of textile and fur products
+water_collection_treatment_and_supply: water collection, treatment and supply
+weaving_of_textiles: weaving of textiles
+web_portals: web portals
+wholesale_of_agricultural_machinery_equipment_and_supplies: wholesale of agricultural machinery, equipment and supplies
+wholesale_of_beverages: wholesale of beverages
+wholesale_of_chemical_products: wholesale of chemical products
+wholesale_of_china_and_glassware_and_cleaning_materials: wholesale of china and glassware and cleaning materials
+wholesale_of_clothing_and_footwear: wholesale of clothing and footwear
+wholesale_of_coffee_tea_cocoa_and_spices: wholesale of coffee, tea, cocoa and spices
+wholesale_of_computers_computer_peripheral_equipment_and_software: wholesale of computers, computer peripheral equipment and software
+wholesale_of_dairy_products_eggs_and_edible_oils_and_fats: wholesale of dairy products, eggs and edible oils and fats
+wholesale_of_electrical_household_appliances: wholesale of electrical household appliances
+wholesale_of_electronic_and_telecommunications_equipment_and_parts: wholesale of electronic and telecommunications equipment and parts
+wholesale_of_flowers_and_plants: wholesale of flowers and plants
+wholesale_of_fruit_and_vegetables: wholesale of fruit and vegetables
+wholesale_of_furniture_carpets_and_lighting_equipment: wholesale of furniture, carpets and lighting equipment
+wholesale_of_grain_unmanufactured_tobacco_seeds_and_animal_feeds: wholesale of grain, unmanufactured tobacco, seeds and animal feeds
+wholesale_of_hardware_plumbing_and_heating_equipment_and_supplies: wholesale of hardware, plumbing and heating equipment and supplies
+wholesale_of_hides_skins_and_leather: wholesale of hides, skins and leather
+wholesale_of_live_animals: wholesale of live animals
+wholesale_of_machine_tools: wholesale of machine tools
+wholesale_of_machinery_for_the_textile_industry_and_of_sewing_and_knitting_machines: wholesale of machinery for the textile industry and of sewing and knitting machines
+wholesale_of_meat_and_meat_products: wholesale of meat and meat products
+wholesale_of_metals_and_metal_ores: wholesale of metals and metal ores
+wholesale_of_mining_construction_and_civil_engineering_machinery: wholesale of mining, construction and civil engineering machinery
+wholesale_of_office_furniture: wholesale of office furniture
+wholesale_of_other_food_including_fish_crustaceans_and_molluscs: wholesale of other food, including fish, crustaceans and molluscs
+wholesale_of_other_household_goods: wholesale of other household goods
+wholesale_of_other_intermediate_products: wholesale of other intermediate products
+wholesale_of_other_machinery_and_equipment: wholesale of other machinery and equipment
+wholesale_of_other_office_machinery_and_equipment: wholesale of other office machinery and equipment
+wholesale_of_perfume_and_cosmetics: wholesale of perfume and cosmetics
+wholesale_of_pharmaceutical_goods: wholesale of pharmaceutical goods
+wholesale_of_solid_liquid_and_gaseous_fuels_and_related_products: wholesale of solid, liquid and gaseous fuels and related products
+wholesale_of_sugar_and_chocolate_and_sugar_confectionery: wholesale of sugar and chocolate and sugar confectionery
+wholesale_of_textiles: wholesale of textiles
+wholesale_of_tobacco_products: wholesale of tobacco products
+wholesale_of_waste_and_scrap: wholesale of waste and scrap
+wholesale_of_watches_and_jewellery: wholesale of watches and jewellery
+wholesale_of_wood_construction_materials_and_sanitary_equipment: wholesale of wood, construction materials and sanitary equipment
+wholesale_trade_of_motor_vehicle_parts_and_accessories: wholesale trade of motor vehicle parts and accessories
+wired_telecommunications_activities: wired telecommunications activities
+wireless_telecommunications_activities: wireless telecommunications activities
+associations_of_local_governments_and_their_voluntary_associations: Associations of local governments and their voluntary associations
+authority_of_advocacy_self_government: Authority of advocacy self-government
+authority_of_judge_self_government: Authority of judge self-government
+branch_other_separate_subdivision: Branch (other separate subdivision)
+chamber_of_commerce_and_industry: Chamber of Commerce and Industry
+enterprise_association_of_citizens_religious_organisation_trade_union: Enterprise association of citizens (religious organisation, trade union)
+haritable_organisation: Сharitable organisation
+joint_stock_company: Joint-stock company
+non_profit_organisation: Non-profit organisation
+private_joint_stock_partnership: Private joint-stock partnership
+public_joint_stock_partnership: Public joint-stock partnership
+reative_union_other_professional_organisation: Сreative union (other professional organisation)
+representative_office: Representative office
+rganization_of_water_users: Оrganization of water users
+self_regulatory_organizations: Self-regulatory organizations
+social_insurance_funds: Social insurance funds
+state_joint_stock_company_company: State joint stock company (company)
+state_run_enterprise: State-run enterprise
+state_run_organisation_establishment_institution: State-run organisation (establishment, institution)

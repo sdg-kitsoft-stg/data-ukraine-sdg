@@ -389,7 +389,9 @@ Region: Область
 32_reg_Cherkasy: Черкаська
 33_reg_Chernivtsi: Чернівецька
 34_reg_Chernihiv: Чернігівська
-35_reg_Kyiv_city: місто Київ 
+35_reg_Kyiv_city: місто Київ
+autonomous_Republic_of_Crimea: Автономна Республіка Крим
+city_Sevastopol: м. Севастополь
 
 Farm caregory: Категорія господарств
 farms_1_all: Господарства усіх категорій
@@ -1362,3 +1364,633 @@ non_hazardous_waste: відходів, що не є небезпечними
 
 Organisation and legal forms: за організаційно-правовими формами господарювання
 Type of economic activity: за видами економічної діяльності
+
+accounting_bookkeeping_and_auditing_activities_tax_consultancy: Вирощування зернових культур (крім рису), бобових культур і насіння олійних культур
+activities_in_the_field_of_compulsory_social_insurance: Вирощування рису
+activities_in_the_field_of_defense: Вирощування овочів і баштанних культур, коренеплодів і бульбоплодів
+activities_in_the_field_of_justice_and_justice: Вирощування цукрової тростини
+activities_in_the_field_of_public_order_and_safety: Вирощування тютюну
+activities_of_amusement_parks_and_theme_parks: Вирощування прядивних культур
+activities_of_call_centres: Вирощування інших однорічних і дворічних культур
+activities_of_collection_agencies_and_credit_bureaus: Вирощування винограду
+activities_of_employment_placement_agencies: Вирощування зерняткових і кісточкових фруктів
+activities_of_extraterritorial_organizations_and_bodies: Вирощування ягід, горіхів, інших плодових дерев і чагарників
+activities_of_fire_services: Вирощування культур для виробництва напоїв
+activities_of_head_offices: Вирощування пряних, ароматичних і лікарських культур
+activities_of_holding_companies: Вирощування інших багаторічних культур
+activities_of_households_as_employers_of_domestic_workers: Відтворення рослин
+activities_of_households_as_producers_of_goods_for_own_consumption: Розведення великої рогатої худоби молочних порід
+activities_of_households_as_producers_of_services_for_own_consumption: Розведення іншої великої рогатої худоби та буйволів
+activities_of_insurance_agents_and_brokers: Розведення коней та інших тварин родини конячих
+activities_of_organizations_of_industrialists_and_entrepreneurs: Розведення верблюдів та інших тварин родини верблюдячих
+activities_of_other_public_organizations_n_e_c: Розведення овець і кіз
+activities_of_political_organizations: Розведення свиней
+activities_of_professional_public_organizations: Розведення свійської птиці
+activities_of_religious_organizations: Розведення інших тварин
+activities_of_sport_clubs: Змішане сільське господарство
+activities_of_trade_unions: Допоміжна діяльність у рослинництві
+administration_of_financial_markets: Допоміжна діяльність у тваринництві
+advertising_agencies: Післяурожайна діяльність
+agents_involved_in_the_sale_of_a_variety_of_goods: Оброблення насіння для відтворення
+agents_involved_in_the_sale_of_agricultural_raw_materials_live_animals_textile_raw_materials_and_semi_finished_goods: Мисливство, відловлювання тварин і надання пов'язаних із ними послуг
+agents_involved_in_the_sale_of_food_beverages_and_tobacco: Лісівництво та інша діяльність у лісовому господарстві
+agents_involved_in_the_sale_of_fuels_ores_metals_and_industrial_chemicals: Лісозаготівлі
+agents_involved_in_the_sale_of_furniture_household_goods_hardware_and_ironmongery: Збирання дикорослих недеревних продуктів
+agents_involved_in_the_sale_of_machinery_industrial_equipment_ships_and_aircraft: Надання допоміжних послуг у лісовому господарстві
+agents_involved_in_the_sale_of_textiles_clothing_fur_footwear_and_leather_goods: Морське рибальство
+agents_involved_in_the_sale_of_timber_and_building_materials: Прісноводне рибальство
+agents_specialised_in_the_sale_of_other_particular_products: Морське рибництво (аквакультура)
+aluminium_production: Прісноводне рибництво (аквакультура)
+architectural_activities: Добування кам'яного вугілля
+artistic_creation: Добування бурого вугілля
+beverage_serving_activities: Добування сирої нафти
+binding_and_related_services: Добування природного газу
+book_publishing: Добування залізних руд
+botanical_and_zoological_gardens_and_nature_reserves_activities: Добування уранових і торієвих руд
+building_of_pleasure_and_sporting_boats: Добування руд інших кольорових металів
+building_of_ships_and_floating_structures: Добування декоративного та будівельного каменю, вапняку, гіпсу, крейди та глинистого сланцю
+business_and_other_management_consultancy_activities: Добування піску, гравію, глин і каоліну
+buying_and_selling_of_own_real_estate: Добування мінеральної сировини для хімічної промисловості та виробництва мінеральних добрив
+camping_grounds_recreational_vehicle_parks_and_trailer_parks: Добування торфу
+cargo_handling: Добування солі
+casting_of_iron: Добування інших корисних копалин та розроблення кар'єрів, н.в.і.у.
+casting_of_light_metals: Надання допоміжних послуг у сфері добування нафти та природного газу
+casting_of_other_non_ferrous_metals: Надання допоміжних послуг у сфері добування інших корисних копалин та розроблення кар'єрів
+casting_of_steel: Виробництво м'яса
+central_banking: Виробництво м'яса свійської птиці
+child_day_care_activities: Виробництво м'ясних продуктів
+cold_drawing_of_bars: Перероблення та консервування риби, ракоподібних і молюсків
+cold_drawing_of_wire: Перероблення та консервування картоплі
+cold_forming_or_folding: Виробництво фруктових і овочевих соків
+cold_rolling_of_narrow_strip: Інші види перероблення та консервування фруктів і овочів
+collection_of_hazardous_waste: Виробництво олії та тваринних жирів
+collection_of_non_hazardous_waste: Виробництво маргарину і подібних харчових жирів
+combined_facilities_support_activities: Перероблення молока, виробництво масла та сиру
+combined_office_administrative_service_activities: Виробництво морозива
+computer_consultancy_activities: Виробництво продуктів борошномельно-круп'яної промисловості
+computer_facilities_management_activities: Виробництво крохмалів та крохмальних продуктів
+computer_programming_activities: Виробництво хліба та хлібобулочних виробів; виробництво борошняних кондитерських виробів, тортів і тістечок нетривалого зберігання
+construction_of_bridges_and_tunnels: Виробництво сухарів і сухого печива; виробництво борошняних кондитерських виробів, тортів і тістечок тривалого зберігання
+construction_of_other_civil_engineering_projects_n_e_c: Виробництво макаронних виробів та подібних борошняних виробів
+construction_of_railways_and_underground_railways: Виробництво цукру
+construction_of_residential_and_non_residential_buildings: Виробництво какао, шоколаду та цукрових кондитерських виробів
+construction_of_roads_and_motorways: Виробництво чаю та кави
+construction_of_utility_projects_for_electricity_and_telecommunications: Виробництво прянощів і приправ
+construction_of_utility_projects_for_fluids: Виробництво готової їжі та страв
+construction_of_water_projects: Виробництво дитячого харчування та дієтичних харчових продуктів
+copper_production: Виробництво інших харчових продуктів, н.в.і.у.
+cultural_education: Виробництво готових кормів для тварин, що утримуються на фермах
+cutting_shaping_and_finishing_of_stone: Виробництво готових кормів для домашніх тварин
+data_processing_hosting_and_related_activities: Дистиляція, ректифікація та змішування спиртних напоїв
+demolition: Виробництво виноградних вин
+dental_practice_activities: Виробництво сидру та інших плодово-ягідних вин
+development_of_building_projects: Виробництво інших недистильованих напоїв із зброджуваних продуктів
+dismantling_of_wrecks: Виробництво пива
+dispensing_chemist_in_specialised_stores: Виробництво солоду
+distilling_rectifying_and_blending_of_spirits: Виробництво безалкогольних напоїв; виробництво мінеральних вод та інших вод, розлитих у пляшки
+distribution_of_electricity: Виробництво тютюнових виробів
+distribution_of_gaseous_fuels_through_mains: Підготування та прядіння текстильних волокон
+driving_school_activities: Ткацьке виробництво
+educational_support_activities: Оздоблення текстильних виробів
+electrical_installation: Виробництво трикотажного полотна
+engineering_activities_and_related_technical_consultancy: Виробництво готових текстильних виробів, крім одягу
+event_catering_activities: Виробництво килимів і килимових виробів
+extraction_of_crude_petroleum: Виробництво канатів, мотузок, шпагату та сіток
+extraction_of_natural_gas: Виробництво нетканих текстильних матеріалів та виробів із них, крім одягу
+extraction_of_peat: Виробництво інших текстильних виробів технічного та промислового призначення
+extraction_of_salt: Виробництво інших текстильних виробів, н.в.і.у.
+financial_leasing: Виробництво одягу зі шкіри
+finishing_of_textiles: Виробництво робочого одягу
+fitness_facilities: Виробництво іншого верхнього одягу
+floor_and_wall_covering: Виробництво спіднього одягу
+forging_pressing_stamping_and_roll_forming_of_metal_powder_metallurgy: Виробництво іншого одягу й аксесуарів
+freight_air_transport: Виготовлення виробів із хутра
+freight_rail_transport: Виробництво панчішно-шкарпеткових виробів
+freight_transport_by_road: Виробництво іншого трикотажного та в'язаного одягу
+freshwater_aquaculture: Дублення шкур і оздоблення шкіри; вичинка та фарбування хутра
+freshwater_fishing: Виробництво дорожніх виробів, сумок, лимарно-сідельних виробів зі шкіри та інших матеріалів
+fund_management_activities: Виробництво взуття
+funeral_and_related_activities: Лісопильне та стругальне виробництво
+gambling_and_betting_activities: Виробництво фанери, дерев'яних плит і панелей, шпону
+gathering_of_wild_growing_non_wood_products: Виробництво щитового паркету
+general_cleaning_of_buildings: Виробництво інших дерев'яних будівельних конструкцій і столярних виробів
+general_government_administration: Виробництво дерев'яної тари
+general_medical_practice_activities: Виробництво інших виробів з деревини; виготовлення виробів з корка, соломки та рослинних матеріалів для плетіння
+general_secondary_education: Виробництво паперової маси
+growing_of_beverage_crops: Виробництво паперу та картону
+growing_of_cereals_except_rice_leguminous_crops_and_oil_seeds: Виробництво гофрованого паперу та картону, паперової та картонної тари
+growing_of_fibre_crops: Виробництво паперових виробів господарсько-побутового та санітарно-гігієнічного призначення
+growing_of_grapes: Виробництво паперових канцелярських  виробів
+growing_of_other_non_perennial_crops: Виробництво шпалер
+growing_of_other_perennial_crops: Виробництво інших виробів з паперу та картону
+growing_of_other_tree_and_bush_fruits_and_nuts: Друкування газет
+growing_of_pome_fruits_and_stone_fruits: Друкування іншої продукції
+growing_of_rice: Виготовлення друкарських форм і надання інших поліграфічних послуг
+growing_of_spices_aromatic_drug_and_pharmaceutical_crops: Брошурувально-палітурна діяльність і надання пов'язаних із нею послуг
+growing_of_sugar_cane: Тиражування звуко-, відеозаписів і програмного забезпечення
+growing_of_tobacco: Виробництво коксу та коксопродуктів
+growing_of_vegetables_and_melons_roots_and_tubers: Виробництво продуктів нафтоперероблення
+hairdressing_and_other_beauty_treatment: Виробництво промислових газів
+holiday_and_other_short_stay_accommodation: Виробництво барвників і пігментів
+hospital_activities: Виробництво інших основних неорганічних хімічних речовин
+hotels_and_similar_accommodation: Виробництво інших основних органічних хімічних речовин
+hunting_trapping_and_related_service_activities: Виробництво добрив і азотних сполук
+inland_freight_water_transport: Виробництво пластмас у первинних формах
+inland_passenger_water_transport: Виробництво синтетичного каучуку в первинних формах
+installation_of_industrial_machinery_and_equipment: Виробництво пестицидів та іншої агрохімічної продукції
+international_activities: Виробництво фарб, лаків і подібної продукції, друкарської фарби та мастик
+investigation_activities: Виробництво мила та мийних засобів, засобів для чищення та полірування
+joinery_installation: Виробництво парфумних і косметичних засобів
+landscape_service_activities: Виробництво вибухових речовин
+lead_zinc_and_tin_production: Виробництво клеїв
+leasing_of_intellectual_property_and_similar_products_except_copyrighted_works: Виробництво ефірних олій
+legal_activities: Виробництво іншої хімічної продукції, н.в.і.у.
+library_and_archives_activities: Виробництво штучних і синтетичних волокон
+life_insurance: Виробництво основних фармацевтичних продуктів
+logging: Виробництво фармацевтичних препаратів і матеріалів
+machining: Виробництво гумових шин, покришок і камер; відновлення протектора гумових шин і покришок
+maintenance_and_repair_of_motor_vehicles: Виробництво інших гумових виробів
+management_of_real_estate_on_a_fee_or_contract_basis: Виробництво плит, листів, труб і профілів із пластмас
+manufacture_and_processing_of_other_glass_including_technical_glassware: Виробництво тари з пластмас
+manufacture_of_agricultural_and_forestry_machinery: Виробництво будівельних виробів із пластмас
+manufacture_of_air_and_spacecraft_and_related_machinery: Виробництво інших виробів із пластмас
+manufacture_of_articles_of_fur: Виробництво листового скла
+manufacture_of_assembled_parquet_floors: Формування й оброблення листового скла
+manufacture_of_basic_iron_and_steel_and_of_ferro_alloys: Виробництво порожнистого скла
+manufacture_of_basic_pharmaceutical_products: Виробництво скловолокна
+manufacture_of_batteries_and_accumulators: Виробництво й оброблення інших скляних виробів, у тому числі технічних
+manufacture_of_bearings_gears_gearing_and_driving_elements: Виробництво вогнетривких виробів
+manufacture_of_beer: Виробництво керамічних плиток і плит
+manufacture_of_bicycles_and_invalid_carriages: Виробництво цегли, черепиці та інших будівельних виробів із випаленої глини
+manufacture_of_bodies_coachwork_for_motor_vehicles_manufacture_of_trailers_and_semi_trailers: Виробництво господарських і декоративних керамічних виробів
+manufacture_of_bread_manufacture_of_fresh_pastry_goods_and_cakes: Виробництво керамічних санітарно-технічних виробів
+manufacture_of_bricks_tiles_and_construction_products_in_baked_clay: Виробництво керамічних електроізоляторів та ізоляційної арматури
+manufacture_of_brooms_and_brushes: Виробництво інших керамічних виробів технічного призначення
+manufacture_of_builders_ware_of_plastic: Виробництво інших керамічних виробів
+manufacture_of_carpets_and_rugs: Виробництво цементу
+manufacture_of_cement: Виробництво вапна та гіпсових сумішей
+manufacture_of_central_heating_radiators_and_boilers: Виготовлення виробів із бетону для будівництва
+manufacture_of_ceramic_household_and_ornamental_articles: Виготовлення виробів із гіпсу для будівництва
+manufacture_of_ceramic_insulators_and_insulating_fittings: Виробництво бетонних розчинів, готових для використання
+manufacture_of_ceramic_sanitary_fixtures: Виробництво сухих будівельних сумішей
+manufacture_of_ceramic_tiles_and_flags: Виготовлення виробів із волокнистого цементу
+manufacture_of_cider_and_other_fruit_wines: Виробництво інших виробів із бетону, гіпсу та цементу
+manufacture_of_cocoa_chocolate_and_sugar_confectionery: Різання, оброблення та оздоблення декоративного та будівельного каменю
+manufacture_of_coke_oven_products: Виробництво абразивних виробів
+manufacture_of_communication_equipment: Виробництво неметалевих мінеральних виробів, н.в.і.у.
+manufacture_of_computers_and_peripheral_equipment: Виробництво чавуну, сталі та феросплавів
+manufacture_of_concrete_products_for_construction_purposes: Виробництво труб, порожнистих профілів і фітингів зі сталі
+manufacture_of_condiments_and_seasonings: Холодне волочіння прутків і профілів
+manufacture_of_consumer_electronics: Холодний прокат вузької штаби
+manufacture_of_cordage_rope_twine_and_netting: Холодне штампування та гнуття
+manufacture_of_corrugated_paper_and_paperboard_and_of_containers_of_paper_and_paperboard: Холодне волочіння дроту
+manufacture_of_cutlery: Виробництво дорогоцінних металів
+manufacture_of_doors_and_windows_of_metal: Виробництво алюмінію
+manufacture_of_dyes_and_pigments: Виробництво свинцю, цинку й олова
+manufacture_of_electric_domestic_appliances: Виробництво міді
+manufacture_of_electric_lighting_equipment: Виробництво інших кольорових металів
+manufacture_of_electric_motors_generators_and_transformers: Виробництво ядерних матеріалів
+manufacture_of_electrical_and_electronic_equipment_for_motor_vehicles: Лиття чавуну
+manufacture_of_electricity_distribution_and_control_apparatus: Лиття сталі
+manufacture_of_electronic_components: Лиття легких кольорових металів
+manufacture_of_engines_and_turbines_except_aircraft_vehicle_and_cycle_engines: Лиття інших кольорових металів
+manufacture_of_essential_oils: Виробництво будівельних металевих конструкцій і частин конструкцій
+manufacture_of_explosives: Виробництво металевих дверей і вікон
+manufacture_of_fasteners_and_screw_machine_products: Виробництво радіаторів і  котлів центрального опалення
+manufacture_of_fertilisers_and_nitrogen_compounds: Виробництво інших металевих баків, резервуарів і контейнерів
+manufacture_of_fibre_cement: Виробництво парових котлів, крім котлів центрального опалення
+manufacture_of_fibre_optic_cables: Виробництво зброї та боєприпасів
+manufacture_of_flat_glass: Кування, пресування, штампування, профілювання; порошкова металургія
+manufacture_of_fluid_power_equipment: Оброблення металів та нанесення покриття на метали
+manufacture_of_footwear: Механічне оброблення металевих виробів
+manufacture_of_fruit_and_vegetable_juice: Виробництво столових приборів
+manufacture_of_games_and_toys: Виробництво замків і дверних петель
+manufacture_of_gas: Виробництво інструментів
+manufacture_of_glass_fibres: Виробництво сталевих бочок і подібних контейнерів
+manufacture_of_glues: Виробництво легких металевих паковань
+manufacture_of_grain_mill_products: Виробництво виробів із дроту, ланцюгів і пружин
+manufacture_of_hollow_glass: Виробництво кріпильних і ґвинтонарізних виробів
+manufacture_of_homogenised_food_preparations_and_dietetic_food: Виробництво інших готових металевих виробів, н.в.і.у.
+manufacture_of_household_and_sanitary_goods_and_of_toilet_requisites: Виробництво електронних компонентів
+manufacture_of_ice_cream: Виробництво змонтованих електронних плат
+manufacture_of_imitation_jewellery_and_related_articles: Виробництво комп'ютерів і периферійного устатковання
+manufacture_of_industrial_gases: Виробництво обладнання зв'язку
+manufacture_of_instruments_and_appliances_for_measuring_testing_and_navigation: Виробництво електронної апаратури побутового призначення для приймання, записування та відтворювання звуку й зображення
+manufacture_of_irradiation_electromedical_and_electrotherapeutic_equipment: Виробництво інструментів і обладнання для вимірювання, дослідження та навігації
+manufacture_of_jewellery_and_related_articles: Виробництво годинників
+manufacture_of_kitchen_furniture: Виробництво радіологічного, електромедичного й електротерапевтичного устатковання
+manufacture_of_knitted_and_crocheted_fabrics: Виробництво оптичних приладів і фотографічного устатковання
+manufacture_of_knitted_and_crocheted_hosiery: Виробництво магнітних і оптичних носіїв даних
+manufacture_of_leather_clothes: Виробництво електродвигунів, генераторів і трансформаторів
+manufacture_of_lifting_and_handling_equipment: Виробництво електророзподільчої та контрольної апаратури
+manufacture_of_light_metal_packaging: Виробництво батарей і акумуляторів
+manufacture_of_lime_and_plaster: Виробництво волоконно-оптичних кабелів
+manufacture_of_loaded_electronic_boards: Виробництво інших видів електронних і електричних проводів та кабелів
+manufacture_of_locks_and_hinges: Виробництво електромонтажних пристроїв
+manufacture_of_luggage_handbags_and_the_like_saddlery_and_harness: Виробництво електричного освітлювального устатковання
+manufacture_of_macaroni_noodles_couscous_and_similar_farinaceous_products: Виробництво електричних побутових приладів
+manufacture_of_machinery_for_food_beverage_and_tobacco_processing: Виробництво неелектричних побутових приладів
+manufacture_of_machinery_for_metallurgy: Виробництво іншого електричного устатковання
+manufacture_of_machinery_for_mining_quarrying_and_construction: Виробництво двигунів і турбін, крім авіаційних, автотранспортних і мотоциклетних двигунів
+manufacture_of_machinery_for_paper_and_paperboard_production: Виробництво гідравлічного та пневматичного устатковання
+manufacture_of_machinery_for_textile_apparel_and_leather_production: Виробництво інших помп і компресорів
+manufacture_of_made_up_textile_articles_except_apparel: Виробництво інших кранів і клапанів
+manufacture_of_magnetic_and_optical_media: Виробництво підшипників, зубчастих передач, елементів механічних передач і приводів
+manufacture_of_malt: Виробництво духових шаф, печей і пічних пальників
+manufacture_of_man_made_fibres: Виробництво підіймального та вантажно-розвантажувального устатковання
+manufacture_of_margarine_and_similar_edible_fats: Виробництво офісних машин і устатковання, крім комп'ютерів і периферійного устатковання
+manufacture_of_mattresses: Виробництво ручних електромеханічних і пневматичних інструментів
+manufacture_of_medical_and_dental_instruments_and_supplies: Виробництво промислового холодильного та вентиляційного устатковання
+manufacture_of_metal_forming_machinery: Виробництво інших машин і устатковання загального призначення, н.в.і.у.
+manufacture_of_metal_structures_and_parts_of_structures: Виробництво машин і устатковання для сільського та лісового господарства
+manufacture_of_military_fighting_vehicles: Виробництво металообробних машин
+manufacture_of_mortars: Виробництво інших верстатів
+manufacture_of_motor_vehicles: Виробництво машин і устатковання для металургії
+manufacture_of_motorcycles: Виробництво машин і устатковання для добувної промисловості та будівництва
+manufacture_of_musical_instruments: Виробництво машин і устатковання для виготовлення харчових продуктів і напоїв, перероблення тютюну
+manufacture_of_non_domestic_cooling_and_ventilation_equipment: Виробництво машин і устатковання для виготовлення текстильних, швейних, хутряних і шкіряних виробів
+manufacture_of_non_electric_domestic_appliances: Виробництво машин і устатковання для виготовлення паперу та картону
+manufacture_of_non_wovens_and_articles_made_from_non_wovens_except_apparel: Виробництво машин і устатковання для виготовлення пластмас і гуми
+manufacture_of_office_and_shop_furniture: Виробництво інших машин і устатковання спеціального призначення, н.в.і.у.
+manufacture_of_office_machinery_and_equipment_except_computers_and_peripheral_equipment: Виробництво автотранспортних засобів
+manufacture_of_optical_instruments_and_photographic_equipment: Виробництво кузовів для автотранспортних засобів, причепів і напівпричепів
+manufacture_of_other_articles_of_concrete_plaster_and_cement: Виробництво електричного й електронного устатковання для автотранспортних засобів
+manufacture_of_other_articles_of_paper_and_paperboard: Виробництво інших вузлів, деталей і приладдя для автотранспортних засобів
+manufacture_of_other_builders_carpentry_and_joinery: Будування суден і плавучих конструкцій
+manufacture_of_other_ceramic_products: Будування прогулянкових і спортивних човнів
+manufacture_of_other_chemical_products_n_e_c: Виробництво залізничних локомотивів і рухомого складу
+manufacture_of_other_electrical_equipment: Виробництво повітряних і космічних літальних апаратів, супутнього устатковання
+manufacture_of_other_electronic_and_electric_wires_and_cables: Виробництво військових транспортних засобів
+manufacture_of_other_fabricated_metal_products_n_e_c: Виробництво мотоциклів
+manufacture_of_other_food_products_n_e_c: Виробництво велосипедів, дитячих та інвалідних колясок
+manufacture_of_other_furniture: Виробництво інших транспортних засобів і обладнання, н.в.і.у.
+manufacture_of_other_general_purpose_machinery_n_e_c: Виробництво меблів для офісів і підприємств торгівлі
+manufacture_of_other_inorganic_basic_chemicals: Виробництво кухонних меблів
+manufacture_of_other_knitted_and_crocheted_apparel: Виробництво матраців
+manufacture_of_other_machine_tools: Виробництво інших меблів
+manufacture_of_other_non_distilled_fermented_beverages: Карбування монет
+manufacture_of_other_non_metallic_mineral_products_n_e_c: Виробництво ювелірних і подібних виробів
+manufacture_of_other_organic_basic_chemicals: Виробництво біжутерії та подібних виробів
+manufacture_of_other_outerwear: Виробництво музичних інструментів
+manufacture_of_other_parts_and_accessories_for_motor_vehicles: Виробництво спортивних товарів
+manufacture_of_other_plastic_products: Виробництво ігор та іграшок
+manufacture_of_other_products_of_wood_manufacture_of_articles_of_cork_straw_and_plaiting_materials: Виробництво медичних і стоматологічних інструментів і матеріалів
+manufacture_of_other_pumps_and_compressors: Виробництво мітел і щіток
+manufacture_of_other_rubber_products: Виробництво іншої продукції, н.в.і.у.
+manufacture_of_other_special_purpose_machinery_n_e_c: Ремонт і технічне обслуговування готових металевих виробів
+manufacture_of_other_tanks_reservoirs_and_containers_of_metal: Ремонт і технічне обслуговування машин і устатковання промислового призначення
+manufacture_of_other_taps_and_valves: Ремонт і технічне обслуговування електронного й оптичного устатковання
+manufacture_of_other_technical_and_industrial_textiles: Ремонт і технічне обслуговування електричного устатковання
+manufacture_of_other_technical_ceramic_products: Ремонт і технічне обслуговування суден і човнів
+manufacture_of_other_textiles_n_e_c: Ремонт і технічне обслуговування повітряних і космічних літальних апаратів
+manufacture_of_other_transport_equipment_n_e_c: Ремонт і технічне обслуговування інших транспортних засобів
+manufacture_of_other_wearing_apparel_and_accessories: Ремонт і технічне обслуговування інших машин і устатковання
+manufacture_of_ovens_furnaces_and_furnace_burners: Установлення та монтаж машин і устатковання
+manufacture_of_paints_varnishes_and_similar_coatings_printing_ink_and_mastics: Виробництво електроенергії
+manufacture_of_paper_and_paperboard: Передача електроенергії
+manufacture_of_paper_stationery: Розподілення електроенергії
+manufacture_of_perfumes_and_toilet_preparations: Торгівля електроенергією
+manufacture_of_pesticides_and_other_agrochemical_products: Виробництво газу
+manufacture_of_pharmaceutical_preparations: Розподілення газоподібного палива через місцеві (локальні) трубопроводи
+manufacture_of_plaster_products_for_construction_purposes: Торгівля газом через місцеві (локальні) трубопроводи
+manufacture_of_plastic_packing_goods: Постачання пари, гарячої води та кондиційованого повітря
+manufacture_of_plastic_plates_sheets_tubes_and_profiles: Забір очищення та постачання води
+manufacture_of_plastics_and_rubber_machinery: Каналізація, відведення й очищення стічних вод
+manufacture_of_plastics_in_primary_forms: Збирання безпечних відходів
+manufacture_of_power_driven_hand_tools: Збирання небезпечних відходів
+manufacture_of_prepared_feeds_for_farm_animals: Оброблення та видалення безпечних відходів
+manufacture_of_prepared_meals_and_dishes: Оброблення та видалення небезпечних відходів
+manufacture_of_prepared_pet_foods: Демонтаж (розбирання) машин і устатковання
+manufacture_of_pulp: Відновлення відсортованих відходів
+manufacture_of_railway_locomotives_and_rolling_stock: Інша діяльність щодо поводження з відходами
+manufacture_of_ready_mixed_concrete: Організація будівництва будівель
+manufacture_of_refined_petroleum_products: Будівництво житлових і нежитлових будівель
+manufacture_of_refractory_products: Будівництво доріг і автострад
+manufacture_of_rubber_tyres_and_tubes_retreading_and_rebuilding_of_rubber_tyres: Будівництво залізниць і метрополітену
+manufacture_of_rusks_and_biscuits_manufacture_of_preserved_pastry_goods_and_cakes: Будівництво мостів і тунелів
+manufacture_of_soap_and_detergents_cleaning_and_polishing_preparations: Будівництво трубопроводів
+manufacture_of_soft_drinks_production_of_mineral_waters_and_other_bottled_waters: Будівництво споруд електропостачання та телекомунікацій
+manufacture_of_sports_goods: Будівництво водних споруд
+manufacture_of_starches_and_starch_products: Будівництво інших споруд, н.в.і.у.
+manufacture_of_steam_generators_except_central_heating_hot_water_boilers: Знесення
+manufacture_of_steel_drums_and_similar_containers: Підготовчі роботи на будівельному майданчику
+manufacture_of_sugar: Розвідувальне буріння
+manufacture_of_synthetic_rubber_in_primary_forms: Електромонтажні роботи
+manufacture_of_tobacco_products: Монтаж водопровідних мереж, систем опалення та кондиціонування
+manufacture_of_tools: Інші будівельно-монтажні роботи
+manufacture_of_tubes_pipes_hollow_profiles_and_related_fittings_of_steel: Штукатурні роботи
+manufacture_of_underwear: Установлення столярних виробів
+manufacture_of_vegetable_and_animal_oils_and_fats: Покриття підлоги й облицювання стін
+manufacture_of_veneer_sheets_and_wood_based_panels: Малярні роботи та скління
+manufacture_of_wallpaper: Інші роботи із завершення будівництва
+manufacture_of_watches_and_clocks: Покрівельні роботи
+manufacture_of_weapons_and_ammunition: Інші спеціалізовані будівельні роботи, н.в.і.у.
+manufacture_of_wine_from_grape: Торгівля автомобілями та легковими автотранспортними засобами
+manufacture_of_wire_products_chain_and_springs: Торгівля іншими автотранспортними засобами
+manufacture_of_wiring_devices: Технічне обслуговування та ремонт автотранспортних засобів
+manufacture_of_wooden_containers: Оптова торгівля деталями та приладдям для автотранспортних засобів
+manufacture_of_workwear: Роздрібна торгівля деталями та приладдям для автотранспортних засобів
+marine_aquaculture: Торгівля мотоциклами, деталями та приладдям до них, технічне обслуговування і ремонт мотоциклів
+marine_fishing: Діяльність посередників у торгівлі сільськогосподарською сировиною, живими тваринами, текстильною сировиною та напівфабрикатами
+market_research_and_public_opinion_polling: Діяльність посередників у торгівлі паливом, рудами, металами та промисловими хімічними речовинами
+media_representation: Діяльність посередників у торгівлі деревиною, будівельними матеріалами та санітарно-технічними виробами
+mining_of_chemical_and_fertiliser_minerals: Діяльність посередників у торгівлі машинами, промисловим устаткованням, суднами та літаками
+mining_of_hard_coal: Діяльність посередників у торгівлі меблями, господарськими товарами, залізними та іншими металевими виробами
+mining_of_iron_ores: Діяльність посередників у торгівлі текстильними виробами, одягом, хутром, взуттям і шкіряними виробами
+mining_of_lignite: Діяльність посередників у торгівлі продуктами харчування, напоями та тютюновими виробами
+mining_of_other_non_ferrous_metal_ores: Діяльність посередників, що спеціалізуються в торгівлі іншими товарами
+mining_of_uranium_and_thorium_ores: Діяльність посередників у торгівлі товарами широкого асортименту
+mining_support_service_activities: Оптова торгівля зерном, необробленим тютюном, насінням і кормами для тварин
+mixed_farming: Оптова торгівля квітами та рослинами
+motion_picture_projection_activities: Оптова торгівля живими тваринами
+motion_picture_video_and_television_programme_activities: Оптова торгівля шкірсировиною, шкурами та шкірою
+motion_picture_video_and_television_programme_distribution_activities: Оптова торгівля фруктами й овочами
+motion_picture_video_and_television_programme_production_activities: Оптова торгівля м'ясом і м'ясними продуктами
+museums_activities: Оптова торгівля молочними продуктами, яйцями, харчовими оліями та жирами
+news_agency_activities: Оптова торгівля напоями
+non_life_insurance: Оптова торгівля тютюновими виробами
+non_specialised_wholesale_of_food_beverages_and_tobacco: Оптова торгівля цукром, шоколадом і кондитерськими виробами
+non_specialised_wholesale_trade: Оптова торгівля кавою, чаєм, какао та прянощами
+nuclear_materials_production: Оптова торгівля іншими продуктами харчування, у тому числі рибою, ракоподібними і молюсками
+operation_of_arts_facilities: Неспеціалізована оптова торгівля продуктами харчування, напоями та тютюновими виробами
+operation_of_dairies_and_cheese_making: Оптова торгівля текстильними товарами
+operation_of_gravel_and_sand_pits_mining_of_clays_and_kaolin: Оптова торгівля одягом і взуттям
+operation_of_historical_sites_and_buildings_and_similar_visitor_attractions: Оптова торгівля побутовими електротоварами й електронною апаратурою побутового призначення для приймання, записування, відтворювання звуку й зображення
+operation_of_sports_facilities: Оптова торгівля фарфором, скляним посудом і засобами для чищення
+organisation_of_conventions_and_trade_shows: Оптова торгівля парфумними та косметичними товарами
+other_accommodation: Оптова торгівля фармацевтичними товарами
+other_activities_auxiliary_to_financial_services_except_insurance_and_pension_funding: Оптова торгівля меблями, килимами й освітлювальним приладдям
+other_activities_auxiliary_to_insurance_and_pension_funding: Оптова торгівля годинниками та ювелірними виробами
+other_amusement_and_recreation_activities: Оптова торгівля іншими товарами господарського призначення
+other_building_and_industrial_cleaning_activities: Оптова торгівля комп'ютерами, периферійним устаткованням і програмним забезпеченням
+other_building_completion_and_finishing: Оптова торгівля електронним і телекомунікаційним устаткованням, деталями до нього
+other_business_support_service_activities_n_e_c: Оптова торгівля сільськогосподарськими машинами й устаткованням
+other_cleaning_activities: Оптова торгівля верстатами
+other_construction_installation: Оптова торгівля машинами й устаткованням для добувної промисловості та будівництва
+other_credit_granting: Оптова торгівля машинами й устаткованням для текстильного, швейного та трикотажного виробництва
+other_education_n_e_c: Оптова торгівля офісними меблями
+other_financial_service_activities_except_insurance_and_pension_funding_n_e_c: Оптова торгівля іншими офісними машинами й устаткованням
+other_food_service_activities: Оптова торгівля іншими машинами й устаткованням
+other_human_health_activities: Оптова торгівля твердим, рідким, газоподібним паливом і подібними продуктами
+other_human_resources_provision: Оптова торгівля металами та металевими рудами
+other_information_service_activities_n_e_c: Оптова торгівля деревиною, будівельними матеріалами та санітарно-технічним обладнанням
+other_information_technology_and_computer_service_activities: Оптова торгівля залізними виробами, водопровідним і опалювальним устаткованням і приладдям до нього
+other_manufacturing_n_e_c: Оптова торгівля хімічними продуктами
+other_mining_and_quarrying_n_e_c: Оптова торгівля іншими проміжними продуктами
+other_monetary_intermediation: Оптова торгівля відходами та брухтом
+other_non_ferrous_metal_production: Неспеціалізована оптова торгівля
+other_passenger_land_transport_n_e_c: Роздрібна торгівля в неспеціалізованих магазинах переважно продуктами харчування, напоями та тютюновими виробами
+other_personal_service_activities_n_e_c: Інші види роздрібної торгівлі в неспеціалізованих магазинах
+other_postal_and_courier_activities: Роздрібна торгівля фруктами й овочами в спеціалізованих магазинах
+other_printing: Роздрібна торгівля м'ясом і м'ясними продуктами в спеціалізованих магазинах
+other_processing_and_preserving_of_fruit_and_vegetables: Роздрібна торгівля рибою, ракоподібними та молюсками в спеціалізованих магазинах
+other_professional_scientific_and_technical_activities_n_e_c: Роздрібна торгівля хлібобулочними виробами, борошняними та цукровими кондитерськими виробами в спеціалізованих магазинах
+other_publishing_activities: Роздрібна торгівля напоями в спеціалізованих магазинах
+other_research_and_experimental_development_on_natural_sciences_and_engineering: Роздрібна торгівля тютюновими виробами в спеціалізованих магазинах
+other_reservation_service_and_related_activities: Роздрібна торгівля іншими продуктами харчування в спеціалізованих магазинах
+other_residential_care_activities: Роздрібна торгівля пальним
+other_retail_sale_in_non_specialised_stores: Роздрібна торгівля комп'ютерами, периферійним устаткованням і програмним забезпеченням у спеціалізованих магазинах
+other_retail_sale_not_in_stores_stalls_or_markets: Роздрібна торгівля телекомунікаційним устаткованням у спеціалізованих магазинах
+other_retail_sale_of_food_in_specialised_stores: Роздрібна торгівля в спеціалізованих магазинах електронною апаратурою побутового призначення для приймання, записування, відтворювання звуку й зображення
+other_retail_sale_of_new_goods_in_specialised_stores: Роздрібна торгівля текстильними товарами в спеціалізованих магазинах
+other_social_work_activities_without_accommodation_n_e_c: Роздрібна торгівля залізними виробами, будівельними матеріалами та санітарно-технічними виробами в спеціалізованих магазинах
+other_software_publishing: Роздрібна торгівля килимами, килимовими виробами, покриттям для стін і підлоги в спеціалізованих магазинах
+other_specialised_construction_activities_n_e_c: Роздрібна торгівля побутовими електротоварами в спеціалізованих магазинах
+other_sports_activities: Роздрібна торгівля меблями, освітлювальним приладдям та іншими товарами для дому в спеціалізованих магазинах
+other_telecommunications_activities: Роздрібна торгівля книгами в спеціалізованих магазинах
+other_transportation_support_activities: Роздрібна торгівля газетами та канцелярськими товарами в спеціалізованих магазинах
+packaging_activities: Роздрібна торгівля аудіо- та відеозаписами в спеціалізованих магазинах
+painting_and_glazing: Роздрібна торгівля спортивним інвентарем у спеціалізованих магазинах
+passenger_air_transport: Роздрібна торгівля іграми та іграшками в спеціалізованих магазинах
+passenger_rail_transport_interurban: Роздрібна торгівля одягом у спеціалізованих магазинах
+pension_funding: Роздрібна торгівля взуттям і шкіряними виробами в спеціалізованих магазинах
+performing_arts: Роздрібна торгівля фармацевтичними товарами в спеціалізованих магазинах
+photocopying_document_preparation_and_other_specialised_office_support_activities: Роздрібна торгівля медичними й ортопедичними товарами в спеціалізованих магазинах
+photographic_activities: Роздрібна торгівля косметичними товарами та туалетними приналежностями в спеціалізованих магазинах
+physical_well_being_activities: Роздрібна торгівля квітами, рослинами, насінням, добривами, домашніми тваринами та кормами для них у спеціалізованих магазинах
+plant_propagation: Роздрібна торгівля годинниками та ювелірними виробами в спеціалізованих магазинах
+plastering: Роздрібна торгівля іншими невживаними товарами в спеціалізованих магазинах
+plumbing_heat_and_air_conditioning_installation: Роздрібна торгівля уживаними товарами в магазинах
+post_harvest_crop_activities: Роздрібна торгівля з лотків і на ринках харчовими продуктами, напоями та тютюновими виробами
+post_secondary_non_tertiary_education: Роздрібна торгівля з лотків і на ринках текстильними виробами, одягом і взуттям
+postal_activities_under_universal_service_obligation: Роздрібна торгівля з лотків і на ринках іншими товарами
+pre_press_and_pre_media_services: Роздрібна торгівля, що здійснюється фірмами поштового замовлення або через мережу Інтернет
+pre_primary_education: Інші види роздрібної торгівлі поза магазинами
+precious_metals_production: Пасажирський залізничний транспорт міжміського сполучення
+preparation_and_spinning_of_textile_fibres: Вантажний залізничний транспорт
+primary_education: Пасажирський наземний транспорт міського та приміського сполучення
+printing_of_newspapers: Надання послуг таксі
+private_security_activities: Інший пасажирський наземний транспорт, н.в.і.у.
+processing_and_preserving_of_fish_crustaceans_and_molluscs: Вантажний автомобільний транспорт
+processing_and_preserving_of_meat: Надання послуг перевезення речей (переїзду)
+processing_and_preserving_of_potatoes: Трубопровідний транспорт
+processing_and_preserving_of_poultry_meat: Пасажирський морський транспорт
+processing_of_tea_and_coffee: Вантажний морський транспорт
+production_of_abrasive_products: Пасажирський річковий транспорт
+production_of_electricity: Вантажний річковий транспорт
+production_of_meat_and_poultry_meat_products: Пасажирський авіаційний транспорт
+public_relations_and_communication_activities: Вантажний авіаційний транспорт
+publishing_of_computer_games: Складське господарство
+publishing_of_directories_and_mailing_lists: Допоміжне обслуговування наземного транспорту
+publishing_of_journals_and_periodicals: Допоміжне обслуговування водного транспорту
+publishing_of_newspapers: Допоміжне обслуговування авіаційного транспорту
+quarrying_of_ornamental_and_building_stone_limestone_gypsum_chalk_and_slate: Транспортне оброблення вантажів
+radio_broadcasting: Інша допоміжна діяльність у сфері транспорту
+raising_of_camels_and_camelids: Діяльність національної пошти
+raising_of_dairy_cattle: Інша поштова та кур'єрська діяльність
+raising_of_horses_and_other_equines: Діяльність готелів і подібних засобів тимчасового розміщування
+raising_of_other_animals: Діяльність засобів розміщування на період відпустки та іншого тимчасового проживання
+raising_of_other_cattle_and_buffaloes: Надання місць кемпінгами та стоянками для житлових автофургонів і причепів
+raising_of_poultry: Діяльність інших засобів тимчасового розміщування
+raising_of_sheep_and_goats: Діяльність ресторанів, надання послуг мобільного харчування
+raising_of_swine_pigs: Постачання готових страв для подій
+real_estate_agencies: Постачання інших готових страв
+recovery_of_sorted_materials: Обслуговування напоями
+regulation_and_promotion_of_effective_economic_activity: Видання книг
+regulation_in_the_fields_of_health_education_culture_and_other_social_sectors_except_compulsory_social_insurance: Видання довідників і каталогів
+reinsurance: Видання газет
+remediation_activities_and_other_waste_management_services: Видання журналів і періодичних видань
+removal_services: Інші види видавничої діяльності
+renting_and_leasing_of_agricultural_machinery_and_equipment: Видання комп'ютерних ігор
+renting_and_leasing_of_air_transport_equipment: Видання іншого програмного забезпечення
+renting_and_leasing_of_cars_and_light_motor_vehicles: Виробництво кіно- та відеофільмів, телевізійних програм
+renting_and_leasing_of_construction_and_civil_engineering_machinery: Компонування кіно- та відеофільмів, телевізійних програм
+renting_and_leasing_of_office_machinery_and_equipment_including_computers: Розповсюдження кіно- та відеофільмів, телевізійних програм
+renting_and_leasing_of_other_machinery_equipment_and_tangible_goods_n_e_c: Демонстрація кінофільмів
+renting_and_leasing_of_other_personal_and_household_goods: Видання звукозаписів
+renting_and_leasing_of_recreational_and_sports_goods: Діяльність у сфері радіомовлення
+renting_and_leasing_of_trucks: Діяльність у сфері телевізійного мовлення
+renting_and_leasing_of_water_transport_equipment: Діяльність у сфері проводового електрозв'язку
+renting_and_operating_of_own_or_leased_real_estate: Діяльність у сфері безпроводового електрозв'язку
+renting_of_video_tapes_and_disks: Діяльність у сфері супутникового електрозв'язку
+repair_and_maintenance_of_aircraft_and_spacecraft: Інша діяльність у сфері електрозв'язку
+repair_and_maintenance_of_other_transport_equipment: Комп'ютерне програмування
+repair_and_maintenance_of_ships_and_boats: Консультування з питань інформатизації
+repair_of_communication_equipment: Діяльність із керування комп'ютерним устаткованням
+repair_of_computers_and_peripheral_equipment: Інша діяльність у сфері інформаційних технологій і комп'ютерних систем
+repair_of_consumer_electronics: Оброблення даних, розміщення інформації на веб-вузлах і пов'язана з ними діяльність
+repair_of_electrical_equipment: Веб-портали
+repair_of_electronic_and_optical_equipment: Діяльність інформаційних агентств
+repair_of_fabricated_metal_products: Надання інших інформаційних послуг, н.в.і.у.
+repair_of_footwear_and_leather_goods: Діяльність центрального банку
+repair_of_furniture_and_home_furnishings: Інші види грошового посередництва
+repair_of_household_appliances_and_home_and_garden_equipment: Діяльність холдингових компаній
+repair_of_machinery: Трасти, фонди та подібні фінансові суб'єкти
+repair_of_other_equipment: Фінансовий лізинг
+repair_of_other_personal_and_household_goods: Інші види кредитування
+repair_of_watches_clocks_and_jewellery: Надання інших фінансових послуг (крім страхування та пенсійного забезпечення), н.в.і.у.
+reproduction_of_recorded_media: Страхування життя
+research_and_experimental_development_on_biotechnology: Інші види страхування, крім страхування життя
+research_and_experimental_development_on_social_sciences_and_humanities: Перестрахування
+residential_care_activities_for_mental_retardation_mental_health_and_substance_abuse: Недержавне пенсійне забезпечення
+residential_care_activities_for_the_elderly_and_disabled: Управління фінансовими ринками
+residential_nursing_care_activities: Посередництво за договорами по цінних паперах або товарах
+restaurants_and_mobile_food_service_activities: Інша допоміжна діяльність у сфері фінансових послуг, крім страхування та пенсійного забезпечення
+retail_sale_in_non_specialised_stores_with_food_beverages_or_tobacco_predominating: Оцінювання ризиків та завданої шкоди
+retail_sale_of_audio_and_video_equipment_in_specialised_stores: Діяльність страхових агентів і брокерів
+retail_sale_of_automotive_fuel_in_specialised_stores: Інша допоміжна діяльність у сфері страхування та пенсійного забезпечення
+retail_sale_of_beverages_in_specialised_stores: Управління фондами
+retail_sale_of_books_in_specialised_stores: Купівля та продаж власного нерухомого майна
+retail_sale_of_bread_cakes_flour_confectionery_and_sugar_confectionery_in_specialised_stores: Надання в оренду й експлуатацію  власного чи орендованого нерухомого майна
+retail_sale_of_carpets_rugs_wall_and_floor_coverings_in_specialised_stores: Агентства нерухомості
+retail_sale_of_clothing_in_specialised_stores: Управління нерухомим майном за винагороду або на основі контракту
+retail_sale_of_computers_peripheral_units_and_software_in_specialised_stores: Діяльність у сфері права
+retail_sale_of_cosmetic_and_toilet_articles_in_specialised_stores: Діяльність у сфері бухгалтерського обліку й аудиту; консультування з питань оподаткування
+retail_sale_of_electrical_household_appliances_in_specialised_stores: Діяльність головних управлінь (хед-офісів)
+retail_sale_of_fish_crustaceans_and_molluscs_in_specialised_stores: Діяльність у сфері зв'язків із громадськістю
+retail_sale_of_flowers_plants_seeds_fertilisers_pet_animals_and_pet_food_in_specialised_stores: Консультування з питань комерційної діяльності й керування
+retail_sale_of_footwear_and_leather_goods_in_specialised_stores: Діяльність у сфері архітектури
+retail_sale_of_fruit_and_vegetables_in_specialised_stores: Діяльність у сфері інжинірингу, геології та геодезії, надання послуг технічного консультування в цих сферах
+retail_sale_of_furniture_lighting_equipment_and_other_household_articles_in_specialised_stores: Технічні випробування та дослідження
+retail_sale_of_games_and_toys_in_specialised_stores: Дослідження й експериментальні розробки у сфері біотехнологій
+retail_sale_of_hardware_paints_and_glass_in_specialised_stores: Дослідження й експериментальні розробки у сфері інших природничих і технічних наук
+retail_sale_of_meat_and_meat_products_in_specialised_stores: Дослідження й експериментальні розробки у сфері суспільних і гуманітарних наук
+retail_sale_of_medical_and_orthopaedic_goods_in_specialised_stores: Рекламні агентства
+retail_sale_of_music_and_video_recordings_in_specialised_stores: Посередництво в розміщенні реклами в засобах масової інформації
+retail_sale_of_newspapers_and_stationery_in_specialised_stores: Дослідження кон'юнктури ринку та виявлення громадської думки
+retail_sale_of_second_hand_goods_in_stores: Спеціалізована діяльність із дизайну
+retail_sale_of_sporting_equipment_in_specialised_stores: Діяльність у сфері фотографії
+retail_sale_of_telecommunications_equipment_in_specialised_stores: Надання послуг перекладу
+retail_sale_of_textiles_in_specialised_stores: Інша професійна, наукова та технічна діяльність, н.в.і.у.
+retail_sale_of_tobacco_products_in_specialised_stores: Ветеринарна діяльність
+retail_sale_of_watches_and_jewellery_in_specialised_stores: Надання в оренду автомобілів і легкових автотранспортних засобів
+retail_sale_via_mail_order_houses_or_via_internet: Надання в оренду вантажних автомобілів
+retail_sale_via_stalls_and_markets_of_food_beverages_and_tobacco_products: Прокат товарів для спорту та відпочинку
+retail_sale_via_stalls_and_markets_of_other_goods: Прокат відеозаписів і дисків
+retail_sale_via_stalls_and_markets_of_textiles_clothing_and_footwear: Прокат інших побутових виробів і предметів особистого вжитку
+retail_trade_of_motor_vehicle_parts_and_accessories: Надання в оренду сільськогосподарських машин і устатковання
+risk_and_damage_evaluation: Надання в оренду будівельних машин і устатковання
+roofing_activities: Надання в оренду офісних машин і устатковання, у тому числі комп'ютерів
+sale_maintenance_and_repair_of_motorcycles_and_related_parts_and_accessories: Надання в оренду водних транспортних засобів
+sale_of_cars_and_light_motor_vehicles: Надання в оренду повітряних транспортних засобів
+sale_of_other_motor_vehicles: Надання в оренду інших машин, устатковання та товарів, н.в.і.у.
+satellite_telecommunications_activities: Лізинг інтелектуальної власності та подібних продуктів, крім творів, захищених авторськими правами
+sawmilling_and_planing_of_wood: Діяльність агентств працевлаштування
+sea_and_coastal_freight_water_transport: Діяльність агентств тимчасового працевлаштування
+sea_and_coastal_passenger_water_transport: Інша діяльність із забезпечення трудовими ресурсами
+security_and_commodity_contracts_brokerage: Діяльність туристичних агентств
+security_systems_service_activities: Діяльність туристичних операторів
+seed_processing_for_propagation: Надання інших послуг із бронювання та пов'язана з цим діяльність
+service_activities_incidental_to_air_transportation: Діяльність приватних охоронних служб
+service_activities_incidental_to_land_transportation: Обслуговування систем безпеки
+service_activities_incidental_to_water_transportation: Проведення розслідувань
+sewerage: Комплексне обслуговування об'єктів
+shaping_and_processing_of_flat_glass: Загальне прибирання будинків
+silviculture_and_other_forestry_activities: Інша діяльність із прибирання будинків і промислових об'єктів
+site_preparation: Інші види діяльності з прибирання
+social_work_activities_without_accommodation_for_the_elderly_and_disabled: Надання ландшафтних послуг
+sound_recording_and_music_publishing_activities: Надання комбінованих офісних адміністративних послуг
+specialised_design_activities: Фотокопіювання, підготування документів та інша спеціалізована допоміжна офісна діяльність
+specialist_medical_practice_activities: Діяльність телефонних центрів
+sports_and_recreation_education: Організування конгресів і торговельних виставок
+steam_and_air_conditioning_supply: Діяльність агентств зі стягування платежів і бюро кредитних історій
+striking_of_coins: Пакування
+support_activities_for_animal_production: Надання інших допоміжних комерційних послуг, н.в.і.у.
+support_activities_for_crop_production: Державне управління загального характеру
+support_activities_for_other_mining_and_quarrying: Регулювання у сферах охорони здоров'я, освіти, культури та інших соціальних сферах, крім обов'язкового соціального страхування
+support_activities_to_performing_arts: Регулювання та сприяння ефективному веденню економічної діяльності
+support_services_to_forestry: Міжнародна діяльність
+tanning_and_dressing_of_leather_dressing_and_dyeing_of_fur: Діяльність у сфері оборони
+taxi_operation: Діяльність у сфері юстиції та правосуддя
+technical_and_vocational_secondary_education: Діяльність у сфері охорони громадського порядку та безпеки
+technical_testing_and_analysis: Діяльність пожежних служб
+television_programming_and_broadcasting_activities: Діяльність у сфері обов'язкового  соціального страхування
+temporary_employment_agency_activities: Дошкільна освіта
+test_drilling_and_boring: Загальна середня освіта
+tour_operator_activities: Професійно-технічна освіта
+trade_of_electricity: Фахова передвища освіта
+trade_of_gas_through_mains: Вища освіта
+translation_and_interpretation_activities: Освіта у сфері спорту та відпочинку
+transmission_of_electricity: Освіта у сфері культури
+transport_via_pipeline: Діяльність шкіл підготовки водіїв транспортних засобів
+travel_agency_activities: Інші види освіти, н.в.і.у.
+treatment_and_coating_of_metals: Допоміжна діяльність у сфері освіти
+treatment_and_disposal_of_hazardous_waste: Діяльність лікарняних закладів
+treatment_and_disposal_of_non_hazardous_waste: Загальна медична практика
+trusts_funds_and_similar_financial_entities: Спеціалізована медична практика
+urban_and_suburban_passenger_land_transport: Стоматологічна практика
+veterinary_activities: Інша діяльність у сфері охорони здоров'я
+warehousing_and_storage: Діяльність із догляду за хворими із забезпеченням проживання
+washing_and_dry_cleaning_of_textile_and_fur_products: Надання послуг догляду із забезпеченням проживання для осіб з розумовими вадами та хворих на наркоманію
+water_collection_treatment_and_supply: Надання послуг догляду із забезпеченням проживання для осіб похилого віку та інвалідів
+weaving_of_textiles: Надання інших послуг догляду із забезпеченням проживання
+web_portals: Надання соціальної допомоги без забезпечення проживання для осіб похилого віку та інвалідів
+wholesale_of_agricultural_machinery_equipment_and_supplies: Денний догляд за дітьми
+wholesale_of_beverages: Надання іншої соціальної допомоги без забезпечення проживання, н.в.і.у.
+wholesale_of_chemical_products: Театральна та концертна діяльність
+wholesale_of_china_and_glassware_and_cleaning_materials: Діяльність із підтримки театральних і концертних заходів
+wholesale_of_clothing_and_footwear: Індивідуальна мистецька діяльність
+wholesale_of_coffee_tea_cocoa_and_spices: Функціювання театральних і концертних залів
+wholesale_of_computers_computer_peripheral_equipment_and_software: Функціювання бібліотек і архівів
+wholesale_of_dairy_products_eggs_and_edible_oils_and_fats: Функціювання музеїв
+wholesale_of_electrical_household_appliances: Діяльність із охорони  та використання пам'яток історії, будівель та інших пам'яток культури
+wholesale_of_electronic_and_telecommunications_equipment_and_parts: Функціювання ботанічних садів, зоопарків і природних заповідників
+wholesale_of_flowers_and_plants: Організування азартних ігор
+wholesale_of_fruit_and_vegetables: Функціювання спортивних споруд
+wholesale_of_furniture_carpets_and_lighting_equipment: Діяльність спортивних клубів
+wholesale_of_grain_unmanufactured_tobacco_seeds_and_animal_feeds: Діяльність фітнес-центрів
+wholesale_of_hardware_plumbing_and_heating_equipment_and_supplies: Інша діяльність у сфері спорту
+wholesale_of_hides_skins_and_leather: Функціювання атракціонів і тематичних парків
+wholesale_of_live_animals: Організування інших видів відпочинку та розваг
+wholesale_of_machine_tools: Діяльність організацій промисловців і підприємців
+wholesale_of_machinery_for_the_textile_industry_and_of_sewing_and_knitting_machines: Діяльність професійних громадських організацій
+wholesale_of_meat_and_meat_products: Діяльність професійних спілок
+wholesale_of_metals_and_metal_ores: Діяльність релігійних організацій
+wholesale_of_mining_construction_and_civil_engineering_machinery: Діяльність політичних організацій
+wholesale_of_office_furniture: Діяльність інших громадських організацій, н.в.і.у.
+wholesale_of_other_food_including_fish_crustaceans_and_molluscs: Ремонт комп'ютерів і периферійного устатковання
+wholesale_of_other_household_goods: Ремонт обладнання зв'язку
+wholesale_of_other_intermediate_products: Ремонт електронної апаратури побутового призначення для приймання, записування, відтворювання звуку й зображення
+wholesale_of_other_machinery_and_equipment: Ремонт побутових приладів, домашнього та садового обладнання
+wholesale_of_other_office_machinery_and_equipment: Ремонт взуття та шкіряних виробів
+wholesale_of_perfume_and_cosmetics: Ремонт меблів і домашнього начиння
+wholesale_of_pharmaceutical_goods: Ремонт годинників і ювелірних виробів
+wholesale_of_solid_liquid_and_gaseous_fuels_and_related_products: Ремонт інших побутових виробів і предметів особистого вжитку
+wholesale_of_sugar_and_chocolate_and_sugar_confectionery: Прання та хімічне чищення текстильних і хутряних виробів
+wholesale_of_textiles: Надання послуг перукарнями та салонами краси
+wholesale_of_tobacco_products: Організування поховань і надання суміжних послуг
+wholesale_of_waste_and_scrap: Діяльність із забезпечення фізичного комфорту
+wholesale_of_watches_and_jewellery: Надання інших індивідуальних послуг, н.в.і.у.
+wholesale_of_wood_construction_materials_and_sanitary_equipment: Діяльність домашніх господарств як роботодавців для домашньої прислуги
+wholesale_trade_of_motor_vehicle_parts_and_accessories: Діяльність домашніх господарств як виробників товарів для власного споживання
+wired_telecommunications_activities: Діяльність домашніх господарств як виробників послуг для власного споживання
+wireless_telecommunications_activities: Діяльність екстериторіальних організацій і органів
+associations_of_local_governments_and_their_voluntary_associations: Комунальне підприємство
+authority_of_advocacy_self_government: Дочірнє підприємство
+authority_of_judge_self_government: Іноземне підприємство
+branch_other_separate_subdivision: Орендне підприємство
+chamber_of_commerce_and_industry: Сімейне підприємство
+enterprise_association_of_citizens_religious_organisation_trade_union: Виробничий кооператив
+haritable_organisation: Орган державної влади
+joint_stock_company: Комунальна організація (установа, заклад)
+non_profit_organisation: Корпорація
+private_joint_stock_partnership: Торгово-промислова палата
+public_joint_stock_partnership: Політична партія
+reative_union_other_professional_organisation: Громадська спілка
+representative_office: Об'єднання профспілок
+rganization_of_water_users: Творча спілка (інша професійна організація)
+self_regulatory_organizations: Благодійна організація
+social_insurance_funds: Об'єднання співвласників багатоквартирного будинку
+state_joint_stock_company_company: Орган самоорганізації населення
+state_run_enterprise: Товарна біржа
+state_run_organisation_establishment_institution: Кредитна спілка
