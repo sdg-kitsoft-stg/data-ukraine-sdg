@@ -319,19 +319,21 @@ Level_ed: Level of education
 urban_settl: urban settlement
 village_: settlement, village
 
-hh_ch: households with children
-hh_ch_0: households without children
+Households: Household type
+hh_ch: households/families with children
+hh_ch_0: households/families without children
 
-dg_01: 1 group (low income)
-dg_02: 2 group
-dg_03: 3 group
-dg_04: 4 group
-dg_05: 5 group
-dg_06: 6 group
-dg_07: 7 group
-dg_08: 8 group
-dg_09: 9 group
-dg_10: 10 group (high income)
+Decile groups: Decile groups of income
+dg_01: 1st group (low income)
+dg_02: 2nd group
+dg_03: 3rd group
+dg_04: 4th group
+dg_05: 5th group
+dg_06: 6th group
+dg_07: 7th group
+dg_08: 8th group
+dg_09: 9th group
+dg_10: 10th group (high income)
 
 11_reg_Vinnytsya: Vinnytsya
 12_reg_Volyn: Volyn
@@ -455,9 +457,9 @@ el_5_NPP: NPP
 el_6_plants: Block stations
 el_7_alternative: Alternative energy sources (WPS, SPS, Biomass)
 
-Reason of disability: Reason of disability
-war_actions: war actions
-since_childhood: since childhood
+Reason of disability: Reason of obtaining disability
+war_actions: as a result of military action
+since_childhood:  since childhood
 
 Cause of death: by cause of mortality
 Form of rehabilitation assistance: by forms of rehabilitation assistance
@@ -1310,3 +1312,6 @@ volume_of_waste_per_person: Volume of generated waste per person, kilograms
 by_safety: by safety
 hazardous_waste: hazardous waste
 non_hazardous_waste: non-hazardous waste
+
+Organisation and legal forms: by the organisational and legal forms
+Type of economic activity: by types of economic activity
