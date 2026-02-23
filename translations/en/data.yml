@@ -619,3 +619,689 @@ local_courts: local courts
 appellate_courts: appellate courts
 higher_specialized_courts: higher specialized courts
 supreme_court: Supreme Court
+
+farm: Farm
+private_enterprise: Private enterprise
+collective_enterprise: Collective enterprise
+public_enterprise: Public enterprise
+state-run_enterprise: State-run enterprise
+communal_enterprise: Communal enterprise
+joint_communal_enterprise: Joint communal enterprise
+subsidiary: Subsidiary
+foreign_enterprise: Foreign enterprise
+enterprise_association_of_citizens: Enterprise association of citizens (religious organisation trade union)
+enterprise_founded_by_consumer_partnership: Enterprise founded by consumer partnership
+rental_enterprise: Rental enterprise
+individual_enterprise: Individual enterprise
+family_enterprise: Family enterprise
+joint_enterprise: Joint enterprise
+joint-stock_company: Joint-stock company
+public_joint-stock_partnership: Public joint-stock partnership
+private_joint-stock_partnership: Private joint-stock partnership
+state_joint_stock_company: State joint stock company (company)
+holding_company: Holding company
+limited_liability_partnership: Limited liability partnership
+extended_liability_partnership: Extended liability partnership
+full_liability_partnership: Full liability partnership
+mixed_liability_company: Mixed liability company
+lawyers_union: Lawyers’ union
+law_office: Law office
+cooperative: Cooperative
+production_cooperative: Production cooperative
+serve_cooperative: Serve cooperative
+housing_construction_cooperativ: Housing construction cooperativ
+garage_cooperativ: Garage cooperativ
+consumer_cooperativ: Consumer cooperativ
+consumer_partnership: Consumer partnership
+agriculture_and_production_cooperativ: Agriculture and production cooperativ
+agriculture_and_serve_cooperativ: Agriculture and serve cooperativ
+agriculture_cooperativ: Agriculture cooperativ
+organisation_establishment_institution: Organisation (establishment institution)
+authority_of_state_power_organization: Authority of state power organization (establishment institution)
+authority_of_state_power: Authority of state power
+courts: Courts
+authority_of_municipality_power: Authority of municipality power
+state-run_organisation: State-run organisation (establishment institution)
+communal_establishment_institution: Communal (establishment institution)
+private_establishment_institution: Private (establishment institution)
+organisation_establishment_institution_public_association: Organisation (establishment institution) public association
+organization_of_tenants: Organization of tenants
+organization_of_customers: Organization of customers
+association: Association
+corporation: Corporation
+consortium: Consortium
+concern: Concern
+union_of_consumer_partnerships: Union of consumer partnerships
+other_associations_of_legal_persons: Other associations of legal persons
+authority_of_advocacy_self-government: Authority of advocacy self-government
+authority_of_judge_self-government: Authority of judge self-government
+audit_chamber_of_ukraine: Audit chamber of Ukraine
+organization_of_water_users: Organization of water users
+commodity_exchange: Commodity exchange
+credit_union: Credit union
+not_state_pension_fund: Not state pension fund
+political_party: Political party
+non-profit_organisation: Non-profit organisation
+public_union: Public union
+religious_organisation: Religious organisation
+trade_union_association_of_trade_unions: Trade union association of trade unions
+trade_union: Trade union
+association_of_trade_unions: Association of trade unions
+creative_union_other_professional_organisation: Creative union (other professional organisation)
+charitable_organisation: Charitable organisation
+organization_of_employers: Organization of employers
+condominium: Condominium
+community_association_population: Community association population
+gardening_partnership: Gardening partnership
+other_organizational_and_legal_forms: Other organizational and legal forms
+A01: growing of cereals (except rice), leguminous crops and oil seeds
+A02: growing of rice
+A03: growing of vegetables and melons, roots and tubers
+A04: growing of sugar cane
+A05: growing of tobacco
+A06: growing of fibre crops
+A07: growing of other non-perennial crops
+A08: growing of grapes
+A09: growing of pome fruits and stone fruits
+A10: growing of other tree and bush fruits and nuts
+A11: growing of beverage crops
+A12: growing of spices, aromatic, drug and pharmaceutical crops
+A13: growing of other perennial crops
+A14: plant propagation
+A15: raising of dairy cattle
+A16: raising of other cattle and buffaloes
+A17: raising of horses and other equines
+A18: raising of camels and camelids
+A19: raising of sheep and goats
+A20: raising of swine/pigs
+A21: raising of poultry
+A22: raising of other animals
+A23: mixed farming
+A24: support activities for crop production
+A25: support activities for animal production
+A26: post-harvest crop activities
+A27: seed processing for propagation
+A28: hunting, trapping and related service activities
+A29: silviculture and other forestry activities
+A30: logging
+A31: gathering of wild growing non-wood products
+A32: support services to forestry
+A33: marine fishing
+A34: freshwater fishing
+A35: marine aquaculture
+A36: freshwater aquaculture
+A37: mining of hard coal
+A38: mining of lignite
+A39: extraction of crude petroleum
+A40: extraction of natural gas
+A41: mining of iron ores
+A42: mining of uranium and thorium ores
+A43: mining of other non-ferrous metal ores
+A44: quarrying of ornamental and building stone, limestone, gypsum, chalk and slate
+A45: operation of gravel and sand pits; mining of clays and kaolin
+A46: mining of chemical and fertiliser minerals
+A47: extraction of peat
+A48: extraction of salt
+A49: other mining and quarrying n.e.c.
+A50: mining support service activities
+A51: support activities for other mining and quarrying
+A52: processing and preserving of meat
+A53: processing and preserving of poultry meat
+A54: production of meat and poultry meat products
+A55: processing and preserving of fish, crustaceans and molluscs
+A56: processing and preserving of potatoes
+A57: manufacture of fruit and vegetable juice
+A58: other processing and preserving of fruit and vegetables
+A59: manufacture of vegetable and animal oils and fats
+A60: manufacture of margarine and similar edible fats
+A61: operation of dairies and cheese making
+A62: manufacture of ice cream
+A63: manufacture of grain mill products
+A64: manufacture of starches and starch products
+A65: manufacture of bread; manufacture of fresh pastry goods and cakes
+A66: manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes
+A67: manufacture of macaroni, noodles, couscous and similar farinaceous products
+A68: manufacture of sugar
+A69: manufacture of cocoa, chocolate and sugar confectionery
+A70: processing of tea and coffee
+A71: manufacture of condiments and seasonings
+A72: manufacture of prepared meals and dishes
+A73: manufacture of homogenised food preparations and dietetic food
+A74: manufacture of other food products n.e.c.
+A75: manufacture of prepared feeds for farm animals
+A76: manufacture of prepared pet foods
+A77: distilling, rectifying and blending of spirits
+A78: manufacture of wine from grape
+A79: manufacture of cider and other fruit wines
+A80: manufacture of other non-distilled fermented beverages
+A81: manufacture of beer
+A82: manufacture of malt
+A83: manufacture of soft drinks; production of mineral waters and other bottled waters
+A84: manufacture of tobacco products
+A85: preparation and spinning of textile fibres
+A86: weaving of textiles
+A87: finishing of textiles
+A88: manufacture of knitted and crocheted fabrics
+A89: manufacture of made-up textile articles, except apparel
+A90: manufacture of carpets and rugs
+A91: manufacture of cordage, rope, twine and netting
+A92: manufacture of non-wovens and articles made from non-wovens, except apparel
+A93: manufacture of other technical and industrial textiles
+A94: manufacture of other textiles n.e.c.
+A95: manufacture of leather clothes
+A96: manufacture of workwear
+A97: manufacture of other outerwear
+A98: manufacture of underwear
+A99: manufacture of other wearing apparel and accessories
+A100: manufacture of articles of fur
+A101: manufacture of knitted and crocheted hosiery
+A102: manufacture of other knitted and crocheted apparel
+A103: tanning and dressing of leather; dressing and dyeing of fur
+A104: manufacture of luggage, handbags and the like, saddlery and harness
+A105: manufacture of footwear
+A106: sawmilling and planing of wood
+A107: manufacture of veneer sheets and wood-based panels
+A108: manufacture of assembled parquet floors
+A109: manufacture of other builders' carpentry and joinery
+A110: manufacture of wooden containers
+A111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
+A112: manufacture of pulp
+A113: manufacture of paper and paperboard
+A114: manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+A115: manufacture of household and sanitary goods and of toilet requisites
+A116: manufacture of paper stationery
+A117: manufacture of wallpaper
+A118: manufacture of other articles of paper and paperboard
+A119: printing of newspapers
+A120: other printing
+A121: pre-press and pre-media services
+A122: binding and related services
+A123: reproduction of recorded media
+A124: manufacture of coke oven products
+A125: manufacture of refined petroleum products
+A126: manufacture of industrial gases
+A127: manufacture of dyes and pigments
+A128: manufacture of other inorganic basic chemicals
+A129: manufacture of other organic basic chemicals
+A130: manufacture of fertilisers and nitrogen compounds
+A131: manufacture of plastics in primary forms
+A132: manufacture of synthetic rubber in primary forms
+A133: manufacture of pesticides and other agrochemical products
+A134: manufacture of paints, varnishes and similar coatings, printing ink and mastics
+A135: manufacture of soap and detergents, cleaning and polishing preparations
+A136: manufacture of perfumes and toilet preparations
+A137: manufacture of explosives
+A138: manufacture of glues
+A139: manufacture of essential oils
+A140: manufacture of other chemical products n.e.c.
+A141: manufacture of man-made fibres
+A142: manufacture of basic pharmaceutical products
+A143: manufacture of pharmaceutical preparations
+A144: manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+A145: manufacture of other rubber products
+A146: manufacture of plastic plates, sheets, tubes and profiles
+A147: manufacture of plastic packing goods
+A148: manufacture of buildersТ ware of plastic
+A149: manufacture of other plastic products
+A150: manufacture of flat glass
+A151: shaping and processing of flat glass
+A152: manufacture of hollow glass
+A153: manufacture of glass fibres
+A154: manufacture and processing of other glass, including technical glassware
+A155: manufacture of refractory products
+A156: manufacture of ceramic tiles and flags
+A157: manufacture of bricks, tiles and construction products, in baked clay
+A158: manufacture of ceramic household and ornamental articles
+A159: manufacture of ceramic sanitary fixtures
+A160: manufacture of ceramic insulators and insulating fittings
+A161: manufacture of other technical ceramic products
+A162: manufacture of other ceramic products
+A163: manufacture of cement
+A164: manufacture of lime and plaster
+A165: manufacture of concrete products for construction purposes
+A166: manufacture of plaster products for construction purposes
+A167: manufacture of ready-mixed concrete
+A168: manufacture of mortars
+A169: manufacture of fibre cement
+A170: manufacture of other articles of concrete, plaster and cement
+A171: cutting, shaping and finishing of stone
+A172: production of abrasive products
+A173: manufacture of other non-metallic mineral products n.e.c.
+A174: manufacture of basic iron and steel and of ferro-alloys
+A175: manufacture of tubes, pipes, hollow profiles and related fittings, of steel
+A176: cold drawing of bars
+A177: cold rolling of narrow strip
+A178: cold forming or folding
+A179: cold drawing of wire
+A180: precious metals production
+A181: aluminium production
+A182: lead, zinc and tin production
+A183: copper production
+A184: other non-ferrous metal production
+A185: casting of iron
+A186: casting of steel
+A187: casting of light metals
+A188: casting of other non-ferrous metals
+A189: manufacture of metal structures and parts of structures
+A190: manufacture of doors and windows of metal
+A191: manufacture of central heating radiators and boilers
+A192: manufacture of other tanks, reservoirs and containers of metal
+A193: manufacture of steam generators, except central heating hot water boilers
+A194: manufacture of weapons and ammunition
+A195: forging, pressing, stamping and roll-forming of metal; powder metallurgy
+A196: treatment and coating of metals
+A197: machining
+A198: manufacture of cutlery
+A199: manufacture of locks and hinges
+A200: manufacture of tools
+A201: manufacture of steel drums and similar containers
+A202: manufacture of light metal packaging
+A203: manufacture of wire products, chain and springs
+A204: manufacture of fasteners and screw machine products
+A205: manufacture of other fabricated metal products n.e.c.
+A206: manufacture of electronic components
+A207: manufacture of loaded electronic boards
+A208: manufacture of computers and peripheral equipment
+A209: manufacture of communication equipment
+A210: manufacture of consumer electronics
+A211: manufacture of instruments and appliances for measuring, testing and navigation
+A212: manufacture of watches and clocks
+A213: manufacture of irradiation, electromedical and electrotherapeutic equipment
+A214: manufacture of optical instruments and photographic equipment
+A215: manufacture of magnetic and optical media
+A216: manufacture of electric motors, generators and transformers
+A217: manufacture of electricity distribution and control apparatus
+A218: manufacture of batteries and accumulators
+A219: manufacture of fibre optic cables
+A220: manufacture of other electronic and electric wires and cables
+A221: manufacture of wiring devices
+A222: manufacture of electric lighting equipment
+A223: manufacture of electric domestic appliances
+A224: manufacture of non-electric domestic appliances
+A225: manufacture of other electrical equipment
+A226: manufacture of engines and turbines, except aircraft, vehicle and cycle engines
+A227: manufacture of fluid power equipment
+A228: manufacture of other pumps and compressors
+A229: manufacture of other taps and valves
+A230: manufacture of bearings, gears, gearing and driving elements
+A231: manufacture of ovens, furnaces and furnace burners
+A232: manufacture of lifting and handling equipment
+A233: manufacture of office machinery and equipment (except computers and peripheral equipment)
+A234: manufacture of power-driven hand tools
+A235: manufacture of non-domestic cooling and ventilation equipment
+A236: manufacture of other general-purpose machinery n.e.c.
+A237: manufacture of agricultural and forestry machinery
+A238: manufacture of metal forming machinery
+A239: manufacture of other machine tools
+A240: manufacture of machinery for metallurgy
+A241: manufacture of machinery for mining, quarrying and construction
+A242: manufacture of machinery for food, beverage and tobacco processing
+A243: manufacture of machinery for textile, apparel and leather production
+A244: manufacture of machinery for paper and paperboard production
+A245: manufacture of plastics and rubber machinery
+A246: manufacture of other special-purpose machinery n.e.c.
+A247: manufacture of motor vehicles
+A248: manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+A249: manufacture of electrical and electronic equipment for motor vehicles
+A250: manufacture of other parts and accessories for motor vehicles
+A251: building of ships and floating structures
+A252: building of pleasure and sporting boats
+A253: manufacture of railway locomotives and rolling stock
+A254: manufacture of air and spacecraft and related machinery
+A255: manufacture of military fighting vehicles
+A256: manufacture of motorcycles
+A257: manufacture of bicycles and invalid carriages
+A258: manufacture of other transport equipment n.e.c.
+A259: manufacture of office and shop furniture
+A260: manufacture of kitchen furniture
+A261: manufacture of mattresses
+A262: manufacture of other furniture
+A263: striking of coins
+A264: manufacture of jewellery and related articles
+A265: manufacture of imitation jewellery and related articles
+A266: manufacture of musical instruments
+A267: manufacture of sports goods
+A268: manufacture of games and toys
+A269: manufacture of medical and dental instruments and supplies
+A270: manufacture of brooms and brushes
+A271: other manufacturing n.e.c.
+A272: repair of fabricated metal products
+A273: repair of machinery
+A274: repair of electronic and optical equipment
+A275: repair of electrical equipment
+A276: repair and maintenance of ships and boats
+A277: repair and maintenance of aircraft and spacecraft
+A278: repair and maintenance of other transport equipment
+A279: repair of other equipment
+A280: installation of industrial machinery and equipment
+A281: production of electricity
+A282: transmission of electricity
+A283: distribution of electricity
+A284: trade of electricity
+A285: manufacture of gas
+A286: distribution of gaseous fuels through mains
+A287: trade of gas through mains
+A288: steam and air conditioning supply
+A289: water collection, treatment and supply
+A290: sewerage
+A291: collection of non-hazardous waste
+A292: collection of hazardous waste
+A293: treatment and disposal of non-hazardous waste
+A294: treatment and disposal of hazardous waste
+A295: dismantling of wrecks
+A296: recovery of sorted materials
+A297: remediation activities and other waste management services
+A298: development of building projects
+A299: construction of residential and non-residential buildings
+A300: construction of roads and motorways
+A301: construction of railways and underground railways
+A302: construction of bridges and tunnels
+A303: construction of utility projects for fluids
+A304: construction of utility projects for electricity and telecommunications
+A305: construction of water projects
+A306: construction of other civil engineering projects n.e.c.
+A307: demolition
+A308: site preparation
+A309: test drilling and boring
+A310: electrical installation
+A311: plumbing, heat and air-conditioning installation
+A312: other construction installation
+A313: plastering
+A314: joinery installation
+A315: floor and wall covering
+A316: painting and glazing
+A317: other building completion and finishing
+A318: roofing activities
+A319: other specialised construction activities n.e.c.
+A320: sale of cars and light motor vehicles
+A321: sale of other motor vehicles
+A322: maintenance and repair of motor vehicles
+A323: wholesale trade of motor vehicle parts and accessories
+A324: retail trade of motor vehicle parts and accessories
+A325: sale, maintenance and repair of motorcycles and related parts and accessories
+A326: agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods
+A327: agents involved in the sale of fuels, ores, metals and industrial chemicals
+A328: agents involved in the sale of timber and building materials
+A329: agents involved in the sale of machinery, industrial equipment, ships and aircraft
+A330: agents involved in the sale of furniture, household goods, hardware and ironmongery
+A331: agents involved in the sale of textiles, clothing, fur, footwear and leather goods
+A332: agents involved in the sale of food, beverages and tobacco
+A333: agents specialised in the sale of other particular products
+A334: agents involved in the sale of a variety of goods
+A335: wholesale of grain, unmanufactured tobacco, seeds and animal feeds
+A336: wholesale of flowers and plants
+A337: wholesale of live animals
+A338: wholesale of hides, skins and leather
+A339: wholesale of fruit and vegetables
+A340: wholesale of meat and meat products
+A341: wholesale of dairy products, eggs and edible oils and fats
+A342: wholesale of beverages
+A343: wholesale of tobacco products
+A344: wholesale of sugar and chocolate and sugar confectionery
+A345: wholesale of coffee, tea, cocoa and spices
+A346: wholesale of other food, including fish, crustaceans and molluscs
+A347: non-specialised wholesale of food, beverages and tobacco
+A348: wholesale of textiles
+A349: wholesale of clothing and footwear
+A350: wholesale of electrical household appliances
+A351: wholesale of china and glassware and cleaning materials
+A352: wholesale of perfume and cosmetics
+A353: wholesale of pharmaceutical goods
+A354: wholesale of furniture, carpets and lighting equipment
+A355: wholesale of watches and jewellery
+A356: wholesale of other household goods
+A357: wholesale of computers, computer peripheral equipment and software
+A358: wholesale of electronic and telecommunications equipment and parts
+A359: wholesale of agricultural machinery, equipment and supplies
+A360: wholesale of machine tools
+A361: wholesale of mining, construction and civil engineering machinery
+A362: wholesale of machinery for the textile industry and of sewing and knitting machines
+A363: wholesale of office furniture
+A364: wholesale of other office machinery and equipment
+A365: wholesale of other machinery and equipment
+A366: wholesale of solid, liquid and gaseous fuels and related products
+A367: wholesale of metals and metal ores
+A368: wholesale of wood, construction materials and sanitary equipment
+A369: wholesale of hardware, plumbing and heating equipment and supplies
+A370: wholesale of chemical products
+A371: wholesale of other intermediate products
+A372: wholesale of waste and scrap
+A373: non-specialised wholesale trade
+A374: retail sale in non-specialised stores with food, beverages or tobacco predominating
+A375: other retail sale in non-specialised stores
+A376: retail sale of fruit and vegetables in specialised stores
+A377: retail sale of meat and meat products in specialised stores
+A378: retail sale of fish, crustaceans and molluscs in specialised stores
+A379: retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores
+A380: retail sale of beverages in specialised stores
+A381: retail sale of tobacco products in specialised stores
+A382: other retail sale of food in specialised stores
+A383: retail sale of automotive fuel in specialised stores
+A384: retail sale of computers, peripheral units and software in specialised stores
+A385: retail sale of telecommunications equipment in specialised stores
+A386: retail sale of audio and video equipment in specialised stores
+A387: retail sale of textiles in specialised stores
+A388: retail sale of hardware, paints and glass in specialised stores
+A389: retail sale of carpets, rugs, wall and floor coverings in specialised stores
+A390: retail sale of electrical household appliances in specialised stores
+A391: retail sale of furniture, lighting equipment and other household articles in specialised stores
+A392: retail sale of books in specialised stores
+A393: retail sale of newspapers and stationery in specialised stores
+A394: retail sale of music and video recordings in specialised stores
+A395: retail sale of sporting equipment in specialised stores
+A396: retail sale of games and toys in specialised stores
+A397: retail sale of clothing in specialised stores
+A398: retail sale of footwear and leather goods in specialised stores
+A399: dispensing chemist in specialised stores
+A400: retail sale of medical and orthopaedic goods in specialised stores
+A401: retail sale of cosmetic and toilet articles in specialised stores
+A402: retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores
+A403: retail sale of watches and jewellery in specialised stores
+A404: other retail sale of new goods in specialised stores
+A405: retail sale of second-hand goods in stores
+A406: retail sale via stalls and markets of food, beverages and tobacco products
+A407: retail sale via stalls and markets of textiles, clothing and footwear
+A408: retail sale via stalls and markets of other goods
+A409: retail sale via mail order houses or via internet
+A410: other retail sale not in stores, stalls or markets
+A411: passenger rail transport, interurban
+A412: freight rail transport
+A413: urban and suburban passenger land transport
+A414: taxi operation
+A415: other passenger land transport n.e.c.
+A416: freight transport by road
+A417: removal services
+A418: transport via pipeline
+A419: sea and coastal passenger water transport
+A420: sea and coastal freight water transport
+A421: inland passenger water transport
+A422: inland freight water transport
+A423: passenger air transport
+A424: freight air transport
+A425: warehousing and storage
+A426: service activities incidental to land transportation
+A427: service activities incidental to water transportation
+A428: service activities incidental to air transportation
+A429: cargo handling
+A430: other transportation support activities
+A431: postal activities under universal service obligation
+A432: other postal and courier activities
+A433: hotels and similar accommodation
+A434: holiday and other short-stay accommodation
+A435: camping grounds, recreational vehicle parks and trailer parks
+A436: other accommodation
+A437: restaurants and mobile food service activities
+A438: event catering activities
+A439: other food service activities
+A440: beverage serving activities
+A441: book publishing
+A442: publishing of directories and mailing lists
+A443: publishing of newspapers
+A444: publishing of journals and periodicals
+A445: other publishing activities
+A446: publishing of computer games
+A447: other software publishing
+A448: motion picture, video and television programme activities
+A449: motion picture, video and television programme production activities
+A450: motion picture, video and television programme distribution activities
+A451: motion picture projection activities
+A452: sound recording and music publishing activities
+A453: radio broadcasting
+A454: television programming and broadcasting activities
+A455: wired telecommunications activities
+A456: wireless telecommunications activities
+A457: satellite telecommunications activities
+A458: other telecommunications activities
+A459: computer programming activities
+A460: computer consultancy activities
+A461: computer facilities management activities
+A462: other information technology and computer service activities
+A463: data processing, hosting and related activities
+A464: web portals
+A465: news agency activities
+A466: other information service activities n.e.c.
+A467: central banking
+A468: other monetary intermediation
+A469: activities of holding companies
+A470: trusts, funds and similar financial entities
+A471: financial leasing
+A472: other credit granting
+A473: other financial service activities, except insurance and pension funding n.e.c.
+A474: life insurance
+A475: non-life insurance
+A476: reinsurance
+A477: pension funding
+A478: administration of financial markets
+A479: security and commodity contracts brokerage
+A480: other activities auxiliary to financial services, except insurance and pension funding
+A481: risk and damage evaluation
+A482: activities of insurance agents and brokers
+A483: other activities auxiliary to insurance and pension funding
+A484: fund management activities
+A485: buying and selling of own real estate
+A486: renting and operating of own or leased real estate
+A487: real estate agencies
+A488: management of real estate on a fee or contract basis
+A489: legal activities
+A490: accounting, bookkeeping and auditing activities; tax consultancy
+A491: activities of head offices
+A492: public relations and communication activities
+A493: business and other management consultancy activities
+A494: architectural activities
+A495: engineering activities and related technical consultancy
+A496: technical testing and analysis
+A497: research and experimental development on biotechnology
+A498: other research and experimental development on natural sciences and engineering
+A499: research and experimental development on social sciences and humanities
+A500: advertising agencies
+A501: media representation
+A502: market research and public opinion polling
+A503: specialised design activities
+A504: photographic activities
+A505: translation and interpretation activities
+A506: other professional, scientific and technical activities n.e.c.
+A507: veterinary activities
+A508: renting and leasing of cars and light motor vehicles
+A509: renting and leasing of trucks
+A510: renting and leasing of recreational and sports goods
+A511: renting of video tapes and disks
+A512: renting and leasing of other personal and household goods
+A513: renting and leasing of agricultural machinery and equipment
+A514: renting and leasing of construction and civil engineering machinery
+A515: renting and leasing of office machinery and equipment (including computers)
+A516: renting and leasing of water transport equipment
+A517: renting and leasing of air transport equipment
+A518: renting and leasing of other machinery, equipment and tangible goods n.e.c.
+A519: leasing of intellectual property and similar products, except copyrighted works
+A520: activities of employment placement agencies
+A521: temporary employment agency activities
+A522: other human resources provision
+A523: travel agency activities
+A524: tour operator activities
+A525: other reservation service and related activities
+A526: private security activities
+A527: security systems service activities
+A528: investigation activities
+A529: combined facilities support activities
+A530: general cleaning of buildings
+A531: other building and industrial cleaning activities
+A532: other cleaning activities
+A533: landscape service activities
+A534: combined office administrative service activities
+A535: photocopying, document preparation and other specialised office support activities
+A536: activities of call centres
+A537: organisation of conventions and trade shows
+A538: activities of collection agencies and credit bureaus
+A539: packaging activities
+A540: other business support service activities n.e.c.
+A541: general government administration
+A542: regulation in the fields of health, education, culture and other social sectors, except compulsory social insurance
+A543: regulation and promotion of effective economic activity
+A544: international activities
+A545: activities in the field of defense
+A546: activities in the field of justice and justice
+A547: activities in the field of public order and safety
+A548: activities of fire services
+A549: activities in the field of compulsory social insurance
+A550: pre-primary education
+A551: primary education
+A552: general secondary education
+A553: technical and vocational secondary education
+A554: post-secondary non-tertiary education
+A555: tertiary education
+A556: sports and recreation education
+A557: cultural education
+A558: driving school activities
+A559: other education n.e.c.
+A560: educational support activities
+A561: hospital activities
+A562: general medical practice activities
+A563: specialist medical practice activities
+A564: dental practice activities
+A565: other human health activities
+A566: residential nursing care activities
+A567: residential care activities for mental retardation, mental health and substance abuse
+A568: residential care activities for the elderly and disabled
+A569: other residential care activities
+A570: social work activities without accommodation for the elderly and disabled
+A571: child day-care activities
+A572: other social work activities without accommodation n.e.c.
+A573: performing arts
+A574: support activities to performing arts
+A575: artistic creation
+A576: operation of arts facilities
+A577: library and archives activities
+A578: museums activities
+A579: operation of historical sites and buildings and similar visitor attractions
+A580: botanical and zoological gardens and nature reserves activities
+A581: gambling and betting activities
+A582: operation of sports facilities
+A583: activities of sport clubs
+A584: fitness facilities
+A585: other sports activities
+A586: activities of amusement parks and theme parks
+A587: other amusement and recreation activities
+A588: activities of organizations of industrialists and entrepreneurs
+A589: activities of professional public organizations
+A590: activities of trade unions
+A591: activities of religious organizations
+A592: activities of political organizations
+A593: activities of other public organizations, n.e.c.
+A594: repair of computers and peripheral equipment
+A595: repair of communication equipment
+A596: repair of consumer electronics
+A597: repair of household appliances and home and garden equipment
+A598: repair of footwear and leather goods
+A599: repair of furniture and home furnishings
+A600: repair of watches, clocks and jewellery
+A601: repair of other personal and household goods
+A602: washing and (dry-)cleaning of textile and fur products
+A603: hairdressing and other beauty treatment
+A604: funeral and related activities
+A605: physical well-being activities
+A606: other personal service activities n.e.c.
+A607: activities of households as employers of domestic workers
+A608: activities of households as producers of goods for own consumption
+A609: activities of households as producers of services for own consumption
+A610: activities of extraterritorial organizations and bodies
+A611: no code for NACE Rev.2
