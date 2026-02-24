@@ -1947,3 +1947,14 @@ social_insurance_funds: Social insurance funds
 state_joint_stock_company_company: State joint stock company (company)
 state_run_enterprise: State-run enterprise
 state_run_organisation_establishment_institution: State-run organisation (establishment, institution)
+
+WaterType: By type of indicators
+microbiological: microbiological indicators
+sanitary_chemical: sanitary and chemical indicators
+radiation: radiation indicators
+
+SupplyType: Type of water supply
+urban_pipelines: urban water pipelines
+rural_pipelines: rural water pipelines
+centralized_1: centralized water supply
+non_centralized_1: non-centralized water supply
