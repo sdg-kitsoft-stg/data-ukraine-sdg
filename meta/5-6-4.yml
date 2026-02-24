@@ -1,5 +1,6 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.6 Expanding women’s economic opportunities
 SDG_INDICATOR: 5.6.4 Share of active enterprises in which women hold managerial positions in the total number of active enterprises, percent
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: State Statistics Service of Ukraine
 REC_USE_LIM: '2015 - 2020: Data have been developed since 2021. <br>2021 - 2024 (as of November 1): Excluding the temporarily occupied territory of the Autonomous Republic of Crimea and the city of Sevastopol.'
