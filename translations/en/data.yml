@@ -1311,10 +1311,10 @@ A610: activities of extraterritorial organizations and bodies
 A611: no code for NACE Rev.2
 
 volume_of_waste_per_person: Volume of generated waste per person, kilograms
-by_safety: by safety
 hazardous_waste: hazardous waste
 non_hazardous_waste: non-hazardous waste
 
+By safety: Safety
 Organisation and legal forms: by the organisational and legal forms
 Type of economic activity: by types of economic activity
 
@@ -1958,3 +1958,14 @@ urban_pipelines: urban water pipelines
 rural_pipelines: rural water pipelines
 centralized_1: centralized water supply
 non_centralized_1: non-centralized water supply
+  
+energy_intensity_of_the_gross_domestic_product: energy intensity of the gross domestic product
+material_intensity_of_the_gross_domestic_product: material intensity of the gross domestic product
+carbon_intensity_of_the_gross_domestic_product: carbon intensity of the gross domestic product
+water_intensity_of_the_gross_domestic_product: water intensity of the gross domestic product
+waste_intensity_of_the_gross_domestic_product: waste intensity of the gross domestic product
+
+By level of education: Level of education
+primary_level_of_education: primary
+basic_secondary_level_of_education: basic secondary
+profile_level_of_education: profile secondary
