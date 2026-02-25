@@ -1,6 +1,6 @@
 SDG_GOAL: 12 Responsible consumption and production
 SDG_TARGET: 12.1 Promoting sustainable waste management
 SDG_INDICATOR: 12.1.1 Volume of generated waste per person, kilograms
-CONTACT_ORGANISATION: State Statistics Service of Ukraine
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: '2020: Data for 2020 were formed by the place of registration of business entities.<br/> 2022-2024: Information for 2022-2024 has not been calculated, since, given the situation that has developed due to the military aggression of the russian federation against Ukraine, in accordance of the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War" and the Resolution of the Cabinet of Ministers of Ukraine dated 12.03.2022 No. 263 "Some Issues of Ensuring the Functioning of Information and Communication Systems, Electronic Communication Systems, Public Electronic Registries in Conditions of Martial Law", it is currently impossible for territorial bodies of the State Statistics Service to obtain administrative data, which are the source of formation of statistical information on the population (by estimate). The formation and dissemination by state statistics bodies of official state statistical information on the population (by estimate), starting from data as of 01.01.2023, has been suspended.'
 UNIT_MEASURE: kilograms

@@ -327,6 +327,12 @@ prose:
             label: Data reporter
             translation_key: metadata_fields.CONTACT
             scope: national
+      - name: UNIT_MEASURE
+        field:
+            element: text
+            label: Unit of measure
+            translation_key: metadata_fields.UNIT_MEASURE
+            scope: national
       - name: CONTACT_ORGANISATION
         field:
             element: text
@@ -380,12 +386,6 @@ prose:
             element: text
             label: Definition and concepts
             translation_key: metadata_fields.STAT_CONC_DEF
-            scope: national
-      - name: UNIT_MEASURE
-        field:
-            element: text
-            label: Unit of measure
-            translation_key: metadata_fields.UNIT_MEASURE
             scope: national
       - name: CLASS_SYSTEM
         field:

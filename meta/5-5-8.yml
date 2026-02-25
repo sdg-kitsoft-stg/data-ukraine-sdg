@@ -2,7 +2,7 @@ SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men at higher levels of decision-making in political and public life
 SDG_INDICATOR: 5.5.8 Ratio of women to men among members of the highest governing authority of national Olympic sports organizations, percent
 UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: Ministry of Youth and Sports of Ukraine
+CONTACT_ORGANISATION: "Ministry of Youth and Sports of Ukraine"
 REC_USE_LIM:
 footer_fields:
     - label: "Target values of the indicator for 2030"

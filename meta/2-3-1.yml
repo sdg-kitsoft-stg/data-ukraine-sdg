@@ -1,5 +1,5 @@
 SDG_GOAL: 2 End hunger, promote sustainable agriculture
 SDG_TARGET: 2.3 Ensuring the creation of sustainable food production systems that contribute to the preservation of ecosystems and improve the quality of lands and soils
 SDG_INDICATOR: 2.3.1 Share of agricultural land on which agrochemical certification has been carried out in the total area of agricultural land, percent
-CONTACT_ORGANISATION: Ministry of Agrarian Policy and Food of Ukraine
+CONTACT_ORGANISATION: "Ministry of Agrarian Policy and Food of Ukraine"
 REC_USE_LIM: 1 There are no agricultural lands within the city of Kyiv.
