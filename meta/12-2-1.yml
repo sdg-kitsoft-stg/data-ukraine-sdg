@@ -2,4 +2,5 @@ SDG_GOAL: 12 Responsible consumption and production
 SDG_TARGET: 12.2 Reducing food losses in production and distribution chains
 SDG_INDICATOR: 12.2.1 Food loss index, percent
 CONTACT_ORGANISATION: State Statistics Service of Ukraine
-REC_USE_LIM: 1 The publication of information will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War".
+REC_USE_LIM: "2024: The publication of information will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine 'On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War'."
+UNIT_MEASURE: Percentage (%)%)
