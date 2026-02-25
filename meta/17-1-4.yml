@@ -3,6 +3,3 @@ SDG_TARGET: 17.1 Attracting additional financial resources for recovery from the
 SDG_INDICATOR: 17.1.4 Volume of registered issues of shares, corporate bonds, billion UAH per year (ratio of attracted private capital to the gross domestic product, percent)
 CONTACT_ORGANISATION: National Securities and Stock Market Commission
 REC_USE_LIM:
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: '250'
