@@ -1,4 +1,4 @@
-Year,sphere,status,Regin,Value
+Year,sphere,status,Region,Value
 2015,,,Ukraine,177.0
 2015,,,11_reg_Vinnytsya,
 2015,,,12_reg_Volyn,
@@ -269,15 +269,15 @@ Year,sphere,status,Regin,Value
 2024,,,34_reg_Chernihiv,1.0
 2024,,,35_reg_Kyiv_city,
 
-2015,energy_water_utilities,,Ukraine,
-2015,transport_infrastructure,,Ukraine,
-2015,healthcare,,Ukraine,
-2015,tourism_recreation_culture_sport,,Ukraine,
-2015,waste_management_excl_collection_transport,,Ukraine,
-2015,other_institution,,Ukraine,
-2015,,implemented,Ukraine,
-2015,,not_implemented,Ukraine,
-2015,,suspended_due_to_war,Ukraine,
+2015,energy_water_utilities,,,
+2015,transport_infrastructure,,,
+2015,healthcare,,,
+2015,tourism_recreation_culture_sport,,,
+2015,waste_management_excl_collection_transport,,,
+2015,other_institution,,,
+2015,,implemented,,
+2015,,not_implemented,,
+2015,,suspended_due_to_war,,
 
 2016,energy_water_utilities,,,
 2016,transport_infrastructure,,,
