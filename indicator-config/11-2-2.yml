@@ -19,13 +19,13 @@ graph_limits:
   - series: ''
     unit: ''
     minimum: 0
-    maximum: 100
+    maximum: 110
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-5-2-title
+graph_title: global_indicators.11-2-2-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.12-5-2-title
-indicator_number: '12.5.2'
+indicator_name: global_indicators.11-2-2-title
+indicator_number: '11.2.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -39,4 +39,4 @@ graph_target_lines:
   - series: ''
     unit: ''
     label_content: indicator.annotation_2030_target
-    value: 90
+    value: 30
