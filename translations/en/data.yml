@@ -2584,6 +2584,6 @@ B611: activities of extraterritorial organizations and bodies
 
 Number of employees: Number of employees
 up_to_9: up to 9 persons
-10_49: 10-49 persons
-50_249: 50-249 persons
-250_plus: 250 persons or more
+employees_10_49: 10-49 persons
+employees_50_249: 50-249 persons
+employees_250_plus: 250 persons or more
