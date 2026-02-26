@@ -2,4 +2,7 @@ SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.2 Reducing the level of gender-based violence and domestic violence, ensuring effective prevention of its manifestations and providing timely assistance to victims
 SDG_INDICATOR: 5.2.2 Share of women and girls aged from 15 to 49 years who have experienced gender-based violence by a spouse, fiancé or cohabiting partner in the last 12 months, percent
 CONTACT_ORGANISATION: "National Social Service of Ukraine (NSSU)"
-REC_USE_LIM: 
+REC_USE_LIM:
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase by 5 percent every 3 years'

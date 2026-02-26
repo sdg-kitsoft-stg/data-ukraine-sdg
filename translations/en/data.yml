@@ -1969,3 +1969,621 @@ By level of education: Level of education
 primary_level_of_education: primary
 basic_secondary_level_of_education: basic secondary
 profile_level_of_education: profile secondary
+
+B01: growing of cereals (except rice), leguminous crops and oil seeds
+B02: growing of rice
+B03: growing of vegetables and melons, roots and tubers
+B04: growing of sugar cane
+B05: growing of tobacco
+B06: growing of fibre crops
+B07: growing of other non-perennial crops
+B08: growing of grapes
+B09: growing of pome fruits and stone fruits
+B10: growing of other tree and bush fruits and nuts
+B11: growing of beverage crops
+B12: growing of spices, aromatic, drug and pharmaceutical crops
+B13: growing of other perennial crops
+B14: plant propagation
+B15: raising of dairy cattle
+B16: raising of other cattle and buffaloes
+B17: raising of horses and other equines
+B18: raising of camels and camelids
+B19: raising of sheep and goats
+B20: raising of swine/pigs
+B21: raising of poultry
+B22: raising of other animals
+B23: mixed farming
+B24: support activities for crop production
+B25: support activities for animal production
+B26: post-harvest crop activities
+B27: seed processing for propagation
+B28: hunting, trapping and related service activities
+B29: silviculture and other forestry activities
+B30: logging
+B31: gathering of wild growing non-wood products
+B32: support services to forestry
+B33: marine fishing
+B34: freshwater fishing
+B35: marine aquaculture
+B36: freshwater aquaculture
+B37: mining of hard coal
+B38: mining of lignite
+B39: extraction of crude petroleum
+B40: extraction of natural gas
+B41: mining of iron ores
+B42: mining of uranium and thorium ores
+B43: mining of other non-ferrous metal ores
+B44: quarrying of ornamental and building stone, limestone, gypsum, chalk and slate
+B45: operation of gravel and sand pits; mining of clays and kaolin
+B46: mining of chemical and fertiliser minerals
+B47: extraction of peat
+B48: extraction of salt
+B49: other mining and quarrying n.e.c.
+B50: mining support service activities
+B51: support activities for other mining and quarrying
+B52: processing and preserving of meat
+B53: processing and preserving of poultry meat
+B54: production of meat and poultry meat products
+B55: processing and preserving of fish, crustaceans and molluscs
+B56: processing and preserving of potatoes
+B57: manufacture of fruit and vegetable juice
+B58: other processing and preserving of fruit and vegetables
+B59: manufacture of vegetable and animal oils and fats
+B60: manufacture of margarine and similar edible fats
+B61: operation of dairies and cheese making
+B62: manufacture of ice cream
+B63: manufacture of grain mill products
+B64: manufacture of starches and starch products
+B65: manufacture of bread; manufacture of fresh pastry goods and cakes
+B66: manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes
+B67: manufacture of macaroni, noodles, couscous and similar farinaceous products
+B68: manufacture of sugar
+B69: manufacture of cocoa, chocolate and sugar confectionery
+B70: processing of tea and coffee
+B71: manufacture of condiments and seasonings
+B72: manufacture of prepared meals and dishes
+B73: manufacture of homogenised food preparations and dietetic food
+B74: manufacture of other food products n.e.c.
+B75: manufacture of prepared feeds for farm animals
+B76: manufacture of prepared pet foods
+B77: distilling, rectifying and blending of spirits
+B78: manufacture of wine from grape
+B79: manufacture of cider and other fruit wines
+B80: manufacture of other non-distilled fermented beverages
+B81: manufacture of beer
+B82: manufacture of malt
+B83: manufacture of soft drinks; production of mineral waters and other bottled waters
+B84: manufacture of tobacco products
+B85: preparation and spinning of textile fibres
+B86: weaving of textiles
+B87: finishing of textiles
+B88: manufacture of knitted and crocheted fabrics
+B89: manufacture of made-up textile articles, except apparel
+B90: manufacture of carpets and rugs
+B91: manufacture of cordage, rope, twine and netting
+B92: manufacture of non-wovens and articles made from non-wovens, except apparel
+B93: manufacture of other technical and industrial textiles
+B94: manufacture of other textiles n.e.c.
+B95: manufacture of leather clothes
+B96: manufacture of workwear
+B97: manufacture of other outerwear
+B98: manufacture of underwear
+B99: manufacture of other wearing apparel and accessories
+B100: manufacture of articles of fur
+B101: manufacture of knitted and crocheted hosiery
+B102: manufacture of other knitted and crocheted apparel
+B103: tanning and dressing of leather; dressing and dyeing of fur
+B104: manufacture of luggage, handbags and the like, saddlery and harness
+B105: manufacture of footwear
+B106: sawmilling and planing of wood
+B107: manufacture of veneer sheets and wood-based panels
+B108: manufacture of assembled parquet floors
+B109: manufacture of other builders' carpentry and joinery
+B110: manufacture of wooden containers
+B111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
+B112: manufacture of pulp
+B113: manufacture of paper and paperboard
+B114: manufacture of corrugated paper and paperboard and of containers of paper and paperboard
+B115: manufacture of household and sanitary goods and of toilet requisites
+B116: manufacture of paper stationery
+B117: manufacture of wallpaper
+B118: manufacture of other articles of paper and paperboard
+B119: printing of newspapers
+B120: other printing
+B121: pre-press and pre-media services
+B122: binding and related services
+B123: reproduction of recorded media
+B124: manufacture of coke oven products
+B125: manufacture of refined petroleum products
+B126: manufacture of industrial gases
+B127: manufacture of dyes and pigments
+B128: manufacture of other inorganic basic chemicals
+B129: manufacture of other organic basic chemicals
+B130: manufacture of fertilisers and nitrogen compounds
+B131: manufacture of plastics in primary forms
+B132: manufacture of synthetic rubber in primary forms
+B133: manufacture of pesticides and other agrochemical products
+B134: manufacture of paints, varnishes and similar coatings, printing ink and mastics
+B135: manufacture of soap and detergents, cleaning and polishing preparations
+B136: manufacture of perfumes and toilet preparations
+B137: manufacture of explosives
+B138: manufacture of glues
+B139: manufacture of essential oils
+B140: manufacture of other chemical products n.e.c.
+B141: manufacture of man-made fibres
+B142: manufacture of basic pharmaceutical products
+B143: manufacture of pharmaceutical preparations
+B144: manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres
+B145: manufacture of other rubber products
+B146: manufacture of plastic plates, sheets, tubes and profiles
+B147: manufacture of plastic packing goods
+B148: manufacture of buildersТ ware of plastic
+B149: manufacture of other plastic products
+B150: manufacture of flat glass
+B151: shaping and processing of flat glass
+B152: manufacture of hollow glass
+B153: manufacture of glass fibres
+B154: manufacture and processing of other glass, including technical glassware
+B155: manufacture of refractory products
+B156: manufacture of ceramic tiles and flags
+B157: manufacture of bricks, tiles and construction products, in baked clay
+B158: manufacture of ceramic household and ornamental articles
+B159: manufacture of ceramic sanitary fixtures
+B160: manufacture of ceramic insulators and insulating fittings
+B161: manufacture of other technical ceramic products
+B162: manufacture of other ceramic products
+B163: manufacture of cement
+B164: manufacture of lime and plaster
+B165: manufacture of concrete products for construction purposes
+B166: manufacture of plaster products for construction purposes
+B167: manufacture of ready-mixed concrete
+B168: manufacture of mortars
+B169: manufacture of fibre cement
+B170: manufacture of other articles of concrete, plaster and cement
+B171: cutting, shaping and finishing of stone
+B172: production of abrasive products
+B173: manufacture of other non-metallic mineral products n.e.c.
+B174: manufacture of basic iron and steel and of ferro-alloys
+B175: manufacture of tubes, pipes, hollow profiles and related fittings, of steel
+B176: cold drawing of bars
+B177: cold rolling of narrow strip
+B178: cold forming or folding
+B179: cold drawing of wire
+B180: precious metals production
+B181: aluminium production
+B182: lead, zinc and tin production
+B183: copper production
+B184: other non-ferrous metal production
+B185: nuclear materials production
+B186: casting of iron
+B187: casting of steel
+B188: casting of light metals
+B189: casting of other non-ferrous metals
+B190: manufacture of metal structures and parts of structures
+B191: manufacture of doors and windows of metal
+B192: manufacture of central heating radiators and boilers
+B193: manufacture of other tanks, reservoirs and containers of metal
+B194: manufacture of steam generators, except central heating hot water boilers
+B195: manufacture of weapons and ammunition
+B196: forging, pressing, stamping and roll-forming of metal; powder metallurgy
+B197: treatment and coating of metals
+B198: machining
+B199: manufacture of cutlery
+B200: manufacture of locks and hinges
+B201: manufacture of tools
+B202: manufacture of steel drums and similar containers
+B203: manufacture of light metal packaging
+B204: manufacture of wire products, chain and springs
+B205: manufacture of fasteners and screw machine products
+B206: manufacture of other fabricated metal products n.e.c.
+B207: manufacture of electronic components
+B208: manufacture of loaded electronic boards
+B209: manufacture of computers and peripheral equipment
+B210: manufacture of communication equipment
+B211: manufacture of consumer electronics
+B212: manufacture of instruments and appliances for measuring, testing and navigation
+B213: manufacture of watches and clocks
+B214: manufacture of irradiation, electromedical and electrotherapeutic equipment
+B215: manufacture of optical instruments and photographic equipment
+B216: manufacture of magnetic and optical media
+B217: manufacture of electric motors, generators and transformers
+B218: manufacture of electricity distribution and control apparatus
+B219: manufacture of batteries and accumulators
+B220: manufacture of fibre optic cables
+B221: manufacture of other electronic and electric wires and cables
+B222: manufacture of wiring devices
+B223: manufacture of electric lighting equipment
+B224: manufacture of electric domestic appliances
+B225: manufacture of non-electric domestic appliances
+B226: manufacture of other electrical equipment
+B227: manufacture of engines and turbines, except aircraft, vehicle and cycle engines
+B228: manufacture of fluid power equipment
+B229: manufacture of other pumps and compressors
+B230: manufacture of other taps and valves
+B231: manufacture of bearings, gears, gearing and driving elements
+B232: manufacture of ovens, furnaces and furnace burners
+B233: manufacture of lifting and handling equipment
+B234: manufacture of office machinery and equipment (except computers and peripheral equipment)
+B235: manufacture of power-driven hand tools
+B236: manufacture of non-domestic cooling and ventilation equipment
+B237: manufacture of other general-purpose machinery n.e.c.
+B238: manufacture of agricultural and forestry machinery
+B239: manufacture of metal forming machinery
+B240: manufacture of other machine tools
+B241: manufacture of machinery for metallurgy
+B242: manufacture of machinery for mining, quarrying and construction
+B243: manufacture of machinery for food, beverage and tobacco processing
+B244: manufacture of machinery for textile, apparel and leather production
+B245: manufacture of machinery for paper and paperboard production
+B246: manufacture of plastics and rubber machinery
+B247: manufacture of other special-purpose machinery n.e.c.
+B248: manufacture of motor vehicles
+B249: manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers
+B250: manufacture of electrical and electronic equipment for motor vehicles
+B251: manufacture of other parts and accessories for motor vehicles
+B252: building of ships and floating structures
+B253: building of pleasure and sporting boats
+B254: manufacture of railway locomotives and rolling stock
+B255: manufacture of air and spacecraft and related machinery
+B256: manufacture of military fighting vehicles
+B257: manufacture of motorcycles
+B258: manufacture of bicycles and invalid carriages
+B259: manufacture of other transport equipment n.e.c.
+B260: manufacture of office and shop furniture
+B261: manufacture of kitchen furniture
+B262: manufacture of mattresses
+B263: manufacture of other furniture
+B264: striking of coins
+B265: manufacture of jewellery and related articles
+B266: manufacture of imitation jewellery and related articles
+B267: manufacture of musical instruments
+B268: manufacture of sports goods
+B269: manufacture of games and toys
+B270: manufacture of medical and dental instruments and supplies
+B271: manufacture of brooms and brushes
+B272: other manufacturing n.e.c.
+B273: repair of fabricated metal products
+B274: repair of machinery
+B275: repair of electronic and optical equipment
+B276: repair of electrical equipment
+B277: repair and maintenance of ships and boats
+B278: repair and maintenance of aircraft and spacecraft
+B279: repair and maintenance of other transport equipment
+B280: repair of other equipment
+B281: installation of industrial machinery and equipment
+B282: production of electricity
+B283: transmission of electricity
+B284: distribution of electricity
+B285: trade of electricity
+B286: manufacture of gas
+B287: distribution of gaseous fuels through mains
+B288: trade of gas through mains
+B289: steam and air conditioning supply
+B290: water collection, treatment and supply
+B291: sewerage
+B292: collection of non-hazardous waste
+B293: collection of hazardous waste
+B294: treatment and disposal of non-hazardous waste
+B295: treatment and disposal of hazardous waste
+B296: dismantling of wrecks
+B297: recovery of sorted materials
+B298: remediation activities and other waste management services
+B299: development of building projects
+B300: construction of residential and non-residential buildings
+B301: construction of roads and motorways
+B302: construction of railways and underground railways
+B303: construction of bridges and tunnels
+B304: construction of utility projects for fluids
+B305: construction of utility projects for electricity and telecommunications
+B306: construction of water projects
+B307: construction of other civil engineering projects n.e.c.
+B308: demolition
+B309: site preparation
+B310: test drilling and boring
+B311: electrical installation
+B312: plumbing, heat and air-conditioning installation
+B313: other construction installation
+B314: plastering
+B315: joinery installation
+B316: floor and wall covering
+B317: painting and glazing
+B318: other building completion and finishing
+B319: roofing activities
+B320: other specialised construction activities n.e.c.
+B321: sale of cars and light motor vehicles
+B322: sale of other motor vehicles
+B323: maintenance and repair of motor vehicles
+B324: wholesale trade of motor vehicle parts and accessories
+B325: retail trade of motor vehicle parts and accessories
+B326: sale, maintenance and repair of motorcycles and related parts and accessories
+B327: agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished goods
+B328: agents involved in the sale of fuels, ores, metals and industrial chemicals
+B329: agents involved in the sale of timber and building materials
+B330: agents involved in the sale of machinery, industrial equipment, ships and aircraft
+B331: agents involved in the sale of furniture, household goods, hardware and ironmongery
+B332: agents involved in the sale of textiles, clothing, fur, footwear and leather goods
+B333: agents involved in the sale of food, beverages and tobacco
+B334: agents specialised in the sale of other particular products
+B335: agents involved in the sale of a variety of goods
+B336: wholesale of grain, unmanufactured tobacco, seeds and animal feeds
+B337: wholesale of flowers and plants
+B338: wholesale of live animals
+B339: wholesale of hides, skins and leather
+B340: wholesale of fruit and vegetables
+B341: wholesale of meat and meat products
+B342: wholesale of dairy products, eggs and edible oils and fats
+B343: wholesale of beverages
+B344: wholesale of tobacco products
+B345: wholesale of sugar and chocolate and sugar confectionery
+B346: wholesale of coffee, tea, cocoa and spices
+B347: wholesale of other food, including fish, crustaceans and molluscs
+B348: non-specialised wholesale of food, beverages and tobacco
+B349: wholesale of textiles
+B350: wholesale of clothing and footwear
+B351: wholesale of electrical household appliances
+B352: wholesale of china and glassware and cleaning materials
+B353: wholesale of perfume and cosmetics
+B354: wholesale of pharmaceutical goods
+B355: wholesale of furniture, carpets and lighting equipment
+B356: wholesale of watches and jewellery
+B357: wholesale of other household goods
+B358: wholesale of computers, computer peripheral equipment and software
+B359: wholesale of electronic and telecommunications equipment and parts
+B360: wholesale of agricultural machinery, equipment and supplies
+B361: wholesale of machine tools
+B362: wholesale of mining, construction and civil engineering machinery
+B363: wholesale of machinery for the textile industry and of sewing and knitting machines
+B364: wholesale of office furniture
+B365: wholesale of other office machinery and equipment
+B366: wholesale of other machinery and equipment
+B367: wholesale of solid, liquid and gaseous fuels and related products
+B368: wholesale of metals and metal ores
+B369: wholesale of wood, construction materials and sanitary equipment
+B370: wholesale of hardware, plumbing and heating equipment and supplies
+B371: wholesale of chemical products
+B372: wholesale of other intermediate products
+B373: wholesale of waste and scrap
+B374: non-specialised wholesale trade
+B375: retail sale in non-specialised stores with food, beverages or tobacco predominating
+B376: other retail sale in non-specialised stores
+B377: retail sale of fruit and vegetables in specialised stores
+B378: retail sale of meat and meat products in specialised stores
+B379: retail sale of fish, crustaceans and molluscs in specialised stores
+B380: retail sale of bread, cakes, flour confectionery and sugar confectionery in specialised stores
+B381: retail sale of beverages in specialised stores
+B382: retail sale of tobacco products in specialised stores
+B383: other retail sale of food in specialised stores
+B384: retail sale of automotive fuel in specialised stores
+B385: retail sale of computers, peripheral units and software in specialised stores
+B386: retail sale of telecommunications equipment in specialised stores
+B387: retail sale of audio and video equipment in specialised stores
+B388: retail sale of textiles in specialised stores
+B389: retail sale of hardware, paints and glass in specialised stores
+B390: retail sale of carpets, rugs, wall and floor coverings in specialised stores
+B391: retail sale of electrical household appliances in specialised stores
+B392: retail sale of furniture, lighting equipment and other household articles in specialised stores
+B393: retail sale of books in specialised stores
+B394: retail sale of newspapers and stationery in specialised stores
+B395: retail sale of music and video recordings in specialised stores
+B396: retail sale of sporting equipment in specialised stores
+B397: retail sale of games and toys in specialised stores
+B398: retail sale of clothing in specialised stores
+B399: retail sale of footwear and leather goods in specialised stores
+B400: dispensing chemist in specialised stores
+B401: retail sale of medical and orthopaedic goods in specialised stores
+B402: retail sale of cosmetic and toilet articles in specialised stores
+B403: retail sale of flowers, plants, seeds, fertilisers, pet animals and pet food in specialised stores
+B404: retail sale of watches and jewellery in specialised stores
+B405: other retail sale of new goods in specialised stores
+B406: retail sale of second-hand goods in stores
+B407: retail sale via stalls and markets of food, beverages and tobacco products
+B408: retail sale via stalls and markets of textiles, clothing and footwear
+B409: retail sale via stalls and markets of other goods
+B410: retail sale via mail order houses or via internet
+B411: other retail sale not in stores, stalls or markets
+B412: passenger rail transport, interurban
+B413: freight rail transport
+B414: urban and suburban passenger land transport
+B415: taxi operation
+B416: other passenger land transport n.e.c.
+B417: freight transport by road
+B418: removal services
+B419: transport via pipeline
+B420: sea and coastal passenger water transport
+B421: sea and coastal freight water transport
+B422: inland passenger water transport
+B423: inland freight water transport
+B424: passenger air transport
+B425: freight air transport
+B426: warehousing and storage
+B427: service activities incidental to land transportation
+B428: service activities incidental to water transportation
+B429: service activities incidental to air transportation
+B430: cargo handling
+B431: other transportation support activities
+B432: postal activities under universal service obligation
+B433: other postal and courier activities
+B434: hotels and similar accommodation
+B435: holiday and other short-stay accommodation
+B436: camping grounds, recreational vehicle parks and trailer parks
+B437: other accommodation
+B438: restaurants and mobile food service activities
+B439: event catering activities
+B440: other food service activities
+B441: beverage serving activities
+B442: book publishing
+B443: publishing of directories and mailing lists
+B444: publishing of newspapers
+B445: publishing of journals and periodicals
+B446: other publishing activities
+B447: publishing of computer games
+B448: other software publishing
+B449: motion picture, video and television programme activities
+B450: motion picture, video and television programme production activities
+B451: motion picture, video and television programme distribution activities
+B452: motion picture projection activities
+B453: sound recording and music publishing activities
+B454: radio broadcasting
+B455: television programming and broadcasting activities
+B456: wired telecommunications activities
+B457: wireless telecommunications activities
+B458: satellite telecommunications activities
+B459: other telecommunications activities
+B460: computer programming activities
+B461: computer consultancy activities
+B462: computer facilities management activities
+B463: other information technology and computer service activities
+B464: data processing, hosting and related activities
+B465: web portals
+B466: news agency activities
+B467: other information service activities n.e.c.
+B468: central banking
+B469: other monetary intermediation
+B470: activities of holding companies
+B471: trusts, funds and similar financial entities
+B472: financial leasing
+B473: other credit granting
+B474: other financial service activities, except insurance and pension funding n.e.c.
+B475: life insurance
+B476: non-life insurance
+B477: reinsurance
+B478: pension funding
+B479: administration of financial markets
+B480: security and commodity contracts brokerage
+B481: other activities auxiliary to financial services, except insurance and pension funding
+B482: risk and damage evaluation
+B483: activities of insurance agents and brokers
+B484: other activities auxiliary to insurance and pension funding
+B485: fund management activities
+B486: buying and selling of own real estate
+B487: renting and operating of own or leased real estate
+B488: real estate agencies
+B489: management of real estate on a fee or contract basis
+B490: legal activities
+B491: accounting, bookkeeping and auditing activities; tax consultancy
+B492: activities of head offices
+B493: public relations and communication activities
+B494: business and other management consultancy activities
+B495: architectural activities
+B496: engineering activities and related technical consultancy
+B497: technical testing and analysis
+B498: research and experimental development on biotechnology
+B499: other research and experimental development on natural sciences and engineering
+B500: research and experimental development on social sciences and humanities
+B501: advertising agencies
+B502: media representation
+B503: market research and public opinion polling
+B504: specialised design activities
+B505: photographic activities
+B506: translation and interpretation activities
+B507: other professional, scientific and technical activities n.e.c.
+B508: veterinary activities
+B509: renting and leasing of cars and light motor vehicles
+B510: renting and leasing of trucks
+B511: renting and leasing of recreational and sports goods
+B512: renting of video tapes and disks
+B513: renting and leasing of other personal and household goods
+B514: renting and leasing of agricultural machinery and equipment
+B515: renting and leasing of construction and civil engineering machinery
+B516: renting and leasing of office machinery and equipment (including computers)
+B517: renting and leasing of water transport equipment
+B518: renting and leasing of air transport equipment
+B519: renting and leasing of other machinery, equipment and tangible goods n.e.c.
+B520: leasing of intellectual property and similar products, except copyrighted works
+B521: activities of employment placement agencies
+B522: temporary employment agency activities
+B523: other human resources provision
+B524: travel agency activities
+B525: tour operator activities
+B526: other reservation service and related activities
+B527: private security activities
+B528: security systems service activities
+B529: investigation activities
+B530: combined facilities support activities
+B531: general cleaning of buildings
+B532: other building and industrial cleaning activities
+B533: other cleaning activities
+B534: landscape service activities
+B535: combined office administrative service activities
+B536: photocopying, document preparation and other specialised office support activities
+B537: activities of call centres
+B538: organisation of conventions and trade shows
+B539: activities of collection agencies and credit bureaus
+B540: packaging activities
+B541: other business support service activities n.e.c.
+B542: general government administration
+B543: regulation in the fields of health, education, culture and other social sectors, except compulsory social insurance
+B544: regulation and promotion of effective economic activity
+B545: international activities
+B546: activities in the field of defense
+B547: activities in the field of justice and justice
+B548: activities in the field of public order and safety
+B549: activities of fire services
+B550: activities in the field of compulsory social insurance
+B551: pre-primary education
+B552: primary education
+B553: general secondary education
+B554: technical and vocational secondary education
+B555: post-secondary non-tertiary education
+B556: tertiary education
+B557: sports and recreation education
+B558: cultural education
+B559: driving school activities
+B560: other education n.e.c.
+B561: educational support activities
+B562: hospital activities
+B563: general medical practice activities
+B564: specialist medical practice activities
+B565: dental practice activities
+B566: other human health activities
+B567: residential nursing care activities
+B568: residential care activities for mental retardation, mental health and substance abuse
+B569: residential care activities for the elderly and disabled
+B570: other residential care activities
+B571: social work activities without accommodation for the elderly and disabled
+B572: child day-care activities
+B573: other social work activities without accommodation n.e.c.
+B574: performing arts
+B575: support activities to performing arts
+B576: artistic creation
+B577: operation of arts facilities
+B578: library and archives activities
+B579: museums activities
+B580: operation of historical sites and buildings and similar visitor attractions
+B581: botanical and zoological gardens and nature reserves activities
+B582: gambling and betting activities
+B583: operation of sports facilities
+B584: activities of sport clubs
+B585: fitness facilities
+B586: other sports activities
+B587: activities of amusement parks and theme parks
+B588: other amusement and recreation activities
+B589: activities of organizations of industrialists and entrepreneurs
+B590: activities of professional public organizations
+B591: activities of trade unions
+B592: activities of religious organizations
+B593: activities of political organizations
+B594: activities of other public organizations, n.e.c.
+B595: repair of computers and peripheral equipment
+B596: repair of communication equipment
+B597: repair of consumer electronics
+B598: repair of household appliances and home and garden equipment
+B599: repair of footwear and leather goods
+B600: repair of furniture and home furnishings
+B601: repair of watches, clocks and jewellery
+B602: repair of other personal and household goods
+B603: washing and (dry-)cleaning of textile and fur products
+B604: hairdressing and other beauty treatment
+B605: funeral and related activities
+B606: physical well-being activities
+B607: other personal service activities n.e.c.
+B608: activities of households as employers of domestic workers
+B609: activities of households as producers of goods for own consumption
+B610: activities of households as producers of services for own consumption
+B611: activities of extraterritorial organizations and bodies
+
+Number of employees: Number of employees
+up_to_9: up to 9 persons
+10_49: 10-49 persons
+50_249: 50-249 persons
+250_plus: 250 persons or more
