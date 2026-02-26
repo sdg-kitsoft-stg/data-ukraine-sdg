@@ -1,4 +1,4 @@
-Year,sphere,status,Region,Value
+Year,Sphere,Status,Region,Value
 2015,,,Ukraine,177.0
 2015,,,11_reg_Vinnytsya,
 2015,,,12_reg_Volyn,
@@ -268,6 +268,30 @@ Year,sphere,status,Region,Value
 2024,,,33_reg_Chernivtsi,1.0
 2024,,,34_reg_Chernihiv,1.0
 2024,,,35_reg_Kyiv_city,
+
+2015,,,autonomous_Republic_of_Crimea,
+2016,,,autonomous_Republic_of_Crimea,
+2017,,,autonomous_Republic_of_Crimea,
+2018,,,autonomous_Republic_of_Crimea,
+2019,,,autonomous_Republic_of_Crimea,
+2020,,,autonomous_Republic_of_Crimea,
+2021,,,autonomous_Republic_of_Crimea,
+2022,,,autonomous_Republic_of_Crimea,
+2023,,,autonomous_Republic_of_Crimea,
+2024,,,autonomous_Republic_of_Crimea,
+
+2015,,,city_Sevastopol,
+2016,,,city_Sevastopol,
+2017,,,city_Sevastopol,
+2018,,,city_Sevastopol,
+2019,,,city_Sevastopol,
+2020,,,city_Sevastopol,
+2021,,,city_Sevastopol,
+2022,,,city_Sevastopol,
+2023,,,city_Sevastopol,
+2024,,,city_Sevastopol,
+
+
 
 2015,energy_water_utilities,,,
 2015,transport_infrastructure,,,
