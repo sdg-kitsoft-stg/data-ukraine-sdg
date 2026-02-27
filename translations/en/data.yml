@@ -1970,6 +1970,251 @@ primary_level_of_education: primary
 basic_secondary_level_of_education: basic secondary
 profile_level_of_education: profile secondary
 
+group_1: "Concentration of major pollutants in seawater by substance, milligrams per cubic meter"
+group_label_1: 'Cadmium and its compounds'
+group_label_2: 'Lead and its compounds'
+group_label_3: 'Mercury and its compounds'
+group_label_4: 'Nickel and its compounds'
+group_label_5: 'Arsenic (As)'
+group_label_6: 'Chromium (Cr)'
+group_label_7: 'Copper (Cu)'
+group_label_8: 'Zinc (Zn)'
+group_label_9: 'Cobalt (Co)'
+group_label_10: 'Vanadium'
+group_label_11: 'Molybdenum'
+group_label_12: 'Iron'
+group_label_13: 'Tributyltin oxide'
+group_label_14: 'Anthracene'
+group_label_15: 'Benzene'
+group_label_16: 'Sum Brominated diphenylethers'
+group_label_17: 'C10-13 Chloroalkanes'
+group_label_18: '1,2-Dichloroethane'
+group_label_19: 'Dichloromethane'
+group_label_20: 'Di(2-ethylhexyl)-phthalate (DEHP)'
+group_label_21: 'Fluoranthene'
+group_label_22: 'Hexachlorobutadiene'
+group_label_23: 'Naphthalene'
+group_label_24: 'Sum Phenol, 4-nonyl-, branched'
+group_label_25: 'Sum (4-(1,1'',3,3''- tetramethyl- butyl)-phenol, 4-Octylphenol)'
+group_label_26: 'Pentachlorobenzene'
+group_label_27: 'Pentachlorophenol'
+group_label_28: 'Phenols (sum volatile )'
+group_label_29: 'Monochlor Phenol'
+group_label_30: 'Dichlorophenol'
+group_label_31: 'Trichlorophenol'
+group_label_32: 'Tetrachlorophenol'
+group_label_33: 'Chlorophenol (sum)'
+group_label_34: 'Benzo(a)pyrene'
+group_label_35: 'Benzo(b)fluoranthene'
+group_label_36: 'Benzo(g,h,i)perylene'
+group_label_37: 'Benzo(k)fluoranthene'
+group_label_38: 'Indeno(1,2,3cd)-pyrene'
+group_label_39: 'benz(a)anthracene'
+group_label_40: 'Сhrysene'
+group_label_41: 'Phenanthrene'
+group_label_42: 'Tributyltin compounds (Tributyltin-cation)'
+group_label_43: 'Trichlorobenzenes'
+group_label_44: 'Trichloromethane'
+group_label_45: 'Dicofol'
+group_label_46: 'Perfluorooctane sulfonic acid and its derivatives (PFOS)'
+group_label_47: '2,3,3'',4,4'',5-Hexachlorobiphenyl (PCB156)'
+group_label_48: '2,3'',4,4'',5-Pentachlorobiphenyl (PCB118)'
+group_label_49: '3,4,5,3'',4''-Pentachlorobiphenyl (PCB126)'
+group_label_50: 'Sum Hexabromocyclododecane isomers'
+group_label_51: '2,2'',3,4,4'',5,5''-Heptachlorobiphenyl (PCB180)'
+group_label_52: '2,2'',3'',4,4'',5-Hexachlorobiphenyl (PCB138)'
+group_label_53: '2,4,4''-Trichlorobiphenyl (PCB28)'
+group_label_54: '2,4,5,2'',4'',5''-Hexachlorobiphenyl (PCB153)'
+group_label_55: '2,4,5,2'',5''-Pentachlorobiphenyl (PCB101)'
+group_label_56: '2,5,2'',5''-Tetrachlorobiphenyl (PCB52)'
+group_label_57: 'Tetrachloroethylene'
+group_label_58: 'Trichloroethylene'
+group_label_59: 'Carbon-tetrachloride'
+group_label_60: 'Alachlor'
+group_label_61: 'Atrazine'
+group_label_62: 'Chlorfenvinphos'
+group_label_63: 'Chlorpyrifos (Chlorpyrifosethyl)'
+group_label_64: 'Diuron'
+group_label_65: 'Endosulfan'
+group_label_66: 'Hexachlorobenzene'
+group_label_67: 'Hexachlorocyclohexane Total'
+group_label_68: 'Isoproturon'
+group_label_69: 'Simazine'
+group_label_70: 'Trifluralin'
+group_label_71: 'Quinoxyfen'
+group_label_72: 'Aclonifen'
+group_label_73: 'Bifenox'
+group_label_74: 'Cybutryne'
+group_label_75: 'Cypermethrin'
+group_label_76: 'Dichlorvos'
+group_label_77: 'Heptachlor'
+group_label_78: 'Terbutryn'
+group_label_79: 'gamma-1,2,3,4,5,6-Hexachlorocyclohexane (g-HCH)'
+group_label_80: 'beta-1,2,3,4,5,6-Hexachlorocyclohexane (b-HCH)'
+group_label_81: 'Sum metabolites DDT'
+group_label_82: 'Dichlorodiphenyltrichloroethane (p,p''-DDT)'
+group_label_83: 'Trichlorobenzene'
+group_label_84: 'Azinphos-methyl'
+group_label_85: 'Diazinon'
+group_label_86: 'Malathion'
+group_label_87: 'Parathion-ethyl'
+group_label_88: 'TPH'
+group_label_89: 'Anionic Surface Active Substances'
+group_2: "By sea"
+group_label_90: "Sea of Azov"
+group_label_91: "Black Sea"
+group_label_92: "Overall for coastal oblasts"
+group_3: "Water quality indicator (milligrams per cubic decimeter) by components, percent"
+group_label_93: "Phosphate phosphorus"
+group_label_94: "Total phosphorus"
+group_label_95: "Nitrate nitrogen"
+group_label_96: "Nitrite nitrogen"
+group_label_97: "Ammonium nitrogen"
+group_label_98: "Dissolved mineral nitrogen"
+group_label_99: "Total nitrogen"
+group_label_100: "Chlorophyll-a"
+group_label_101: "Transparency"
+group_label_102: "Dissolved oxygen"
+group_label_103: "Biochemical oxygen demand (5-day BOD)"
+group_4: "Dnipro–Buh estuarine system"
+group_label_104: "Azov turbot"
+group_label_105: "Artemia salina (brine shrimp)"
+group_label_106: "Artemia salina (eggs)"
+group_label_107: "Goby fish"
+group_label_108: "Gammarids"
+group_label_109: "Flounder (glossa)"
+group_label_110: "Eelgrass (Zostera)"
+group_label_111: "Shrimp"
+group_label_112: "Noah's ark shell (Scapharca)"
+group_label_113: "Bream"
+group_label_114: "Mussel"
+group_label_115: "Bloodworm (chironomid larvae)"
+group_label_116: "Black Sea herring"
+group_label_117: "So-iuy mullet (pilengas)"
+group_label_118: "Roach"
+group_label_119: "Rapana"
+group_label_120: "Nase"
+group_label_121: "Zander (pike-perch)"
+group_label_122: "Common sprat"
+group_label_123: "Anchovy (Azov)"
+group_label_124: "Sand smelt (Atherina)"
+group_label_125: "Red mullet"
+group_label_126: "Black Sea garfish"
+group_label_127: "Black Sea sprat"
+group_label_128: "Flathead grey mullet (loban)"
+group_label_129: "Whiting"
+group_label_130: "Thornback ray"
+group_label_131: "Common stingray"
+group_label_132: "Garfish"
+group_label_133: "Golden grey mullet (singil)"
+group_label_134: "Horse mackerel"
+group_label_135: "Anchovy (Black Sea)"
+group_label_136: "Cystoseira"
+group_label_137: "Black Sea turbot"
+group_5: "Lower Dniester with lakes and the Dniester Estuary (Liman)"
+group_label_157: "Crayfish"
+group_label_158: "Herbivorous fish (silver carp, bighead carp, their hybrid)"
+group_6: "Tuzly Lagoons group"
+group_label_159: "European flounder (glossa)"
+group_7: "Budak (Shabolat) Lagoon"
+group_8: "Berezan Estuary (Liman)"
+group_label_160: "European flounder (glossa)"
+group_9: "Tyligul Estuary (Liman)"
+group_10: "Zones"
+group_label_161: "Polissia"
+group_label_162: "Forest-steppe"
+group_label_163: "Steppe"
+group_11: "Mountain region"
+group_label_164: "Zakarpattia Oblast"
+group_label_165: "Ivano-Frankivsk Oblast"
+group_label_166: "Lviv Oblast"
+group_label_167: "Chernivtsi Oblast"
+group_12: "Age"
+group_label_168: "14–18 years"
+group_label_169: "19–25 years"
+group_label_170: "26–35 years"
+group_label_171: "36–45 years"
+group_label_172: "46–60 years"
+group_label_173: "Over 60 years"
+group_13: "Sex"
+group_label_174: "Women"
+group_label_175: "Men"
+group_14: "Applicant status"
+group_label_176: "Individual"
+group_label_177: "Sole proprietor (individual entrepreneur)"
+group_label_178: "Legal entity"
+group_15: "Type of authority that established the ASC"
+group_label_179: "City council"
+group_label_180: "Settlement council"
+group_label_181: "Village council"
+group_16: "Type of place of residence"
+group_label_189: "Urban"
+group_label_190: "Rural"
+group_17: "Income decile groups"
+group_label_191: "First (lowest)"
+group_label_192: "Second"
+group_label_193: "Third"
+group_label_194: "Fourth"
+group_label_195: "Fifth"
+group_label_196: "Sixth"
+group_label_197: "Seventh"
+group_label_198: "Eighth"
+group_label_199: "Ninth"
+group_label_200: "Tenth (highest)"
+group_18: "Including"
+group_label_201: "By ministries and other central executive bodies"
+group_label_202: "By oblast and Kyiv City state administrations (military administrations)"
+group_19: "Education level"
+group_label_213: "Primary education"
+group_label_214: "Secondary education"
+group_label_215: "Secondary vocational education"
+group_label_216: "Higher education"
+group_20: "Employment status"
+group_label_217: "Full/part-time employment"
+group_label_218: "Housekeeping or maternity leave"
+group_label_219: "Pensioners"
+group_label_220: "Students"
+group_label_221: "Unemployed"
+group_21: "Income level"
+group_label_222: "Not enough money for food"
+group_label_223: "Enough for food, but not enough for clothing"
+group_label_224: "Enough for clothing, but not enough for expensive goods"
+group_label_225: "Enough money for expensive goods"
+group_22: "Displacement status"
+group_label_226: "Internally displaced persons (IDPs)"
+group_label_227: "Returnees"
+group_label_228: "People who did not leave"
+group_23: "Type of place of residence"
+group_24: "Type of legal aid"
+group_label_235: "Primary legal aid"
+group_label_236: "Secondary legal aid"
+group_25: "Category of issues"
+group_label_237: "Social security"
+group_label_238: "Inheritance law"
+group_label_239: "Family law"
+group_label_240: "Medical law"
+group_label_241: "Labor law"
+group_label_242: "Administrative law and administrative procedure"
+group_label_243: "Land law"
+group_label_244: "Contract law"
+group_label_245: "Housing law"
+group_label_246: "Civil law and civil procedure"
+group_label_247: "Enforcement of court decisions"
+group_label_248: "Non-legal issue"
+group_label_249: "Other"
+group_label_250: "Criminal law and criminal procedure"
+group_label_251: "Pension law"
+group_label_252: "Tax law"
+group_label_253: "Electoral law"
+group_label_254: "Commercial law"
+group_label_255: "Issues related to armed aggression"
+group_26: "Risk level"
+group_label_265: "Low"
+group_label_266: "High"
+group_27: "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
+group_label_267: "Share of population"
+group_label_268: "Share of business representatives"
+
 B01: growing of cereals (except rice), leguminous crops and oil seeds
 B02: growing of rice
 B03: growing of vegetables and melons, roots and tubers
