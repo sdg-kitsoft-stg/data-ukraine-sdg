@@ -1,8 +1,8 @@
 SDG_GOAL: 14 Conserve marine resources
 SDG_TARGET: 14.2 Ensuring the sustainable use and protection of marine and coastal ecosystems, increasing resilience and recovery
 SDG_INDICATOR: '14.2.3 Water quality indicator (milligrams per cubic decimeter) by components, percent: phosphate phosphorus; total phosphorus; nitrate nitrogen; nitrite nitrogen; ammonium nitrogen; dissolved mineral nitrogen; total nitrogen; chlorophyll-a; transparency; dissolved oxygen; biological oxygen consumption in five days'
-CONTACT_ORGANISATION: "Ministry of Environmental Protection and Natural Resources of Ukraine"
-REC_USE_LIM: 1 Marine array CW5.
+CONTACT_ORGANISATION: "Ministry of Environment"
+REC_USE_LIM: Marine array CW5.
 footer_fields:
   - label: "Цільові значення індикатора на 2030 рік"
     value: "Phosphate phosphorus – 2.0-18.9, carbon phosphorus – 8.3-37.2, nitrate nitrogen – 0.3-5.7, nitrite nitrogen – 0.5-170, ammonium nitrogen – 3-12.6, mineral nitrogen – 4.3-188, flammable nitrogen – 10-567, chlorophyll-a – 0.2-1.6, clarity – 2.6-15.9, disintegrating kisen – 8-10.2, biologically grown kisin in five days – 95.4-107.8"
