@@ -393,6 +393,11 @@ Region: Область
 autonomous_Republic_of_Crimea: Автономна Республіка Крим
 city_Sevastopol: м. Севастополь
 
+West: Захід
+Center: Центр
+South: Південь
+East: Схід
+
 Farm caregory: Категорія господарств
 farms_1_all: Господарства усіх категорій
 farms_2_enterprise: Підприємства

@@ -2,4 +2,4 @@ SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.3 Creating conditions for the return and integration of internally displaced persons
 SDG_INDICATOR: 16.3.1 Share of registered unemployed internally displaced persons employed with the assistance of the State Employment Service in the total number of registered unemployed internally displaced persons, percent
 CONTACT_ORGANISATION: "Ministry of Economy, Environment and Agriculture of Ukraine"
-REC_USE_LIM: 1 According to the data of the State Employment Service.
+REC_USE_LIM: According to the data of the State Employment Service.
