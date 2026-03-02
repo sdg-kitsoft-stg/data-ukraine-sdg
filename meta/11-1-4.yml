@@ -3,3 +3,6 @@ SDG_TARGET: 11.1 Ensuring the population’s access to housing of adequate quali
 SDG_INDICATOR: 11.1.4 Share of applicants who received compensation for housing damaged as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for damaged housing using the electronic public service "eRecovery", percent (SDG indicator 11.1.4)
 CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
 UNIT_MEASURE: Percentage (%)
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: '50'
