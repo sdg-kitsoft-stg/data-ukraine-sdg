@@ -2,7 +2,7 @@ SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.2 Reducing the level of gender-based violence and domestic violence, ensuring effective prevention of its manifestations and providing timely assistance to victims
 SDG_INDICATOR: 5.2.1 Share of the population that is aware of information about manifestations of domestic violence and gender-based violence, tools and opportunities to protect rights in the event of manifestations of such violence and considers such violence unacceptable (has zero tolerance for violence), percent
 CONTACT_ORGANISATION: "National Social Service of Ukraine (NSSU)"
-REC_USE_LIM:
+REC_USE_LIM: "Data will be available from 2026."
 footer_fields:
     - label: "Target value of the indicator for 2030"
       value: 'increase by 5 percent every 3 years'

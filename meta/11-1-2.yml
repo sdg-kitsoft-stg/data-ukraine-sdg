@@ -3,6 +3,7 @@ SDG_TARGET: 11.1 Ensuring the population’s access to housing of adequate quali
 SDG_INDICATOR: 11.1.2 Share of families/citizens (total of all family members) living in social housing in the total number of families/citizens in need of housing, percent (SDG indicator 11.1.2)
 CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
 UNIT_MEASURE: Percentage (%)
+REC_USE_LIM: "Data will be provided additionally."
 footer_fields:
   - label: "Target value of the indicator for 2030"
     value: '50'

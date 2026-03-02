@@ -3,7 +3,7 @@ SDG_TARGET: 14.1 Reducing the level of pollution and contamination of the marine
 SDG_INDICATOR: '14.1.2 Amount of litter in the marine environment and on the coast: beach garbage, units per 100 meters of beach length, 
 floating marine debris, units per square kilometer of sea surface'
 CONTACT_ORGANISATION: "Ministry of Environmental Protection and Natural Resources of Ukraine"
-REC_USE_LIM:
+REC_USE_LIM: "Data will be available after the end or lifting of martial law."
 footer_fields:
   - label: "Target values of the indicator for 2030"
     value: 'beach litter, units/100 meters of beach length – 20, floating marine litter, units/sq. kilometer of sea surface – 90"'
