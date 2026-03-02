@@ -253,6 +253,7 @@ age_15: up to 15 years
 age_14_30: 14-30 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
+age_18_39: 18-39 years
 age_25_35: 25-35 years
 age_36_59: 36-59 years
 age_40_64: 40-64 years
@@ -463,7 +464,7 @@ Reason of disability: Reason of obtaining disability
 war_actions: as a result of military action
 since_childhood:  since childhood
 
-Cause of death: by cause of mortality
+Cause of death: Causes of mortality
 Form of rehabilitation assistance: by forms of rehabilitation assistance
 
 Infectious diseases: Infectious diseases

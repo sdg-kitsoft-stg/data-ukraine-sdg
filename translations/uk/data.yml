@@ -275,6 +275,7 @@ age_15: до 15 років
 age_14_30: 14 - 30 років
 age_15_17: 15 - 17 років
 age_18_24: 18 - 24 роки
+age_18_39: 18 - 39 років
 age_25_35: 25 - 35 років
 age_36_59: 36 - 59 років
 age_40_64: 40 - 64 роки
@@ -335,7 +336,7 @@ urban_settl: селище міського типу
 city: місто
 village_: селище, село
 
-by type of place of registration of service providers:  За типом місцевості реєстрації надавачів послуг
+by type of place of registration of service providers: Тип місцевості реєстрації надавачів послуг
 
 Level: Освітній рівень
 1_level: 1-й рівень (початковий, 0-3 бали)
@@ -514,7 +515,7 @@ Reason of disability: Причина отримання інвалідності
 war_actions: внаслідок воєнних дій
 since_childhood: з дитинства
 
-Cause of death: за причиною смертності
+Cause of death: Причини смертності
 Form of rehabilitation assistance: за формами реабілітаційної допомоги
 
 ill_8_mumps: Епідемічний паротит
