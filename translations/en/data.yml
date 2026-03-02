@@ -2835,3 +2835,14 @@ employees_50_249: 50-249 persons
 employees_250_plus: 250 persons or more
 
 by main product groups: Type of product
+by_territorial_communities: territorial communities
+working_population: working population
+non_working_population: non-working population
+education_seekers: education seekers
+
+storages: storages
+anti_radiation_shelters: anti-radiation shelters
+dual_use_structures: dual-use structures
+simplest_shelters: simplest shelters
+of_which_by_regions: of which by regions
+by_local_automated_centralized_warning_systems: by local automated centralized warning systems
