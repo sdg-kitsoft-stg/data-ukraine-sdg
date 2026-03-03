@@ -2863,3 +2863,11 @@ dnipro_river_basin_area: Dnipro River Basin Area
 don_river_basin_area: Don River Basin Area
 southern_bug_river_basin_area: Southern Bug River Basin Area
 vistula_river_basin_area: Vistula River Basin Area
+
+Type of energy resources: Type of energy resources
+anthracite_coal: anthracite coal (code according to UCGFEA 2701 11 00 00)
+motor_gasolines: motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99)
+diesel_fuels: diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00)
+liquefied_petroleum_gases: liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00)
+natural_gas: natural gas (code according to UCGFEA 2711 21 00 00)
+non_irradiated_fuel_elements: non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00)
