@@ -3,3 +3,7 @@ SDG_TARGET: 14.2 Ensuring the sustainable use and protection of marine and coast
 SDG_INDICATOR: 14.2.1 Average annual change in hydrogen index in seawater, pH units
 CONTACT_ORGANISATION: "Ministry of Environmental Protection and Natural Resources of Ukraine"
 REC_USE_LIM: Marine array CW5.
+
+footer_fields:
+  - label: "Target values of the indicator for 2030"
+    value: '6,5-8,5'
