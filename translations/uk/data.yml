@@ -2968,3 +2968,18 @@ simplest_shelters: найпростіші укриття
 by_territorial_automated_centralized_warning_systems: за територіальними автоматизованими системами центрального оповіщення
 of_which_by_regions: з них за регіонами
 by_local_automated_centralized_warning_systems: за місцевими автоматизованими системами центрального оповіщення
+
+PopulationGroup: Тип населення
+urban_population: міське населення
+rural_population: сільське населення
+
+By river basins: Річкові басейни
+azov_river_basin_area: район басейну річок Приазов’я
+black_sea_river_basin_area: район басейну річок Причорномор’я
+crimea_river_basin_area: район басейну річок Криму
+danube_river_basin_area: район басейну річки Дунай
+dniester_river_basin_area: район басейну річки Дністер
+dnipro_river_basin_area: район басейну річки Дніпро
+don_river_basin_area: район басейну річки Дон
+southern_bug_river_basin_area: район басейну річки Південний Буг
+vistula_river_basin_area: район басейну річки Вісла
