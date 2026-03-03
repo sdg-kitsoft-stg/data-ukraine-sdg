@@ -1,5 +1,8 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.2 Preventing of discrimination in society
-SDG_INDICATOR: 10.2.1 Share of persons who reported that they had personally encountered manifestations of gender-based discrimination in the last 12 months in the total number of persons who submitted appeals to the expert council on gender-based discrimination and commissions, percent
-CONTACT_ORGANISATION: "Ministry of Social Policy, Family and Unity of Ukraine"
-REC_USE_LIM: "Data will be available from 2026."
+SDG_INDICATOR: 10.2.1 Share of persons who reported that they had personally encountered manifestations of gender-based discrimination in the last 12 months in the total number of persons who submitted appeals to the expert council on gender-based discrimination and commissions, percent (SDG indicator 10.2.1)
+CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available from 2026
+UNIT_MEASURE: Percentage (%)
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: '90'
