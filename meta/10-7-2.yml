@@ -1,5 +1,8 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.7 Promoting orderly, safe, legal and responsible migration and mobility of people, in particular through planned and well-managed migration policy
-SDG_INDICATOR: 10.7.2 Effective management of migration processes and counteraction to illegal migration, which will contribute to safe, legal and responsible migration
-CONTACT_ORGANISATION: "State Migration Service of Ukraine (SMS)"
-REC_USE_LIM: 1 Data have been developed since 2016.<br>
+SDG_INDICATOR: 10.7.2 Effective management of migration processes and counteraction to illegal migration, which will contribute to safe, legal and responsible migration (SDG indicator 10.7.2)
+CONTACT_ORGANISATION: State Migration Service of Ukraine
+REC_USE_LIM: "Effective management of migration processes and counteraction to illegal migration, which will contribute to safe, legal and responsible migration: Data have been developed since 2016."
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: 'share of executed decisions on voluntary return, forced return and forced expulsion from Ukraine of irregular migrants – at least 70 percent of the decisions taken'

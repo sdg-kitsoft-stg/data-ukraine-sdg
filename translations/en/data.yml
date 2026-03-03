@@ -471,7 +471,6 @@ Infectious diseases: Infectious diseases
 ill_8_mumps: Mumps
 ill_9_rubella: Rubella
 ill_10_tetanus: Tetanus
-ill_11_tetanus: Haemophilus infection
 
 age_vac_1_under_1_year: under 1 year
 age_vac_2_1_year: 1 year
@@ -2216,7 +2215,6 @@ group_label_266: "High"
 group_27: "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
 group_label_267: "Share of population"
 group_label_268: "Share of business representatives"
-group_28: 'Type of shelters'
 
 B01: growing of cereals (except rice), leguminous crops and oil seeds
 B02: growing of rice
@@ -2848,6 +2846,32 @@ dual_use_structures: dual-use structures
 simplest_shelters: simplest shelters
 of_which_by_regions: of which by regions
 by_local_automated_centralized_warning_systems: by local automated centralized warning systems
+
+By form of discrimination: form of discrimination
+direct_discrimination: direct discrimination
+indirect_discrimination: indirect discrimination
+incitement_to_discrimination: incitement to discrimination
+complicity_in_discrimination: complicity in discrimination
+oppression: oppression
+
+By spheres of public relations: by spheres of public relations
+freedom_from_discrimination_in_the_field_of_social_protection: freedom from discrimination in the field of social protection
+freedom_from_discrimination_in_the_field_of_education: freedom from discrimination in the field of education
+freedom_from_discrimination_in_the_field_of_service_provision: freedom from discrimination in the field of service provision
+freedom_from_discrimination_in_the_field_of_access_to_justice: freedom from discrimination in the field of access to justice
+freedom_from_discrimination_in_the_field_of_health_care: freedom from discrimination in the field of health care
+freedom_from_discrimination_in_the_field_of_labor_employment: freedom from discrimination in the field of labor, employment
+freedom_from_discrimination_in_the_field_of_sports: freedom from discrimination in the field of sports
+freedom_from_discrimination_in_the_media: freedom from discrimination in the media
+freedom_from_discrimination_in_the_field_of_advertising: freedom from discrimination in the field of advertising
+freedom_from_discrimination_in_the_field_of_advertising_for_vacancies: freedom from discrimination in the field of advertising for vacancies (recruitment)
+internally_displaced_persons: internally displaced persons
+by_migration_status: by migration status(refugee, citizen of another state - labor migrant, foreigner, illegal migrant, stateless person, person granted subsidiary protection, person granted temporary protection, asylum seeker)
+
+Wage replacement rate by pensions: Wage replacement rate by pensions
+relative_to_0_5_average_wage: relative to 0.5 average wage
+relative_to_full_average_wage: relative to full average wage
+relative_to_1_5_average_wage: relative to 1.5 average wage
 
 PopulationGroup: Population Group
 urban_population: urban population
