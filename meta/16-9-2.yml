@@ -2,7 +2,7 @@ SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.9 Promoting the reduction of corruption
 SDG_INDICATOR: 16.9.2 Share of the population/business representatives who had their own corruption experience according to the results of the standard survey on corruption in Ukraine, conducted according to the methodology approved by the National Agency on Corruption Prevention, percent
 CONTACT_ORGANISATION: "National Agency on Corruption Prevention"
-REC_USE_LIM: '1 Data have been developed since 2020. 2 Data have been developed since 2021. 3 Data are provided on the results of the sociological study "Corruption in Ukraine 2024: Understanding, Perception, Prevalence" using the Standard Survey Methodology on Corruption in Ukraine.'
+REC_USE_LIM: 'Data have been developed since 2020.<br>Data have been developed since 2021.<br>2024 - Data are provided on the results of the sociological study "Corruption in Ukraine 2024: Understanding, Perception, Prevalence" using the Standard Survey Methodology on Corruption in Ukraine.'
 footer_fields:
   - label: "Target values of the indicator for 2030"
     value: "population – 16, business representatives – 15"
