@@ -1,5 +1,6 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepreneurs to realize their scientific and innovative potential
-SDG_INDICATOR: 9.1.4 R&D personnel per 1,000 employees (aged 15 and over), persons
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 1 The indicator "Number of employed population by age group 15–70 years" was used to calculate the indicator for 2015–2018. 2 The indicator was not calculated. Starting from 2022, due to the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War", the State Statistics Service does not calculate (estimate) and does not disseminate information on the number of employed population.
+SDG_INDICATOR: 9.1.4 R&D personnel per 1,000 employees (aged 15 and over), persons (SDG indicator 9.1.4)
+UNIT_MEASURE: persons
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine"
+REC_USE_LIM: "2015-2018: The indicator 'Number of employed population by age group 15–70 years' was used to calculate the indicator for 2015–2018. <br> 2022-2024: The indicator was not calculated. Starting from 2022, due to the Law of Ukraine 'On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War', the State Statistics Service does not calculate (estimate) and does not disseminate information on the number of employed population."

@@ -1,5 +1,6 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.2 Promoting inclusive and sustainable industrialization and increasing the share of workers employed in industry
-SDG_INDICATOR: 9.2.8 Share of persons employed at business entities of the processing industry in the total number of persons employed at business entities, percent
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 1 Excluding the results of the activities of budgetary institutions.
+SDG_INDICATOR: 9.2.8 Share of persons employed at business entities of the processing industry in the total number of persons employed at business entities, percent (SDG indicator 9.2.8)
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine"
+REC_USE_LIM: "Share of persons employed at business entities of the processing industry in the total number of persons employed at business entities: Excluding the results of the activities of budgetary institutions."

@@ -1,5 +1,5 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepreneurs to realize their scientific and innovative potential
-SDG_INDICATOR: 9.1.1 Share of expenditures on research and development (R&D) in the gross domestic product, percent
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 
+SDG_INDICATOR: 9.1.1 Share of expenditures on research and development (R&D) in the gross domestic product, percent (SDG indicator 9.1.1)
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine"

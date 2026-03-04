@@ -19,7 +19,7 @@ graph_limits:
   - series: ''
     unit: ''
     minimum: 0
-    maximum: 5.5
+    maximum: 7
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.9-5-2-title
 graph_titles: []
