@@ -2914,3 +2914,39 @@ other_res: other_res
 Indicators of energy consumption by households: Indicators of energy consumption by households
 indicator_of_energy_1: share of energy consumption by the household sector in total final energy consumption, percent
 indicator_of_energy_2: specific energy consumption of residential buildings, kilowatt-hours per square meter
+
+group_label_269: "Transportation and storage; postal and courier activities"
+group_label_270: "Public administration and defence; compulsory social security"
+group_label_271: "Human health and social work activities"
+
+group_28: "Age groups"
+group_label_272: "15–24 years"
+group_label_273: "25–29 years"
+group_label_274: "30–34 years"
+group_label_275: "35–39 years"
+group_label_276: "40–49 years"
+group_label_277: "50–59 years"
+group_label_278: "60–70 years"
+
+group_label_279: "Basic, primary general secondary, or no education"
+group_label_280: "Share of youth aged 15–34 who are not in employment, education or training, in the total population of the corresponding age, percent"
+
+group_29: "Total number and fatal outcome"
+group_label_281: "Total number"
+group_label_282: "With a fatal outcome"
+
+group_label_283: "Coal industry"
+group_label_284: "Metal ore and non-metal mining industry"
+group_label_285: "Oil and gas extraction industry and geological exploration"
+group_label_286: "Energy sector"
+group_label_287: "Boiler supervision, lifting equipment"
+group_label_288: "Machine building"
+group_label_289: "Metallurgical industry"
+group_label_290: "Chemical industry"
+group_label_291: "Communications"
+group_label_292: "Gas industry"
+group_label_293: "Housing and utilities sector"
+group_label_294: "Agro-industrial complex"
+group_label_295: "Woodworking industry"
+group_label_296: "Light and textile industry"
+group_label_297: "Socio-cultural sector and trade"
