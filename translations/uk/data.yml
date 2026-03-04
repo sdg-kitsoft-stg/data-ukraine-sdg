@@ -3065,3 +3065,11 @@ group_label_294: 'Агропромисловий комплекс'
 group_label_295: 'Деревообробна промисловість'
 group_label_296: 'Легка та текстильна промисловість'
 group_label_297: 'Соціально-культурна сфера та торгівля'
+
+Average monthly electricity consumption: Середньомісячне споживання електричної енергії на побутового споживача, кіловат–годин
+without_electric_heating: без електроопалення
+with_electric_heating: з електроопаленням
+
+By consumer categories: Категорії споживачів
+household: побутові
+non_household: непобутові

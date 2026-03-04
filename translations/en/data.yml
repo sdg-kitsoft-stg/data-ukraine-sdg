@@ -2950,3 +2950,11 @@ group_label_294: "Agro-industrial complex"
 group_label_295: "Woodworking industry"
 group_label_296: "Light and textile industry"
 group_label_297: "Socio-cultural sector and trade"
+
+Average monthly electricity consumption: Average monthly electricity consumption per household consumer, kilowatt–hours
+without_electric_heating: without electric heating
+with_electric_heating: with electric heating
+
+By consumer categories: Consumer categories
+household: household
+non_household: non-household
