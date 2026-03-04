@@ -2898,3 +2898,19 @@ non_irradiated_fuel_elements: non-irradiated fuel elements (fuel rods) for nucle
 
 By type of area: Type of area
 Indicators of production and technological costs in natural gas supply grids: Indicators of production and technological costs in natural gas supply grids
+
+By types of producers: Types of producers
+electricity_producers: electricity producers
+consumers_with_own_electrical_installations: consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator
+By types of renewable energy generation: Types of renewable energy generation (RES)
+solar_power_plants: solar power plants (SPP)
+wind_power_plants: wind power plants (WPP)
+micro_mini_small_hydroelectric_plants: micro, mini and small hydroelectric power plants (mHPP)
+biomass: biomass
+biogas: biogas
+geothermal_power_plants: geothermal power plants (GPP)
+other_res: other_res
+
+Indicators of energy consumption by households: Indicators of energy consumption by households
+indicator_of_energy_1: share of energy consumption by the household sector in total final energy consumption, percent
+indicator_of_energy_2: specific energy consumption of residential buildings, kilowatt-hours per square meter

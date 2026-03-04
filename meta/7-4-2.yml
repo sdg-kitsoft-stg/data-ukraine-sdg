@@ -3,3 +3,6 @@ SDG_TARGET: 7.4 Promoting the decarbonization of the fuel and energy complex and
 SDG_INDICATOR: '7.4.2 Share of energy produced from renewable sources in total final energy consumption by sectors, percent: electricity, heating and cooling, transport'
 CONTACT_ORGANISATION: "Ministry of Energy of Ukraine"
 REC_USE_LIM: "Data will be available after the end or lifting of martial law."
+footer_fields:
+    - label: "Target values of the indicator for 2030"
+      value: 'share of energy produced from renewable sources in the total final consumption by sectors, percent – increase to 27.1, electricity – increase to 29.4, heating and cooling – increase to 32.5, transport – increase to 17.2'
