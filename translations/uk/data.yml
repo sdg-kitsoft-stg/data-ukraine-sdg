@@ -3015,3 +3015,6 @@ diesel_fuels: палива дизельні (коди згідно з УКТЗЕ
 liquefied_petroleum_gases: гази вуглеводневі скраплені (LPG)(коди згідно з УКТЗЕД 2711 12–2711 19 00 00)
 natural_gas: газ природний (код згідно з УКТЗЕД 2711 21 00 00)
 non_irradiated_fuel_elements: неопромiненi паливнi елементи (твели) для ядерних реакторів (код згідно з УКТЗЕД 8401 30 00 00)
+
+By type of area: Тип місцевості
+Indicators of production and technological costs in natural gas supply grids: Показники виробничо–технологічних витрат у мережах постачання природного газу

@@ -2,4 +2,8 @@ SDG_GOAL: 7 Affordable and clean energy
 SDG_TARGET: 7.3 Improving the quality of energy supply
 SDG_INDICATOR: '7.3.2 Indicators of technological costs in power grids: share of technological costs of electricity in power grids (from the selection volume), percent; share of technological costs of electricity in distribution power grids (from the selection volume), percent'
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
-REC_USE_LIM: 
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'share of technological costs of electricity in power grids (from the selection volume) – decrease to 11.5, 
+share of technological costs of electricity in distribution power grids (from the selection volume) – decrease to 10'
+footer_reference: 'Share of technological costs of electricity in power grids (from the selection volume), percent: 2015 — 11,50; 2016 — 11,74; 2017 — 11,77; 2018 — 11,60; 2019 — 11,63; 2020 — 11,34; 2021 — 11,28; 2022 — 12,85; 2023 — 12,92; 2024 — 12,95. Share of technological costs of electricity in distribution power grids (from the selection volume): 2015 — 9,79; 2016 — 9,90; 2017 — 9,89; 2018 — 9,84; 2019 — 10,35; 2020 — 10,13; 2021 — 9,86; 2022 — 11,11; 2023 — 10,99; 2024 — 10,39.'

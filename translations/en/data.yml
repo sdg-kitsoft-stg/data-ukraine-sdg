@@ -2895,3 +2895,6 @@ diesel_fuels: diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48
 liquefied_petroleum_gases: liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00)
 natural_gas: natural gas (code according to UCGFEA 2711 21 00 00)
 non_irradiated_fuel_elements: non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00)
+
+By type of area: Type of area
+Indicators of production and technological costs in natural gas supply grids: Indicators of production and technological costs in natural gas supply grids
