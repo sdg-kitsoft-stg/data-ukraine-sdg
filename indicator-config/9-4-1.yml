@@ -15,13 +15,17 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: ''
+    unit: ''
+    minimum: 0
+    maximum: 80
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.9-4-3-title
+graph_title: global_indicators.9-4-1-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.9-4-3-title
-indicator_number: '9.4.3'
+indicator_name: global_indicators.9-4-1-title
+indicator_number: '9.4.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -34,5 +38,5 @@ tags: []
 graph_target_lines:
   - series: ''
     unit: ''
-    label_content: indicator.annotation_2020_target
-    value: 26
+    label_content: indicator.annotation_2030_target
+    value: 70
