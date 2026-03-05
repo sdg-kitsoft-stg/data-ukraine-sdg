@@ -1,5 +1,6 @@
 SDG_GOAL: 6 Clean water and sanitation
 SDG_TARGET: 6.2 Ensuring access of the population to modern water drainage systems
 SDG_INDICATOR: 6.2.2 Share of worn-out water drainage networks in the total length of water drainage grids, percent
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
 REC_USE_LIM: 

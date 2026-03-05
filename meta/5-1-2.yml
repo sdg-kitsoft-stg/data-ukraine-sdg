@@ -1,5 +1,6 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.1 Ensuring the implementation of effective state policy in all spheres of society to reduce inequality between women and men and prevent discrimination
 SDG_INDICATOR: 5.1.2 Share of satisfied appeals in the total number of appeals regarding actions recognized as gender-based discriminatory that were received by state authorities, percent
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: "National Social Service of Ukraine (NSSU)"
 REC_USE_LIM: "Data will be available from 2026."

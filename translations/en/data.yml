@@ -2958,3 +2958,8 @@ with_electric_heating: with electric heating
 By consumer categories: Consumer categories
 household: household
 non_household: non-household
+
+Resource: Type of equipment
+heat_energy: heat energy
+hot_water: hot water
+drinking_water: drinking water

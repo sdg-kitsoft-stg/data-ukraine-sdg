@@ -1,5 +1,6 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.3 Expanding population access to family planning services and reducing teenage birth rates
 SDG_INDICATOR: 5.3.1 Birth rate under the age of 20, per 1,000 women aged 15–19
+UNIT_MEASURE: Per 1,000 women aged 15–19
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: "2015-2021 - Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and data on Donetsk and Luhansk regions. <br>2022-2024 - Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on birth rates has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information. <br>Due to the lack of information on the temporarily occupied territories in Donetsk and Luhansk oblasts, the calculation of relative indicators for Donetsk and Luhansk regions is incorrect."

@@ -1,5 +1,6 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.1 Ensuring the implementation of effective state policy in all spheres of society to reduce inequality between women and men and prevent discrimination
 SDG_INDICATOR: 5.1.1 Share of regulatory and legal acts adopted by the Cabinet of Ministers of Ukraine that comply with the principle of ensuring equal rights and opportunities for women and men in the total number of regulatory and legal acts monitored, percent
+UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: "Government Commissioner for Gender Equality Policy"
 REC_USE_LIM: 1 Data have been developed since 2019.

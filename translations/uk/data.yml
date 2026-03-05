@@ -3073,3 +3073,8 @@ with_electric_heating: з електроопаленням
 By consumer categories: Категорії споживачів
 household: побутові
 non_household: непобутові
+
+Resource: Тип оснащення
+heat_energy: теплова енергія
+hot_water: гаряча вода
+drinking_water: питна вода
