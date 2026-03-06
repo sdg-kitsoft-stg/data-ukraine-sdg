@@ -3117,3 +3117,7 @@ group_label_321: "aged 15–34"
 group_label_322: 'Number of registered client requests for free legal assistance'
 group_label_323: 'including who have applied to a single contact number of the free legal aid system 0-800-213-103 2'
 group_label_324: 'medium'
+group_33: 'Gender (age 15-24)'
+group_34: "Type of place of residence (age 15-24)"
+group_35: 'Gender (age 15-34)'
+group_36: "Type of place of residence (age 15-34)"
