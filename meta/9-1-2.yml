@@ -1,5 +1,38 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepreneurs to realize their scientific and innovative potential
-SDG_INDICATOR: 9.1.2 Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 1 Data have been developed since 2018. 2 Symbol (с) – data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. 3 Data are provided for legal entities with an average number of employees of 10 or more.
+SDG_INDICATOR: 9.1.2 Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent (SDG indicator 9.1.2)
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine – data are developed once every two years"
+REC_USE_LIM: "2016: Data have been developed since 2018. <br> 2018, 2020, 2022, 2024; Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations 2020; Manufacture of food products, beverages and tobacco products 2018,2020; Electricity, gas, steam and air conditioning supply 2020, 2022; Water supply; sewerage, waste management and remediation activities 2020, 2022; Water collection, treatment and supply; sewerage 2020, 2022; Waste collection, treatment and disposal activities; materials recovery, other waste management activities 2020, 2022; Land transport and transport via pipelines, water transport, air transport 2020, 2022; Warehousing and support activities for transport, postal and courier activities 2020, 2022; Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, programming and broadcasting activities 2020; Financial and insurance activities 2020; Architectural and engineering activities; technical testing and analysis 2022, 2024; Advertising and market research 2022, 2024: data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. <br> Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent: Data are provided for legal entities with an average number of employees of 10 or more."
+footer_reference: "
+Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent - Code NACE Rev.2: B+C+D+E+46+H+J+K+71+72+73;
+Industry - Code NACE Rev.2: B+C+D+E;
+Mining and quarrying - Code NACE Rev.2: B;
+Manufacturing - Code NACE Rev.2: C;
+Manufacture of food products, beverages and tobacco products - Code NACE Rev.2: 10+11+12;
+Manufacture of textiles, apparel, leather and related products - Code NACE Rev.2: 13+14+15;
+Manufacture of wood and paper products, and printing - Code NACE Rev.2: 16+17+18;
+Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations - Code NACE Rev.2: 19+20+21;
+Manufacture of rubber and plastics products, and other non-metallic mineral products - Code NACE Rev.2: 22+23;
+Manufacture of basic metals and fabricated metal products, except machinery and equipment - Code NACE Rev.2: 24+25;
+Manufacture of computer, electronic and optical products, electrical equipment, machinery and equipment n.e.c. - Code NACE Rev.2: 26+27+28;
+Manufacture of transport equipment, trailers and semi-trailers and other transport vehicles - Code NACE Rev.2: 29+30;
+Manufacture of furniture, other manufacturing, and repair and installation of machinery and equipment - Code NACE Rev.2: 31+32+33;
+Electricity, gas, steam and air conditioning supply - Code NACE Rev.2: D;
+Water supply; sewerage, waste management and remediation activities - Code NACE Rev.2: E;
+Water collection, treatment and supply; sewerage - Code NACE Rev.2: 36+37;
+Waste collection, treatment and disposal activities; materials recovery, other waste management activities - Code NACE Rev.2: 38+39;
+Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research - Code NACE Rev.2: 46+H+J+K+71+72+73;
+Wholesale trade, except of motor vehicles and motorcycles - Code NACE Rev.2: 46;
+Transportation and storage, postal and courier activities - Code NACE Rev.2: H;
+Land transport and transport via pipelines, water transport, air transport - Code NACE Rev.2: 49+50+51;
+Warehousing and support activities for transport, postal and courier activities - Code NACE Rev.2: 52+53;
+Information and telecommunications - Code NACE Rev.2: J;
+Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, programming and broadcasting activities - Code NACE Rev.2: 58+59+60;
+Telecommunications, computer programming, consultancy and related activities, information service activities - Code NACE Rev.2: 61+62+63;
+Financial and insurance activities - Code NACE Rev.2: K;
+Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research - Code NACE Rev.2: 71+72+73;
+Architectural and engineering activities; technical testing and analysis - Code NACE Rev.2: 71;
+Scientific research and development - Code NACE Rev.2: 72;
+Advertising and market research - Code NACE Rev.2: 73;
+"

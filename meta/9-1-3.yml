@@ -1,5 +1,48 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepreneurs to realize their scientific and innovative potential
-SDG_INDICATOR: 9.1.3 Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 1 The indicator was not calculated in 2016. 2 Symbol (с) – data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. 3 Data are provided for legal entities with an average number of employees of 50 or more.
+SDG_INDICATOR: 9.1.3 Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent (SDG indicator 9.1.3)
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine"
+REC_USE_LIM: "2016: The indicator was not calculated in 2016.<br> 2017-2024; Mining and quarrying 2021-2024; Mining of coal and lignite 2017; Extraction of crude petroleum and natural gas 2020-2021; Mining of metal ores 2020-2022, 2024; Other mining and quarrying 2020-2024; Mining support service activities 2020-2021, 2024; Manufacture of tobacco products 2019-2020; Manufacture of textiles 2021-2023; Manufacture of wearing apparel 2020-2023; Manufacture of leather and related products 2019, 2024; Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials 2021, 2023; Manufacture of paper and paper products 2021, 2024; Printing and reproduction of recorded media 2020-2023; Manufacture of coke and refined petroleum products 2017-2022; Manufacture of chemicals and chemical products 2024; Manufacture of rubber and plastic products 2021; Manufacture of basic metals 2020-2024; Manufacture of fabricated metal products, except machinery and equipment 2023; Other manufacturing 2023-2024; Repair and installation of machinery
+and equipment 2021, 2023; Electricity, gas, steam and air conditioning supply 2017-2021, 2023-2024; Electricity, gas, steam and air conditioning supply 2017-2021, 2023-2024; Water supply; sewerage, waste management and remediation activities 2017-2020, 2022-2023; Water collection, treatment and supply 2020, 2022-2023; Sewerage 2019, 2021; Waste collection, treatment and disposal activities; materials recovery 2017-2018, 2021-2024: data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. <br> Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent: Data are provided for legal entities with an average number of employees of 50 or more."
+footer_reference: "
+Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent - Code NACE Rev.2: B+C+D+E;
+Mining and quarrying - Code NACE Rev.2: B;
+Mining of coal and lignite - Code NACE Rev.2: 05;
+Extraction of crude petroleum and natural gas - Code NACE Rev.2: 06;
+Mining of metal ores - Code NACE Rev.2: 07;
+Other mining and quarrying - Code NACE Rev.2: 08;
+Mining support service activities - Code NACE Rev.2: 09;
+Manufacturing - Code NACE Rev.2: C;
+Manufacture of food products - Code NACE Rev.2: 10;
+Manufacture of beverages - Code NACE Rev.2: 11;
+Manufacture of tobacco products - Code NACE Rev.2: 12;
+Manufacture of textiles - Code NACE Rev.2: 13;
+Manufacture of wearing apparel - Code NACE Rev.2: 14;
+Manufacture of leather and related products - Code NACE Rev.2: 15;
+Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials - Code NACE Rev.2: 16; 
+Manufacture of paper and paper products - Code NACE Rev.2: 17;
+Printing and reproduction of recorded media - Code NACE Rev.2: 18;
+Manufacture of coke and refined petroleum products - Code NACE Rev.2: 19;
+Manufacture of chemicals and chemical products - Code NACE Rev.2: 20;
+Manufacture of basic pharmaceutical products and pharmaceutical preparations - Code NACE Rev.2: 21;
+Manufacture of rubber and plastic products - Code NACE Rev.2: 22;
+Manufacture of other non-metallic mineral products - Code NACE Rev.2: 23;
+Manufacture of basic metals - Code NACE Rev.2: 24;
+Manufacture of fabricated metal products, except machinery and equipment - Code NACE Rev.2: 25;
+Manufacture of computer, electronic and optical products - Code NACE Rev.2: 26;
+Manufacture of electrical equipment - Code NACE Rev.2: 27;
+Manufacture of machinery and equipment n.e.c. - Code NACE Rev.2: 28;
+Manufacture of motor vehicles, trailers and semi-trailers - Code NACE Rev.2: 29;
+Manufacture of other transport equipment - Code NACE Rev.2: 30;
+Manufacture of furniture - Code NACE Rev.2: 31;
+Other manufacturing - Code NACE Rev.2: 32;
+Repair and installation of machinery and equipment - Code NACE Rev.2: 33;
+Electricity, gas, steam and air conditioning supply - Code NACE Rev.2: D;
+Electricity, gas, steam and air conditioning supply - Code NACE Rev.2: 35;
+Water supply; sewerage, waste management and remediation activities - Code NACE Rev.2: E;
+Water collection, treatment and supply - Code NACE Rev.2: 36;
+Sewerage - Code NACE Rev.2: 37;
+Waste collection, treatment and disposal activities; materials recovery - Code NACE Rev.2: 38;
+Remediation activities and other waste management services - Code NACE Rev.2: 39;
+"

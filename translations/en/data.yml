@@ -164,7 +164,33 @@ number: number of regions
 44_collec_wat: water collection, treatment and supply
 45_waste_wat: sewage, wastewater collection and treatment
 46_restor: collection, treatment and disposal of waste; restoration of materials
-47_waste_act: other waste management activities 
+47_waste_act: other waste management activities
+48_products: Manufacture of food products, beverages and tobacco products
+49_leather: Manufacture of textiles, apparel, leather and related products
+50_wood: Manufacture of wood and paper products, and printing
+51_chemicals: Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations
+52_rubber: Manufacture of rubber and plastic products and other non-metallic mineral products
+53_metallurgy: Metallurgical production and manufacture of fabricated metal products, except machinery and equipment
+54_computers: Manufacture of computers, electronic and optical products, electrical equipment, machinery and equipment n.e.c.
+55_transport_equipment: Manufacture of motor vehicles, trailers and semi-trailers and other transport equipment
+56_furniture: Manufacture of furniture, other products, repair and installation of machinery and equipment
+57_energy: Electricity, gas, steam and air conditioning supply
+58_water_supply: Water supply; sewerage, waste management and remediation activities
+59_water_collection: Water collection, treatment and supply, sewerage, wastewater collection and treatment
+60_waste_management: Waste collection, treatment and disposal activities; materials recovery and other waste management activities
+61_trade_transport_info: Wholesale trade, except of motor vehicles and motorcycles, transport, storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research
+62_wholesale_trade: Wholesale trade, except of motor vehicles and motorcycles
+63_transport_storage: Transport, storage, postal and courier activities
+64_transport_types: Land and pipeline transport, water transport, air transport
+65_transport_support: Warehousing and support activities for transportation, postal and courier activities
+66_information: Information and telecommunications
+67_media: Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting
+68_telecom_it: Telecommunications, computer programming, consultancy and related activities, information service activities
+69_finance: Financial and insurance activities
+70_architecture_engineering: Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research
+71_architecture_testing: Architectural and engineering activities; technical testing and analysis
+72_research: Scientific research and development
+73_advertising: Advertising and market research
 
 m_trans: Mode of transport
 tr_1_rail: rail
@@ -234,9 +260,7 @@ age_18_plus: 18 years and older
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
 age_36_60: from 36 years to 60 years inclusive
-age_60: 60 years and older
 
-age_18: up to 18 years 
 age_1_18_35: 18-35 years
 age_2_36_60: 36-60 years
 age_2_61_64: 61-64 years
@@ -324,9 +348,7 @@ village_: settlement, village
 
 Households: Household type
 hh_ch: households/families with children
-hh_ch_v2: households with children
 hh_ch_0: households/families without children
-hh_ch_0_v2: households without children
 
 Decile groups: Decile groups of income
 dg_01: 1st group (low income)
@@ -1959,12 +1981,11 @@ sanitary_chemical: sanitary and chemical indicators
 radiation: radiation indicators
 
 SupplyType: Type of water supply
-urban_pipelines: urban water supply
-rural_pipelines: rural water supply
+urban_pipelines: urban water pipelines
+rural_pipelines: rural water pipelines
 centralized_1: centralized water supply
 non_centralized_1: non-centralized water supply
-non_centralized: non-centralized water supply
-
+  
 energy_intensity_of_the_gross_domestic_product: energy intensity of the gross domestic product
 material_intensity_of_the_gross_domestic_product: material intensity of the gross domestic product
 carbon_intensity_of_the_gross_domestic_product: carbon intensity of the gross domestic product
@@ -3006,3 +3027,38 @@ real_estate: Real estate activities
 transportation_and_storage_post_and_courier_services: Transportation and storage, post and courier services
 water_supply_sewerage_waste_management_remediation: Water supply; sewerage, waste management and remediation activities
 wholesale_retail_trade_repair_motor_vehicles_motorcycles: Wholesale and retail trade; repair of motor vehicles and motorcycles
+
+By special aggregations: special aggregations
+production_using_technologies_of: production using technologies of
+high_level: high level
+medium_high_level: medium-high level
+medium_low_level: medium-low level
+low_level: low level
+
+By frequency of use: by frequency of use
+at_least_once_a_day: at least once a day
+at_least_onc_a_week_but_not_every_day: at least once a week, but not every day
+less_than_once_a_week: less than once a week
+
+By purpose of use: purpose of use
+sending e-mail: sending (receiving) e-mail
+for interaction with government bodies including obtaining information: for interaction with government bodies (e-government system), including obtaining information
+banking: banking
+reading/downloading newspapers magazines online: reading/downloading newspapers, magazines online
+downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them: downloading films, images, music; watching television or videos; or listening to the radio or music; playing video or computer games or downloading them
+participating in social networks communicating: participating in social networks, communicating (accessing websites, chats, blogs or online discussions)
+downloading software: downloading software
+using Internet storage for personal purposes to store documents images music videos or other files: using Internet storage for personal purposes to store documents, images, music, videos or other files
+conducting training activities for educational professional or private purposes through an online course: conducting training activities for educational, professional or private purposes through an online course
+conducting training activities for educational professional or private purposes through an online course except for full online courses: conducting training activities for educational, professional or private purposes through an online course, except for full online courses
+conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals: conducting training activities for educational, professional or private purposes through communication via the Internet with teachers or students using educational sites or portals
+making an appointment with a specialist doctor through the Internet: making an appointment with a specialist doctor through the Internet
+searching for information related to health issues for yourself and others: searching for information related to health issues (medicines, medical services, advice, etc.) for yourself and others
+ordering goods and services: ordering (purchasing) goods and services
+telephone conversations through the Internet/Volp: telephone conversations through the Internet/Volp (Skype, iTalk, via webcam)
+posting opinions on civil or political issues on websites: posting opinions on civil or political issues on websites (using blogs, social networks, etc.)
+participating in online consultations voting on civil or political issues: participating in online consultations, voting on civil or political issues (e.g. on urban planning issues, signing a petition, etc.)
+selling goods and services over the Internet: selling goods and services over the Internet
+using services related to travel or hotel accommodation while traveling: using services related to travel or hotel accommodation while traveling
+looking for work or sending a job application: looking for work or sending a job application
+searching for information about goods and services not previously mentioned: searching for information about goods and services not previously mentioned

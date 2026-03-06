@@ -1,0 +1,648 @@
+Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Value
+2015,,,,,,,
+2016,,,,,,,
+2017,,,,,,,
+2018,,,,,,,
+2019,,,,,,,
+2020,,,,,,,81.0
+2021,,,,,,,85.1
+2022,,,,,,,
+2023,,,,,,,
+2024,,,,,,,
+
+2015,age_16_17,,,,,,
+2016,age_16_17,,,,,,
+2017,age_16_17,,,,,,
+2018,age_16_17,,,,,,
+2019,age_16_17,,,,,,
+2020,age_16_17,,,,,,99.2
+2021,age_16_17,,,,,,100.0
+2022,age_16_17,,,,,,
+2023,age_16_17,,,,,,
+2024,age_16_17,,,,,,
+
+2015,age_18_24,,,,,,
+2016,age_18_24,,,,,,
+2017,age_18_24,,,,,,
+2018,age_18_24,,,,,,
+2019,age_18_24,,,,,,
+2020,age_18_24,,,,,,99.1
+2021,age_18_24,,,,,,99.2
+2022,age_18_24,,,,,,
+2023,age_18_24,,,,,,
+2024,age_18_24,,,,,,
+
+2015,age_25_35,,,,,,
+2016,age_25_35,,,,,,
+2017,age_25_35,,,,,,
+2018,age_25_35,,,,,,
+2019,age_25_35,,,,,,
+2020,age_25_35,,,,,,97.7
+2021,age_25_35,,,,,,98.8
+2022,age_25_35,,,,,,
+2023,age_25_35,,,,,,
+2024,age_25_35,,,,,,
+
+2015,age_36_59,,,,,,
+2016,age_36_59,,,,,,
+2017,age_36_59,,,,,,
+2018,age_36_59,,,,,,
+2019,age_36_59,,,,,,
+2020,age_36_59,,,,,,86.7
+2021,age_36_59,,,,,,90.9
+2022,age_36_59,,,,,,
+2023,age_36_59,,,,,,
+2024,age_36_59,,,,,,
+
+2015,age_60_74,,,,,,
+2016,age_60_74,,,,,,
+2017,age_60_74,,,,,,
+2018,age_60_74,,,,,,
+2019,age_60_74,,,,,,
+2020,age_60_74,,,,,,47.0
+2021,age_60_74,,,,,,55.8
+2022,age_60_74,,,,,,
+2023,age_60_74,,,,,,
+2024,age_60_74,,,,,,
+
+2015,,male,,,,,
+2016,,male,,,,,
+2017,,male,,,,,
+2018,,male,,,,,
+2019,,male,,,,,
+2020,,male,,,,,82.6
+2021,,male,,,,,86.5
+2022,,male,,,,,
+2023,,male,,,,,
+2024,,male,,,,,
+2015,,female,,,,,
+2016,,female,,,,,
+2017,,female,,,,,
+2018,,female,,,,,
+2019,,female,,,,,
+2020,,female,,,,,79.5
+2021,,female,,,,,93.8
+2022,,female,,,,,
+2023,,female,,,,,
+2024,,female,,,,,
+
+2015,,,urban,,,,
+2016,,,urban,,,,
+2017,,,urban,,,,
+2018,,,urban,,,,
+2019,,,urban,,,,
+2020,,,urban,,,,86.7
+2021,,,urban,,,,89.8
+2022,,,urban,,,,
+2023,,,urban,,,,
+2024,,,urban,,,,
+
+2015,,,rural,,,,
+2016,,,rural,,,,
+2017,,,rural,,,,
+2018,,,rural,,,,
+2019,,,rural,,,,
+2020,,,rural,,,,69.6
+2021,,,rural,,,,75.9
+2022,,,rural,,,,
+2023,,,rural,,,,
+2024,,,rural,,,,
+
+2015,,,,at_least_once_a_day,,,
+2016,,,,at_least_once_a_day,,,
+2017,,,,at_least_once_a_day,,,
+2018,,,,at_least_once_a_day,,,
+2019,,,,at_least_once_a_day,,,
+2020,,,,at_least_once_a_day,,,85.5
+2021,,,,at_least_once_a_day,,,87.2
+2022,,,,at_least_once_a_day,,,
+2023,,,,at_least_once_a_day,,,
+2024,,,,at_least_once_a_day,,,
+
+2015,,,,at_least_onc_a_week_but_not_every_day,,,
+2016,,,,at_least_onc_a_week_but_not_every_day,,,
+2017,,,,at_least_onc_a_week_but_not_every_day,,,
+2018,,,,at_least_onc_a_week_but_not_every_day,,,
+2019,,,,at_least_onc_a_week_but_not_every_day,,,
+2020,,,,at_least_onc_a_week_but_not_every_day,,,12.9
+2021,,,,at_least_onc_a_week_but_not_every_day,,,11.8
+2022,,,,at_least_onc_a_week_but_not_every_day,,,
+2023,,,,at_least_onc_a_week_but_not_every_day,,,
+2024,,,,at_least_onc_a_week_but_not_every_day,,,
+
+2015,,,,less_than_once_a_week,,,
+2016,,,,less_than_once_a_week,,,
+2017,,,,less_than_once_a_week,,,
+2018,,,,less_than_once_a_week,,,
+2019,,,,less_than_once_a_week,,,
+2020,,,,less_than_once_a_week,,,1.6
+2021,,,,less_than_once_a_week,,,1.0
+2022,,,,less_than_once_a_week,,,
+2023,,,,less_than_once_a_week,,,
+2024,,,,less_than_once_a_week,,,
+
+2015,,,,,sending e-mail,,
+2016,,,,,sending e-mail,,
+2017,,,,,sending e-mail,,
+2018,,,,,sending e-mail,,
+2019,,,,,sending e-mail,,
+2020,,,,,sending e-mail,,36.5
+2021,,,,,sending e-mail,,38.2
+2022,,,,,sending e-mail,,
+2023,,,,,sending e-mail,,
+2024,,,,,sending e-mail,,
+2015,,,,,for interaction with government bodies including obtaining information,,
+2016,,,,,for interaction with government bodies including obtaining information,,
+2017,,,,,for interaction with government bodies including obtaining information,,
+2018,,,,,for interaction with government bodies including obtaining information,,
+2019,,,,,for interaction with government bodies including obtaining information,,
+2020,,,,,for interaction with government bodies including obtaining information,,3.9
+2021,,,,,for interaction with government bodies including obtaining information,,5.2
+2022,,,,,for interaction with government bodies including obtaining information,,
+2023,,,,,for interaction with government bodies including obtaining information,,
+2024,,,,,for interaction with government bodies including obtaining information,,
+2015,,,,,banking,,
+2016,,,,,banking,,
+2017,,,,,banking,,
+2018,,,,,banking,,
+2019,,,,,banking,,
+2020,,,,,banking,,43.0
+2021,,,,,banking,,50.4
+2022,,,,,banking,,
+2023,,,,,banking,,
+2024,,,,,banking,,
+2015,,,,,reading/downloading newspapers magazines online,,
+2016,,,,,reading/downloading newspapers magazines online,,
+2017,,,,,reading/downloading newspapers magazines online,,
+2018,,,,,reading/downloading newspapers magazines online,,
+2019,,,,,reading/downloading newspapers magazines online,,
+2020,,,,,reading/downloading newspapers magazines online,,21.8
+2021,,,,,reading/downloading newspapers magazines online,,23.0
+2022,,,,,reading/downloading newspapers magazines online,,
+2023,,,,,reading/downloading newspapers magazines online,,
+2024,,,,,reading/downloading newspapers magazines online,,
+2015,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2016,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2017,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2018,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2019,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2020,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,68.2
+2021,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,69.2
+2022,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2023,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2024,,,,,downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them,,
+2015,,,,,participating in social networks communicating,,
+2016,,,,,participating in social networks communicating,,
+2017,,,,,participating in social networks communicating,,
+2018,,,,,participating in social networks communicating,,
+2019,,,,,participating in social networks communicating,,
+2020,,,,,participating in social networks communicating,,62.4
+2021,,,,,participating in social networks communicating,,64.3
+2022,,,,,participating in social networks communicating,,
+2023,,,,,participating in social networks communicating,,
+2024,,,,,participating in social networks communicating,,
+2015,,,,,downloading software,,
+2016,,,,,downloading software,,
+2017,,,,,downloading software,,
+2018,,,,,downloading software,,
+2019,,,,,downloading software,,
+2020,,,,,downloading software,,4.3
+2021,,,,,downloading software,,3.2
+2022,,,,,downloading software,,
+2023,,,,,downloading software,,
+2024,,,,,downloading software,,
+2015,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2016,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2017,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2018,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2019,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2020,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,6.4
+2021,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,5.4
+2022,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2023,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+2024,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
+
+2015,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2016,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2017,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2018,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2019,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2020,,,,,conducting training activities for educational professional or private purposes through an online course,,2.5
+2021,,,,,conducting training activities for educational professional or private purposes through an online course,,1.7
+2022,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2023,,,,,conducting training activities for educational professional or private purposes through an online course,,
+2024,,,,,conducting training activities for educational professional or private purposes through an online course,,
+
+2015,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2016,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2017,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2018,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2019,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2020,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,2.8
+2021,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,1.9
+2022,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2023,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+2024,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
+
+2015,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2016,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2017,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2018,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2019,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2020,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,5.7
+2021,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,5.2
+2022,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2023,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+2024,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
+
+2015,,,,,making an appointment with a specialist doctor through the Internet,,
+2016,,,,,making an appointment with a specialist doctor through the Internet,,
+2017,,,,,making an appointment with a specialist doctor through the Internet,,
+2018,,,,,making an appointment with a specialist doctor through the Internet,,
+2019,,,,,making an appointment with a specialist doctor through the Internet,,
+2020,,,,,making an appointment with a specialist doctor through the Internet,,14.6
+2021,,,,,making an appointment with a specialist doctor through the Internet,,19.0
+2022,,,,,making an appointment with a specialist doctor through the Internet,,
+2023,,,,,making an appointment with a specialist doctor through the Internet,,
+2024,,,,,making an appointment with a specialist doctor through the Internet,,
+2015,,,,,searching for information related to health issues for yourself and others,,
+2016,,,,,searching for information related to health issues for yourself and others,,
+2017,,,,,searching for information related to health issues for yourself and others,,
+2018,,,,,searching for information related to health issues for yourself and others,,
+2019,,,,,searching for information related to health issues for yourself and others,,
+2020,,,,,searching for information related to health issues for yourself and others,,32.6
+2021,,,,,searching for information related to health issues for yourself and others,,31.3
+2022,,,,,searching for information related to health issues for yourself and others,,
+2023,,,,,searching for information related to health issues for yourself and others,,
+2024,,,,,searching for information related to health issues for yourself and others,,
+2015,,,,,ordering goods and services,,
+2016,,,,,ordering goods and services,,
+2017,,,,,ordering goods and services,,
+2018,,,,,ordering goods and services,,
+2019,,,,,ordering goods and services,,
+2020,,,,,ordering goods and services,,24.3
+2021,,,,,ordering goods and services,,24.6
+2022,,,,,ordering goods and services,,
+2023,,,,,ordering goods and services,,
+2024,,,,,ordering goods and services,,
+2015,,,,,telephone conversations through the Internet/Volp,,
+2016,,,,,telephone conversations through the Internet/Volp,,
+2017,,,,,telephone conversations through the Internet/Volp,,
+2018,,,,,telephone conversations through the Internet/Volp,,
+2019,,,,,telephone conversations through the Internet/Volp,,
+2020,,,,,telephone conversations through the Internet/Volp,,37.0
+2021,,,,,telephone conversations through the Internet/Volp,,39.4
+2022,,,,,telephone conversations through the Internet/Volp,,
+2023,,,,,telephone conversations through the Internet/Volp,,
+2024,,,,,telephone conversations through the Internet/Volp,,
+
+2015,,,,,posting opinions on civil or political issues on websites,,
+2016,,,,,posting opinions on civil or political issues on websites,,
+2017,,,,,posting opinions on civil or political issues on websites,,
+2018,,,,,posting opinions on civil or political issues on websites,,
+2019,,,,,posting opinions on civil or political issues on websites,,
+2020,,,,,posting opinions on civil or political issues on websites,,0.6
+2021,,,,,posting opinions on civil or political issues on websites,,0.4
+2022,,,,,posting opinions on civil or political issues on websites,,
+2023,,,,,posting opinions on civil or political issues on websites,,
+2024,,,,,posting opinions on civil or political issues on websites,,
+
+2015,,,,,participating in online consultations voting on civil or political issues,,
+2016,,,,,participating in online consultations voting on civil or political issues,,
+2017,,,,,participating in online consultations voting on civil or political issues,,
+2018,,,,,participating in online consultations voting on civil or political issues,,
+2019,,,,,participating in online consultations voting on civil or political issues,,
+2020,,,,,participating in online consultations voting on civil or political issues,,0.4
+2021,,,,,participating in online consultations voting on civil or political issues,,0.1
+2022,,,,,participating in online consultations voting on civil or political issues,,
+2023,,,,,participating in online consultations voting on civil or political issues,,
+2024,,,,,participating in online consultations voting on civil or political issues,,
+2015,,,,,selling goods and services over the Internet,,
+2016,,,,,selling goods and services over the Internet,,
+2017,,,,,selling goods and services over the Internet,,
+2018,,,,,selling goods and services over the Internet,,
+2019,,,,,selling goods and services over the Internet,,
+2020,,,,,selling goods and services over the Internet,,2.9
+2021,,,,,selling goods and services over the Internet,,1.9
+2022,,,,,selling goods and services over the Internet,,
+2023,,,,,selling goods and services over the Internet,,
+2024,,,,,selling goods and services over the Internet,,
+
+2015,,,,,using services related to travel or hotel accommodation while traveling,,
+2016,,,,,using services related to travel or hotel accommodation while traveling,,
+2017,,,,,using services related to travel or hotel accommodation while traveling,,
+2018,,,,,using services related to travel or hotel accommodation while traveling,,
+2019,,,,,using services related to travel or hotel accommodation while traveling,,
+2020,,,,,using services related to travel or hotel accommodation while traveling,,0.3
+2021,,,,,using services related to travel or hotel accommodation while traveling,,0.4
+2022,,,,,using services related to travel or hotel accommodation while traveling,,
+2023,,,,,using services related to travel or hotel accommodation while traveling,,
+2024,,,,,using services related to travel or hotel accommodation while traveling,,
+
+2015,,,,,looking for work or sending a job application,,
+2016,,,,,looking for work or sending a job application,,
+2017,,,,,looking for work or sending a job application,,
+2018,,,,,looking for work or sending a job application,,
+2019,,,,,looking for work or sending a job application,,
+2020,,,,,looking for work or sending a job application,,3.3
+2021,,,,,looking for work or sending a job application,,2.3
+2022,,,,,looking for work or sending a job application,,
+2023,,,,,looking for work or sending a job application,,
+2024,,,,,looking for work or sending a job application,,
+
+2015,,,,,searching for information about goods and services not previously mentioned,,
+2016,,,,,searching for information about goods and services not previously mentioned,,
+2017,,,,,searching for information about goods and services not previously mentioned,,
+2018,,,,,searching for information about goods and services not previously mentioned,,
+2019,,,,,searching for information about goods and services not previously mentioned,,
+2020,,,,,searching for information about goods and services not previously mentioned,,5.3
+2021,,,,,searching for information about goods and services not previously mentioned,,5.2
+2022,,,,,searching for information about goods and services not previously mentioned,,
+2023,,,,,searching for information about goods and services not previously mentioned,,
+2024,,,,,searching for information about goods and services not previously mentioned,,
+
+2015,,,,,,,
+2016,,,,,,,
+2017,,,,,,,
+2018,,,,,,,
+2019,,,,,,,
+2020,,,,,,,81.0
+2021,,,,,,,85.1
+2022,,,,,,,
+2023,,,,,,,
+2024,,,,,,,
+
+2015,,,,,,autonomous_Republic_of_Crimea,
+2016,,,,,,autonomous_Republic_of_Crimea,
+2017,,,,,,autonomous_Republic_of_Crimea,
+2018,,,,,,autonomous_Republic_of_Crimea,
+2019,,,,,,autonomous_Republic_of_Crimea,
+2020,,,,,,autonomous_Republic_of_Crimea,
+2021,,,,,,autonomous_Republic_of_Crimea,
+2022,,,,,,autonomous_Republic_of_Crimea,
+2023,,,,,,autonomous_Republic_of_Crimea,
+2024,,,,,,autonomous_Republic_of_Crimea,
+
+2015,,,,,,city_Sevastopol,
+2016,,,,,,city_Sevastopol,
+2017,,,,,,city_Sevastopol,
+2018,,,,,,city_Sevastopol,
+2019,,,,,,city_Sevastopol,
+2020,,,,,,city_Sevastopol,
+2021,,,,,,city_Sevastopol,
+2022,,,,,,city_Sevastopol,
+2023,,,,,,city_Sevastopol,
+2024,,,,,,city_Sevastopol,
+
+2015,,,,,,11_reg_Vinnytsya,
+2016,,,,,,11_reg_Vinnytsya,
+2017,,,,,,11_reg_Vinnytsya,
+2018,,,,,,11_reg_Vinnytsya,
+2019,,,,,,11_reg_Vinnytsya,
+2020,,,,,,11_reg_Vinnytsya,77.1
+2021,,,,,,11_reg_Vinnytsya,79.9
+2022,,,,,,11_reg_Vinnytsya,
+2023,,,,,,11_reg_Vinnytsya,
+2024,,,,,,11_reg_Vinnytsya,
+
+2015,,,,,,12_reg_Volyn,
+2016,,,,,,12_reg_Volyn,
+2017,,,,,,12_reg_Volyn,
+2018,,,,,,12_reg_Volyn,
+2019,,,,,,12_reg_Volyn,
+2020,,,,,,12_reg_Volyn,77.6
+2021,,,,,,12_reg_Volyn,80.9
+2022,,,,,,12_reg_Volyn,
+2023,,,,,,12_reg_Volyn,
+2024,,,,,,12_reg_Volyn,
+
+2015,,,,,,13_reg_Dnipropetrovsk,
+2016,,,,,,13_reg_Dnipropetrovsk,
+2017,,,,,,13_reg_Dnipropetrovsk,
+2018,,,,,,13_reg_Dnipropetrovsk,
+2019,,,,,,13_reg_Dnipropetrovsk,
+2020,,,,,,13_reg_Dnipropetrovsk,85.5
+2021,,,,,,13_reg_Dnipropetrovsk,92.0
+2022,,,,,,13_reg_Dnipropetrovsk,
+2023,,,,,,13_reg_Dnipropetrovsk,
+2024,,,,,,13_reg_Dnipropetrovsk,
+2015,,,,,,14_reg_Donetsk,
+2016,,,,,,14_reg_Donetsk,
+2017,,,,,,14_reg_Donetsk,
+2018,,,,,,14_reg_Donetsk,
+2019,,,,,,14_reg_Donetsk,
+2020,,,,,,14_reg_Donetsk,78.4
+2021,,,,,,14_reg_Donetsk,89.5
+2022,,,,,,14_reg_Donetsk,
+2023,,,,,,14_reg_Donetsk,
+2024,,,,,,14_reg_Donetsk,
+2015,,,,,,15_reg_Zhytomyr,
+2016,,,,,,15_reg_Zhytomyr,
+2017,,,,,,15_reg_Zhytomyr,
+2018,,,,,,15_reg_Zhytomyr,
+2019,,,,,,15_reg_Zhytomyr,
+2020,,,,,,15_reg_Zhytomyr,74.6
+2021,,,,,,15_reg_Zhytomyr,74.2
+2022,,,,,,15_reg_Zhytomyr,
+2023,,,,,,15_reg_Zhytomyr,
+2024,,,,,,15_reg_Zhytomyr,
+2015,,,,,,16_reg_Zakarpattya,
+2016,,,,,,16_reg_Zakarpattya,
+2017,,,,,,16_reg_Zakarpattya,
+2018,,,,,,16_reg_Zakarpattya,
+2019,,,,,,16_reg_Zakarpattya,
+2020,,,,,,16_reg_Zakarpattya,81.4
+2021,,,,,,16_reg_Zakarpattya,92.3
+2022,,,,,,16_reg_Zakarpattya,
+2023,,,,,,16_reg_Zakarpattya,
+2024,,,,,,16_reg_Zakarpattya,
+2015,,,,,,17_reg_Zaporizhzhya,
+2016,,,,,,17_reg_Zaporizhzhya,
+2017,,,,,,17_reg_Zaporizhzhya,
+2018,,,,,,17_reg_Zaporizhzhya,
+2019,,,,,,17_reg_Zaporizhzhya,
+2020,,,,,,17_reg_Zaporizhzhya,82.7
+2021,,,,,,17_reg_Zaporizhzhya,82.9
+2022,,,,,,17_reg_Zaporizhzhya,
+2023,,,,,,17_reg_Zaporizhzhya,
+2024,,,,,,17_reg_Zaporizhzhya,
+2015,,,,,,18_reg_Ivano-Frankivsk,
+2016,,,,,,18_reg_Ivano-Frankivsk,
+2017,,,,,,18_reg_Ivano-Frankivsk,
+2018,,,,,,18_reg_Ivano-Frankivsk,
+2019,,,,,,18_reg_Ivano-Frankivsk,
+2020,,,,,,18_reg_Ivano-Frankivsk,82.4
+2021,,,,,,18_reg_Ivano-Frankivsk,89.9
+2022,,,,,,18_reg_Ivano-Frankivsk,
+2023,,,,,,18_reg_Ivano-Frankivsk,
+2024,,,,,,18_reg_Ivano-Frankivsk,
+2015,,,,,,19_reg_Kyiv,
+2016,,,,,,19_reg_Kyiv,
+2017,,,,,,19_reg_Kyiv,
+2018,,,,,,19_reg_Kyiv,
+2019,,,,,,19_reg_Kyiv,
+2020,,,,,,19_reg_Kyiv,78.8
+2021,,,,,,19_reg_Kyiv,85.5
+2022,,,,,,19_reg_Kyiv,
+2023,,,,,,19_reg_Kyiv,
+2024,,,,,,19_reg_Kyiv,
+2015,,,,,,20_reg_Kirovohrad,
+2016,,,,,,20_reg_Kirovohrad,
+2017,,,,,,20_reg_Kirovohrad,
+2018,,,,,,20_reg_Kirovohrad,
+2019,,,,,,20_reg_Kirovohrad,
+2020,,,,,,20_reg_Kirovohrad,75.4
+2021,,,,,,20_reg_Kirovohrad,80.0
+2022,,,,,,20_reg_Kirovohrad,
+2023,,,,,,20_reg_Kirovohrad,
+2024,,,,,,20_reg_Kirovohrad,
+2015,,,,,,21_reg_Luhansk,
+2016,,,,,,21_reg_Luhansk,
+2017,,,,,,21_reg_Luhansk,
+2018,,,,,,21_reg_Luhansk,
+2019,,,,,,21_reg_Luhansk,
+2020,,,,,,21_reg_Luhansk,79.3
+2021,,,,,,21_reg_Luhansk,81.2
+2022,,,,,,21_reg_Luhansk,
+2023,,,,,,21_reg_Luhansk,
+2024,,,,,,21_reg_Luhansk,
+2015,,,,,,22_reg_Lviv,
+2016,,,,,,22_reg_Lviv,
+2017,,,,,,22_reg_Lviv,
+2018,,,,,,22_reg_Lviv,
+2019,,,,,,22_reg_Lviv,
+2020,,,,,,22_reg_Lviv,77.6
+2021,,,,,,22_reg_Lviv,83.5
+2022,,,,,,22_reg_Lviv,
+2023,,,,,,22_reg_Lviv,
+2024,,,,,,22_reg_Lviv,
+2015,,,,,,23_reg_Mykolayiv,
+2016,,,,,,23_reg_Mykolayiv,
+2017,,,,,,23_reg_Mykolayiv,
+2018,,,,,,23_reg_Mykolayiv,
+2019,,,,,,23_reg_Mykolayiv,
+2020,,,,,,23_reg_Mykolayiv,79.8
+2021,,,,,,23_reg_Mykolayiv,83.7
+2022,,,,,,23_reg_Mykolayiv,
+2023,,,,,,23_reg_Mykolayiv,
+2024,,,,,,23_reg_Mykolayiv,
+2015,,,,,,24_reg_Odesa,
+2016,,,,,,24_reg_Odesa,
+2017,,,,,,24_reg_Odesa,
+2018,,,,,,24_reg_Odesa,
+2019,,,,,,24_reg_Odesa,
+2020,,,,,,24_reg_Odesa,82.3
+2021,,,,,,24_reg_Odesa,86.8
+2022,,,,,,24_reg_Odesa,
+2023,,,,,,24_reg_Odesa,
+2024,,,,,,24_reg_Odesa,
+2015,,,,,,25_reg_Poltava,
+2016,,,,,,25_reg_Poltava,
+2017,,,,,,25_reg_Poltava,
+2018,,,,,,25_reg_Poltava,
+2019,,,,,,25_reg_Poltava,
+2020,,,,,,25_reg_Poltava,75.5
+2021,,,,,,25_reg_Poltava,76.1
+2022,,,,,,25_reg_Poltava,
+2023,,,,,,25_reg_Poltava,
+2024,,,,,,25_reg_Poltava,
+2015,,,,,,26_reg_Rivne,
+2016,,,,,,26_reg_Rivne,
+2017,,,,,,26_reg_Rivne,
+2018,,,,,,26_reg_Rivne,
+2019,,,,,,26_reg_Rivne,
+2020,,,,,,26_reg_Rivne,82.3
+2021,,,,,,26_reg_Rivne,90.3
+2022,,,,,,26_reg_Rivne,
+2023,,,,,,26_reg_Rivne,
+2024,,,,,,26_reg_Rivne,
+2015,,,,,,27_reg_Sumy,
+2016,,,,,,27_reg_Sumy,
+2017,,,,,,27_reg_Sumy,
+2018,,,,,,27_reg_Sumy,
+2019,,,,,,27_reg_Sumy,
+2020,,,,,,27_reg_Sumy,81.1
+2021,,,,,,27_reg_Sumy,78.6
+2022,,,,,,27_reg_Sumy,
+2023,,,,,,27_reg_Sumy,
+2024,,,,,,27_reg_Sumy,
+2015,,,,,,28_reg_Ternopil,
+2016,,,,,,28_reg_Ternopil,
+2017,,,,,,28_reg_Ternopil,
+2018,,,,,,28_reg_Ternopil,
+2019,,,,,,28_reg_Ternopil,
+2020,,,,,,28_reg_Ternopil,81.1
+2021,,,,,,28_reg_Ternopil,82.7
+2022,,,,,,28_reg_Ternopil,
+2023,,,,,,28_reg_Ternopil,
+2024,,,,,,28_reg_Ternopil,
+2015,,,,,,29_reg_Kharkiv,
+2016,,,,,,29_reg_Kharkiv,
+2017,,,,,,29_reg_Kharkiv,
+2018,,,,,,29_reg_Kharkiv,
+2019,,,,,,29_reg_Kharkiv,
+2020,,,,,,29_reg_Kharkiv,86.0
+2021,,,,,,29_reg_Kharkiv,86.5
+2022,,,,,,29_reg_Kharkiv,
+2023,,,,,,29_reg_Kharkiv,
+2024,,,,,,29_reg_Kharkiv,
+2015,,,,,,30_reg_Kherson,
+2016,,,,,,30_reg_Kherson,
+2017,,,,,,30_reg_Kherson,
+2018,,,,,,30_reg_Kherson,
+2019,,,,,,30_reg_Kherson,
+2020,,,,,,30_reg_Kherson,74.1
+2021,,,,,,30_reg_Kherson,82.2
+2022,,,,,,30_reg_Kherson,
+2023,,,,,,30_reg_Kherson,
+2024,,,,,,30_reg_Kherson,
+2015,,,,,,31_reg_Khmelnytskiy,
+2016,,,,,,31_reg_Khmelnytskiy,
+2017,,,,,,31_reg_Khmelnytskiy,
+2018,,,,,,31_reg_Khmelnytskiy,
+2019,,,,,,31_reg_Khmelnytskiy,
+2020,,,,,,31_reg_Khmelnytskiy,80.1
+2021,,,,,,31_reg_Khmelnytskiy,80.8
+2022,,,,,,31_reg_Khmelnytskiy,
+2023,,,,,,31_reg_Khmelnytskiy,
+2024,,,,,,31_reg_Khmelnytskiy,
+2015,,,,,,32_reg_Cherkasy,
+2016,,,,,,32_reg_Cherkasy,
+2017,,,,,,32_reg_Cherkasy,
+2018,,,,,,32_reg_Cherkasy,
+2019,,,,,,32_reg_Cherkasy,
+2020,,,,,,32_reg_Cherkasy,81.4
+2021,,,,,,32_reg_Cherkasy,87.3
+2022,,,,,,32_reg_Cherkasy,
+2023,,,,,,32_reg_Cherkasy,
+2024,,,,,,32_reg_Cherkasy,
+2015,,,,,,33_reg_Chernivtsi,
+2016,,,,,,33_reg_Chernivtsi,
+2017,,,,,,33_reg_Chernivtsi,
+2018,,,,,,33_reg_Chernivtsi,
+2019,,,,,,33_reg_Chernivtsi,
+2020,,,,,,33_reg_Chernivtsi,77.6
+2021,,,,,,33_reg_Chernivtsi,85.8
+2022,,,,,,33_reg_Chernivtsi,
+2023,,,,,,33_reg_Chernivtsi,
+2024,,,,,,33_reg_Chernivtsi,
+2015,,,,,,34_reg_Chernihiv,
+2016,,,,,,34_reg_Chernihiv,
+2017,,,,,,34_reg_Chernihiv,
+2018,,,,,,34_reg_Chernihiv,
+2019,,,,,,34_reg_Chernihiv,
+2020,,,,,,34_reg_Chernihiv,73.1
+2021,,,,,,34_reg_Chernihiv,78.8
+2022,,,,,,34_reg_Chernihiv,
+2023,,,,,,34_reg_Chernihiv,
+2024,,,,,,34_reg_Chernihiv,
+2015,,,,,,35_reg_Kyiv_city,
+2016,,,,,,35_reg_Kyiv_city,
+2017,,,,,,35_reg_Kyiv_city,
+2018,,,,,,35_reg_Kyiv_city,
+2019,,,,,,35_reg_Kyiv_city,
+2020,,,,,,35_reg_Kyiv_city,90.6
+2021,,,,,,35_reg_Kyiv_city,89.6
+2022,,,,,,35_reg_Kyiv_city,
+2023,,,,,,35_reg_Kyiv_city,
+2024,,,,,,35_reg_Kyiv_city,
