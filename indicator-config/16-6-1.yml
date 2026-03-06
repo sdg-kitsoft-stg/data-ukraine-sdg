@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Region
-    value: 'Ukraine'
+    value: 'group_label_322'
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
