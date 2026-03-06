@@ -2015,6 +2015,7 @@ urban_pipelines: міські водопроводи
 rural_pipelines: сільські водопроводи
 centralized_1: централізоване водопостачання
 non_centralized_1: нецентралізоване водопостачання
+non_centralized: нецентралізоване водопостачання
 
 energy_water_utilities: виробництво, транспортування і постачання тепла та розподіл і постачання природного газу; збір, очищення та розподілення води; виробництво, розподілення та постачання електричної енергії
 transport_infrastructure: будівництво та/або експлуатація автострад, доріг, залізниць, злітно-посадкових смуг на аеродромах, мостів, шляхових естакад, тунелів і метрополітенів, морських і річкових портів та їх інфраструктури
@@ -3098,3 +3099,24 @@ policy: Політика
 reliability_and_safety: Надійність і безпека
 reporting: Звітність
 supply: Постачання
+
+accommodation_and_food_service: Тимчасове розміщування й організація харчування
+administrative_and_support_service: Діяльність у сфері адміністративного та допоміжного обслуговування
+agriculture_forestry_and_fishing: Сільське господарство, лісове господарство та рибне господарство
+arts_sports_entertainment_recreation: Мистецтво, спорт, розваги та відпочинок
+construction: Будівництво
+education: Освіта
+electricity_gas_steam_air_conditioning_supply: Постачання електроенергії, газу, пари та кондиційованого повітря
+financial_and_insurance: Фінансова та страхова діяльність
+household_activities: Діяльність домашніх господарств
+human_health_and_social_work: Охорона здоров'я та надання соціальної допомоги
+information_and_telecommunications: Інформація та телекомунікації
+manufacturing: Переробна промисловість
+mining_and_quarrying: Добувна промисловість і розроблення кар'єрів
+other_service: Надання інших видів послуг
+professional_scientific_technical: Професійна, наукова та технічна діяльність
+public_administration_and_defense_compulsory_social_insurance: Державне управління й оборона; обов'язкове соціальне страхування
+real_estate: Операції з нерухомим майном
+transportation_and_storage_post_and_courier_services: Транспорт, складське господарство, поштова та кур'єрська діяльність
+water_supply_sewerage_waste_management_remediation: Водопостачання; каналізація, поводження з відходами
+wholesale_retail_trade_repair_motor_vehicles_motorcycles: Оптова та роздрібна торгівля; ремонт автотранспортних засобів і мотоциклів

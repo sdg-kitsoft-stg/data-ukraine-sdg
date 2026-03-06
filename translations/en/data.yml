@@ -1959,11 +1959,12 @@ sanitary_chemical: sanitary and chemical indicators
 radiation: radiation indicators
 
 SupplyType: Type of water supply
-urban_pipelines: urban water pipelines
-rural_pipelines: rural water pipelines
+urban_pipelines: urban water supply
+rural_pipelines: rural water supply
 centralized_1: centralized water supply
 non_centralized_1: non-centralized water supply
-  
+non_centralized: non-centralized water supply
+
 energy_intensity_of_the_gross_domestic_product: energy intensity of the gross domestic product
 material_intensity_of_the_gross_domestic_product: material intensity of the gross domestic product
 carbon_intensity_of_the_gross_domestic_product: carbon intensity of the gross domestic product
@@ -2984,3 +2985,24 @@ policy: Policy
 reliability_and_safety: Reliability and safety
 reporting: Reporting
 supply: Supply
+
+accommodation_and_food_service: Accommodation and food service activities
+administrative_and_support_service: Administrative and support service activities
+agriculture_forestry_and_fishing: Agriculture, forestry and fishing
+arts_sports_entertainment_recreation: Arts, sports, entertainment and recreation
+construction: Construction
+education: Education
+electricity_gas_steam_air_conditioning_supply: Electricity, gas, steam and air conditioning supply
+financial_and_insurance: Financial and insurance activities
+household_activities: Household activities
+human_health_and_social_work: Human health and social work activities
+information_and_telecommunications: Information and telecommunications
+manufacturing: Manufacturing
+mining_and_quarrying: Mining and quarrying
+other_service: Other service activities
+professional_scientific_technical: Professional, scientific and technical activities
+public_administration_and_defense_compulsory_social_insurance: Public administration and defense; compulsory social insurance
+real_estate: Real estate activities
+transportation_and_storage_post_and_courier_services: Transportation and storage, post and courier services
+water_supply_sewerage_waste_management_remediation: Water supply; sewerage, waste management and remediation activities
+wholesale_retail_trade_repair_motor_vehicles_motorcycles: Wholesale and retail trade; repair of motor vehicles and motorcycles
