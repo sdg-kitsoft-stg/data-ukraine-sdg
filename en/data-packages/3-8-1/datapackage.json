@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Infectious diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis",
+                "Hepatitis B",
+                "Measles, mumps, rubella",
+                "Diphtheria, tetanus",
+                "Pertussis",
+                "Poliomyelitis",
+                "ill_10_haemophilic_infection",
+                ""
+              ]
+            },
+            "title": "Infectious diseases"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 1 year",
+                "1 year",
+                "6 years",
+                "18 months",
+                "adults",
+                "14 years",
+                "age_16_years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "18_reg_Ivano_Frankivsk",
+                "Kyiv",
+                "23_reg_Mykolaiv",
+                "31_reg_Khmelnytskyi",
+                "the city of Kyiv",
+                "19_reg_Kyivska",
+                "31_reg_Khmelnytskyy",
+                "35_reg_Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-8-1",
+  "title": "Level of immunization of the population according to the Calendar of preventive vaccinations by age groups during the prevention of ten infectious diseases, percent 1"
+}

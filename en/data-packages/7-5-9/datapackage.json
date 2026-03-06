@@ -1,0 +1,55 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Resource",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "heat energy",
+                "hot water",
+                "drinking water",
+                ""
+              ]
+            },
+            "title": "Type of equipment"
+          },
+          {
+            "name": "Building_type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "non_residential",
+                "residential",
+                ""
+              ]
+            },
+            "title": "Building_type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-5-9",
+  "title": "7-5-9"
+}

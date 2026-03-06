@@ -1,0 +1,171 @@
+Year,Region,Age,Gender,Type of place of residence,Income level,Value
+2015,Ukraine,,,,,
+2016,Ukraine,,,,,11.9
+2017,Ukraine,,,,,
+2018,Ukraine,,,,,18.4
+2019,Ukraine,,,,,
+2020,Ukraine,,,,,25.4
+2021,Ukraine,,,,,
+2022,Ukraine,,,,,
+2023,Ukraine,,,,,23.8
+2024,Ukraine,,,,,
+2015,West,,,,,
+2016,West,,,,,14.4
+2017,West,,,,,
+2018,West,,,,,10.6
+2019,West,,,,,
+2020,West,,,,,
+2021,West,,,,,
+2022,West,,,,,
+2023,West,,,,,21.9
+2024,West,,,,,
+2015,Center,,,,,
+2016,Center,,,,,10.6
+2017,Center,,,,,
+2018,Center,,,,,37.0
+2019,Center,,,,,
+2020,Center,,,,,
+2021,Center,,,,,
+2022,Center,,,,,
+2023,Center,,,,,22.2
+2024,Center,,,,,
+2015,South,,,,,
+2016,South,,,,,9.0
+2017,South,,,,,
+2018,South,,,,,20.7
+2019,South,,,,,
+2020,South,,,,,
+2021,South,,,,,
+2022,South,,,,,
+2023,South,,,,,22.1
+2024,South,,,,,
+2015,East,,,,,
+2016,East,,,,,12.3
+2017,East,,,,,
+2018,East,,,,,27.2
+2019,East,,,,,
+2020,East,,,,,
+2021,East,,,,,
+2022,East,,,,,
+2023,East,,,,,32.1
+2024,East,,,,,
+2015,the city of Kyiv,,,,,
+2016,the city of Kyiv,,,,,18.8
+2017,the city of Kyiv,,,,,
+2018,the city of Kyiv,,,,,34.1
+2019,the city of Kyiv,,,,,
+2020,the city of Kyiv,,,,,
+2021,the city of Kyiv,,,,,
+2022,the city of Kyiv,,,,,
+2023,the city of Kyiv,,,,,30.9
+2024,the city of Kyiv,,,,,
+2015,,up to 30 years,,,,
+2016,,up to 30 years,,,,
+2017,,up to 30 years,,,,
+2018,,up to 30 years,,,,21.8
+2019,,up to 30 years,,,,
+2020,,up to 30 years,,,,
+2021,,up to 30 years,,,,
+2022,,up to 30 years,,,,
+2023,,up to 30 years,,,,24.8
+2024,,up to 30 years,,,,
+2015,,30–54 years,,,,
+2016,,30–54 years,,,,
+2017,,30–54 years,,,,
+2018,,30–54 years,,,,25.5
+2019,,30–54 years,,,,
+2020,,30–54 years,,,,
+2021,,30–54 years,,,,
+2022,,30–54 years,,,,
+2023,,30–54 years,,,,26.5
+2024,,30–54 years,,,,
+2015,,55 years and older,,,,
+2016,,55 years and older,,,,
+2017,,55 years and older,,,,
+2018,,55 years and older,,,,25.3
+2019,,55 years and older,,,,
+2020,,55 years and older,,,,
+2021,,55 years and older,,,,
+2022,,55 years and older,,,,
+2023,,55 years and older,,,,18.8
+2024,,55 years and older,,,,
+2015,,,men,,,
+2016,,,men,,,13.4
+2017,,,men,,,
+2018,,,men,,,25.1
+2019,,,men,,,
+2020,,,men,,,
+2021,,,men,,,
+2022,,,men,,,
+2023,,,men,,,25.7
+2024,,,men,,,
+2015,,,females,,,
+2016,,,females,,,10.6
+2017,,,females,,,
+2018,,,females,,,24.0
+2019,,,females,,,
+2020,,,females,,,
+2021,,,females,,,
+2022,,,females,,,
+2023,,,females,,,22.1
+2024,,,females,,,
+2015,,,,regional centers,,
+2016,,,,regional centers,,11.8
+2017,,,,regional centers,,
+2018,,,,regional centers,,24.7
+2019,,,,regional centers,,
+2020,,,,regional centers,,
+2021,,,,regional centers,,
+2022,,,,regional centers,,
+2023,,,,regional centers,,24.9
+2024,,,,regional centers,,
+2015,,,,district centers and cities,,
+2016,,,,district centers and cities,,14.0
+2017,,,,district centers and cities,,
+2018,,,,district centers and cities,,21.8
+2019,,,,district centers and cities,,
+2020,,,,district centers and cities,,
+2021,,,,district centers and cities,,
+2022,,,,district centers and cities,,
+2023,,,,district centers and cities,,25.0
+2024,,,,district centers and cities,,
+2015,,,,villages,,
+2016,,,,villages,,8.9
+2017,,,,villages,,
+2018,,,,villages,,24.5
+2019,,,,villages,,
+2020,,,,villages,,
+2021,,,,villages,,
+2022,,,,villages,,
+2023,,,,villages,,19.1
+2024,,,,villages,,
+2015,,,,,below average and lowest,
+2016,,,,,below average and lowest,
+2017,,,,,below average and lowest,
+2018,,,,,below average and lowest,
+2019,,,,,below average and lowest,
+2020,,,,,below average and lowest,
+2021,,,,,below average and lowest,
+2022,,,,,below average and lowest,
+2023,,,,,below average and lowest,16.1
+2024,,,,,below average and lowest,
+2015,,,,,average,
+2016,,,,,average,
+2017,,,,,average,
+2018,,,,,average,
+2019,,,,,average,
+2020,,,,,average,
+2021,,,,,average,
+2022,,,,,average,
+2023,,,,,average,28.0
+2024,,,,,average,
+2015,,,,,highest and above average,
+2016,,,,,highest and above average,
+2017,,,,,highest and above average,
+2018,,,,,highest and above average,
+2019,,,,,highest and above average,
+2020,,,,,highest and above average,
+2021,,,,,highest and above average,
+2022,,,,,highest and above average,
+2023,,,,,highest and above average,30.1
+2024,,,,,highest and above average,

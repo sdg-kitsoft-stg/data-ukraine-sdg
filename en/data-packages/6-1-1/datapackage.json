@@ -1,0 +1,95 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "WaterType",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "microbiological indicators",
+                "sanitary and chemical indicators",
+                "radiation indicators",
+                ""
+              ]
+            },
+            "title": "By type of indicators"
+          },
+          {
+            "name": "SupplyType",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban water pipelines",
+                "rural water pipelines",
+                "non-centralized water supply",
+                "centralized",
+                ""
+              ]
+            },
+            "title": "Type of water supply"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-1-1",
+  "title": "Drinking water that meets state sanitary standards and regulations by types of indicators, percent of non-standard samples: for microbiological indicators: urban water supply, rural water supply, non-centralized water supply; for sanitary-chemical indicators: urban water supply, rural water supply, non-centralized water supply; for radiation indicators: urban water supply, rural water supply, non-centralized water supply"
+}

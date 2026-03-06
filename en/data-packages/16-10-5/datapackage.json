@@ -1,0 +1,122 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "14–18 years",
+                "19–25 years",
+                "26–35 years",
+                "36–45 years",
+                "46–60 years",
+                "Over 60 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "men",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "group_14",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Individual",
+                "Sole proprietor (individual entrepreneur)",
+                "Legal entity",
+                ""
+              ]
+            },
+            "title": "Status of the subject of the appeal"
+          },
+          {
+            "name": "group_15",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "City council",
+                "Settlement council",
+                "Village council",
+                ""
+              ]
+            },
+            "title": "Type of authority that established the ASC"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-10-5",
+  "title": "Level of satisfaction of the subjects of application with the quality of the provision of administrative services in centers for the provision of administrative services, percent"
+}

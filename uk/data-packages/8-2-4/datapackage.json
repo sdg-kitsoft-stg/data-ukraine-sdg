@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "group_32",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "у віці 15–24 роки",
+                "у віці 15–34 роки",
+                ""
+              ]
+            },
+            "title": "Частка молоді, яка не працює, не навчається і не набуває професійних навичок, у загальній кількості населення відповідного віку, відсотків"
+          },
+          {
+            "name": "group_33",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать (вік 15-24 роки)"
+          },
+          {
+            "name": "group_34",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Тип місцевості проживання (вік 15-24 роки)"
+          },
+          {
+            "name": "group_35",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать (вік 15-34 роки)"
+          },
+          {
+            "name": "group_36",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Тип місцевості проживання (вік 15-34 роки)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-2-4",
+  "title": "Частка молоді, яка не працює, не навчається і не набуває професійних навичок, у загальній кількості населення відповідного віку, відсотків"
+}

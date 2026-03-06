@@ -1,0 +1,125 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15–24 years",
+                "25–29 years",
+                "30–34 years",
+                "35–39 years",
+                "40–49 years",
+                "50–59 years",
+                "60–70 years",
+                ""
+              ]
+            },
+            "title": "Age groups"
+          },
+          {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence"
+          },
+          {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full tertiary education",
+                "basic tertiary education",
+                "incomplete tertiary education",
+                "vocational and technical education",
+                "full general secondary education",
+                "basic, primary general secondary or no education",
+                ""
+              ]
+            },
+            "title": "Education"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-2-2",
+  "title": "Unemployment rate of the population aged 15–70 years (by ILO methodology), percent"
+}

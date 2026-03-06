@@ -1,0 +1,125 @@
+Disaggregation,Number of indicators,Number of values
+23_educ,2,4
+Age,35,99
+Ammunition,1,4
+Article,3,13
+Average monthly electricity consumption,1,2
+Building_type,1,2
+By consumer categories,2,2
+By form of discrimination,1,5
+By frequency of use,1,3
+By level of education,1,3
+by main product groups,2,12
+By purpose of use,1,21
+By river basins,2,9
+By safety,1,2
+By sectors of the fuel and energy sector,1,5
+By special aggregations,2,5
+By spheres of public relations,1,10
+By type of area,1,2
+by type of place of registration of service providers,2,2
+by type of residence,2,2
+By type of shelters,2,4
+By types of producers,1,2
+By types of renewable energy generation,1,7
+Cat,1,3
+Category,7,26
+Category_type,1,2
+Cause of death,1,2
+Component,1,17
+Cost_train,1,4
+CouncilLevel,1,6
+CourtLevel,1,4
+Decile groups,2,10
+Ec_activ,8,100
+Education Level,1,7
+EducationInternetType,1,7
+Farm caregory,1,3
+Form of rehabilitation assistance,1,2
+Fund,1,1
+Gender,9,5
+Generation,1,7
+GHG_ratio,1,2
+Group,10,50
+group_1,1,89
+group_10,1,3
+group_11,2,4
+group_13,4,2
+group_14,1,3
+group_15,1,3
+group_16,8,11
+group_17,1,10
+group_18,1,2
+group_2,1,2
+group_20,2,5
+group_21,3,7
+group_22,2,3
+group_24,1,2
+group_25,1,19
+group_26,1,3
+group_27,1,2
+group_28,2,7
+group_29,1,2
+group_3,1,11
+group_30,3,34
+group_31,2,6
+group_32,1,2
+group_33,1,2
+group_34,1,2
+group_35,1,2
+group_36,1,2
+group_4,1,26
+group_5,1,15
+group_6,1,1
+group_7,1,1
+group_8,1,9
+group_9,1,8
+group_label_229,1,1
+group_label_230,1,1
+group_label_90,1,20
+group_label_91,1,23
+group_label_92,1,1
+Households,10,4
+including,2,16
+Indicators of energy consumption by households,1,2
+Indicators of production and technological costs in natural gas supply grids,1,2
+Infectious diseases,2,8
+Land purpose,1,1
+Level,1,4
+Level_ed,1,6
+m_trans,5,15
+Mode of transport,1,2
+Number of employees,1,4
+Object,1,10
+Organisation and legal forms,2,85
+Organization,1,4
+Pollutants,1,10
+PopulationGroup,1,2
+Products,1,3
+Reason of disability,1,2
+Region,76,40
+Res_inten,1,5
+Resource,1,3
+School type,1,3
+SES,2,4
+Settlement,1,3
+Sex of the head of household,1,2
+Sex,52,11
+Sou_en,1,3
+Sources of funding,1,2
+Specialty,1,61
+Sphere,1,6
+Status,1,3
+Subject,3,7
+SupplyType,2,5
+Type of economic activity,4,1242
+Type of educational institution,3,8
+Type of energy resources,1,6
+Type of residence,55,2
+Type of water supply,3,2
+Type_weapon,1,5
+Unit,8,14
+Unnamed: 1,1,1
+Wage replacement rate by pensions,1,3
+WaterType,1,3
+Zone,1,3

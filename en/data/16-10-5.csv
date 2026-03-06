@@ -1,0 +1,421 @@
+Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority that established the ASC,Value
+2015,Ukraine,,,,,
+2016,Ukraine,,,,,
+2017,Ukraine,,,,,
+2018,Ukraine,,,,,
+2019,Ukraine,,,,,
+2020,Ukraine,,,,,
+2021,Ukraine,,,,,93.2
+2022,Ukraine,,,,,87.7
+2023,Ukraine,,,,,96.1
+2024,Ukraine,,,,,94.8
+2015,Autonomous Republic of Crimea,,,,,
+2016,Autonomous Republic of Crimea,,,,,
+2017,Autonomous Republic of Crimea,,,,,
+2018,Autonomous Republic of Crimea,,,,,
+2019,Autonomous Republic of Crimea,,,,,
+2020,Autonomous Republic of Crimea,,,,,
+2021,Autonomous Republic of Crimea,,,,,
+2022,Autonomous Republic of Crimea,,,,,
+2023,Autonomous Republic of Crimea,,,,,
+2024,Autonomous Republic of Crimea,,,,,
+2015,Vinnytsya,,,,,
+2016,Vinnytsya,,,,,
+2017,Vinnytsya,,,,,
+2018,Vinnytsya,,,,,
+2019,Vinnytsya,,,,,
+2020,Vinnytsya,,,,,
+2021,Vinnytsya,,,,,94.5
+2022,Vinnytsya,,,,,76.1
+2023,Vinnytsya,,,,,96.8
+2024,Vinnytsya,,,,,93.9
+2015,Volyn,,,,,
+2016,Volyn,,,,,
+2017,Volyn,,,,,
+2018,Volyn,,,,,
+2019,Volyn,,,,,
+2020,Volyn,,,,,
+2021,Volyn,,,,,94.6
+2022,Volyn,,,,,90.6
+2023,Volyn,,,,,94.5
+2024,Volyn,,,,,94.8
+2015,Dnipropetrovsk,,,,,
+2016,Dnipropetrovsk,,,,,
+2017,Dnipropetrovsk,,,,,
+2018,Dnipropetrovsk,,,,,
+2019,Dnipropetrovsk,,,,,
+2020,Dnipropetrovsk,,,,,
+2021,Dnipropetrovsk,,,,,93.6
+2022,Dnipropetrovsk,,,,,85.9
+2023,Dnipropetrovsk,,,,,90.7
+2024,Dnipropetrovsk,,,,,88.7
+2015,Donetsk,,,,,
+2016,Donetsk,,,,,
+2017,Donetsk,,,,,
+2018,Donetsk,,,,,
+2019,Donetsk,,,,,
+2020,Donetsk,,,,,
+2021,Donetsk,,,,,95.8
+2022,Donetsk,,,,,
+2023,Donetsk,,,,,
+2024,Donetsk,,,,,
+2015,Zhytomyr,,,,,
+2016,Zhytomyr,,,,,
+2017,Zhytomyr,,,,,
+2018,Zhytomyr,,,,,
+2019,Zhytomyr,,,,,
+2020,Zhytomyr,,,,,
+2021,Zhytomyr,,,,,92.8
+2022,Zhytomyr,,,,,64.8
+2023,Zhytomyr,,,,,92.3
+2024,Zhytomyr,,,,,88.1
+2015,Zakarpattya,,,,,
+2016,Zakarpattya,,,,,
+2017,Zakarpattya,,,,,
+2018,Zakarpattya,,,,,
+2019,Zakarpattya,,,,,
+2020,Zakarpattya,,,,,
+2021,Zakarpattya,,,,,95.1
+2022,Zakarpattya,,,,,72.3
+2023,Zakarpattya,,,,,92.4
+2024,Zakarpattya,,,,,93.0
+2015,Zaporizhzhya,,,,,
+2016,Zaporizhzhya,,,,,
+2017,Zaporizhzhya,,,,,
+2018,Zaporizhzhya,,,,,
+2019,Zaporizhzhya,,,,,
+2020,Zaporizhzhya,,,,,
+2021,Zaporizhzhya,,,,,93.4
+2022,Zaporizhzhya,,,,,
+2023,Zaporizhzhya,,,,,94.6
+2024,Zaporizhzhya,,,,,87.9
+2015,Ivano-Frankivsk,,,,,
+2016,Ivano-Frankivsk,,,,,
+2017,Ivano-Frankivsk,,,,,
+2018,Ivano-Frankivsk,,,,,
+2019,Ivano-Frankivsk,,,,,
+2020,Ivano-Frankivsk,,,,,
+2021,Ivano-Frankivsk,,,,,95.3
+2022,Ivano-Frankivsk,,,,,96.3
+2023,Ivano-Frankivsk,,,,,99.2
+2024,Ivano-Frankivsk,,,,,97.8
+2015,Kyiv,,,,,
+2016,Kyiv,,,,,
+2017,Kyiv,,,,,
+2018,Kyiv,,,,,
+2019,Kyiv,,,,,
+2020,Kyiv,,,,,
+2021,Kyiv,,,,,92.1
+2022,Kyiv,,,,,76.2
+2023,Kyiv,,,,,92.4
+2024,Kyiv,,,,,88.6
+2015,Kirovohrad,,,,,
+2016,Kirovohrad,,,,,
+2017,Kirovohrad,,,,,
+2018,Kirovohrad,,,,,
+2019,Kirovohrad,,,,,
+2020,Kirovohrad,,,,,
+2021,Kirovohrad,,,,,89.5
+2022,Kirovohrad,,,,,78.5
+2023,Kirovohrad,,,,,89.3
+2024,Kirovohrad,,,,,88.5
+2015,Luhansk,,,,,
+2016,Luhansk,,,,,
+2017,Luhansk,,,,,
+2018,Luhansk,,,,,
+2019,Luhansk,,,,,
+2020,Luhansk,,,,,
+2021,Luhansk,,,,,91.4
+2022,Luhansk,,,,,
+2023,Luhansk,,,,,
+2024,Luhansk,,,,,
+2015,Lviv,,,,,
+2016,Lviv,,,,,
+2017,Lviv,,,,,
+2018,Lviv,,,,,
+2019,Lviv,,,,,
+2020,Lviv,,,,,
+2021,Lviv,,,,,94.3
+2022,Lviv,,,,,84.2
+2023,Lviv,,,,,97.6
+2024,Lviv,,,,,97.3
+2015,Mykolayiv,,,,,
+2016,Mykolayiv,,,,,
+2017,Mykolayiv,,,,,
+2018,Mykolayiv,,,,,
+2019,Mykolayiv,,,,,
+2020,Mykolayiv,,,,,
+2021,Mykolayiv,,,,,96.7
+2022,Mykolayiv,,,,,89.7
+2023,Mykolayiv,,,,,91.5
+2024,Mykolayiv,,,,,87.5
+2015,Odesa,,,,,
+2016,Odesa,,,,,
+2017,Odesa,,,,,
+2018,Odesa,,,,,
+2019,Odesa,,,,,
+2020,Odesa,,,,,
+2021,Odesa,,,,,92.2
+2022,Odesa,,,,,88.2
+2023,Odesa,,,,,96.0
+2024,Odesa,,,,,96.7
+2015,Poltava,,,,,
+2016,Poltava,,,,,
+2017,Poltava,,,,,
+2018,Poltava,,,,,
+2019,Poltava,,,,,
+2020,Poltava,,,,,
+2021,Poltava,,,,,94.8
+2022,Poltava,,,,,82.2
+2023,Poltava,,,,,90.0
+2024,Poltava,,,,,90.4
+2015,Rivne,,,,,
+2016,Rivne,,,,,
+2017,Rivne,,,,,
+2018,Rivne,,,,,
+2019,Rivne,,,,,
+2020,Rivne,,,,,
+2021,Rivne,,,,,90.8
+2022,Rivne,,,,,80.0
+2023,Rivne,,,,,96.9
+2024,Rivne,,,,,93.8
+2015,Sumy,,,,,
+2016,Sumy,,,,,
+2017,Sumy,,,,,
+2018,Sumy,,,,,
+2019,Sumy,,,,,
+2020,Sumy,,,,,
+2021,Sumy,,,,,94.5
+2022,Sumy,,,,,89.1
+2023,Sumy,,,,,97.1
+2024,Sumy,,,,,97.0
+2015,Ternopil,,,,,
+2016,Ternopil,,,,,
+2017,Ternopil,,,,,
+2018,Ternopil,,,,,
+2019,Ternopil,,,,,
+2020,Ternopil,,,,,
+2021,Ternopil,,,,,97.0
+2022,Ternopil,,,,,88.0
+2023,Ternopil,,,,,95.7
+2024,Ternopil,,,,,95.0
+2015,Kharkiv,,,,,
+2016,Kharkiv,,,,,
+2017,Kharkiv,,,,,
+2018,Kharkiv,,,,,
+2019,Kharkiv,,,,,
+2020,Kharkiv,,,,,
+2021,Kharkiv,,,,,90.9
+2022,Kharkiv,,,,,88.0
+2023,Kharkiv,,,,,85.5
+2024,Kharkiv,,,,,89.2
+2015,Kherson,,,,,
+2016,Kherson,,,,,
+2017,Kherson,,,,,
+2018,Kherson,,,,,
+2019,Kherson,,,,,
+2020,Kherson,,,,,
+2021,Kherson,,,,,95.1
+2022,Kherson,,,,,
+2023,Kherson,,,,,
+2024,Kherson,,,,,
+2015,Khmelnytskiy,,,,,
+2016,Khmelnytskiy,,,,,
+2017,Khmelnytskiy,,,,,
+2018,Khmelnytskiy,,,,,
+2019,Khmelnytskiy,,,,,
+2020,Khmelnytskiy,,,,,
+2021,Khmelnytskiy,,,,,92.3
+2022,Khmelnytskiy,,,,,71.0
+2023,Khmelnytskiy,,,,,93.9
+2024,Khmelnytskiy,,,,,88.8
+2015,Cherkasy,,,,,
+2016,Cherkasy,,,,,
+2017,Cherkasy,,,,,
+2018,Cherkasy,,,,,
+2019,Cherkasy,,,,,
+2020,Cherkasy,,,,,
+2021,Cherkasy,,,,,92.9
+2022,Cherkasy,,,,,91.9
+2023,Cherkasy,,,,,98.8
+2024,Cherkasy,,,,,97.8
+2015,Chernivtsi,,,,,
+2016,Chernivtsi,,,,,
+2017,Chernivtsi,,,,,
+2018,Chernivtsi,,,,,
+2019,Chernivtsi,,,,,
+2020,Chernivtsi,,,,,
+2021,Chernivtsi,,,,,94.5
+2022,Chernivtsi,,,,,73.2
+2023,Chernivtsi,,,,,84.4
+2024,Chernivtsi,,,,,86.5
+2015,Chernihiv,,,,,
+2016,Chernihiv,,,,,
+2017,Chernihiv,,,,,
+2018,Chernihiv,,,,,
+2019,Chernihiv,,,,,
+2020,Chernihiv,,,,,
+2021,Chernihiv,,,,,96.1
+2022,Chernihiv,,,,,97.8
+2023,Chernihiv,,,,,98.1
+2024,Chernihiv,,,,,99.2
+2015,the city of Kyiv,,,,,
+2016,the city of Kyiv,,,,,
+2017,the city of Kyiv,,,,,
+2018,the city of Kyiv,,,,,
+2019,the city of Kyiv,,,,,
+2020,the city of Kyiv,,,,,
+2021,the city of Kyiv,,,,,85.3
+2022,the city of Kyiv,,,,,65.1
+2023,the city of Kyiv,,,,,77.2
+2024,the city of Kyiv,,,,,61.5
+2015,city Sevastopol,,,,,
+2016,city Sevastopol,,,,,
+2017,city Sevastopol,,,,,
+2018,city Sevastopol,,,,,
+2019,city Sevastopol,,,,,
+2020,city Sevastopol,,,,,
+2021,city Sevastopol,,,,,
+2022,city Sevastopol,,,,,
+2023,city Sevastopol,,,,,
+2024,city Sevastopol,,,,,
+2015,,14–18 years,,,,
+2016,,14–18 years,,,,
+2017,,14–18 years,,,,
+2018,,14–18 years,,,,
+2019,,14–18 years,,,,
+2020,,14–18 years,,,,
+2021,,14–18 years,,,,95.9
+2022,,14–18 years,,,,89.0
+2023,,14–18 years,,,,89.0
+2024,,14–18 years,,,,94.9
+2015,,19–25 years,,,,
+2016,,19–25 years,,,,
+2017,,19–25 years,,,,
+2018,,19–25 years,,,,
+2019,,19–25 years,,,,
+2020,,19–25 years,,,,
+2021,,19–25 years,,,,92.3
+2022,,19–25 years,,,,82.6
+2023,,19–25 years,,,,82.6
+2024,,19–25 years,,,,92.9
+2015,,26–35 years,,,,
+2016,,26–35 years,,,,
+2017,,26–35 years,,,,
+2018,,26–35 years,,,,
+2019,,26–35 years,,,,
+2020,,26–35 years,,,,
+2021,,26–35 years,,,,94.2
+2022,,26–35 years,,,,86.1
+2023,,26–35 years,,,,86.1
+2024,,26–35 years,,,,93.7
+2015,,36–45 years,,,,
+2016,,36–45 years,,,,
+2017,,36–45 years,,,,
+2018,,36–45 years,,,,
+2019,,36–45 years,,,,
+2020,,36–45 years,,,,
+2021,,36–45 years,,,,94.1
+2022,,36–45 years,,,,88.4
+2023,,36–45 years,,,,88.4
+2024,,36–45 years,,,,95.4
+2015,,46–60 years,,,,
+2016,,46–60 years,,,,
+2017,,46–60 years,,,,
+2018,,46–60 years,,,,
+2019,,46–60 years,,,,
+2020,,46–60 years,,,,
+2021,,46–60 years,,,,94.9
+2022,,46–60 years,,,,92.8
+2023,,46–60 years,,,,92.8
+2024,,46–60 years,,,,96.7
+2015,,Over 60 years,,,,
+2016,,Over 60 years,,,,
+2017,,Over 60 years,,,,
+2018,,Over 60 years,,,,
+2019,,Over 60 years,,,,
+2020,,Over 60 years,,,,
+2021,,Over 60 years,,,,93.8
+2022,,Over 60 years,,,,93.5
+2023,,Over 60 years,,,,93.5
+2024,,Over 60 years,,,,96.5
+2015,,,females,,,
+2016,,,females,,,
+2017,,,females,,,
+2018,,,females,,,
+2019,,,females,,,
+2020,,,females,,,
+2021,,,females,,,94.2
+2022,,,females,,,87.1
+2023,,,females,,,96.5
+2024,,,females,,,95.3
+2015,,,men,,,
+2016,,,men,,,
+2017,,,men,,,
+2018,,,men,,,
+2019,,,men,,,
+2020,,,men,,,
+2021,,,men,,,93.8
+2022,,,men,,,88.9
+2023,,,men,,,95.9
+2024,,,men,,,94.5
+2015,,,,Individual,,
+2016,,,,Individual,,
+2017,,,,Individual,,
+2018,,,,Individual,,
+2019,,,,Individual,,
+2020,,,,Individual,,
+2021,,,,Individual,,94.2
+2022,,,,Individual,,88.1
+2023,,,,Individual,,96.4
+2024,,,,Individual,,94.8
+2015,,,,Sole proprietor (individual entrepreneur),,
+2016,,,,Sole proprietor (individual entrepreneur),,
+2017,,,,Sole proprietor (individual entrepreneur),,
+2018,,,,Sole proprietor (individual entrepreneur),,
+2019,,,,Sole proprietor (individual entrepreneur),,
+2020,,,,Sole proprietor (individual entrepreneur),,
+2021,,,,Sole proprietor (individual entrepreneur),,91.5
+2022,,,,Sole proprietor (individual entrepreneur),,82.0
+2023,,,,Sole proprietor (individual entrepreneur),,94.2
+2024,,,,Sole proprietor (individual entrepreneur),,96.1
+2015,,,,Legal entity,,
+2016,,,,Legal entity,,
+2017,,,,Legal entity,,
+2018,,,,Legal entity,,
+2019,,,,Legal entity,,
+2020,,,,Legal entity,,
+2021,,,,Legal entity,,95.4
+2022,,,,Legal entity,,92.0
+2023,,,,Legal entity,,96.4
+2024,,,,Legal entity,,96.2
+2015,,,,,City council,
+2016,,,,,City council,
+2017,,,,,City council,
+2018,,,,,City council,
+2019,,,,,City council,
+2020,,,,,City council,
+2021,,,,,City council,
+2022,,,,,City council,86.2
+2023,,,,,City council,95.8
+2024,,,,,City council,94.6
+2015,,,,,Settlement council,
+2016,,,,,Settlement council,
+2017,,,,,Settlement council,
+2018,,,,,Settlement council,
+2019,,,,,Settlement council,
+2020,,,,,Settlement council,
+2021,,,,,Settlement council,
+2022,,,,,Settlement council,79.8
+2023,,,,,Settlement council,95.9
+2024,,,,,Settlement council,95.0
+2015,,,,,Village council,
+2016,,,,,Village council,
+2017,,,,,Village council,
+2018,,,,,Village council,
+2019,,,,,Village council,
+2020,,,,,Village council,
+2021,,,,,Village council,
+2022,,,,,Village council,91.0
+2023,,,,,Village council,97.5
+2024,,,,,Village council,96.2

@@ -1,0 +1,129 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 15 years",
+                "group_label_183",
+                "group_label_184",
+                "group_label_185",
+                "group_label_186",
+                "group_label_187",
+                "group_label_188",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females",
+                "men",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence"
+          },
+          {
+            "name": "group_17",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st group (low income)",
+                "2nd group",
+                "3rd group",
+                "4th group",
+                "5th group",
+                "6th group",
+                "7th group",
+                "8th group",
+                "9th group",
+                "10th group (high income)",
+                ""
+              ]
+            },
+            "title": "Decile groups by level of average per capita equivalent total income"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-11-1",
+  "title": "Share of the population that used Internet services to interact with public authorities, percent"
+}

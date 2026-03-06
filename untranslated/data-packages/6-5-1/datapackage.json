@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "By river basins",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "azov_river_basin_area",
+                "black_sea_river_basin_area",
+                "crimea_river_basin_area",
+                "danube_river_basin_area",
+                "dniester_river_basin_area",
+                "dnipro_river_basin_area",
+                "don_river_basin_area",
+                "southern_bug_river_basin_area",
+                "vistula_river_basin_area",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-5-1",
+  "title": "global_indicators.6-5-1-title"
+}

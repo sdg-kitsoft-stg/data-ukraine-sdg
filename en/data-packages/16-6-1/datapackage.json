@@ -1,0 +1,158 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of registered client requests for free legal assistance",
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "group_label_230",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
+                ""
+              ]
+            },
+            "title": "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 18 years old",
+                "18–35 years",
+                "36–60 years",
+                "61 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "females",
+                ""
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence"
+          },
+          {
+            "name": "group_24",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary legal aid",
+                "Secondary legal aid",
+                ""
+              ]
+            },
+            "title": "Type of legal aid"
+          },
+          {
+            "name": "group_25",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Social security",
+                "Inheritance law",
+                "Family law",
+                "Medical law",
+                "Labor law",
+                "Administrative law and administrative procedure",
+                "Land law",
+                "Contract law",
+                "Housing law",
+                "Civil law and civil procedure",
+                "Enforcement of court decisions",
+                "Non-legal issue",
+                "Other",
+                "Criminal law and criminal procedure",
+                "Pension law",
+                "Tax law",
+                "Electoral law",
+                "Commercial law",
+                "Issues related to armed aggression",
+                ""
+              ]
+            },
+            "title": "Category of issues"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-1",
+  "title": "Number of persons applying free legal aid, persons"
+}

@@ -1,0 +1,61 @@
+Year,Type of energy resources,Value
+2015,anthracite coal (code according to UCGFEA 2701 11 00 00),81.9
+2016,anthracite coal (code according to UCGFEA 2701 11 00 00),60.7
+2017,anthracite coal (code according to UCGFEA 2701 11 00 00),78.8
+2018,anthracite coal (code according to UCGFEA 2701 11 00 00),93.7
+2019,anthracite coal (code according to UCGFEA 2701 11 00 00),98.3
+2020,anthracite coal (code according to UCGFEA 2701 11 00 00),94.8
+2021,anthracite coal (code according to UCGFEA 2701 11 00 00),100.0
+2022,anthracite coal (code according to UCGFEA 2701 11 00 00),88.0
+2023,anthracite coal (code according to UCGFEA 2701 11 00 00),86.0
+2024,anthracite coal (code according to UCGFEA 2701 11 00 00),88.8
+2015,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),51.6
+2016,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),79.3
+2017,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),77.6
+2018,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),76.3
+2019,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),66.6
+2020,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),76.2
+2021,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),77.6
+2022,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),21.6
+2023,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),30.2
+2024,motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99),35.0
+2015,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),44.9
+2016,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),54.9
+2017,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),43.1
+2018,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),45.6
+2019,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),42.9
+2020,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),41.4
+2021,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),42.3
+2022,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),13.6
+2023,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),16.8
+2024,diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00),24.7
+2015,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),57.3
+2016,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),74.2
+2017,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),48.7
+2018,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),38.7
+2019,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),46.0
+2020,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),48.4
+2021,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),41.9
+2022,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),32.5
+2023,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),22.9
+2024,liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00),21.7
+2015,natural gas (code according to UCGFEA 2711 21 00 00),37.3
+2016,natural gas (code according to UCGFEA 2711 21 00 00),29.5
+2017,natural gas (code according to UCGFEA 2711 21 00 00),40.5
+2018,natural gas (code according to UCGFEA 2711 21 00 00),37.3
+2019,natural gas (code according to UCGFEA 2711 21 00 00),44.5
+2020,natural gas (code according to UCGFEA 2711 21 00 00),35.5
+2021,natural gas (code according to UCGFEA 2711 21 00 00),63.3
+2022,natural gas (code according to UCGFEA 2711 21 00 00),43.5
+2023,natural gas (code according to UCGFEA 2711 21 00 00),31.3
+2024,natural gas (code according to UCGFEA 2711 21 00 00),60.4
+2015,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),91.6
+2016,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),60.9
+2017,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),58.6
+2018,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),61.3
+2019,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),55.4
+2020,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),53.8
+2021,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),69.7
+2022,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),70.3
+2023,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),100.0
+2024,non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00),100.0

@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Average monthly electricity consumption",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "без електроопалення",
+                "з електроопаленням",
+                ""
+              ]
+            },
+            "title": "Середньомісячне споживання електричної енергії на побутового споживача, кіловат–годин"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-5-3",
+  "title": "7-5-3"
+}

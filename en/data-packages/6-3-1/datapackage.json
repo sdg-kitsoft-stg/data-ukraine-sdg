@@ -1,0 +1,117 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accommodation and food service activities",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, sports, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Household activities",
+                "Human health and social work activities",
+                "Information and telecommunications",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Other service activities",
+                "Professional, scientific and technical activities",
+                "Public administration and defense; compulsory social insurance",
+                "Real estate activities",
+                "Transportation and storage, post and courier services",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                ""
+              ]
+            },
+            "title": "by types of economic activity"
+          },
+          {
+            "name": "By river basins",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azov River Basin Area",
+                "Black Sea River Basin Area",
+                "Crimea River Basin Area",
+                "Danube River Basin Area",
+                "Dniester River Basin Area",
+                "Dnipro River Basin Area",
+                "Don River Basin Area",
+                "Southern Bug River Basin Area",
+                "Vistula River Basin Area",
+                ""
+              ]
+            },
+            "title": "River basins"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                "Ukraine",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-1",
+  "title": "Volume of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into water bodies, million cubic meters"
+}

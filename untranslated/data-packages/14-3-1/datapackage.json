@@ -1,0 +1,203 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "group_label_90",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_104",
+                "group_label_105",
+                "group_label_106",
+                "group_label_107",
+                "group_label_108",
+                "group_label_109",
+                "group_label_110",
+                "group_label_111",
+                "group_label_112",
+                "group_label_113",
+                "group_label_114",
+                "group_label_115",
+                "group_label_116",
+                "group_label_117",
+                "group_label_118",
+                "group_label_119",
+                "group_label_120",
+                "group_label_121",
+                "group_label_122",
+                "group_label_123",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_label_91",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_124",
+                "group_label_125",
+                "group_label_107",
+                "group_label_108",
+                "group_label_109",
+                "group_label_126",
+                "group_label_127",
+                "group_label_111",
+                "group_label_128",
+                "group_label_129",
+                "group_label_114",
+                "group_label_130",
+                "group_label_131",
+                "group_label_116",
+                "group_label_117",
+                "group_label_119",
+                "group_label_132",
+                "group_label_133",
+                "group_label_134",
+                "group_label_122",
+                "group_label_135",
+                "group_label_136",
+                "group_label_137",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_124",
+                "group_label_138",
+                "group_label_139",
+                "group_label_140",
+                "group_label_141",
+                "group_label_142",
+                "group_label_143",
+                "group_label_144",
+                "group_label_113",
+                "group_label_145",
+                "group_label_146",
+                "group_label_116",
+                "group_label_117",
+                "group_label_147",
+                "group_label_148",
+                "group_label_149",
+                "group_label_150",
+                "group_label_151",
+                "group_label_152",
+                "group_label_153",
+                "group_label_121",
+                "group_label_154",
+                "group_label_122",
+                "group_label_135",
+                "group_label_155",
+                "group_label_156",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_138",
+                "group_label_139",
+                "group_label_142",
+                "group_label_143",
+                "group_label_113",
+                "group_label_145",
+                "group_label_116",
+                "group_label_147",
+                "group_label_157",
+                "group_label_158",
+                "group_label_152",
+                "group_label_153",
+                "group_label_121",
+                "group_label_154",
+                "group_label_156",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_6",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_159",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_7",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_159",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_8",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_124",
+                "group_label_138",
+                "group_label_160",
+                "group_label_126",
+                "group_label_111",
+                "group_label_128",
+                "group_label_117",
+                "group_label_133",
+                "group_label_121",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_9",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_124",
+                "group_label_138",
+                "group_label_160",
+                "group_label_126",
+                "group_label_111",
+                "group_label_128",
+                "group_label_117",
+                "group_label_133",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-3-1",
+  "title": "global_indicators.14-3-1-title"
+}

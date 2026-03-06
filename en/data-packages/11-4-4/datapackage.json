@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "By type of shelters",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "storages",
+                "anti-radiation shelters",
+                "dual-use structures",
+                "simplest shelters",
+                ""
+              ]
+            },
+            "title": "By type of shelters"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-4-4",
+  "title": "Suitability for use of the civil protection facilities fund (suitable/unsuitable), percent"
+}

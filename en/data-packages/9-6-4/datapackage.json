@@ -1,0 +1,150 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_16_17",
+                "18-24 years",
+                "25-35 years",
+                "36-59 years",
+                "60-74 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "By frequency of use",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "at least once a day",
+                "at least once a week, but not every day",
+                "less than once a week",
+                ""
+              ]
+            },
+            "title": "by frequency of use"
+          },
+          {
+            "name": "By purpose of use",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sending (receiving) e-mail",
+                "for interaction with government bodies (e-government system), including obtaining information",
+                "banking",
+                "reading/downloading newspapers, magazines online",
+                "downloading films, images, music; watching television or videos; or listening to the radio or music; playing video or computer games or downloading them",
+                "participating in social networks, communicating (accessing websites, chats, blogs or online discussions)",
+                "downloading software",
+                "using Internet storage for personal purposes to store documents, images, music, videos or other files",
+                "conducting training activities for educational, professional or private purposes through an online course",
+                "conducting training activities for educational, professional or private purposes through an online course, except for full online courses",
+                "conducting training activities for educational, professional or private purposes through communication via the Internet with teachers or students using educational sites or portals",
+                "making an appointment with a specialist doctor through the Internet",
+                "searching for information related to health issues (medicines, medical services, advice, etc.) for yourself and others",
+                "ordering (purchasing) goods and services",
+                "telephone conversations through the Internet/Volp (Skype, iTalk, via webcam)",
+                "posting opinions on civil or political issues on websites (using blogs, social networks, etc.)",
+                "participating in online consultations, voting on civil or political issues (e.g. on urban planning issues, signing a petition, etc.)",
+                "selling goods and services over the Internet",
+                "using services related to travel or hotel accommodation while traveling",
+                "looking for work or sending a job application",
+                "searching for information about goods and services not previously mentioned",
+                ""
+              ]
+            },
+            "title": "purpose of use"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "city Sevastopol",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "the city of Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-6-4",
+  "title": "Share of the population aged 16 to 74 who used Internet services during the last three months, percent"
+}

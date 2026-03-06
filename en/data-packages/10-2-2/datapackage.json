@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "By form of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "direct discrimination",
+                "indirect discrimination",
+                "incitement to discrimination",
+                "complicity in discrimination",
+                "oppression",
+                ""
+              ]
+            },
+            "title": "form of discrimination"
+          },
+          {
+            "name": "By spheres of public relations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "freedom from discrimination in the field of social protection",
+                "freedom from discrimination in the field of education",
+                "freedom from discrimination in the field of service provision",
+                "freedom from discrimination in the field of access to justice",
+                "freedom from discrimination in the field of health care",
+                "freedom from discrimination in the field of labor, employment",
+                "freedom from discrimination in the field of sports",
+                "freedom from discrimination in the media",
+                "freedom from discrimination in the field of advertising",
+                "freedom from discrimination in the field of advertising for vacancies (recruitment)",
+                ""
+              ]
+            },
+            "title": "by spheres of public relations"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "by type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "by type of residence"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-2-2",
+  "title": "Share of reports of discrimination in the total number of reports received by the Commissioner for Human Rights of the Verkhovna Rada of Ukraine during the reporting period, percent"
+}

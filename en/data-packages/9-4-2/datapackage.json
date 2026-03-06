@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Unnamed: 1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100",
+                ""
+              ]
+            },
+            "title": "Unnamed: 1"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-4-2",
+  "title": "Share of settlements in which sections of streets and roads that are combined with highways of national importance have a hard surface, percent"
+}

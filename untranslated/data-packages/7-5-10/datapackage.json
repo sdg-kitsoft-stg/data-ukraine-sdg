@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1252",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "authorities",
+                "balances",
+                "consumption",
+                "natural_monopolies",
+                "policy",
+                "reliability_and_safety",
+                "reporting",
+                "supply",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By sectors of the fuel and energy sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "natural_gas_2",
+                "electric_energy",
+                "oil_and_liquid_fuels",
+                "thermal_energy",
+                "thermal_coal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-5-10",
+  "title": "7-5-10"
+}
