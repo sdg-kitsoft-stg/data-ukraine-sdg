@@ -275,8 +275,10 @@ age_15: до 15 років
 age_14_30: 14 - 30 років
 age_15_17: 15 - 17 років
 age_18_24: 18 - 24 роки
+age_18_29: 18 - 29 років
 age_18_39: 18 - 39 років
 age_25_35: 25 - 35 років
+age_30_59: 30 - 59 років
 age_36_59: 36 - 59 років
 age_40_64: 40 - 64 роки
 age_60_74: 60 - 74 роки
@@ -3078,3 +3080,19 @@ Resource: Тип оснащення
 heat_energy: теплова енергія
 hot_water: гаряча вода
 drinking_water: питна вода
+
+By sectors of the fuel and energy sector: За секторами ПЕК
+electric_energy: електрична енергія
+natural_gas_2: природний газ
+oil_and_liquid_fuels: нафта й рідке паливо
+thermal_coal: енергетичне вугілля
+thermal_energy: теплова енергія
+
+authorities: Органи влади
+balances: Баланси
+consumption: Споживання
+natural_monopolies: Природні монополії
+policy: Політика
+reliability_and_safety: Надійність і безпека
+reporting: Звітність
+supply: Постачання

@@ -253,8 +253,10 @@ age_15: up to 15 years
 age_14_30: 14-30 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
+age_18_29: 18-29 years
 age_18_39: 18-39 years
 age_25_35: 25-35 years
+age_30_59: 30-59 years
 age_36_59: 36-59 years
 age_40_64: 40-64 years
 age_60_74: 60-74 years
@@ -2963,3 +2965,20 @@ Resource: Type of equipment
 heat_energy: heat energy
 hot_water: hot water
 drinking_water: drinking water
+
+By sectors of the fuel and energy sector: Fuel and energy sector
+electric_energy: electric energy
+natural_gas_2: natural gas
+oil_and_liquid_fuels: oil and liquid fuels
+thermal_coal: thermal coal
+thermal_energy: thermal energy
+
+
+authorities: Authorities
+balances: Balances
+consumption: Consumption
+natural_monopolies: Natural Monopolies
+policy: Policy
+reliability_and_safety: Reliability and safety
+reporting: Reporting
+supply: Supply
