@@ -1,5 +1,8 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.10 Increasing the effectiveness of state authorities and local self-government authorities
 SDG_INDICATOR: 16.10.2 Share of citizens who trust local self-government authorities, percent
-CONTACT_ORGANISATION: National Agency of Ukraine on Civil Service – data will be available after involving development partners
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: National Agency of Ukraine on Civil Service (NAUCS)
 REC_USE_LIM: Data will be available after involving development partners.
+reference_title: "Target value of the indicator for 2030"
+footer_reference: 'increase by 3 percent annually'

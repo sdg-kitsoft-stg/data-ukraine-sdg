@@ -1,5 +1,8 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.5 Preventing cases of human trafficking and reducing the level of such trafficking and all forms of exploitation
 SDG_INDICATOR: 16.5.3 Share of the population that is aware of actions in case of exploitation, recruitment, transportation, transfer, concealment or detention of people by the threat or use of force or other forms of coercion, percent
-CONTACT_ORGANISATION: National Social Service of Ukraine – data will be available from 2026
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: National Social Service of Ukraine (NSSU)
 REC_USE_LIM: Data will be available from 2026.
+reference_title: "Target value of the indicator for 2030"
+footer_reference: '70'

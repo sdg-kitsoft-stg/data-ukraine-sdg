@@ -2166,7 +2166,7 @@ group_label_173: "Over 60 years"
 group_13: "Sex"
 group_label_174: "Women"
 group_label_175: "Men"
-group_14: "Applicant status"
+group_14: "Status of the subject of the appeal"
 group_label_176: "Individual"
 group_label_177: "Sole proprietor (individual entrepreneur)"
 group_label_178: "Legal entity"
@@ -2177,7 +2177,7 @@ group_label_181: "Village council"
 group_16: "Type of place of residence"
 group_label_189: "Urban"
 group_label_190: "Rural"
-group_17: "Income decile groups"
+group_17: "Decile groups by level of average per capita equivalent total income"
 group_label_191: "First (lowest)"
 group_label_192: "Second"
 group_label_193: "Third"
@@ -2188,9 +2188,19 @@ group_label_197: "Seventh"
 group_label_198: "Eighth"
 group_label_199: "Ninth"
 group_label_200: "Tenth (highest)"
-group_18: "Including"
+group_18: "Conducted by"
 group_label_201: "By ministries and other central executive bodies"
-group_label_202: "By oblast and Kyiv City state administrations (military administrations)"
+group_label_202: "By regional, Kyiv city state administrations (military administrations)"
+group_label_203: 'men 18–35 years '
+group_label_204: 'men 36–59 years'
+group_label_205: 'men 60 years and older'
+group_label_206: 'women 18–35 years'
+group_label_207: 'women 36–59 years'
+group_label_208: 'women 60 years and older'
+group_label_209: 'large cities (population 500,000 or more)'
+group_label_210: 'cities (population 50,000–500,000)'
+group_label_211: 'small cities (population less than 50,000)'
+group_label_212: 'rural areas'
 group_19: "Education level"
 group_label_213: "Primary education"
 group_label_214: "Secondary education"
@@ -2211,6 +2221,12 @@ group_22: "Displacement status"
 group_label_226: "Internally displaced persons (IDPs)"
 group_label_227: "Returnees"
 group_label_228: "People who did not leave"
+group_label_229: "By disability criterion"
+group_label_230: 'including who have applied to a single contact number of the free legal aid system 0-800-213-103 2'
+group_label_231: 'up to 18 years'
+group_label_232: '18–35 years'
+group_label_233: '36–60 years'
+group_label_234: '61 years and older'
 group_23: "Type of place of residence"
 group_24: "Type of legal aid"
 group_label_235: "Primary legal aid"
@@ -2235,6 +2251,15 @@ group_label_252: "Tax law"
 group_label_253: "Electoral law"
 group_label_254: "Commercial law"
 group_label_255: "Issues related to armed aggression"
+group_label_256: 'up to 30 years'
+group_label_257: '30–54 years'
+group_label_258: '55 years and older'
+group_label_259: 'regional centers'
+group_label_260: 'district centers and cities'
+group_label_261: 'villages'
+group_label_262: 'below average and lowest'
+group_label_263: 'average'
+group_label_264: 'highest and above average'
 group_26: "Risk level"
 group_label_265: "Low"
 group_label_266: "High"
@@ -2955,11 +2980,10 @@ group_label_277: "50–59 years"
 group_label_278: "60–70 years"
 
 group_label_279: "Basic, primary general secondary, or no education"
-group_label_280: "Share of youth aged 15–34 who are not in employment, education or training, in the total population of the corresponding age, percent"
 
-group_29: "Total number and fatal outcome"
-group_label_281: "Total number"
-group_label_282: "With a fatal outcome"
+group_29: "Total number and fatality"
+group_label_281: "total number"
+group_label_282: "fatality"
 
 group_label_283: "Coal industry"
 group_label_284: "Metal ore and non-metal mining industry"
@@ -3062,3 +3086,32 @@ selling goods and services over the Internet: selling goods and services over th
 using services related to travel or hotel accommodation while traveling: using services related to travel or hotel accommodation while traveling
 looking for work or sending a job application: looking for work or sending a job application
 searching for information about goods and services not previously mentioned: searching for information about goods and services not previously mentioned
+
+group_30: 'Types of economic activity'
+group_label_298: 'Agriculture, forestry and fishing'
+group_label_299: 'Industry'
+group_label_300: 'Construction'
+group_label_301: 'Wholesale and retail trade; repair of motor vehicles and motorcycles'
+group_label_302: 'Accommodation and food service activities'
+group_label_303: 'Information and telecommunications '
+group_label_304: 'Financial and insurance activities'
+group_label_305: 'Real estate activities'
+group_label_306: 'Professional, scientific and technical activities'
+group_label_307: 'Administrative and support service activities'
+group_label_308: 'Education'
+group_label_309: 'Arts, sports, entertainment and recreation'
+group_label_310: 'Other economic activities'
+group_label_311: 'full tertiary education'
+group_label_312: 'basic tertiary education'
+group_label_313: 'incomplete tertiary education'
+group_label_314: 'vocational and technical education'
+group_label_315: 'full general secondary education'
+group_label_316: 'Transport'
+group_label_317: 'Agriculture, forestry and fishing'
+group_label_318: 'Other service activities'
+group_31: "Education"
+group_label_319: "basic, primary general secondary or no education"
+group_32: "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
+group_label_320: "aged 15–24"
+group_label_321: "aged 15–34"
+group_label_322: 'Number of registered client requests for free legal assistance'

@@ -1,5 +1,8 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.1 Restoring full territorial integrity and sovereignty of the state
 SDG_INDICATOR: 16.1.1 Share of the territory of Ukraine where state authorities exercise their powers in full, percent
-CONTACT_ORGANISATION: Ministry of National Unity of Ukraine – data will be provided additionally
+UNIT_MEASURE: Percentage (%)
+CONTACT_ORGANISATION: Ministry of National Unity of Ukraine
 REC_USE_LIM: Data will be provided additionally.
+reference_title: "Target value of the indicator for 2030"
+footer_reference: '100'
