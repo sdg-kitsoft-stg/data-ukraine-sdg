@@ -2261,8 +2261,8 @@ group_label_262: 'below average and lowest'
 group_label_263: 'average'
 group_label_264: 'highest and above average'
 group_26: "Risk level"
-group_label_265: "Low"
-group_label_266: "High"
+group_label_265: "low"
+group_label_266: "high"
 group_27: "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
 group_label_267: "Share of population"
 group_label_268: "Share of business representatives"
@@ -3116,3 +3116,4 @@ group_label_320: "aged 15–24"
 group_label_321: "aged 15–34"
 group_label_322: 'Number of registered client requests for free legal assistance'
 group_label_323: 'including who have applied to a single contact number of the free legal aid system 0-800-213-103 2'
+group_label_324: 'medium'
