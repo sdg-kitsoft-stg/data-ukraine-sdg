@@ -324,7 +324,9 @@ village_: settlement, village
 
 Households: Household type
 hh_ch: households/families with children
+hh_ch_v2: households with children
 hh_ch_0: households/families without children
+hh_ch_0_v2: households without children
 
 Decile groups: Decile groups of income
 dg_01: 1st group (low income)
