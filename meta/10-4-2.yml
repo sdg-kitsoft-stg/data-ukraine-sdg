@@ -1,6 +1,6 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.4 Promoting decent pension security
-SDG_INDICATOR: 10.4.2 Ratio of average pension to average wage in the economy of Ukraine (with relevant insurance experience), percent (SDG indicator 10.4.2)
+SDG_INDICATOR: 10.4.2 Ratio of average pension to average wage in the economy of Ukraine (with relevant insurance experience), percent
 CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine
 UNIT_MEASURE: Percentage (%)
 REC_USE_LIM: "Ratio of average pension to average wage in the economy of Ukraine (with relevant insurance experience), percent: Data have been developed since 2020."

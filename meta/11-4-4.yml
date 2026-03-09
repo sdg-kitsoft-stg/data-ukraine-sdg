@@ -1,6 +1,6 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.4 Increasing the resilience of settlements and territorial communities to the consequences of the armed aggression of the Russian Federation against Ukraine, natural disasters, extraordinary situations and climate change
-SDG_INDICATOR: 11.4.4 Suitability for use of the civil protection facilities fund (suitable/unsuitable), percent (SDG indicator 11.4.4)
+SDG_INDICATOR: 11.4.4 Suitability for use of the civil protection facilities fund (suitable/unsuitable), percent
 CONTACT_ORGANISATION: "State Emergency Service of Ukraine"
 UNIT_MEASURE: Percentage (%)
 REC_USE_LIM: "storages, anti-radiation shelters: Data have been developed since 2022. <br> dual-use structures, simplest shelters: Data have been developed since 2023."
