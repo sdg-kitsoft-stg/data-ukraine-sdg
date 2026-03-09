@@ -2,7 +2,7 @@ SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.5 Ensuring the creation of appropriate barrier-free infrastructure
 SDG_INDICATOR: 10.5.1 Share of persons among groups with reduced mobility who reported that in the last 12 months they personally faced obstacles in access to public places, percent
 UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available from 2026
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: 'decrease by 2 percent annually'
+CONTACT_ORGANISATION: Ministry of Social Policy, Family and Unity of Ukraine
+REC_USE_LIM: 'data will be available from 2026'
+reference_title: "Target value of the indicator for 2030"
+footer_reference: 'decrease by 2 percent annually'

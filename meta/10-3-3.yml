@@ -2,7 +2,7 @@ SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.3 Ensuring the availability of social services
 SDG_INDICATOR: 10.3.3 Share of persons provided with basic social services in territorial community in the total number of persons in need of such services, percent
 UNIT_MEASURE: Percentage (%)
-CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available after the end or lifting of martial law
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: '80'
+CONTACT_ORGANISATION: Ministry of Social Policy, Family and Unity of Ukraine
+REC_USE_LIM: 'data will be available after the end or lifting of martial law'
+reference_title: "Target value of the indicator for 2030"
+footer_reference: '80'
