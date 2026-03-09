@@ -1,6 +1,6 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.6 Ensuring access to the Internet for the population, particularly in rural area
-SDG_INDICATOR: 9.6.1 Share of households covered by high-speed broadband Internet access networks, percent (SDG indicator 9.6.1)
+SDG_INDICATOR: 9.6.1 Share of households covered by high-speed broadband Internet access networks, percent
 UNIT_MEASURE: Percentage (%)
 CONTACT_ORGANISATION: "National Commission for the State Regulation of Electronic Communications, Radio Frequency Spectrum and the Provision of Postal Services"
 REC_USE_LIM: "Share of households covered by high-speed broadband Internet access networks, percent: Data have been developed since 2024. <br> 2024: Data on the number of households according to the Statistical Publication 'Social and Demographic Characteristics of Households of Ukraine in 2021' were used in the calculation. Excluding data the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol, as well as part of the territories located in the area of military (combat) operations or under temporary occupation, encirclement (blockade), in Donetsk, Luhansk, Zaporizhzhia and Kherson regions. After updating the data on households, the calculations will be updated."

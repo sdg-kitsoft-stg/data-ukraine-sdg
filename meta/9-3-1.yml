@@ -1,6 +1,6 @@
 SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.3 Ensuring the development of a qualitative, persistent, sustainable and affordable transport system
-SDG_INDICATOR: 9.3.1 Volume of goods transported by all modes of transport, million tons per year (SDG indicator 9.3.1)
+SDG_INDICATOR: 9.3.1 Volume of goods transported by all modes of transport, million tons per year
 UNIT_MEASURE: million tons per year
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine"
 REC_USE_LIM: "2022-2023: Data can be updated. <br> 2022-2023: Data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality. <br> 2024: The publication of information will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine 'On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War'. <br> rail: According to the data of the Joint-Stock Company 'Ukrainian Railways' <br> air: According to the data of the State Aviation Service of Ukraine. <br> air,pipeline 2022-2023: Data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality."
