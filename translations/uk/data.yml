@@ -332,8 +332,8 @@ Gender: Стать
 Sex: Стать
 Sex of the head of household: Стать голови домогосподарства
 males: чоловіки
-females: жінки
-male: чоловіки
+females: Жіноча
+male: Чоловіча
 female: жінки
 children: діти
 mal: чоловік
@@ -349,9 +349,9 @@ district_councils_in_cities: районні у містах ради
 settlement_councils: селищні ради
 village_councils: сільські ради
 
-Households: Тип домогосподарства
-hh_ch: домогосподарства/сім’ї з дітьми
-hh_ch_0:  домогосподарства/сім’ї без дітей
+Households: Домогосподарства
+hh_ch: Домогосподарства з дітьми
+hh_ch_0: Домогосподарства без дітей
 
 Type of residence: Місцевість проживання
 by type of residence: Місцевість проживання
