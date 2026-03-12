@@ -10,6 +10,10 @@ data_show_map: false
 data_start_values:
 - field: Region
   value: Ukraine
+- field: WaterType
+  value: microbiological
+- field: SupplyType
+  value: urban_pipelines
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
