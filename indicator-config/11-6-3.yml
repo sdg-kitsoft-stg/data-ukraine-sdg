@@ -16,27 +16,27 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - series: ''
-    unit: ''
-    minimum: 0
-    maximum: 20
+- series: ''
+  unit: ''
+  minimum: 0
+  maximum: 20
 graph_stacked_disaggregation: ''
 graph_title: global_indicators.11-6-3-title
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.11-6-3-title
-indicator_number: '11.6.3'
+indicator_number: 11.6.3
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+- decimals: 2
 reporting_status: complete
 sort: ''
 standalone: false
 tags: []
-
 graph_target_lines:
-  - series: ''
-    unit: ''
-    label_content: indicator.annotation_2030_target
-    value: 15
+- series: ''
+  unit: ''
+  label_content: indicator.annotation_2030_target
+  value: 15

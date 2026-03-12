@@ -21,11 +21,12 @@ graph_title: global_indicators.10-2-3-title
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.10-2-3-title
-indicator_number: '10.2.3'
+indicator_number: 10.2.3
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+- decimals: 1
 reporting_status: complete
 sort: ''
 standalone: false
