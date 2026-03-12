@@ -268,6 +268,7 @@ age_2_65_70: 65-70 years
 under_35: under 35 years
 age_3_61: 61 years and older
 
+age_16_17: 16-17 years
 age_18_34: 18-34 years
 age_35_59: 35-59 years
 age_60: 60 years and older
@@ -503,6 +504,7 @@ Infectious diseases: Infectious diseases
 ill_8_mumps: Mumps
 ill_9_rubella: Rubella
 ill_10_tetanus: Tetanus
+ill_10_haemophilic_infection: Haemophilus infection
 
 age_vac_1_under_1_year: under 1 year
 age_vac_2_1_year: 1 year
@@ -3127,3 +3129,5 @@ group_33: 'Gender (age 15-24)'
 group_34: "Type of place of residence (age 15-24)"
 group_35: 'Gender (age 15-34)'
 group_36: "Type of place of residence (age 15-34)"
+by_territorial_automated_centralized_warning_systems: by territorial automated centralized warning systems
+energy_water_utilities: energy water utilities
