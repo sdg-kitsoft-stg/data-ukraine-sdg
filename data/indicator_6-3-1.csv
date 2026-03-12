@@ -1,4 +1,4 @@
-Year,Type of economic activity,By river basins,Region,Value
+﻿Year,Type of economic activity,By river basins,Region,Value
 2015,,,,875.1
 2016,,,,698.3
 2017,,,,997.3
@@ -9,6 +9,26 @@ Year,Type of economic activity,By river basins,Region,Value
 2022,,,,374.027
 2023,,,,375.647
 2024,,,,328.621
+2015,,,Ukraine,875.1
+2016,,,Ukraine,698.3
+2017,,,Ukraine,997.3
+2018,,,Ukraine,952.0
+2019,,,Ukraine,737.2
+2020,,,Ukraine,518.351
+2021,,,Ukraine,543.093
+2022,,,Ukraine,374.027
+2023,,,Ukraine,375.647
+2024,,,Ukraine,328.621
+2015,,,autonomous_Republic_of_Crimea,
+2016,,,autonomous_Republic_of_Crimea,
+2017,,,autonomous_Republic_of_Crimea,
+2018,,,autonomous_Republic_of_Crimea,
+2019,,,autonomous_Republic_of_Crimea,
+2020,,,autonomous_Republic_of_Crimea,
+2021,,,autonomous_Republic_of_Crimea,
+2022,,,autonomous_Republic_of_Crimea,
+2023,,,autonomous_Republic_of_Crimea,
+2024,,,autonomous_Republic_of_Crimea,
 2015,,,11_reg_Vinnytsya,0.617
 2016,,,11_reg_Vinnytsya,0.046
 2017,,,11_reg_Vinnytsya,0.833
@@ -259,16 +279,6 @@ Year,Type of economic activity,By river basins,Region,Value
 2022,,,35_reg_Kyiv_city,15.228
 2023,,,35_reg_Kyiv_city,12.932
 2024,,,35_reg_Kyiv_city,12.361
-2015,,,autonomous_Republic_of_Crimea,
-2016,,,autonomous_Republic_of_Crimea,
-2017,,,autonomous_Republic_of_Crimea,
-2018,,,autonomous_Republic_of_Crimea,
-2019,,,autonomous_Republic_of_Crimea,
-2020,,,autonomous_Republic_of_Crimea,
-2021,,,autonomous_Republic_of_Crimea,
-2022,,,autonomous_Republic_of_Crimea,
-2023,,,autonomous_Republic_of_Crimea,
-2024,,,autonomous_Republic_of_Crimea,
 2015,,,city_Sevastopol,
 2016,,,city_Sevastopol,
 2017,,,city_Sevastopol,
@@ -279,16 +289,6 @@ Year,Type of economic activity,By river basins,Region,Value
 2022,,,city_Sevastopol,
 2023,,,city_Sevastopol,
 2024,,,city_Sevastopol,
-2015,,,Ukraine,875.1
-2016,,,Ukraine,698.3
-2017,,,Ukraine,997.3
-2018,,,Ukraine,952.0
-2019,,,Ukraine,737.2
-2020,,,Ukraine,518.351
-2021,,,Ukraine,543.093
-2022,,,Ukraine,374.027
-2023,,,Ukraine,375.647
-2024,,,Ukraine,328.621
 2015,,azov_river_basin_area,,236.4
 2016,,azov_river_basin_area,,168.1
 2017,,azov_river_basin_area,,190.5

@@ -1,4 +1,4 @@
-Year,Region,Category,Value
+﻿Year,Region,Category,Value
 2015,Ukraine,,29.6
 2016,Ukraine,,28.6
 2017,Ukraine,,27.3
@@ -9,7 +9,6 @@ Year,Region,Category,Value
 2022,Ukraine,,29.0
 2023,Ukraine,,22.3
 2024,Ukraine,,12.6
-
 2015,autonomous_Republic_of_Crimea,,
 2016,autonomous_Republic_of_Crimea,,
 2017,autonomous_Republic_of_Crimea,,
@@ -20,18 +19,6 @@ Year,Region,Category,Value
 2022,autonomous_Republic_of_Crimea,,
 2023,autonomous_Republic_of_Crimea,,
 2024,autonomous_Republic_of_Crimea,,
-
-2015,city_Sevastopol,,
-2016,city_Sevastopol,,
-2017,city_Sevastopol,,
-2018,city_Sevastopol,,
-2019,city_Sevastopol,,
-2020,city_Sevastopol,,
-2021,city_Sevastopol,,
-2022,city_Sevastopol,,
-2023,city_Sevastopol,,
-2024,city_Sevastopol,,
-
 2015,11_reg_Vinnytsya,,18.9
 2016,11_reg_Vinnytsya,,17.8
 2017,11_reg_Vinnytsya,,15.0
@@ -282,3 +269,13 @@ Year,Region,Category,Value
 2022,35_reg_Kyiv_city,,49.1
 2023,35_reg_Kyiv_city,,2.0
 2024,35_reg_Kyiv_city,,4.3
+2015,city_Sevastopol,,
+2016,city_Sevastopol,,
+2017,city_Sevastopol,,
+2018,city_Sevastopol,,
+2019,city_Sevastopol,,
+2020,city_Sevastopol,,
+2021,city_Sevastopol,,
+2022,city_Sevastopol,,
+2023,city_Sevastopol,,
+2024,city_Sevastopol,,

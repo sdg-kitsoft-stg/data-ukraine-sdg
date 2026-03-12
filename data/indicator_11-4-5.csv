@@ -1,4 +1,4 @@
-Year,Region,Value
+﻿Year,Region,Value
 2015,,
 2016,,
 2017,,
@@ -9,7 +9,6 @@ Year,Region,Value
 2022,,33.23
 2023,,49.47
 2024,,71.80
-
 2015,autonomous_Republic_of_Crimea,
 2016,autonomous_Republic_of_Crimea,
 2017,autonomous_Republic_of_Crimea,
@@ -20,18 +19,6 @@ Year,Region,Value
 2022,autonomous_Republic_of_Crimea,
 2023,autonomous_Republic_of_Crimea,
 2024,autonomous_Republic_of_Crimea,
-
-2015,city_Sevastopol,
-2016,city_Sevastopol,
-2017,city_Sevastopol,
-2018,city_Sevastopol,
-2019,city_Sevastopol,
-2020,city_Sevastopol,
-2021,city_Sevastopol,
-2022,city_Sevastopol,
-2023,city_Sevastopol,
-2024,city_Sevastopol,
-
 2015,11_reg_Vinnytsya,
 2016,11_reg_Vinnytsya,
 2017,11_reg_Vinnytsya,
@@ -42,7 +29,6 @@ Year,Region,Value
 2022,11_reg_Vinnytsya,85.71
 2023,11_reg_Vinnytsya,88.89
 2024,11_reg_Vinnytsya,88.89
-
 2015,12_reg_Volyn,
 2016,12_reg_Volyn,
 2017,12_reg_Volyn,
@@ -53,7 +39,6 @@ Year,Region,Value
 2022,12_reg_Volyn,100.0
 2023,12_reg_Volyn,100.0
 2024,12_reg_Volyn,100.0
-
 2015,13_reg_Dnipropetrovsk,
 2016,13_reg_Dnipropetrovsk,
 2017,13_reg_Dnipropetrovsk,
@@ -64,7 +49,6 @@ Year,Region,Value
 2022,13_reg_Dnipropetrovsk,25.58
 2023,13_reg_Dnipropetrovsk,32.56
 2024,13_reg_Dnipropetrovsk,79.07
-
 2015,14_reg_Donetsk,
 2016,14_reg_Donetsk,
 2017,14_reg_Donetsk,
@@ -75,7 +59,6 @@ Year,Region,Value
 2022,14_reg_Donetsk,14.81
 2023,14_reg_Donetsk,74.07
 2024,14_reg_Donetsk,81.48
-
 2015,15_reg_Zhytomyr,
 2016,15_reg_Zhytomyr,
 2017,15_reg_Zhytomyr,
@@ -86,7 +69,6 @@ Year,Region,Value
 2022,15_reg_Zhytomyr,46.97
 2023,15_reg_Zhytomyr,59.09
 2024,15_reg_Zhytomyr,78.79
-
 2015,16_reg_Zakarpattya,
 2016,16_reg_Zakarpattya,
 2017,16_reg_Zakarpattya,
@@ -97,7 +79,6 @@ Year,Region,Value
 2022,16_reg_Zakarpattya,18.75
 2023,16_reg_Zakarpattya,39.06
 2024,16_reg_Zakarpattya,71.88
-
 2015,17_reg_Zaporizhzhya,
 2016,17_reg_Zaporizhzhya,
 2017,17_reg_Zaporizhzhya,
@@ -108,7 +89,6 @@ Year,Region,Value
 2022,17_reg_Zaporizhzhya,17.65
 2023,17_reg_Zaporizhzhya,17.65
 2024,17_reg_Zaporizhzhya,70.59
-
 2015,18_reg_Ivano-Frankivsk,
 2016,18_reg_Ivano-Frankivsk,
 2017,18_reg_Ivano-Frankivsk,
@@ -119,7 +99,6 @@ Year,Region,Value
 2022,18_reg_Ivano-Frankivsk,4.84
 2023,18_reg_Ivano-Frankivsk,20.97
 2024,18_reg_Ivano-Frankivsk,56.45
-
 2015,19_reg_Kyiv,
 2016,19_reg_Kyiv,
 2017,19_reg_Kyiv,
@@ -130,7 +109,6 @@ Year,Region,Value
 2022,19_reg_Kyiv,100.0
 2023,19_reg_Kyiv,100.0
 2024,19_reg_Kyiv,100.0
-
 2015,20_reg_Kirovohrad,
 2016,20_reg_Kirovohrad,
 2017,20_reg_Kirovohrad,
@@ -141,7 +119,6 @@ Year,Region,Value
 2022,20_reg_Kirovohrad,100.0
 2023,20_reg_Kirovohrad,100.0
 2024,20_reg_Kirovohrad,100.0
-
 2015,21_reg_Luhansk,
 2016,21_reg_Luhansk,
 2017,21_reg_Luhansk,
@@ -152,7 +129,6 @@ Year,Region,Value
 2022,21_reg_Luhansk,
 2023,21_reg_Luhansk,
 2024,21_reg_Luhansk,
-
 2015,22_reg_Lviv,
 2016,22_reg_Lviv,
 2017,22_reg_Lviv,
@@ -163,7 +139,6 @@ Year,Region,Value
 2022,22_reg_Lviv,10.96
 2023,22_reg_Lviv,21.92
 2024,22_reg_Lviv,50.68
-
 2015,23_reg_Mykolayiv,
 2016,23_reg_Mykolayiv,
 2017,23_reg_Mykolayiv,
@@ -174,7 +149,6 @@ Year,Region,Value
 2022,23_reg_Mykolayiv,9.62
 2023,23_reg_Mykolayiv,28.85
 2024,23_reg_Mykolayiv,55.77
-
 2015,24_reg_Odesa,
 2016,24_reg_Odesa,
 2017,24_reg_Odesa,
@@ -185,7 +159,6 @@ Year,Region,Value
 2022,24_reg_Odesa,32.97
 2023,24_reg_Odesa,39.56
 2024,24_reg_Odesa,75.82
-
 2015,25_reg_Poltava,
 2016,25_reg_Poltava,
 2017,25_reg_Poltava,
@@ -196,7 +169,6 @@ Year,Region,Value
 2022,25_reg_Poltava,61.67
 2023,25_reg_Poltava,76.67
 2024,25_reg_Poltava,88.33
-
 2015,26_reg_Rivne,
 2016,26_reg_Rivne,
 2017,26_reg_Rivne,
@@ -207,7 +179,6 @@ Year,Region,Value
 2022,26_reg_Rivne,9.38
 2023,26_reg_Rivne,75.46
 2024,26_reg_Rivne,90.63
-
 2015,27_reg_Sumy,
 2016,27_reg_Sumy,
 2017,27_reg_Sumy,
@@ -218,7 +189,6 @@ Year,Region,Value
 2022,27_reg_Sumy,23.53
 2023,27_reg_Sumy,29.41
 2024,27_reg_Sumy,54.90
-
 2015,28_reg_Ternopil,
 2016,28_reg_Ternopil,
 2017,28_reg_Ternopil,
@@ -229,7 +199,6 @@ Year,Region,Value
 2022,28_reg_Ternopil,21.82
 2023,28_reg_Ternopil,41.82
 2024,28_reg_Ternopil,56.36
-
 2015,29_reg_Kharkiv,
 2016,29_reg_Kharkiv,
 2017,29_reg_Kharkiv,
@@ -240,7 +209,6 @@ Year,Region,Value
 2022,29_reg_Kharkiv,12.50
 2023,29_reg_Kharkiv,42.86
 2024,29_reg_Kharkiv,83.93
-
 2015,30_reg_Kherson,
 2016,30_reg_Kherson,
 2017,30_reg_Kherson,
@@ -251,7 +219,6 @@ Year,Region,Value
 2022,30_reg_Kherson,
 2023,30_reg_Kherson,
 2024,30_reg_Kherson,35.29
-
 2015,31_reg_Khmelnytskiy,
 2016,31_reg_Khmelnytskiy,
 2017,31_reg_Khmelnytskiy,
@@ -262,7 +229,6 @@ Year,Region,Value
 2022,31_reg_Khmelnytskiy,6.67
 2023,31_reg_Khmelnytskiy,66.67
 2024,31_reg_Khmelnytskiy,80.00
-
 2015,32_reg_Cherkasy,
 2016,32_reg_Cherkasy,
 2017,32_reg_Cherkasy,
@@ -273,7 +239,6 @@ Year,Region,Value
 2022,32_reg_Cherkasy,7.58
 2023,32_reg_Cherkasy,24.24
 2024,32_reg_Cherkasy,40.91
-
 2015,33_reg_Chernivtsi,
 2016,33_reg_Chernivtsi,
 2017,33_reg_Chernivtsi,
@@ -284,7 +249,6 @@ Year,Region,Value
 2022,33_reg_Chernivtsi,5.77
 2023,33_reg_Chernivtsi,11.54
 2024,33_reg_Chernivtsi,53.85
-
 2015,34_reg_Chernihiv,
 2016,34_reg_Chernihiv,
 2017,34_reg_Chernihiv,
@@ -295,7 +259,6 @@ Year,Region,Value
 2022,34_reg_Chernihiv,8.77
 2023,34_reg_Chernihiv,10.53
 2024,34_reg_Chernihiv,29.82
-
 2015,35_reg_Kyiv_city,
 2016,35_reg_Kyiv_city,
 2017,35_reg_Kyiv_city,
@@ -306,3 +269,13 @@ Year,Region,Value
 2022,35_reg_Kyiv_city,100.00
 2023,35_reg_Kyiv_city,100.00
 2024,35_reg_Kyiv_city,100.00
+2015,city_Sevastopol,
+2016,city_Sevastopol,
+2017,city_Sevastopol,
+2018,city_Sevastopol,
+2019,city_Sevastopol,
+2020,city_Sevastopol,
+2021,city_Sevastopol,
+2022,city_Sevastopol,
+2023,city_Sevastopol,
+2024,city_Sevastopol,

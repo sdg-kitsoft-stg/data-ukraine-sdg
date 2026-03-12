@@ -1,4 +1,4 @@
-Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Value
+﻿Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Value
 2015,,,,,,,
 2016,,,,,,,
 2017,,,,,,,
@@ -9,7 +9,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,,
 2023,,,,,,,
 2024,,,,,,,
-
 2015,age_16_17,,,,,,
 2016,age_16_17,,,,,,
 2017,age_16_17,,,,,,
@@ -20,7 +19,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,age_16_17,,,,,,
 2023,age_16_17,,,,,,
 2024,age_16_17,,,,,,
-
 2015,age_18_24,,,,,,
 2016,age_18_24,,,,,,
 2017,age_18_24,,,,,,
@@ -31,7 +29,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,age_18_24,,,,,,
 2023,age_18_24,,,,,,
 2024,age_18_24,,,,,,
-
 2015,age_25_35,,,,,,
 2016,age_25_35,,,,,,
 2017,age_25_35,,,,,,
@@ -42,7 +39,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,age_25_35,,,,,,
 2023,age_25_35,,,,,,
 2024,age_25_35,,,,,,
-
 2015,age_36_59,,,,,,
 2016,age_36_59,,,,,,
 2017,age_36_59,,,,,,
@@ -53,7 +49,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,age_36_59,,,,,,
 2023,age_36_59,,,,,,
 2024,age_36_59,,,,,,
-
 2015,age_60_74,,,,,,
 2016,age_60_74,,,,,,
 2017,age_60_74,,,,,,
@@ -64,7 +59,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,age_60_74,,,,,,
 2023,age_60_74,,,,,,
 2024,age_60_74,,,,,,
-
 2015,,male,,,,,
 2016,,male,,,,,
 2017,,male,,,,,
@@ -85,7 +79,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,female,,,,,
 2023,,female,,,,,
 2024,,female,,,,,
-
 2015,,,urban,,,,
 2016,,,urban,,,,
 2017,,,urban,,,,
@@ -96,7 +89,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,urban,,,,
 2023,,,urban,,,,
 2024,,,urban,,,,
-
 2015,,,rural,,,,
 2016,,,rural,,,,
 2017,,,rural,,,,
@@ -107,7 +99,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,rural,,,,
 2023,,,rural,,,,
 2024,,,rural,,,,
-
 2015,,,,at_least_once_a_day,,,
 2016,,,,at_least_once_a_day,,,
 2017,,,,at_least_once_a_day,,,
@@ -118,7 +109,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,at_least_once_a_day,,,
 2023,,,,at_least_once_a_day,,,
 2024,,,,at_least_once_a_day,,,
-
 2015,,,,at_least_onc_a_week_but_not_every_day,,,
 2016,,,,at_least_onc_a_week_but_not_every_day,,,
 2017,,,,at_least_onc_a_week_but_not_every_day,,,
@@ -129,7 +119,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,at_least_onc_a_week_but_not_every_day,,,
 2023,,,,at_least_onc_a_week_but_not_every_day,,,
 2024,,,,at_least_onc_a_week_but_not_every_day,,,
-
 2015,,,,less_than_once_a_week,,,
 2016,,,,less_than_once_a_week,,,
 2017,,,,less_than_once_a_week,,,
@@ -140,7 +129,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,less_than_once_a_week,,,
 2023,,,,less_than_once_a_week,,,
 2024,,,,less_than_once_a_week,,,
-
 2015,,,,,sending e-mail,,
 2016,,,,,sending e-mail,,
 2017,,,,,sending e-mail,,
@@ -221,7 +209,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
 2023,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
 2024,,,,,using Internet storage for personal purposes to store documents images music videos or other files,,
-
 2015,,,,,conducting training activities for educational professional or private purposes through an online course,,
 2016,,,,,conducting training activities for educational professional or private purposes through an online course,,
 2017,,,,,conducting training activities for educational professional or private purposes through an online course,,
@@ -232,7 +219,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,conducting training activities for educational professional or private purposes through an online course,,
 2023,,,,,conducting training activities for educational professional or private purposes through an online course,,
 2024,,,,,conducting training activities for educational professional or private purposes through an online course,,
-
 2015,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
 2016,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
 2017,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
@@ -243,7 +229,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
 2023,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
 2024,,,,,conducting training activities for educational professional or private purposes through an online course except for full online courses,,
-
 2015,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
 2016,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
 2017,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
@@ -254,7 +239,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
 2023,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
 2024,,,,,conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals,,
-
 2015,,,,,making an appointment with a specialist doctor through the Internet,,
 2016,,,,,making an appointment with a specialist doctor through the Internet,,
 2017,,,,,making an appointment with a specialist doctor through the Internet,,
@@ -295,7 +279,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,telephone conversations through the Internet/Volp,,
 2023,,,,,telephone conversations through the Internet/Volp,,
 2024,,,,,telephone conversations through the Internet/Volp,,
-
 2015,,,,,posting opinions on civil or political issues on websites,,
 2016,,,,,posting opinions on civil or political issues on websites,,
 2017,,,,,posting opinions on civil or political issues on websites,,
@@ -306,7 +289,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,posting opinions on civil or political issues on websites,,
 2023,,,,,posting opinions on civil or political issues on websites,,
 2024,,,,,posting opinions on civil or political issues on websites,,
-
 2015,,,,,participating in online consultations voting on civil or political issues,,
 2016,,,,,participating in online consultations voting on civil or political issues,,
 2017,,,,,participating in online consultations voting on civil or political issues,,
@@ -327,7 +309,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,selling goods and services over the Internet,,
 2023,,,,,selling goods and services over the Internet,,
 2024,,,,,selling goods and services over the Internet,,
-
 2015,,,,,using services related to travel or hotel accommodation while traveling,,
 2016,,,,,using services related to travel or hotel accommodation while traveling,,
 2017,,,,,using services related to travel or hotel accommodation while traveling,,
@@ -338,7 +319,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,using services related to travel or hotel accommodation while traveling,,
 2023,,,,,using services related to travel or hotel accommodation while traveling,,
 2024,,,,,using services related to travel or hotel accommodation while traveling,,
-
 2015,,,,,looking for work or sending a job application,,
 2016,,,,,looking for work or sending a job application,,
 2017,,,,,looking for work or sending a job application,,
@@ -349,7 +329,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,looking for work or sending a job application,,
 2023,,,,,looking for work or sending a job application,,
 2024,,,,,looking for work or sending a job application,,
-
 2015,,,,,searching for information about goods and services not previously mentioned,,
 2016,,,,,searching for information about goods and services not previously mentioned,,
 2017,,,,,searching for information about goods and services not previously mentioned,,
@@ -360,7 +339,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,searching for information about goods and services not previously mentioned,,
 2023,,,,,searching for information about goods and services not previously mentioned,,
 2024,,,,,searching for information about goods and services not previously mentioned,,
-
 2015,,,,,,,
 2016,,,,,,,
 2017,,,,,,,
@@ -371,7 +349,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,,
 2023,,,,,,,
 2024,,,,,,,
-
 2015,,,,,,autonomous_Republic_of_Crimea,
 2016,,,,,,autonomous_Republic_of_Crimea,
 2017,,,,,,autonomous_Republic_of_Crimea,
@@ -382,18 +359,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,autonomous_Republic_of_Crimea,
 2023,,,,,,autonomous_Republic_of_Crimea,
 2024,,,,,,autonomous_Republic_of_Crimea,
-
-2015,,,,,,city_Sevastopol,
-2016,,,,,,city_Sevastopol,
-2017,,,,,,city_Sevastopol,
-2018,,,,,,city_Sevastopol,
-2019,,,,,,city_Sevastopol,
-2020,,,,,,city_Sevastopol,
-2021,,,,,,city_Sevastopol,
-2022,,,,,,city_Sevastopol,
-2023,,,,,,city_Sevastopol,
-2024,,,,,,city_Sevastopol,
-
 2015,,,,,,11_reg_Vinnytsya,
 2016,,,,,,11_reg_Vinnytsya,
 2017,,,,,,11_reg_Vinnytsya,
@@ -404,7 +369,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,11_reg_Vinnytsya,
 2023,,,,,,11_reg_Vinnytsya,
 2024,,,,,,11_reg_Vinnytsya,
-
 2015,,,,,,12_reg_Volyn,
 2016,,,,,,12_reg_Volyn,
 2017,,,,,,12_reg_Volyn,
@@ -415,7 +379,6 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,12_reg_Volyn,
 2023,,,,,,12_reg_Volyn,
 2024,,,,,,12_reg_Volyn,
-
 2015,,,,,,13_reg_Dnipropetrovsk,
 2016,,,,,,13_reg_Dnipropetrovsk,
 2017,,,,,,13_reg_Dnipropetrovsk,
@@ -646,3 +609,13 @@ Year,Age,Sex,Type of residence,By frequency of use,By purpose of use,Region,Valu
 2022,,,,,,35_reg_Kyiv_city,
 2023,,,,,,35_reg_Kyiv_city,
 2024,,,,,,35_reg_Kyiv_city,
+2015,,,,,,city_Sevastopol,
+2016,,,,,,city_Sevastopol,
+2017,,,,,,city_Sevastopol,
+2018,,,,,,city_Sevastopol,
+2019,,,,,,city_Sevastopol,
+2020,,,,,,city_Sevastopol,
+2021,,,,,,city_Sevastopol,
+2022,,,,,,city_Sevastopol,
+2023,,,,,,city_Sevastopol,
+2024,,,,,,city_Sevastopol,

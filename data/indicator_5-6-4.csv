@@ -1,4 +1,4 @@
-Year,Type of economic activity,Organisation and legal forms,Region,Number of employees,Value
+﻿Year,Type of economic activity,Organisation and legal forms,Region,Number of employees,Value
 2015,B01,,,,
 2016,B01,,,,
 2017,B01,,,,
@@ -6859,6 +6859,15 @@ Year,Type of economic activity,Organisation and legal forms,Region,Number of emp
 2022,,,Ukraine,,34.9
 2023,,,Ukraine,,35.2
 2024,,,Ukraine,,36.2
+2016,,,autonomous_Republic_of_Crimea,,
+2017,,,autonomous_Republic_of_Crimea,,
+2018,,,autonomous_Republic_of_Crimea,,
+2019,,,autonomous_Republic_of_Crimea,,
+2020,,,autonomous_Republic_of_Crimea,,
+2021,,,autonomous_Republic_of_Crimea,,
+2022,,,autonomous_Republic_of_Crimea,,
+2023,,,autonomous_Republic_of_Crimea,,
+2024,,,autonomous_Republic_of_Crimea,,
 2015,,,11_reg_Vinnytsya,,
 2016,,,11_reg_Vinnytsya,,
 2017,,,11_reg_Vinnytsya,,
@@ -7109,23 +7118,14 @@ Year,Type of economic activity,Organisation and legal forms,Region,Number of emp
 2022,,,35_reg_Kyiv_city,,30.6
 2023,,,35_reg_Kyiv_city,,30.8
 2024,,,35_reg_Kyiv_city,,32.4
-2016,,,autonomous_Republic_of_Crimea,,
 2016,,,city_Sevastopol,,
-2017,,,autonomous_Republic_of_Crimea,,
 2018,,,city_Sevastopol,,
-2018,,,autonomous_Republic_of_Crimea,,
 2018,,,city_Sevastopol,,
-2019,,,autonomous_Republic_of_Crimea,,
 2019,,,city_Sevastopol,,
-2020,,,autonomous_Republic_of_Crimea,,
 2020,,,city_Sevastopol,,
-2021,,,autonomous_Republic_of_Crimea,,
 2021,,,city_Sevastopol,,
-2022,,,autonomous_Republic_of_Crimea,,
 2022,,,city_Sevastopol,,
-2023,,,autonomous_Republic_of_Crimea,,
 2023,,,city_Sevastopol,,
-2024,,,autonomous_Republic_of_Crimea,,
 2024,,,city_Sevastopol,,
 2021,,,,up_to_9,28.6
 2022,,,,up_to_9,28.4
