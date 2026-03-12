@@ -255,6 +255,8 @@ Cost_train: Cost of training a specialist
 3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
 4_per_doctoral: average costs per one doctoral student, UAH
 
+age_0_5: 0-5 years
+age_6_17: 6-17 years
 age_0_17: 0-17 years old inclusive
 age_18_plus: 18 years and older
 age_18: under 18 years old
