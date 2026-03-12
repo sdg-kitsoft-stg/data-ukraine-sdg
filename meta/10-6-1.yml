@@ -1,7 +1,7 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.6 Ensuring equal rights and opportunities for different age groups
 SDG_INDICATOR: 10.6.1 Share of persons who have personally encountered manifestations of age discrimination in the professional environment, in the labour market, in career growth, in the service sector, etc., percent (SDG indicator 10.6.1)
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: Ministry of Social Policy of Ukraine – data will be available from 2026
 footer_fields:
   - label: "Target value of the indicator for 2030"

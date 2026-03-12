@@ -3,7 +3,7 @@ SDG_TARGET: 13.2 Improving energy efficiency to reduce greenhouse gas emissions
 SDG_INDICATOR: 13.2.1 Increasing in capacity of biomass boiler houses compared to 2020, percent
 CONTACT_ORGANISATION: "State Agency on Energy Efficiency and Energy Saving of Ukraine (SAEE)"
 REC_USE_LIM: "Ukraine: Data have been developed since 2021.<br/> Donetsk, Zaporizhzhya, Luhansk, Kharkiv, Kherson: Data from temporarily occupied territories and combat zone are lacking."
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 footer_fields:
   - label: "Target value of the indicator for 2030"
     value: 'by 10%'

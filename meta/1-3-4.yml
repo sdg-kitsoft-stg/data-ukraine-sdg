@@ -1,6 +1,6 @@
 SDG_GOAL: 1 End poverty
 SDG_TARGET: 1.3 Increasing the level of resilience of socially vulnerable groups of the population
 SDG_INDICATOR: 1.3.4 Share of persons with disabilities covered by support programs in the total number of persons with disabilities according to data from the information systems of the Ministry of Social Policy, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine (Institute for Demography of the NAS of Ukraine)"
 REC_USE_LIM: According to the data of the Ministry of Social Policy of Ukraine.

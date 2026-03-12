@@ -1,6 +1,7 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.4 Promoting decent pension security
 SDG_INDICATOR: 10.4.1 Wage replacement rate by pensions (relative to 0.5 average wage, full average wage and 1.5 average wage)
+UNIT_MEASURE: "Coverage"
 CONTACT_ORGANISATION: Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine
 REC_USE_LIM: "Wage replacement rate by pensions (relative to 0.5 average wage, full average wage and 1.5 average wage): Regional data are not available."
 footer_fields:

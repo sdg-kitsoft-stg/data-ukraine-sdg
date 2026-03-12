@@ -3,4 +3,4 @@ SDG_TARGET: 11.2 Ensuring sustainable, reliable, fast, safe and inclusive urban 
 SDG_INDICATOR: 11.2.10 Number of tourist infrastructure facilities accessible to persons with disabilities, units
 CONTACT_ORGANISATION: "State Agency for Tourism Development of Ukraine (SATD)"
 REC_USE_LIM: "Number of tourist infrastructure facilities accessible to persons with disabilities, units: Data for 2015-2024 were not collected."
-UNIT_MEASURE: Units
+UNIT_MEASURE: "Units"

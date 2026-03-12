@@ -1,5 +1,6 @@
 SDG_GOAL: 15 Protect and restore terrestrial ecosystems
 SDG_TARGET: 15.3 Contributing to the restoration of degraded lands and achieving neutral level of land and soil degradation
 SDG_INDICATOR: 15.3.1 Content of organic matter (humus) in soils of agricultural land, percent
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Agrarian Policy and Food of Ukraine"
 REC_USE_LIM: 2015 - Weighted average indicator based on the results of the XI round (2016-2020) of agrochemical certification of agricultural lands.<br>Research were not conducted due to the temporary occupation of the region's territories and proximity to the combat zone.<br>There are no agricultural lands within the city of Kyiv.

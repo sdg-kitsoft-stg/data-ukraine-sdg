@@ -2,7 +2,7 @@ SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.2 Preventing of discrimination in society
 SDG_INDICATOR: 10.2.2 Share of reports of discrimination in the total number of reports received by the Commissioner for Human Rights of the Verkhovna Rada of Ukraine during the reporting period, percent (SDG indicator 10.2.2)
 CONTACT_ORGANISATION: "Commissioner for Human Rights of the Verkhovna Rada of Ukraine (Ombudsman of Ukraine)"
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 REC_USE_LIM: "by form of discrimination: Data collection from 2015 to 2022 was not carried out on all forms of discrimination. <br> direct discrimination, indirect discrimination, incitement to discrimination, complicity in discrimination, oppression, freedom from discrimination in the field of social protection, freedom from discrimination in the field of education, freedom from discrimination in the field of service provision, freedom from discrimination in the field of access to justice, freedom from discrimination in the field of health care, freedom from discrimination in the field of labor, employment, freedom from discrimination in the field of sports, freedom from discrimination in the media, freedom from discrimination in the field of advertising, freedom from discrimination in the field of advertising for vacancies (recruitment): Number of messages. <br> by spheres of public relations: Data collection from 2015 to 2022 was not carried out in all spheres of public relations. <br> by age, by type of residence: Data are not being developed."
 footer_fields:
   - label: "Target value of the indicator for 2030"

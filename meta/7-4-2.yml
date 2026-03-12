@@ -1,7 +1,7 @@
 SDG_GOAL: 7 Affordable and clean energy
 SDG_TARGET: 7.4 Promoting the decarbonization of the fuel and energy complex and the development of renewable energy
 SDG_INDICATOR: '7.4.2 Share of energy produced from renewable sources in total final energy consumption by sectors, percent: electricity, heating and cooling, transport'
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Energy of Ukraine"
 REC_USE_LIM: "Data will be available after the end or lifting of martial law."
 footer_fields:

@@ -1,7 +1,7 @@
 SDG_GOAL: 7 Affordable and clean energy
 SDG_TARGET: 7.2 Ensuring the creation of a decentralized energy supply system
 SDG_INDICATOR: 7.2.1 Share of territorial communities covered by microgrid distribution systems based on "smart grids" in the total number of territorial communities, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Inspectorate for Energy Supervision of Ukraine"
 REC_USE_LIM: 'Data have been developed since 2024. 2 Data are lacking. <br>Luhansk: Data are lacking.'
 footer_reference: '2024: by installed electrical capacity in megawatts - 10,7'

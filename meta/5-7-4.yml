@@ -1,6 +1,6 @@
 SDG_GOAL: 5 Gender equality
 SDG_TARGET: 5.7 Ensuring the mainstreaming of gender equality principles in education
 SDG_INDICATOR: 5.7.4 Share of educational institutions that have introduced the principles of gender-sensitive, non-discriminatory language into document flow, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Education and Science of Ukraine (MES)"
 REC_USE_LIM: Data for 2015-2024 were not collected.

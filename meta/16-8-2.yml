@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.8 Taking measures to reduce the illicit trafficking of weapons, ammunition and explosive devices
 SDG_INDICATOR: 16.8.2 Number of voluntarily surrendered firearms from among the previously registered, units
-UNIT_MEASURE: Units
+UNIT_MEASURE: "Units"
 CONTACT_ORGANISATION: "National Police of Ukraine"
 REC_USE_LIM: 

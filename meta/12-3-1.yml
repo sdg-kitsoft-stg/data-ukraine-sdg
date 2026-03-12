@@ -3,7 +3,7 @@ SDG_TARGET: 12.3 Promoting sustainable management and efficient use of natural r
 SDG_INDICATOR: 'Resource intensity of the gross domestic product (ratio of consumed physical volumes of natural resources, generated waste and emissions of pollutants to the volume of the gross domestic product) compared to 2015, percent: energy intensity of the gross domestic product, material intensity of the gross domestic product, carbon intensity of the gross domestic product, water intensity of the gross domestic product, waste intensity of the gross domestic product'
 CONTACT_ORGANISATION: "Ministry of Economy, Environment and Agriculture of Ukraine"
 REC_USE_LIM: 'Energy intensity of the gross domestic product 2021-2023: The calculation of the indicator will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War". <br> Water intensity of the gross domestic product 2023: The calculation of the indicator will be resumed after the end of the deadline for submitting statistical and financial reports established by the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War". <br> 2024: Data for 2024 – 31.01.2026.'
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 footer_fields:
   - label: "Target value of the indicator for 2030"
     value: 'energy intensity of the gross domestic product – 60, 

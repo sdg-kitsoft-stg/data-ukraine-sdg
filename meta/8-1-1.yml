@@ -1,6 +1,6 @@
 SDG_GOAL: 8 Decent work and economic growth
 SDG_TARGET: 8.1 Ensuring modernization of production, increasing export potential, bringing products with a high share of added value to the foreign market
 SDG_INDICATOR: 8.1.1 Share of gross fixed capital formation in the gross domestic product, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: 

@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.3 Creating conditions for the return and integration of internally displaced persons
 SDG_INDICATOR: 16.3.3 Share of families from among internally displaced persons who are recipients of state social assistance to low-income families, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Social Policy, Family and Unity of Ukraine"
 REC_USE_LIM: 2016-2025 - Share of internally displaced persons who are recipients of state social assistance to low-income families.<br>Data is compiled as of January 1.

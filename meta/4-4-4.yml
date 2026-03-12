@@ -1,6 +1,6 @@
 SDG_GOAL: 4 Quality education
 SDG_TARGET: 4.4 Ensuring access of the population to quality professional (vocational and technical), professional pre-tertiary and tertiary education
 SDG_INDICATOR: 4.4.4 Number of seekers for professional (vocational and technical) education by level of education 1, thousand persons
-UNIT_MEASURE: Thousand persons
+UNIT_MEASURE: "Thousand persons"
 CONTACT_ORGANISATION: "Ministry of Education and Science of Ukraine (MES)"
 REC_USE_LIM: Data are provided on the number of seekers for professional (vocational and technical) education. <br> Levels of professional (vocational and technical) education in accordance with part two of Article 10 of the Law of Ukraine "On Education" have not been implemented.

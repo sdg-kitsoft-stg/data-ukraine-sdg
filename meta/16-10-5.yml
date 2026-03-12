@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.10 Increasing the effectiveness of state authorities and local self-government authorities
 SDG_INDICATOR: 16.10.5 Level of satisfaction of the subjects of application with the quality of the provision of administrative services in centers for the provision of administrative services, percent
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Digital Transformation of Ukraine (MDTU)"
 REC_USE_LIM: Excluding the Administrative Service Centers located in territories temporarily occupied by the russian federation.<br>2015-2020 - Data have been developed since 2021.<br>By type of authority that formed center for the provision of administrative services - Data have been developed since 2022.

@@ -2,7 +2,7 @@ SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.5 Reducing the negative impact of territorial communities on the environment
 SDG_INDICATOR: 11.5.3 Share of wastewater that has undergone complete biological treatment in the total amount of wastewater, percent
 CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
-UNIT_MEASURE: Percentage (%)
+UNIT_MEASURE: "Percent (%)"
 REC_USE_LIM: "Data will be provided additionally."
 footer_fields:
   - label: "Target value of the indicator for 2030"

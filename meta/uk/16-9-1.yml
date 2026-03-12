@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Мир, справедливість та сильні інститути
 SDG_TARGET: 16.9 Сприяння зниженню рівня корупції
 SDG_INDICATOR: 16.9.1 Показник сприйняття рівня корупції за Індексом сприйняття корупції (Corruption Perceptions Index), який розраховується міжнародною організацією Transparency International, балів
-UNIT_MEASURE: Бали
+UNIT_MEASURE: "Балів"
 CONTACT_ORGANISATION: "Національне агентство з питань запобігання корупції"
 REC_USE_LIM: За даними міжнародної організації Transparency International.
