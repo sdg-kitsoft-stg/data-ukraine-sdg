@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "industry",
+                "Mining and quarrying",
+                "Processing industry",
+                "Manufacture of food products, beverages and tobacco products",
+                "Manufacture of textiles, apparel, leather and related products",
+                "Manufacture of wood and paper products, and printing",
+                "Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
+                "Manufacture of rubber and plastic products and other non-metallic mineral products",
+                "Metallurgical production and manufacture of fabricated metal products, except machinery and equipment",
+                "Manufacture of computers, electronic and optical products, electrical equipment, machinery and equipment n.e.c.",
+                "Manufacture of motor vehicles, trailers and semi-trailers and other transport equipment",
+                "Manufacture of furniture, other products, repair and installation of machinery and equipment",
+                "Electricity, gas, steam and air conditioning supply",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Water collection, treatment and supply, sewerage, wastewater collection and treatment",
+                "Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
+                "Wholesale trade, except of motor vehicles and motorcycles, transport, storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
+                "Wholesale trade, except of motor vehicles and motorcycles",
+                "Transport, storage, postal and courier activities",
+                "Land and pipeline transport, water transport, air transport",
+                "Warehousing and support activities for transportation, postal and courier activities",
+                "Information and telecommunications",
+                "Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
+                "Telecommunications, computer programming, consultancy and related activities, information service activities",
+                "Financial and insurance activities",
+                "Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
+                "Architectural and engineering activities; technical testing and analysis",
+                "Scientific research and development",
+                "Advertising and market research",
+                ""
+              ]
+            },
+            "title": "Еconomic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "Share of the volume of sold innovative products (goods, services) in the total volume of sold products (goods, services) of enterprises, percent"
+}

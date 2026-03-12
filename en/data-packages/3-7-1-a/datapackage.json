@@ -1,0 +1,64 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Infectious diseases",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tuberculosis",
+                "Hepatitis B",
+                "Measles, mumps, rubella",
+                "Diphtheria, tetanus",
+                "Pertussis",
+                "Poliomyelitis",
+                "Hib infection",
+                ""
+              ]
+            },
+            "title": "Infectious diseases"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 1 year",
+                "1 year",
+                "6 years",
+                "18 months",
+                "16 years",
+                "adults",
+                "14 years",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-1-a",
+  "title": "3-7-1-a"
+}

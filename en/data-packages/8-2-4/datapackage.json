@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "group_32",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "aged 15–24",
+                "aged 15–34",
+                ""
+              ]
+            },
+            "title": "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
+          },
+          {
+            "name": "group_33",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Gender (age 15-24)"
+          },
+          {
+            "name": "group_34",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence (age 15-24)"
+          },
+          {
+            "name": "group_35",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Gender (age 15-34)"
+          },
+          {
+            "name": "group_36",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of place of residence (age 15-34)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-2-4",
+  "title": "Share of youth not in employment, education or professional training in the total population of the relevant age, percent"
+}

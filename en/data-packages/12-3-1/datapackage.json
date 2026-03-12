@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "energy intensity of the gross domestic product",
+                "material intensity of the gross domestic product",
+                "carbon intensity of the gross domestic product",
+                "water intensity of the gross domestic product",
+                "waste intensity of the gross domestic product",
+                ""
+              ]
+            },
+            "title": "Group"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-3-1",
+  "title": "Resource intensity of the gross domestic product (ratio of consumed physical volumes of natural resources, generated waste and emissions of pollutants to the volume of the gross domestic product) compared to 2015, percent: energy intensity of the gross domestic product, material intensity of the gross domestic product, carbon intensity of the gross domestic product, water intensity of the gross domestic product, waste intensity of the gross domestic product"
+}

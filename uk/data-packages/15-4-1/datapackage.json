@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "group_11",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Закарпатська область",
+                "Iвано-Франкiвська область",
+                "Львiвська область",
+                "Чернiвецька область",
+                ""
+              ]
+            },
+            "title": "гірський регіон"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-4-1",
+  "title": "Площа територій природно-заповідного фонду в гірських регіонах, тис. гектарів"
+}

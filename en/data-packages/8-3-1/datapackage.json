@@ -1,0 +1,81 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "group_29",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "total number",
+                "fatality",
+                ""
+              ]
+            },
+            "title": "Total number and fatality"
+          },
+          {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Women",
+                "Men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "group_30",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Coal industry",
+                "Metal ore and non-metal mining industry",
+                "Oil and gas extraction industry and geological exploration",
+                "Energy sector",
+                "Construction",
+                "Boiler supervision, lifting equipment",
+                "Machine building",
+                "Metallurgical industry",
+                "Chemical industry",
+                "Transport",
+                "Communications",
+                "Gas industry",
+                "Housing and utilities sector",
+                "Agro-industrial complex",
+                "Woodworking industry",
+                "Light and textile industry",
+                "Socio-cultural sector and trade",
+                ""
+              ]
+            },
+            "title": "Types of economic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-3-1",
+  "title": "Number of persons injured as a result of accidents at work (excluding accidents that occurred as a result of the armed aggression of the Russian Federation against Ukraine) per 100,000 working persons"
+}

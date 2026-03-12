@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "m_trans",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land and pipeline transport",
+                "Water transport",
+                "Air transport",
+                "Warehousing and auxiliary transport activities",
+                "Post and courier services",
+                ""
+              ]
+            },
+            "title": "Mode of transport"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-4-a",
+  "title": "Degree of depreciation of assets by TEA ‘Transport, storage, post and courier services’, %"
+}

@@ -1,0 +1,561 @@
+Year,Region,Age,Gender,Type of place of residence,education,Employment status,Income level,Displacement status,Value
+2015,Ukraine,,,,,,,,
+2016,Ukraine,,,,,,,,
+2017,Ukraine,,,,,,,,
+2018,Ukraine,,,,,,,,
+2019,Ukraine,,,,,,,,
+2020,Ukraine,,,,,,,,
+2021,Ukraine,,,,,,,,5.1
+2022,Ukraine,,,,,,,,
+2023,Ukraine,,,,,,,,5.5
+2024,Ukraine,,,,,,,,5.2
+2015,Autonomous Republic of Crimea,,,,,,,,
+2016,Autonomous Republic of Crimea,,,,,,,,
+2017,Autonomous Republic of Crimea,,,,,,,,
+2018,Autonomous Republic of Crimea,,,,,,,,
+2019,Autonomous Republic of Crimea,,,,,,,,
+2020,Autonomous Republic of Crimea,,,,,,,,
+2021,Autonomous Republic of Crimea,,,,,,,,
+2022,Autonomous Republic of Crimea,,,,,,,,
+2023,Autonomous Republic of Crimea,,,,,,,,
+2024,Autonomous Republic of Crimea,,,,,,,,
+2015,Vinnytsya,,,,,,,,
+2016,Vinnytsya,,,,,,,,
+2017,Vinnytsya,,,,,,,,
+2018,Vinnytsya,,,,,,,,
+2019,Vinnytsya,,,,,,,,
+2020,Vinnytsya,,,,,,,,
+2021,Vinnytsya,,,,,,,,5.5
+2022,Vinnytsya,,,,,,,,
+2023,Vinnytsya,,,,,,,,5.8
+2024,Vinnytsya,,,,,,,,5.5
+2015,Volyn,,,,,,,,
+2016,Volyn,,,,,,,,
+2017,Volyn,,,,,,,,
+2018,Volyn,,,,,,,,
+2019,Volyn,,,,,,,,
+2020,Volyn,,,,,,,,
+2021,Volyn,,,,,,,,6.1
+2022,Volyn,,,,,,,,
+2023,Volyn,,,,,,,,5.2
+2024,Volyn,,,,,,,,5.7
+2015,Dnipropetrovsk,,,,,,,,
+2016,Dnipropetrovsk,,,,,,,,
+2017,Dnipropetrovsk,,,,,,,,
+2018,Dnipropetrovsk,,,,,,,,
+2019,Dnipropetrovsk,,,,,,,,
+2020,Dnipropetrovsk,,,,,,,,
+2021,Dnipropetrovsk,,,,,,,,5.3
+2022,Dnipropetrovsk,,,,,,,,
+2023,Dnipropetrovsk,,,,,,,,6.0
+2024,Dnipropetrovsk,,,,,,,,5.4
+2015,Donetsk,,,,,,,,
+2016,Donetsk,,,,,,,,
+2017,Donetsk,,,,,,,,
+2018,Donetsk,,,,,,,,
+2019,Donetsk,,,,,,,,
+2020,Donetsk,,,,,,,,
+2021,Donetsk,,,,,,,,4.8
+2022,Donetsk,,,,,,,,
+2023,Donetsk,,,,,,,,
+2024,Donetsk,,,,,,,,
+2015,Zhytomyr,,,,,,,,
+2016,Zhytomyr,,,,,,,,
+2017,Zhytomyr,,,,,,,,
+2018,Zhytomyr,,,,,,,,
+2019,Zhytomyr,,,,,,,,
+2020,Zhytomyr,,,,,,,,
+2021,Zhytomyr,,,,,,,,5.4
+2022,Zhytomyr,,,,,,,,
+2023,Zhytomyr,,,,,,,,5.0
+2024,Zhytomyr,,,,,,,,5.0
+2015,Zakarpattya,,,,,,,,
+2016,Zakarpattya,,,,,,,,
+2017,Zakarpattya,,,,,,,,
+2018,Zakarpattya,,,,,,,,
+2019,Zakarpattya,,,,,,,,
+2020,Zakarpattya,,,,,,,,
+2021,Zakarpattya,,,,,,,,4.9
+2022,Zakarpattya,,,,,,,,
+2023,Zakarpattya,,,,,,,,5.5
+2024,Zakarpattya,,,,,,,,4.4
+2015,Zaporizhzhya,,,,,,,,
+2016,Zaporizhzhya,,,,,,,,
+2017,Zaporizhzhya,,,,,,,,
+2018,Zaporizhzhya,,,,,,,,
+2019,Zaporizhzhya,,,,,,,,
+2020,Zaporizhzhya,,,,,,,,
+2021,Zaporizhzhya,,,,,,,,4.8
+2022,Zaporizhzhya,,,,,,,,
+2023,Zaporizhzhya,,,,,,,,4.4
+2024,Zaporizhzhya,,,,,,,,4.4
+2015,Ivano-Frankivsk,,,,,,,,
+2016,Ivano-Frankivsk,,,,,,,,
+2017,Ivano-Frankivsk,,,,,,,,
+2018,Ivano-Frankivsk,,,,,,,,
+2019,Ivano-Frankivsk,,,,,,,,
+2020,Ivano-Frankivsk,,,,,,,,
+2021,Ivano-Frankivsk,,,,,,,,5.5
+2022,Ivano-Frankivsk,,,,,,,,
+2023,Ivano-Frankivsk,,,,,,,,5.6
+2024,Ivano-Frankivsk,,,,,,,,5.6
+2015,Kyiv,,,,,,,,
+2016,Kyiv,,,,,,,,
+2017,Kyiv,,,,,,,,
+2018,Kyiv,,,,,,,,
+2019,Kyiv,,,,,,,,
+2020,Kyiv,,,,,,,,
+2021,Kyiv,,,,,,,,4.9
+2022,Kyiv,,,,,,,,
+2023,Kyiv,,,,,,,,5.4
+2024,Kyiv,,,,,,,,5.4
+2015,Kirovohrad,,,,,,,,
+2016,Kirovohrad,,,,,,,,
+2017,Kirovohrad,,,,,,,,
+2018,Kirovohrad,,,,,,,,
+2019,Kirovohrad,,,,,,,,
+2020,Kirovohrad,,,,,,,,
+2021,Kirovohrad,,,,,,,,5.2
+2022,Kirovohrad,,,,,,,,
+2023,Kirovohrad,,,,,,,,6.0
+2024,Kirovohrad,,,,,,,,5.1
+2015,Luhansk,,,,,,,,
+2016,Luhansk,,,,,,,,
+2017,Luhansk,,,,,,,,
+2018,Luhansk,,,,,,,,
+2019,Luhansk,,,,,,,,
+2020,Luhansk,,,,,,,,
+2021,Luhansk,,,,,,,,5.4
+2022,Luhansk,,,,,,,,
+2023,Luhansk,,,,,,,,
+2024,Luhansk,,,,,,,,
+2015,Lviv,,,,,,,,
+2016,Lviv,,,,,,,,
+2017,Lviv,,,,,,,,
+2018,Lviv,,,,,,,,
+2019,Lviv,,,,,,,,
+2020,Lviv,,,,,,,,
+2021,Lviv,,,,,,,,5.1
+2022,Lviv,,,,,,,,
+2023,Lviv,,,,,,,,6.2
+2024,Lviv,,,,,,,,5.6
+2015,Mykolayiv,,,,,,,,
+2016,Mykolayiv,,,,,,,,
+2017,Mykolayiv,,,,,,,,
+2018,Mykolayiv,,,,,,,,
+2019,Mykolayiv,,,,,,,,
+2020,Mykolayiv,,,,,,,,
+2021,Mykolayiv,,,,,,,,5.0
+2022,Mykolayiv,,,,,,,,
+2023,Mykolayiv,,,,,,,,5.1
+2024,Mykolayiv,,,,,,,,5.0
+2015,Odesa,,,,,,,,
+2016,Odesa,,,,,,,,
+2017,Odesa,,,,,,,,
+2018,Odesa,,,,,,,,
+2019,Odesa,,,,,,,,
+2020,Odesa,,,,,,,,
+2021,Odesa,,,,,,,,4.8
+2022,Odesa,,,,,,,,
+2023,Odesa,,,,,,,,5.4
+2024,Odesa,,,,,,,,4.8
+2015,Poltava,,,,,,,,
+2016,Poltava,,,,,,,,
+2017,Poltava,,,,,,,,
+2018,Poltava,,,,,,,,
+2019,Poltava,,,,,,,,
+2020,Poltava,,,,,,,,
+2021,Poltava,,,,,,,,4.7
+2022,Poltava,,,,,,,,
+2023,Poltava,,,,,,,,5.6
+2024,Poltava,,,,,,,,5.4
+2015,Rivne,,,,,,,,
+2016,Rivne,,,,,,,,
+2017,Rivne,,,,,,,,
+2018,Rivne,,,,,,,,
+2019,Rivne,,,,,,,,
+2020,Rivne,,,,,,,,
+2021,Rivne,,,,,,,,6.5
+2022,Rivne,,,,,,,,
+2023,Rivne,,,,,,,,4.9
+2024,Rivne,,,,,,,,5.8
+2015,Sumy,,,,,,,,
+2016,Sumy,,,,,,,,
+2017,Sumy,,,,,,,,
+2018,Sumy,,,,,,,,
+2019,Sumy,,,,,,,,
+2020,Sumy,,,,,,,,
+2021,Sumy,,,,,,,,4.8
+2022,Sumy,,,,,,,,
+2023,Sumy,,,,,,,,5.0
+2024,Sumy,,,,,,,,4.7
+2015,Ternopil,,,,,,,,
+2016,Ternopil,,,,,,,,
+2017,Ternopil,,,,,,,,
+2018,Ternopil,,,,,,,,
+2019,Ternopil,,,,,,,,
+2020,Ternopil,,,,,,,,
+2021,Ternopil,,,,,,,,5.0
+2022,Ternopil,,,,,,,,
+2023,Ternopil,,,,,,,,5.4
+2024,Ternopil,,,,,,,,4.8
+2015,Kharkiv,,,,,,,,
+2016,Kharkiv,,,,,,,,
+2017,Kharkiv,,,,,,,,
+2018,Kharkiv,,,,,,,,
+2019,Kharkiv,,,,,,,,
+2020,Kharkiv,,,,,,,,
+2021,Kharkiv,,,,,,,,4.4
+2022,Kharkiv,,,,,,,,
+2023,Kharkiv,,,,,,,,5.9
+2024,Kharkiv,,,,,,,,5.2
+2015,Kherson,,,,,,,,
+2016,Kherson,,,,,,,,
+2017,Kherson,,,,,,,,
+2018,Kherson,,,,,,,,
+2019,Kherson,,,,,,,,
+2020,Kherson,,,,,,,,
+2021,Kherson,,,,,,,,5.6
+2022,Kherson,,,,,,,,
+2023,Kherson,,,,,,,,5.2
+2024,Kherson,,,,,,,,5.3
+2015,Khmelnytskiy,,,,,,,,
+2016,Khmelnytskiy,,,,,,,,
+2017,Khmelnytskiy,,,,,,,,
+2018,Khmelnytskiy,,,,,,,,
+2019,Khmelnytskiy,,,,,,,,
+2020,Khmelnytskiy,,,,,,,,
+2021,Khmelnytskiy,,,,,,,,5.6
+2022,Khmelnytskiy,,,,,,,,
+2023,Khmelnytskiy,,,,,,,,5.0
+2024,Khmelnytskiy,,,,,,,,5.0
+2015,Cherkasy,,,,,,,,
+2016,Cherkasy,,,,,,,,
+2017,Cherkasy,,,,,,,,
+2018,Cherkasy,,,,,,,,
+2019,Cherkasy,,,,,,,,
+2020,Cherkasy,,,,,,,,
+2021,Cherkasy,,,,,,,,5.3
+2022,Cherkasy,,,,,,,,
+2023,Cherkasy,,,,,,,,5.5
+2024,Cherkasy,,,,,,,,5.5
+2015,Chernivtsi,,,,,,,,
+2016,Chernivtsi,,,,,,,,
+2017,Chernivtsi,,,,,,,,
+2018,Chernivtsi,,,,,,,,
+2019,Chernivtsi,,,,,,,,
+2020,Chernivtsi,,,,,,,,
+2021,Chernivtsi,,,,,,,,5.4
+2022,Chernivtsi,,,,,,,,
+2023,Chernivtsi,,,,,,,,5.7
+2024,Chernivtsi,,,,,,,,5.1
+2015,Chernihiv,,,,,,,,
+2016,Chernihiv,,,,,,,,
+2017,Chernihiv,,,,,,,,
+2018,Chernihiv,,,,,,,,
+2019,Chernihiv,,,,,,,,
+2020,Chernihiv,,,,,,,,
+2021,Chernihiv,,,,,,,,5.1
+2022,Chernihiv,,,,,,,,
+2023,Chernihiv,,,,,,,,5.7
+2024,Chernihiv,,,,,,,,4.9
+2015,the city of Kyiv,,,,,,,,
+2016,the city of Kyiv,,,,,,,,
+2017,the city of Kyiv,,,,,,,,
+2018,the city of Kyiv,,,,,,,,
+2019,the city of Kyiv,,,,,,,,
+2020,the city of Kyiv,,,,,,,,
+2021,the city of Kyiv,,,,,,,,4.4
+2022,the city of Kyiv,,,,,,,,
+2023,the city of Kyiv,,,,,,,,5.1
+2024,the city of Kyiv,,,,,,,,4.5
+2015,city Sevastopol,,,,,,,,
+2016,city Sevastopol,,,,,,,,
+2017,city Sevastopol,,,,,,,,
+2018,city Sevastopol,,,,,,,,
+2019,city Sevastopol,,,,,,,,
+2020,city Sevastopol,,,,,,,,
+2021,city Sevastopol,,,,,,,,
+2022,city Sevastopol,,,,,,,,
+2023,city Sevastopol,,,,,,,,
+2024,city Sevastopol,,,,,,,,
+2015,,men 18–35 years ,,,,,,,
+2016,,men 18–35 years ,,,,,,,
+2017,,men 18–35 years ,,,,,,,
+2018,,men 18–35 years ,,,,,,,
+2019,,men 18–35 years ,,,,,,,
+2020,,men 18–35 years ,,,,,,,
+2021,,men 18–35 years ,,,,,,,4.8
+2022,,men 18–35 years ,,,,,,,
+2023,,men 18–35 years ,,,,,,,5.4
+2024,,men 18–35 years ,,,,,,,5.0
+2015,,men 36–59 years,,,,,,,
+2016,,men 36–59 years,,,,,,,
+2017,,men 36–59 years,,,,,,,
+2018,,men 36–59 years,,,,,,,
+2019,,men 36–59 years,,,,,,,
+2020,,men 36–59 years,,,,,,,
+2021,,men 36–59 years,,,,,,,4.9
+2022,,men 36–59 years,,,,,,,
+2023,,men 36–59 years,,,,,,,5.4
+2024,,men 36–59 years,,,,,,,5.2
+2015,,men 60 years and older,,,,,,,
+2016,,men 60 years and older,,,,,,,
+2017,,men 60 years and older,,,,,,,
+2018,,men 60 years and older,,,,,,,
+2019,,men 60 years and older,,,,,,,
+2020,,men 60 years and older,,,,,,,
+2021,,men 60 years and older,,,,,,,5.3
+2022,,men 60 years and older,,,,,,,
+2023,,men 60 years and older,,,,,,,5.5
+2024,,men 60 years and older,,,,,,,5.0
+2015,,women 18–35 years,,,,,,,
+2016,,women 18–35 years,,,,,,,
+2017,,women 18–35 years,,,,,,,
+2018,,women 18–35 years,,,,,,,
+2019,,women 18–35 years,,,,,,,
+2020,,women 18–35 years,,,,,,,
+2021,,women 18–35 years,,,,,,,4.9
+2022,,women 18–35 years,,,,,,,
+2023,,women 18–35 years,,,,,,,5.2
+2024,,women 18–35 years,,,,,,,5.0
+2015,,women 36–59 years,,,,,,,
+2016,,women 36–59 years,,,,,,,
+2017,,women 36–59 years,,,,,,,
+2018,,women 36–59 years,,,,,,,
+2019,,women 36–59 years,,,,,,,
+2020,,women 36–59 years,,,,,,,
+2021,,women 36–59 years,,,,,,,5.2
+2022,,women 36–59 years,,,,,,,
+2023,,women 36–59 years,,,,,,,5.6
+2024,,women 36–59 years,,,,,,,5.2
+2015,,women 60 years and older,,,,,,,
+2016,,women 60 years and older,,,,,,,
+2017,,women 60 years and older,,,,,,,
+2018,,women 60 years and older,,,,,,,
+2019,,women 60 years and older,,,,,,,
+2020,,women 60 years and older,,,,,,,
+2021,,women 60 years and older,,,,,,,5.3
+2022,,women 60 years and older,,,,,,,
+2023,,women 60 years and older,,,,,,,5.8
+2024,,women 60 years and older,,,,,,,5.4
+2015,,,females,,,,,,
+2016,,,females,,,,,,
+2017,,,females,,,,,,
+2018,,,females,,,,,,
+2019,,,females,,,,,,
+2020,,,females,,,,,,
+2021,,,females,,,,,,5.2
+2022,,,females,,,,,,
+2023,,,females,,,,,,5.6
+2024,,,females,,,,,,5.2
+2015,,,men,,,,,,
+2016,,,men,,,,,,
+2017,,,men,,,,,,
+2018,,,men,,,,,,
+2019,,,men,,,,,,
+2020,,,men,,,,,,
+2021,,,men,,,,,,5.0
+2022,,,men,,,,,,
+2023,,,men,,,,,,5.4
+2024,,,men,,,,,,5.1
+2015,,,,"large cities (population 500,000 or more)",,,,,
+2016,,,,"large cities (population 500,000 or more)",,,,,
+2017,,,,"large cities (population 500,000 or more)",,,,,
+2018,,,,"large cities (population 500,000 or more)",,,,,
+2019,,,,"large cities (population 500,000 or more)",,,,,
+2020,,,,"large cities (population 500,000 or more)",,,,,
+2021,,,,"large cities (population 500,000 or more)",,,,,4.4
+2022,,,,"large cities (population 500,000 or more)",,,,,
+2023,,,,"large cities (population 500,000 or more)",,,,,5.5
+2024,,,,"large cities (population 500,000 or more)",,,,,4.8
+2015,,,,"cities (population 50,000–500,000)",,,,,
+2016,,,,"cities (population 50,000–500,000)",,,,,
+2017,,,,"cities (population 50,000–500,000)",,,,,
+2018,,,,"cities (population 50,000–500,000)",,,,,
+2019,,,,"cities (population 50,000–500,000)",,,,,
+2020,,,,"cities (population 50,000–500,000)",,,,,
+2021,,,,"cities (population 50,000–500,000)",,,,,4.7
+2022,,,,"cities (population 50,000–500,000)",,,,,
+2023,,,,"cities (population 50,000–500,000)",,,,,5.1
+2024,,,,"cities (population 50,000–500,000)",,,,,4.9
+2015,,,,"small cities (population less than 50,000)",,,,,
+2016,,,,"small cities (population less than 50,000)",,,,,
+2017,,,,"small cities (population less than 50,000)",,,,,
+2018,,,,"small cities (population less than 50,000)",,,,,
+2019,,,,"small cities (population less than 50,000)",,,,,
+2020,,,,"small cities (population less than 50,000)",,,,,
+2021,,,,"small cities (population less than 50,000)",,,,,5.3
+2022,,,,"small cities (population less than 50,000)",,,,,
+2023,,,,"small cities (population less than 50,000)",,,,,5.4
+2024,,,,"small cities (population less than 50,000)",,,,,5.1
+2015,,,,rural areas,,,,,
+2016,,,,rural areas,,,,,
+2017,,,,rural areas,,,,,
+2018,,,,rural areas,,,,,
+2019,,,,rural areas,,,,,
+2020,,,,rural areas,,,,,
+2021,,,,rural areas,,,,,5.8
+2022,,,,rural areas,,,,,
+2023,,,,rural areas,,,,,5.8
+2024,,,,rural areas,,,,,5.5
+2015,,,,,Primary education,,,,
+2016,,,,,Primary education,,,,
+2017,,,,,Primary education,,,,
+2018,,,,,Primary education,,,,
+2019,,,,,Primary education,,,,
+2020,,,,,Primary education,,,,
+2021,,,,,Primary education,,,,5.3
+2022,,,,,Primary education,,,,
+2023,,,,,Primary education,,,,5.1
+2024,,,,,Primary education,,,,5.3
+2015,,,,,Secondary education,,,,
+2016,,,,,Secondary education,,,,
+2017,,,,,Secondary education,,,,
+2018,,,,,Secondary education,,,,
+2019,,,,,Secondary education,,,,
+2020,,,,,Secondary education,,,,
+2021,,,,,Secondary education,,,,5.2
+2022,,,,,Secondary education,,,,
+2023,,,,,Secondary education,,,,5.4
+2024,,,,,Secondary education,,,,5.1
+2015,,,,,Secondary vocational education,,,,
+2016,,,,,Secondary vocational education,,,,
+2017,,,,,Secondary vocational education,,,,
+2018,,,,,Secondary vocational education,,,,
+2019,,,,,Secondary vocational education,,,,
+2020,,,,,Secondary vocational education,,,,
+2021,,,,,Secondary vocational education,,,,5.0
+2022,,,,,Secondary vocational education,,,,
+2023,,,,,Secondary vocational education,,,,5.6
+2024,,,,,Secondary vocational education,,,,5.2
+2015,,,,,tertiary education,,,,
+2016,,,,,tertiary education,,,,
+2017,,,,,tertiary education,,,,
+2018,,,,,tertiary education,,,,
+2019,,,,,tertiary education,,,,
+2020,,,,,tertiary education,,,,
+2021,,,,,tertiary education,,,,5.1
+2022,,,,,tertiary education,,,,
+2023,,,,,tertiary education,,,,5.5
+2024,,,,,tertiary education,,,,5.1
+2015,,,,,,Full/part-time employment,,,
+2016,,,,,,Full/part-time employment,,,
+2017,,,,,,Full/part-time employment,,,
+2018,,,,,,Full/part-time employment,,,
+2019,,,,,,Full/part-time employment,,,
+2020,,,,,,Full/part-time employment,,,
+2021,,,,,,Full/part-time employment,,,5.0
+2022,,,,,,Full/part-time employment,,,
+2023,,,,,,Full/part-time employment,,,5.5
+2024,,,,,,Full/part-time employment,,,5.1
+2015,,,,,,Housekeeping or maternity leave,,,
+2016,,,,,,Housekeeping or maternity leave,,,
+2017,,,,,,Housekeeping or maternity leave,,,
+2018,,,,,,Housekeeping or maternity leave,,,
+2019,,,,,,Housekeeping or maternity leave,,,
+2020,,,,,,Housekeeping or maternity leave,,,
+2021,,,,,,Housekeeping or maternity leave,,,5.2
+2022,,,,,,Housekeeping or maternity leave,,,
+2023,,,,,,Housekeeping or maternity leave,,,5.5
+2024,,,,,,Housekeeping or maternity leave,,,5.1
+2015,,,,,,Pensioners,,,
+2016,,,,,,Pensioners,,,
+2017,,,,,,Pensioners,,,
+2018,,,,,,Pensioners,,,
+2019,,,,,,Pensioners,,,
+2020,,,,,,Pensioners,,,
+2021,,,,,,Pensioners,,,5.3
+2022,,,,,,Pensioners,,,
+2023,,,,,,Pensioners,,,5.6
+2024,,,,,,Pensioners,,,5.3
+2015,,,,,,Students,,,
+2016,,,,,,Students,,,
+2017,,,,,,Students,,,
+2018,,,,,,Students,,,
+2019,,,,,,Students,,,
+2020,,,,,,Students,,,
+2021,,,,,,Students,,,4.8
+2022,,,,,,Students,,,
+2023,,,,,,Students,,,5.3
+2024,,,,,,Students,,,5.0
+2015,,,,,,Unemployed,,,
+2016,,,,,,Unemployed,,,
+2017,,,,,,Unemployed,,,
+2018,,,,,,Unemployed,,,
+2019,,,,,,Unemployed,,,
+2020,,,,,,Unemployed,,,
+2021,,,,,,Unemployed,,,5.0
+2022,,,,,,Unemployed,,,
+2023,,,,,,Unemployed,,,5.5
+2024,,,,,,Unemployed,,,5.1
+2015,,,,,,,Not enough money for food,,
+2016,,,,,,,Not enough money for food,,
+2017,,,,,,,Not enough money for food,,
+2018,,,,,,,Not enough money for food,,
+2019,,,,,,,Not enough money for food,,
+2020,,,,,,,Not enough money for food,,
+2021,,,,,,,Not enough money for food,,5.1
+2022,,,,,,,Not enough money for food,,
+2023,,,,,,,Not enough money for food,,5.0
+2024,,,,,,,Not enough money for food,,5.0
+2015,,,,,,,"Enough for food, but not enough for clothing",,
+2016,,,,,,,"Enough for food, but not enough for clothing",,
+2017,,,,,,,"Enough for food, but not enough for clothing",,
+2018,,,,,,,"Enough for food, but not enough for clothing",,
+2019,,,,,,,"Enough for food, but not enough for clothing",,
+2020,,,,,,,"Enough for food, but not enough for clothing",,
+2021,,,,,,,"Enough for food, but not enough for clothing",,5.0
+2022,,,,,,,"Enough for food, but not enough for clothing",,
+2023,,,,,,,"Enough for food, but not enough for clothing",,5.4
+2024,,,,,,,"Enough for food, but not enough for clothing",,5.1
+2015,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2016,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2017,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2018,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2019,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2020,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2021,,,,,,,"Enough for clothing, but not enough for expensive goods",,5.1
+2022,,,,,,,"Enough for clothing, but not enough for expensive goods",,
+2023,,,,,,,"Enough for clothing, but not enough for expensive goods",,5.6
+2024,,,,,,,"Enough for clothing, but not enough for expensive goods",,5.2
+2015,,,,,,,Enough money for expensive goods,,
+2016,,,,,,,Enough money for expensive goods,,
+2017,,,,,,,Enough money for expensive goods,,
+2018,,,,,,,Enough money for expensive goods,,
+2019,,,,,,,Enough money for expensive goods,,
+2020,,,,,,,Enough money for expensive goods,,
+2021,,,,,,,Enough money for expensive goods,,5.3
+2022,,,,,,,Enough money for expensive goods,,
+2023,,,,,,,Enough money for expensive goods,,5.6
+2024,,,,,,,Enough money for expensive goods,,5.1
+2015,,,,,,,,Internally displaced persons (IDPs),
+2016,,,,,,,,Internally displaced persons (IDPs),
+2017,,,,,,,,Internally displaced persons (IDPs),
+2018,,,,,,,,Internally displaced persons (IDPs),
+2019,,,,,,,,Internally displaced persons (IDPs),
+2020,,,,,,,,Internally displaced persons (IDPs),
+2021,,,,,,,,Internally displaced persons (IDPs),
+2022,,,,,,,,Internally displaced persons (IDPs),
+2023,,,,,,,,Internally displaced persons (IDPs),5.6
+2024,,,,,,,,Internally displaced persons (IDPs),5.0
+2015,,,,,,,,Returnees,
+2016,,,,,,,,Returnees,
+2017,,,,,,,,Returnees,
+2018,,,,,,,,Returnees,
+2019,,,,,,,,Returnees,
+2020,,,,,,,,Returnees,
+2021,,,,,,,,Returnees,
+2022,,,,,,,,Returnees,
+2023,,,,,,,,Returnees,5.4
+2024,,,,,,,,Returnees,5.1
+2015,,,,,,,,People who did not leave,
+2016,,,,,,,,People who did not leave,
+2017,,,,,,,,People who did not leave,
+2018,,,,,,,,People who did not leave,
+2019,,,,,,,,People who did not leave,
+2020,,,,,,,,People who did not leave,
+2021,,,,,,,,People who did not leave,
+2022,,,,,,,,People who did not leave,
+2023,,,,,,,,People who did not leave,5.5
+2024,,,,,,,,People who did not leave,5.2

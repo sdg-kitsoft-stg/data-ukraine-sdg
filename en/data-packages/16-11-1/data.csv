@@ -1,0 +1,491 @@
+Year,Region,Age,Gender,Type of place of residence,Decile groups by level of average per capita equivalent total income,Value
+2015,Ukraine,,,,,2.1
+2016,Ukraine,,,,,1.7
+2017,Ukraine,,,,,1.9
+2018,Ukraine,,,,,1.9
+2019,Ukraine,,,,,2.5
+2020,Ukraine,,,,,3.3
+2021,Ukraine,,,,,4.3
+2022,Ukraine,,,,,
+2023,Ukraine,,,,,
+2024,Ukraine,,,,,
+2015,Autonomous Republic of Crimea,,,,,
+2016,Autonomous Republic of Crimea,,,,,
+2017,Autonomous Republic of Crimea,,,,,
+2018,Autonomous Republic of Crimea,,,,,
+2019,Autonomous Republic of Crimea,,,,,
+2020,Autonomous Republic of Crimea,,,,,
+2021,Autonomous Republic of Crimea,,,,,
+2022,Autonomous Republic of Crimea,,,,,
+2023,Autonomous Republic of Crimea,,,,,
+2024,Autonomous Republic of Crimea,,,,,
+2015,Vinnytsya,,,,,1.9
+2016,Vinnytsya,,,,,1.5
+2017,Vinnytsya,,,,,3.5
+2018,Vinnytsya,,,,,3.1
+2019,Vinnytsya,,,,,1.7
+2020,Vinnytsya,,,,,4.4
+2021,Vinnytsya,,,,,4.2
+2022,Vinnytsya,,,,,
+2023,Vinnytsya,,,,,
+2024,Vinnytsya,,,,,
+2015,Volyn,,,,,0.0
+2016,Volyn,,,,,1.3
+2017,Volyn,,,,,0.4
+2018,Volyn,,,,,0.7
+2019,Volyn,,,,,1.5
+2020,Volyn,,,,,1.5
+2021,Volyn,,,,,3.2
+2022,Volyn,,,,,
+2023,Volyn,,,,,
+2024,Volyn,,,,,
+2015,Dnipropetrovsk,,,,,1.7
+2016,Dnipropetrovsk,,,,,1.7
+2017,Dnipropetrovsk,,,,,3.3
+2018,Dnipropetrovsk,,,,,1.6
+2019,Dnipropetrovsk,,,,,5.0
+2020,Dnipropetrovsk,,,,,4.0
+2021,Dnipropetrovsk,,,,,6.7
+2022,Dnipropetrovsk,,,,,
+2023,Dnipropetrovsk,,,,,
+2024,Dnipropetrovsk,,,,,
+2015,Donetsk,,,,,0.9
+2016,Donetsk,,,,,1.9
+2017,Donetsk,,,,,2.3
+2018,Donetsk,,,,,1.1
+2019,Donetsk,,,,,3.5
+2020,Donetsk,,,,,6.6
+2021,Donetsk,,,,,2.6
+2022,Donetsk,,,,,
+2023,Donetsk,,,,,
+2024,Donetsk,,,,,
+2015,Zhytomyr,,,,,5.2
+2016,Zhytomyr,,,,,3.5
+2017,Zhytomyr,,,,,2.0
+2018,Zhytomyr,,,,,6.6
+2019,Zhytomyr,,,,,2.2
+2020,Zhytomyr,,,,,4.6
+2021,Zhytomyr,,,,,5.7
+2022,Zhytomyr,,,,,
+2023,Zhytomyr,,,,,
+2024,Zhytomyr,,,,,
+2015,Zakarpattya,,,,,0.1
+2016,Zakarpattya,,,,,0.0
+2017,Zakarpattya,,,,,0.0
+2018,Zakarpattya,,,,,1.0
+2019,Zakarpattya,,,,,1.3
+2020,Zakarpattya,,,,,0.0
+2021,Zakarpattya,,,,,1.4
+2022,Zakarpattya,,,,,
+2023,Zakarpattya,,,,,
+2024,Zakarpattya,,,,,
+2015,Zaporizhzhya,,,,,1.6
+2016,Zaporizhzhya,,,,,0.7
+2017,Zaporizhzhya,,,,,1.8
+2018,Zaporizhzhya,,,,,2.0
+2019,Zaporizhzhya,,,,,1.8
+2020,Zaporizhzhya,,,,,1.4
+2021,Zaporizhzhya,,,,,2.4
+2022,Zaporizhzhya,,,,,
+2023,Zaporizhzhya,,,,,
+2024,Zaporizhzhya,,,,,
+2015,Ivano-Frankivsk,,,,,2.2
+2016,Ivano-Frankivsk,,,,,1.0
+2017,Ivano-Frankivsk,,,,,0.0
+2018,Ivano-Frankivsk,,,,,0.0
+2019,Ivano-Frankivsk,,,,,2.6
+2020,Ivano-Frankivsk,,,,,2.9
+2021,Ivano-Frankivsk,,,,,0.7
+2022,Ivano-Frankivsk,,,,,
+2023,Ivano-Frankivsk,,,,,
+2024,Ivano-Frankivsk,,,,,
+2015,Kyiv,,,,,0.5
+2016,Kyiv,,,,,0.5
+2017,Kyiv,,,,,0.9
+2018,Kyiv,,,,,3.1
+2019,Kyiv,,,,,0.0
+2020,Kyiv,,,,,1.1
+2021,Kyiv,,,,,5.7
+2022,Kyiv,,,,,
+2023,Kyiv,,,,,
+2024,Kyiv,,,,,
+2015,Kirovohrad,,,,,0.5
+2016,Kirovohrad,,,,,0.8
+2017,Kirovohrad,,,,,2.5
+2018,Kirovohrad,,,,,0.0
+2019,Kirovohrad,,,,,0.5
+2020,Kirovohrad,,,,,2.0
+2021,Kirovohrad,,,,,0.5
+2022,Kirovohrad,,,,,
+2023,Kirovohrad,,,,,
+2024,Kirovohrad,,,,,
+2015,Luhansk,,,,,2.5
+2016,Luhansk,,,,,2.8
+2017,Luhansk,,,,,2.1
+2018,Luhansk,,,,,1.4
+2019,Luhansk,,,,,4.6
+2020,Luhansk,,,,,4.6
+2021,Luhansk,,,,,5.6
+2022,Luhansk,,,,,
+2023,Luhansk,,,,,
+2024,Luhansk,,,,,
+2015,Lviv,,,,,2.0
+2016,Lviv,,,,,1.3
+2017,Lviv,,,,,1.0
+2018,Lviv,,,,,0.3
+2019,Lviv,,,,,0.8
+2020,Lviv,,,,,2.6
+2021,Lviv,,,,,5.0
+2022,Lviv,,,,,
+2023,Lviv,,,,,
+2024,Lviv,,,,,
+2015,Mykolayiv,,,,,3.9
+2016,Mykolayiv,,,,,3.0
+2017,Mykolayiv,,,,,0.0
+2018,Mykolayiv,,,,,0.5
+2019,Mykolayiv,,,,,2.0
+2020,Mykolayiv,,,,,2.7
+2021,Mykolayiv,,,,,3.8
+2022,Mykolayiv,,,,,
+2023,Mykolayiv,,,,,
+2024,Mykolayiv,,,,,
+2015,Odesa,,,,,3.9
+2016,Odesa,,,,,1.9
+2017,Odesa,,,,,1.6
+2018,Odesa,,,,,1.6
+2019,Odesa,,,,,1.8
+2020,Odesa,,,,,6.7
+2021,Odesa,,,,,8.7
+2022,Odesa,,,,,
+2023,Odesa,,,,,
+2024,Odesa,,,,,
+2015,Poltava,,,,,0.5
+2016,Poltava,,,,,2.0
+2017,Poltava,,,,,3.3
+2018,Poltava,,,,,0.9
+2019,Poltava,,,,,0.9
+2020,Poltava,,,,,1.6
+2021,Poltava,,,,,1.7
+2022,Poltava,,,,,
+2023,Poltava,,,,,
+2024,Poltava,,,,,
+2015,Rivne,,,,,0.3
+2016,Rivne,,,,,0.9
+2017,Rivne,,,,,1.1
+2018,Rivne,,,,,2.9
+2019,Rivne,,,,,0.3
+2020,Rivne,,,,,0.8
+2021,Rivne,,,,,0.2
+2022,Rivne,,,,,
+2023,Rivne,,,,,
+2024,Rivne,,,,,
+2015,Sumy,,,,,0.4
+2016,Sumy,,,,,0.1
+2017,Sumy,,,,,0.0
+2018,Sumy,,,,,0.2
+2019,Sumy,,,,,0.7
+2020,Sumy,,,,,0.1
+2021,Sumy,,,,,0.0
+2022,Sumy,,,,,
+2023,Sumy,,,,,
+2024,Sumy,,,,,
+2015,Ternopil,,,,,0.7
+2016,Ternopil,,,,,1.4
+2017,Ternopil,,,,,0.5
+2018,Ternopil,,,,,2.0
+2019,Ternopil,,,,,3.6
+2020,Ternopil,,,,,3.7
+2021,Ternopil,,,,,1.0
+2022,Ternopil,,,,,
+2023,Ternopil,,,,,
+2024,Ternopil,,,,,
+2015,Kharkiv,,,,,2.2
+2016,Kharkiv,,,,,2.2
+2017,Kharkiv,,,,,0.7
+2018,Kharkiv,,,,,1.2
+2019,Kharkiv,,,,,1.7
+2020,Kharkiv,,,,,2.4
+2021,Kharkiv,,,,,4.8
+2022,Kharkiv,,,,,
+2023,Kharkiv,,,,,
+2024,Kharkiv,,,,,
+2015,Kherson,,,,,1.8
+2016,Kherson,,,,,1.8
+2017,Kherson,,,,,2.9
+2018,Kherson,,,,,0.9
+2019,Kherson,,,,,4.2
+2020,Kherson,,,,,3.4
+2021,Kherson,,,,,1.3
+2022,Kherson,,,,,
+2023,Kherson,,,,,
+2024,Kherson,,,,,
+2015,Khmelnytskiy,,,,,1.3
+2016,Khmelnytskiy,,,,,0.5
+2017,Khmelnytskiy,,,,,1.0
+2018,Khmelnytskiy,,,,,2.1
+2019,Khmelnytskiy,,,,,0.8
+2020,Khmelnytskiy,,,,,3.0
+2021,Khmelnytskiy,,,,,4.5
+2022,Khmelnytskiy,,,,,
+2023,Khmelnytskiy,,,,,
+2024,Khmelnytskiy,,,,,
+2015,Cherkasy,,,,,1.6
+2016,Cherkasy,,,,,2.1
+2017,Cherkasy,,,,,3.6
+2018,Cherkasy,,,,,1.2
+2019,Cherkasy,,,,,2.0
+2020,Cherkasy,,,,,3.9
+2021,Cherkasy,,,,,3.0
+2022,Cherkasy,,,,,
+2023,Cherkasy,,,,,
+2024,Cherkasy,,,,,
+2015,Chernivtsi,,,,,5.1
+2016,Chernivtsi,,,,,4.4
+2017,Chernivtsi,,,,,2.6
+2018,Chernivtsi,,,,,4.7
+2019,Chernivtsi,,,,,4.7
+2020,Chernivtsi,,,,,4.6
+2021,Chernivtsi,,,,,5.4
+2022,Chernivtsi,,,,,
+2023,Chernivtsi,,,,,
+2024,Chernivtsi,,,,,
+2015,Chernihiv,,,,,1.8
+2016,Chernihiv,,,,,1.2
+2017,Chernihiv,,,,,2.8
+2018,Chernihiv,,,,,6.9
+2019,Chernihiv,,,,,4.1
+2020,Chernihiv,,,,,1.5
+2021,Chernihiv,,,,,0.8
+2022,Chernihiv,,,,,
+2023,Chernihiv,,,,,
+2024,Chernihiv,,,,,
+2015,the city of Kyiv,,,,,4.7
+2016,the city of Kyiv,,,,,2.4
+2017,the city of Kyiv,,,,,3.8
+2018,the city of Kyiv,,,,,3.8
+2019,the city of Kyiv,,,,,4.5
+2020,the city of Kyiv,,,,,5.8
+2021,the city of Kyiv,,,,,9.6
+2022,the city of Kyiv,,,,,
+2023,the city of Kyiv,,,,,
+2024,the city of Kyiv,,,,,
+2015,city Sevastopol,,,,,
+2016,city Sevastopol,,,,,
+2017,city Sevastopol,,,,,
+2018,city Sevastopol,,,,,
+2019,city Sevastopol,,,,,
+2020,city Sevastopol,,,,,
+2021,city Sevastopol,,,,,
+2022,city Sevastopol,,,,,
+2023,city Sevastopol,,,,,
+2024,city Sevastopol,,,,,
+2015,,up to 15 years,,,,
+2016,,up to 15 years,,,,
+2017,,up to 15 years,,,,0.1
+2018,,up to 15 years,,,,0.2
+2019,,up to 15 years,,,,0.0
+2020,,up to 15 years,,,,0.0
+2021,,up to 15 years,,,,0.0
+2022,,up to 15 years,,,,
+2023,,up to 15 years,,,,
+2024,,up to 15 years,,,,
+2015,,15–17 years,,,,0.6
+2016,,15–17 years,,,,0.2
+2017,,15–17 years,,,,0.1
+2018,,15–17 years,,,,0.1
+2019,,15–17 years,,,,0.0
+2020,,15–17 years,,,,0.7
+2021,,15–17 years,,,,0.7
+2022,,15–17 years,,,,
+2023,,15–17 years,,,,
+2024,,15–17 years,,,,
+2015,,18–24 years,,,,1.1
+2016,,18–24 years,,,,0.4
+2017,,18–24 years,,,,0.4
+2018,,18–24 years,,,,0.7
+2019,,18–24 years,,,,0.9
+2020,,18–24 years,,,,2.4
+2021,,18–24 years,,,,3.1
+2022,,18–24 years,,,,
+2023,,18–24 years,,,,
+2024,,18–24 years,,,,
+2015,,25–35 years,,,,2.5
+2016,,25–35 years,,,,2.3
+2017,,25–35 years,,,,2.1
+2018,,25–35 years,,,,1.6
+2019,,25–35 years,,,,2.7
+2020,,25–35 years,,,,4.1
+2021,,25–35 years,,,,7.1
+2022,,25–35 years,,,,
+2023,,25–35 years,,,,
+2024,,25–35 years,,,,
+2015,,36–59 years,,,,2.9
+2016,,36–59 years,,,,2.3
+2017,,36–59 years,,,,3.1
+2018,,36–59 years,,,,3.4
+2019,,36–59 years,,,,3.9
+2020,,36–59 years,,,,4.6
+2021,,36–59 years,,,,5.7
+2022,,36–59 years,,,,
+2023,,36–59 years,,,,
+2024,,36–59 years,,,,
+2015,,60–74 years,,,,2.6
+2016,,60–74 years,,,,1.6
+2017,,60–74 years,,,,1.1
+2018,,60–74 years,,,,1.4
+2019,,60–74 years,,,,2.1
+2020,,60–74 years,,,,3.2
+2021,,60–74 years,,,,2.6
+2022,,60–74 years,,,,
+2023,,60–74 years,,,,
+2024,,60–74 years,,,,
+2015,,75 years and older,,,,4.5
+2016,,75 years and older,,,,2.5
+2017,,75 years and older,,,,4.2
+2018,,75 years and older,,,,0.2
+2019,,75 years and older,,,,1.4
+2020,,75 years and older,,,,5.8
+2021,,75 years and older,,,,0.0
+2022,,75 years and older,,,,
+2023,,75 years and older,,,,
+2024,,75 years and older,,,,
+2015,,,females,,,2.4
+2016,,,females,,,2.0
+2017,,,females,,,2.3
+2018,,,females,,,2.4
+2019,,,females,,,2.9
+2020,,,females,,,3.6
+2021,,,females,,,4.7
+2022,,,females,,,
+2023,,,females,,,
+2024,,,females,,,
+2015,,,men,,,1.8
+2016,,,men,,,1.3
+2017,,,men,,,1.5
+2018,,,men,,,1.4
+2019,,,men,,,2.0
+2020,,,men,,,3.1
+2021,,,men,,,4.0
+2022,,,men,,,
+2023,,,men,,,
+2024,,,men,,,
+2015,,,,urban,,2.2
+2016,,,,urban,,1.8
+2017,,,,urban,,2.0
+2018,,,,urban,,2.1
+2019,,,,urban,,2.7
+2020,,,,urban,,3.7
+2021,,,,urban,,5.3
+2022,,,,urban,,
+2023,,,,urban,,
+2024,,,,urban,,
+2015,,,,rural,,1.6
+2016,,,,rural,,1.3
+2017,,,,rural,,1.5
+2018,,,,rural,,1.5
+2019,,,,rural,,1.7
+2020,,,,rural,,2.4
+2021,,,,rural,,2.2
+2022,,,,rural,,
+2023,,,,rural,,
+2024,,,,rural,,
+2015,,,,,1st group (low income),0.6
+2016,,,,,1st group (low income),1.1
+2017,,,,,1st group (low income),0.1
+2018,,,,,1st group (low income),1.1
+2019,,,,,1st group (low income),0.6
+2020,,,,,1st group (low income),0.7
+2021,,,,,1st group (low income),1.3
+2022,,,,,1st group (low income),
+2023,,,,,1st group (low income),
+2024,,,,,1st group (low income),
+2015,,,,,2nd group,2.0
+2016,,,,,2nd group,0.9
+2017,,,,,2nd group,0.3
+2018,,,,,2nd group,0.8
+2019,,,,,2nd group,0.1
+2020,,,,,2nd group,1.2
+2021,,,,,2nd group,3.1
+2022,,,,,2nd group,
+2023,,,,,2nd group,
+2024,,,,,2nd group,
+2015,,,,,3rd group,0.5
+2016,,,,,3rd group,1.4
+2017,,,,,3rd group,0.5
+2018,,,,,3rd group,0.2
+2019,,,,,3rd group,1.2
+2020,,,,,3rd group,2.8
+2021,,,,,3rd group,1.5
+2022,,,,,3rd group,
+2023,,,,,3rd group,
+2024,,,,,3rd group,
+2015,,,,,4th group,1.1
+2016,,,,,4th group,0.4
+2017,,,,,4th group,1.6
+2018,,,,,4th group,0.7
+2019,,,,,4th group,1.4
+2020,,,,,4th group,3.0
+2021,,,,,4th group,2.1
+2022,,,,,4th group,
+2023,,,,,4th group,
+2024,,,,,4th group,
+2015,,,,,5th group,1.7
+2016,,,,,5th group,1.7
+2017,,,,,5th group,2.2
+2018,,,,,5th group,2.0
+2019,,,,,5th group,0.6
+2020,,,,,5th group,3.1
+2021,,,,,5th group,2.3
+2022,,,,,5th group,
+2023,,,,,5th group,
+2024,,,,,5th group,
+2015,,,,,6th group,2.1
+2016,,,,,6th group,1.4
+2017,,,,,6th group,1.5
+2018,,,,,6th group,1.9
+2019,,,,,6th group,2.0
+2020,,,,,6th group,4.9
+2021,,,,,6th group,4.1
+2022,,,,,6th group,
+2023,,,,,6th group,
+2024,,,,,6th group,
+2015,,,,,7th group,2.6
+2016,,,,,7th group,1.9
+2017,,,,,7th group,1.9
+2018,,,,,7th group,1.5
+2019,,,,,7th group,2.2
+2020,,,,,7th group,1.9
+2021,,,,,7th group,4.5
+2022,,,,,7th group,
+2023,,,,,7th group,
+2024,,,,,7th group,
+2015,,,,,8th group,2.6
+2016,,,,,8th group,2.1
+2017,,,,,8th group,2.9
+2018,,,,,8th group,1.8
+2019,,,,,8th group,3.1
+2020,,,,,8th group,4.3
+2021,,,,,8th group,4.6
+2022,,,,,8th group,
+2023,,,,,8th group,
+2024,,,,,8th group,
+2015,,,,,9th group,2.4
+2016,,,,,9th group,1.6
+2017,,,,,9th group,2.9
+2018,,,,,9th group,3.3
+2019,,,,,9th group,4.2
+2020,,,,,9th group,2.9
+2021,,,,,9th group,7.7
+2022,,,,,9th group,
+2023,,,,,9th group,
+2024,,,,,9th group,
+2015,,,,,10th group (high income),4.4
+2016,,,,,10th group (high income),3.8
+2017,,,,,10th group (high income),3.9
+2018,,,,,10th group (high income),4.6
+2019,,,,,10th group (high income),6.9
+2020,,,,,10th group (high income),7.5
+2021,,,,,10th group (high income),10.5
+2022,,,,,10th group (high income),
+2023,,,,,10th group (high income),
+2024,,,,,10th group (high income),

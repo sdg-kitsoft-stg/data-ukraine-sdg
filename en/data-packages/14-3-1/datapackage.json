@@ -1,0 +1,213 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "group_label_90",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azov turbot",
+                "Artemia salina (brine shrimp)",
+                "Artemia salina (eggs)",
+                "Goby fish",
+                "Gammarids",
+                "Flounder (glossa)",
+                "Eelgrass (Zostera)",
+                "Shrimp",
+                "Noah's ark shell (Scapharca)",
+                "Bream",
+                "Mussel",
+                "Bloodworm (chironomid larvae)",
+                "Black Sea herring",
+                "So-iuy mullet (pilengas)",
+                "Roach",
+                "Rapana",
+                "Nase",
+                "Zander (pike-perch)",
+                "Common sprat",
+                "Anchovy (Azov)",
+                ""
+              ]
+            },
+            "title": "Sea of Azov"
+          },
+          {
+            "name": "group_label_91",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sand smelt (Atherina)",
+                "Red mullet",
+                "Goby fish",
+                "Gammarids",
+                "Flounder (glossa)",
+                "Black Sea garfish",
+                "Black Sea sprat",
+                "Shrimp",
+                "Flathead grey mullet (loban)",
+                "Whiting",
+                "Mussel",
+                "Thornback ray",
+                "Common stingray",
+                "Black Sea herring",
+                "So-iuy mullet (pilengas)",
+                "Rapana",
+                "Garfish",
+                "Golden grey mullet (singil)",
+                "Horse mackerel",
+                "Common sprat",
+                "Anchovy (Black Sea)",
+                "Cystoseira",
+                "Black Sea turbot",
+                ""
+              ]
+            },
+            "title": "Black Sea"
+          },
+          {
+            "name": "group_4",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sand smelt (Atherina)",
+                "group_label_138",
+                "group_label_139",
+                "group_label_140",
+                "group_label_141",
+                "group_label_142",
+                "group_label_143",
+                "group_label_144",
+                "Bream",
+                "group_label_145",
+                "group_label_146",
+                "Black Sea herring",
+                "So-iuy mullet (pilengas)",
+                "group_label_147",
+                "group_label_148",
+                "group_label_149",
+                "group_label_150",
+                "group_label_151",
+                "group_label_152",
+                "group_label_153",
+                "Zander (pike-perch)",
+                "group_label_154",
+                "Common sprat",
+                "Anchovy (Black Sea)",
+                "group_label_155",
+                "group_label_156",
+                ""
+              ]
+            },
+            "title": "Dnipro–Buh estuarine system"
+          },
+          {
+            "name": "group_5",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_138",
+                "group_label_139",
+                "group_label_142",
+                "group_label_143",
+                "Bream",
+                "group_label_145",
+                "Black Sea herring",
+                "group_label_147",
+                "Crayfish",
+                "Herbivorous fish (silver carp, bighead carp, their hybrid)",
+                "group_label_152",
+                "group_label_153",
+                "Zander (pike-perch)",
+                "group_label_154",
+                "group_label_156",
+                ""
+              ]
+            },
+            "title": "Lower Dniester with lakes and the Dniester Estuary (Liman)"
+          },
+          {
+            "name": "group_6",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European flounder (glossa)",
+                ""
+              ]
+            },
+            "title": "Tuzly Lagoons group"
+          },
+          {
+            "name": "group_7",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "European flounder (glossa)",
+                ""
+              ]
+            },
+            "title": "Budak (Shabolat) Lagoon"
+          },
+          {
+            "name": "group_8",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sand smelt (Atherina)",
+                "group_label_138",
+                "European flounder (glossa)",
+                "Black Sea garfish",
+                "Shrimp",
+                "Flathead grey mullet (loban)",
+                "So-iuy mullet (pilengas)",
+                "Golden grey mullet (singil)",
+                "Zander (pike-perch)",
+                ""
+              ]
+            },
+            "title": "Berezan Estuary (Liman)"
+          },
+          {
+            "name": "group_9",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sand smelt (Atherina)",
+                "group_label_138",
+                "European flounder (glossa)",
+                "Black Sea garfish",
+                "Shrimp",
+                "Flathead grey mullet (loban)",
+                "So-iuy mullet (pilengas)",
+                "Golden grey mullet (singil)",
+                ""
+              ]
+            },
+            "title": "Tyligul Estuary (Liman)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "14-3-1",
+  "title": "Share of caught aquatic biological resources in the total volume of established limits, percent"
+}

@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "group_29",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_281",
+                "group_label_282",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_174",
+                "group_label_175",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_30",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_283",
+                "group_label_284",
+                "group_label_285",
+                "group_label_286",
+                "group_label_300",
+                "group_label_287",
+                "group_label_288",
+                "group_label_289",
+                "group_label_290",
+                "group_label_316",
+                "group_label_291",
+                "group_label_292",
+                "group_label_293",
+                "group_label_294",
+                "group_label_295",
+                "group_label_296",
+                "group_label_297",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-3-1",
+  "title": "global_indicators.8-3-1-title"
+}

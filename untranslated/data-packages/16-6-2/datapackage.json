@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "35_reg_Kyiv_city",
+                "Center",
+                "East",
+                "South",
+                "West",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_256",
+                "group_label_257",
+                "group_label_258",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "males",
+                "2_females",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_259",
+                "group_label_260",
+                "group_label_261",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_21",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_262",
+                "group_label_263",
+                "group_label_264",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "global_indicators.16-6-2-title"
+}

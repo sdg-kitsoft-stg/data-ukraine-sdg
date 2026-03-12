@@ -1,0 +1,27 @@
+Value,Disaggregation combinations using this value,Number of indicators
+academic_staff_tertiary,1,1
+authorities,1,1
+balances,1,1
+by_local_automated_centralized_warning_systems,28,1
+by_territorial_automated_centralized_warning_systems,28,1
+by_territorial_communities,1,1
+consumption,1,1
+education_seekers,1,1
+electr_1_supply,1,1
+electr_2_pr_supply,1,1
+electr_3_act_value,6,1
+electr_4_tech_cons,2,1
+natural_monopolies,1,1
+non_working_population,1,1
+policy,1,1
+professional_pre_tertiary_education,1,1
+reliability_and_safety,1,1
+reporting,1,1
+rural,2,2
+student_professional_pre_tertiary,1,1
+student_tertiary,1,1
+supply,1,1
+teacher_professional_pre_tertiary,1,1
+tertiary_education,1,1
+urban,2,2
+working_population,1,1

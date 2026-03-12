@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "By form of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "direct_discrimination",
+                "indirect_discrimination",
+                "incitement_to_discrimination",
+                "complicity_in_discrimination",
+                "oppression",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By spheres of public relations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "freedom_from_discrimination_in_the_field_of_social_protection",
+                "freedom_from_discrimination_in_the_field_of_education",
+                "freedom_from_discrimination_in_the_field_of_service_provision",
+                "freedom_from_discrimination_in_the_field_of_access_to_justice",
+                "freedom_from_discrimination_in_the_field_of_health_care",
+                "freedom_from_discrimination_in_the_field_of_labor_employment",
+                "freedom_from_discrimination_in_the_field_of_sports",
+                "freedom_from_discrimination_in_the_media",
+                "freedom_from_discrimination_in_the_field_of_advertising",
+                "freedom_from_discrimination_in_the_field_of_advertising_for_vacancies",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "female",
+                "male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "by type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-2-2",
+  "title": "global_indicators.10-2-2-title"
+}

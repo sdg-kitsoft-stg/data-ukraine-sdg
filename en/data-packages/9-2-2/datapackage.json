@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "By special aggregations",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "production using technologies of",
+                "high level",
+                "medium-high level",
+                "medium-low level",
+                "low level",
+                ""
+              ]
+            },
+            "title": "special aggregations"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-2",
+  "title": "Share of persons employed at enterprises that belong to production using technologies of high, medium-high, medium-low and low level in the total number of persons employed at industrial enterprises, percent"
+}

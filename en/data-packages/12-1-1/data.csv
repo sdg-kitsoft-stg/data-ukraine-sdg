@@ -1,0 +1,301 @@
+Year,Region,Safety,Value
+2015,,hazardous waste,14.0
+2016,,hazardous waste,15.0
+2017,,hazardous waste,14.0
+2018,,hazardous waste,15.0
+2019,,hazardous waste,13.0
+2020,,hazardous waste,13.0
+2021,,hazardous waste,15.0
+2022,,hazardous waste,
+2023,,hazardous waste,
+2024,,hazardous waste,
+2015,,non-hazardous waste,7274.0
+2016,,non-hazardous waste,6919.0
+2017,,non-hazardous waste,8602.0
+2018,,non-hazardous waste,8602.0
+2019,,non-hazardous waste,10492.0
+2020,,non-hazardous waste,11061.0
+2021,,non-hazardous waste,11906.0
+2022,,non-hazardous waste,
+2023,,non-hazardous waste,
+2024,,non-hazardous waste,
+2015,Ukraine,,7288.0
+2016,Ukraine,,6934.0
+2017,Ukraine,,8616.0
+2018,Ukraine,,8335.0
+2019,Ukraine,,10505.0
+2020,Ukraine,,11074.0
+2021,Ukraine,,11921.0
+2022,Ukraine,,
+2023,Ukraine,,
+2024,Ukraine,,
+2015,Autonomous Republic of Crimea,,
+2016,Autonomous Republic of Crimea,,
+2017,Autonomous Republic of Crimea,,
+2018,Autonomous Republic of Crimea,,
+2019,Autonomous Republic of Crimea,,
+2020,Autonomous Republic of Crimea,,
+2021,Autonomous Republic of Crimea,,
+2022,Autonomous Republic of Crimea,,
+2023,Autonomous Republic of Crimea,,
+2024,Autonomous Republic of Crimea,,
+2015,Vinnytsya,,1214.0
+2016,Vinnytsya,,1208.0
+2017,Vinnytsya,,1479.0
+2018,Vinnytsya,,1137.0
+2019,Vinnytsya,,1746.0
+2020,Vinnytsya,,1013.0
+2021,Vinnytsya,,1064.0
+2022,Vinnytsya,,
+2023,Vinnytsya,,
+2024,Vinnytsya,,
+2015,Volyn,,613.0
+2016,Volyn,,657.0
+2017,Volyn,,705.0
+2018,Volyn,,536.0
+2019,Volyn,,647.0
+2020,Volyn,,612.0
+2021,Volyn,,483.0
+2022,Volyn,,
+2023,Volyn,,
+2024,Volyn,,
+2015,Dnipropetrovsk,,69533.0
+2016,Dnipropetrovsk,,63482.0
+2017,Dnipropetrovsk,,75250.0
+2018,Dnipropetrovsk,,75680.0
+2019,Dnipropetrovsk,,79032.0
+2020,Dnipropetrovsk,,97931.0
+2021,Dnipropetrovsk,,89356.0
+2022,Dnipropetrovsk,,
+2023,Dnipropetrovsk,,
+2024,Dnipropetrovsk,,
+2015,Donetsk,,3942.0
+2016,Donetsk,,4749.0
+2017,Donetsk,,5313.0
+2018,Donetsk,,5764.0
+2019,Donetsk,,6365.0
+2020,Donetsk,,6555.0
+2021,Donetsk,,5965.0
+2022,Donetsk,,
+2023,Donetsk,,
+2024,Donetsk,,
+2015,Zhytomyr,,414.0
+2016,Zhytomyr,,443.0
+2017,Zhytomyr,,445.0
+2018,Zhytomyr,,397.0
+2019,Zhytomyr,,391.0
+2020,Zhytomyr,,331.0
+2021,Zhytomyr,,379.0
+2022,Zhytomyr,,
+2023,Zhytomyr,,
+2024,Zhytomyr,,
+2015,Zakarpattya,,106.0
+2016,Zakarpattya,,124.0
+2017,Zakarpattya,,138.0
+2018,Zakarpattya,,148.0
+2019,Zakarpattya,,122.0
+2020,Zakarpattya,,116.0
+2021,Zakarpattya,,116.0
+2022,Zakarpattya,,
+2023,Zakarpattya,,
+2024,Zakarpattya,,
+2015,Zaporizhzhya,,3105.0
+2016,Zaporizhzhya,,2886.0
+2017,Zaporizhzhya,,2963.0
+2018,Zaporizhzhya,,3088.0
+2019,Zaporizhzhya,,3185.0
+2020,Zaporizhzhya,,3298.0
+2021,Zaporizhzhya,,3152.0
+2022,Zaporizhzhya,,
+2023,Zaporizhzhya,,
+2024,Zaporizhzhya,,
+2015,Ivano-Frankivsk,,1537.0
+2016,Ivano-Frankivsk,,1401.0
+2017,Ivano-Frankivsk,,1414.0
+2018,Ivano-Frankivsk,,1432.0
+2019,Ivano-Frankivsk,,2183.0
+2020,Ivano-Frankivsk,,1268.0
+2021,Ivano-Frankivsk,,1308.0
+2022,Ivano-Frankivsk,,
+2023,Ivano-Frankivsk,,
+2024,Ivano-Frankivsk,,
+2015,Kyiv,,959.0
+2016,Kyiv,,901.0
+2017,Kyiv,,726.0
+2018,Kyiv,,792.0
+2019,Kyiv,,797.0
+2020,Kyiv,,1201.0
+2021,Kyiv,,626.0
+2022,Kyiv,,
+2023,Kyiv,,
+2024,Kyiv,,
+2015,Kirovohrad,,34134.0
+2016,Kirovohrad,,35492.0
+2017,Kirovohrad,,39150.0
+2018,Kirovohrad,,39859.0
+2019,Kirovohrad,,39827.0
+2020,Kirovohrad,,538.0
+2021,Kirovohrad,,47964.0
+2022,Kirovohrad,,
+2023,Kirovohrad,,
+2024,Kirovohrad,,
+2015,Luhansk,,1152.0
+2016,Luhansk,,1116.0
+2017,Luhansk,,295.0
+2018,Luhansk,,258.0
+2019,Luhansk,,207.0
+2020,Luhansk,,122.0
+2021,Luhansk,,239.0
+2022,Luhansk,,
+2023,Luhansk,,
+2024,Luhansk,,
+2015,Lviv,,1165.0
+2016,Lviv,,1095.0
+2017,Lviv,,981.0
+2018,Lviv,,847.0
+2019,Lviv,,813.0
+2020,Lviv,,1246.0
+2021,Lviv,,734.0
+2022,Lviv,,
+2023,Lviv,,
+2024,Lviv,,
+2015,Mykolayiv,,1986.0
+2016,Mykolayiv,,2050.0
+2017,Mykolayiv,,2032.0
+2018,Mykolayiv,,2121.0
+2019,Mykolayiv,,2068.0
+2020,Mykolayiv,,2246.0
+2021,Mykolayiv,,2272.0
+2022,Mykolayiv,,
+2023,Mykolayiv,,
+2024,Mykolayiv,,
+2015,Odesa,,252.0
+2016,Odesa,,271.0
+2017,Odesa,,310.0
+2018,Odesa,,306.0
+2019,Odesa,,269.0
+2020,Odesa,,192.0
+2021,Odesa,,178.0
+2022,Odesa,,
+2023,Odesa,,
+2024,Odesa,,
+2015,Poltava,,3069.0
+2016,Poltava,,3783.0
+2017,Poltava,,24728.0
+2018,Poltava,,14089.0
+2019,Poltava,,69916.0
+2020,Poltava,,71090.0
+2021,Poltava,,89505.0
+2022,Poltava,,
+2023,Poltava,,
+2024,Poltava,,
+2015,Rivne,,726.0
+2016,Rivne,,614.0
+2017,Rivne,,394.0
+2018,Rivne,,418.0
+2019,Rivne,,450.0
+2020,Rivne,,770.0
+2021,Rivne,,652.0
+2022,Rivne,,
+2023,Rivne,,
+2024,Rivne,,
+2015,Sumy,,751.0
+2016,Sumy,,607.0
+2017,Sumy,,528.0
+2018,Sumy,,783.0
+2019,Sumy,,804.0
+2020,Sumy,,687.0
+2021,Sumy,,898.0
+2022,Sumy,,
+2023,Sumy,,
+2024,Sumy,,
+2015,Ternopil,,758.0
+2016,Ternopil,,812.0
+2017,Ternopil,,1805.0
+2018,Ternopil,,1575.0
+2019,Ternopil,,1019.0
+2020,Ternopil,,270.0
+2021,Ternopil,,523.0
+2022,Ternopil,,
+2023,Ternopil,,
+2024,Ternopil,,
+2015,Kharkiv,,628.0
+2016,Kharkiv,,721.0
+2017,Kharkiv,,669.0
+2018,Kharkiv,,607.0
+2019,Kharkiv,,657.0
+2020,Kharkiv,,562.0
+2021,Kharkiv,,648.0
+2022,Kharkiv,,
+2023,Kharkiv,,
+2024,Kharkiv,,
+2015,Kherson,,392.0
+2016,Kherson,,367.0
+2017,Kherson,,380.0
+2018,Kherson,,377.0
+2019,Kherson,,364.0
+2020,Kherson,,89.0
+2021,Kherson,,138.0
+2022,Kherson,,
+2023,Kherson,,
+2024,Kherson,,
+2015,Khmelnytskiy,,740.0
+2016,Khmelnytskiy,,1008.0
+2017,Khmelnytskiy,,725.0
+2018,Khmelnytskiy,,709.0
+2019,Khmelnytskiy,,715.0
+2020,Khmelnytskiy,,401.0
+2021,Khmelnytskiy,,677.0
+2022,Khmelnytskiy,,
+2023,Khmelnytskiy,,
+2024,Khmelnytskiy,,
+2015,Cherkasy,,945.0
+2016,Cherkasy,,986.0
+2017,Cherkasy,,1057.0
+2018,Cherkasy,,1224.0
+2019,Cherkasy,,1050.0
+2020,Cherkasy,,949.0
+2021,Cherkasy,,1183.0
+2022,Cherkasy,,
+2023,Cherkasy,,
+2024,Cherkasy,,
+2015,Chernivtsi,,438.0
+2016,Chernivtsi,,427.0
+2017,Chernivtsi,,407.0
+2018,Chernivtsi,,340.0
+2019,Chernivtsi,,353.0
+2020,Chernivtsi,,232.0
+2021,Chernivtsi,,204.0
+2022,Chernivtsi,,
+2023,Chernivtsi,,
+2024,Chernivtsi,,
+2015,Chernihiv,,826.0
+2016,Chernihiv,,693.0
+2017,Chernihiv,,714.0
+2018,Chernihiv,,708.0
+2019,Chernihiv,,697.0
+2020,Chernihiv,,506.0
+2021,Chernihiv,,609.0
+2022,Chernihiv,,
+2023,Chernihiv,,
+2024,Chernihiv,,
+2015,the city of Kyiv,,556.0
+2016,the city of Kyiv,,572.0
+2017,the city of Kyiv,,324.0
+2018,the city of Kyiv,,331.0
+2019,the city of Kyiv,,338.0
+2020,the city of Kyiv,,1064.0
+2021,the city of Kyiv,,491.0
+2022,the city of Kyiv,,
+2023,the city of Kyiv,,
+2024,the city of Kyiv,,
+2015,city Sevastopol,,
+2016,city Sevastopol,,
+2017,city Sevastopol,,
+2018,city Sevastopol,,
+2019,city Sevastopol,,
+2020,city Sevastopol,,
+2021,city Sevastopol,,
+2022,city Sevastopol,,
+2023,city Sevastopol,,
+2024,city Sevastopol,,

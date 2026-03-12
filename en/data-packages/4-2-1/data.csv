@@ -1,0 +1,363 @@
+Year,Region,Sex,Age,Type of residence,Value
+2015,,,,,77.69
+2016,,,,,77.21
+2017,,,,,77.39
+2018,,,,,77.37
+2019,,,,,77.88
+2020,,,,,78.0
+2021,,,,,78.02
+2022,,,,,78.22
+2023,,,,,
+2015,Vinnytsya,,,,80.76
+2016,Vinnytsya,,,,81.01
+2017,Vinnytsya,,,,81.61
+2018,Vinnytsya,,,,82.13
+2019,Vinnytsya,,,,83.29
+2020,Vinnytsya,,,,83.77
+2021,Vinnytsya,,,,83.78
+2022,Vinnytsya,,,,83.19
+2023,Vinnytsya,,,,
+2015,Volyn,,,,83.63
+2016,Volyn,,,,83.97
+2017,Volyn,,,,84.1
+2018,Volyn,,,,84.43
+2019,Volyn,,,,85.66
+2020,Volyn,,,,85.77
+2021,Volyn,,,,85.95
+2022,Volyn,,,,86.02
+2023,Volyn,,,,
+2015,Dnipropetrovsk,,,,85.1
+2016,Dnipropetrovsk,,,,84.82
+2017,Dnipropetrovsk,,,,84.65
+2018,Dnipropetrovsk,,,,84.0
+2019,Dnipropetrovsk,,,,83.8
+2020,Dnipropetrovsk,,,,83.44
+2021,Dnipropetrovsk,,,,82.84
+2022,Dnipropetrovsk,,,,82.18
+2023,Dnipropetrovsk,,,,
+2015,Donetsk,,,,37.95
+2016,Donetsk,,,,35.2
+2017,Donetsk,,,,35.29
+2018,Donetsk,,,,35.76
+2019,Donetsk,,,,36.25
+2020,Donetsk,,,,36.49
+2021,Donetsk,,,,36.77
+2022,Donetsk,,,,37.87
+2023,Donetsk,,,,
+2015,Zhytomyr,,,,83.21
+2016,Zhytomyr,,,,83.18
+2017,Zhytomyr,,,,83.21
+2018,Zhytomyr,,,,82.88
+2019,Zhytomyr,,,,83.78
+2020,Zhytomyr,,,,83.88
+2021,Zhytomyr,,,,83.42
+2022,Zhytomyr,,,,82.78
+2023,Zhytomyr,,,,
+2015,Zakarpattya,,,,85.17
+2016,Zakarpattya,,,,85.12
+2017,Zakarpattya,,,,84.84
+2018,Zakarpattya,,,,83.79
+2019,Zakarpattya,,,,84.18
+2020,Zakarpattya,,,,83.73
+2021,Zakarpattya,,,,83.38
+2022,Zakarpattya,,,,82.85
+2023,Zakarpattya,,,,
+2015,Zaporizhzhya,,,,85.52
+2016,Zaporizhzhya,,,,84.28
+2017,Zaporizhzhya,,,,83.91
+2018,Zaporizhzhya,,,,83.25
+2019,Zaporizhzhya,,,,83.64
+2020,Zaporizhzhya,,,,83.56
+2021,Zaporizhzhya,,,,82.93
+2022,Zaporizhzhya,,,,81.82
+2023,Zaporizhzhya,,,,
+2015,Ivano-Frankivsk,,,,81.27
+2016,Ivano-Frankivsk,,,,81.41
+2017,Ivano-Frankivsk,,,,81.87
+2018,Ivano-Frankivsk,,,,81.7
+2019,Ivano-Frankivsk,,,,82.56
+2020,Ivano-Frankivsk,,,,83.03
+2021,Ivano-Frankivsk,,,,82.84
+2022,Ivano-Frankivsk,,,,82.44
+2023,Ivano-Frankivsk,,,,
+2015,Kyiv,,,,92.53
+2016,Kyiv,,,,93.35
+2017,Kyiv,,,,93.72
+2018,Kyiv,,,,93.51
+2019,Kyiv,,,,94.3
+2020,Kyiv,,,,94.55
+2021,Kyiv,,,,94.11
+2022,Kyiv,,,,93.85
+2023,Kyiv,,,,
+2015,Kirovohrad,,,,83.53
+2016,Kirovohrad,,,,83.2
+2017,Kirovohrad,,,,82.48
+2018,Kirovohrad,,,,82.42
+2019,Kirovohrad,,,,83.2
+2020,Kirovohrad,,,,82.95
+2021,Kirovohrad,,,,82.72
+2022,Kirovohrad,,,,82.16
+2023,Kirovohrad,,,,
+2015,Luhansk,,,,27.85
+2016,Luhansk,,,,24.09
+2017,Luhansk,,,,24.04
+2018,Luhansk,,,,24.03
+2019,Luhansk,,,,24.09
+2020,Luhansk,,,,23.95
+2021,Luhansk,,,,24.67
+2022,Luhansk,,,,25.95
+2023,Luhansk,,,,
+2015,Lviv,,,,82.77
+2016,Lviv,,,,83.45
+2017,Lviv,,,,84.12
+2018,Lviv,,,,84.56
+2019,Lviv,,,,85.25
+2020,Lviv,,,,85.54
+2021,Lviv,,,,85.39
+2022,Lviv,,,,85.09
+2023,Lviv,,,,
+2015,Mykolayiv,,,,82.26
+2016,Mykolayiv,,,,81.98
+2017,Mykolayiv,,,,81.74
+2018,Mykolayiv,,,,81.81
+2019,Mykolayiv,,,,82.33
+2020,Mykolayiv,,,,82.28
+2021,Mykolayiv,,,,81.51
+2022,Mykolayiv,,,,81.39
+2023,Mykolayiv,,,,
+2015,Odesa,,,,85.65
+2016,Odesa,,,,85.11
+2017,Odesa,,,,85.15
+2018,Odesa,,,,84.87
+2019,Odesa,,,,85.15
+2020,Odesa,,,,84.93
+2021,Odesa,,,,84.68
+2022,Odesa,,,,84.76
+2023,Odesa,,,,
+2015,Poltava,,,,84.5
+2016,Poltava,,,,84.24
+2017,Poltava,,,,84.34
+2018,Poltava,,,,84.52
+2019,Poltava,,,,84.85
+2020,Poltava,,,,84.79
+2021,Poltava,,,,84.39
+2022,Poltava,,,,83.98
+2023,Poltava,,,,
+2015,Rivne,,,,83.85
+2016,Rivne,,,,84.19
+2017,Rivne,,,,84.7
+2018,Rivne,,,,84.86
+2019,Rivne,,,,85.94
+2020,Rivne,,,,86.32
+2021,Rivne,,,,86.36
+2022,Rivne,,,,86.09
+2023,Rivne,,,,
+2015,Sumy,,,,81.89
+2016,Sumy,,,,81.9
+2017,Sumy,,,,81.94
+2018,Sumy,,,,82.3
+2019,Sumy,,,,83.11
+2020,Sumy,,,,83.4
+2021,Sumy,,,,83.3
+2022,Sumy,,,,82.79
+2023,Sumy,,,,
+2015,Ternopil,,,,80.55
+2016,Ternopil,,,,80.04
+2017,Ternopil,,,,80.48
+2018,Ternopil,,,,80.72
+2019,Ternopil,,,,81.25
+2020,Ternopil,,,,81.36
+2021,Ternopil,,,,81.15
+2022,Ternopil,,,,80.48
+2023,Ternopil,,,,
+2015,Kharkiv,,,,85.14
+2016,Kharkiv,,,,84.39
+2017,Kharkiv,,,,85.26
+2018,Kharkiv,,,,84.26
+2019,Kharkiv,,,,84.32
+2020,Kharkiv,,,,84.72
+2021,Kharkiv,,,,84.59
+2022,Kharkiv,,,,84.39
+2023,Kharkiv,,,,
+2015,Kherson,,,,84.4
+2016,Kherson,,,,83.3
+2017,Kherson,,,,82.6
+2018,Kherson,,,,82.67
+2019,Kherson,,,,83.23
+2020,Kherson,,,,83.36
+2021,Kherson,,,,82.78
+2022,Kherson,,,,82.33
+2023,Kherson,,,,
+2015,Khmelnytskiy,,,,83.31
+2016,Khmelnytskiy,,,,83.39
+2017,Khmelnytskiy,,,,83.15
+2018,Khmelnytskiy,,,,83.56
+2019,Khmelnytskiy,,,,84.34
+2020,Khmelnytskiy,,,,84.81
+2021,Khmelnytskiy,,,,84.44
+2022,Khmelnytskiy,,,,83.92
+2023,Khmelnytskiy,,,,
+2015,Cherkasy,,,,82.95
+2016,Cherkasy,,,,83.39
+2017,Cherkasy,,,,83.45
+2018,Cherkasy,,,,83.95
+2019,Cherkasy,,,,84.69
+2020,Cherkasy,,,,84.77
+2021,Cherkasy,,,,84.55
+2022,Cherkasy,,,,83.99
+2023,Cherkasy,,,,
+2015,Chernivtsi,,,,82.16
+2016,Chernivtsi,,,,82.38
+2017,Chernivtsi,,,,83.22
+2018,Chernivtsi,,,,83.14
+2019,Chernivtsi,,,,84.42
+2020,Chernivtsi,,,,84.56
+2021,Chernivtsi,,,,84.36
+2022,Chernivtsi,,,,83.81
+2023,Chernivtsi,,,,
+2015,Chernihiv,,,,85.51
+2016,Chernihiv,,,,85.69
+2017,Chernihiv,,,,85.44
+2018,Chernihiv,,,,85.54
+2019,Chernihiv,,,,86.44
+2020,Chernihiv,,,,86.8
+2021,Chernihiv,,,,86.38
+2022,Chernihiv,,,,86.0
+2023,Chernihiv,,,,
+2015,the city of Kyiv,,,,84.83
+2016,the city of Kyiv,,,,85.01
+2017,the city of Kyiv,,,,85.83
+2018,the city of Kyiv,,,,85.49
+2019,the city of Kyiv,,,,84.84
+2020,the city of Kyiv,,,,84.92
+2021,the city of Kyiv,,,,85.63
+2022,the city of Kyiv,,,,86.43
+2023,the city of Kyiv,,,,
+2015,,women,,,77.91
+2016,,women,,,77.42
+2017,,women,,,77.65
+2018,,women,,,77.7
+2019,,women,,,78.2
+2020,,women,,,78.37
+2021,,women,,,78.36
+2022,,women,,,78.54
+2015,,men,,,75.76
+2016,,men,,,75.29
+2017,,men,,,75.41
+2018,,men,,,75.35
+2019,,men,,,75.95
+2020,,men,,,76.09
+2021,,men,,,76.2
+2022,,men,,,76.43
+2015,,,6 years,,58.43
+2016,,,6 years,,58.68
+2017,,,6 years,,58.08
+2018,,,6 years,,57.94
+2019,,,6 years,,62.44
+2020,,,6 years,,63.68
+2021,,,6 years,,64.88
+2022,,,6 years,,67.32
+2015,,,7 years,,91.54
+2016,,,7 years,,89.03
+2017,,,7 years,,89.2
+2018,,,7 years,,89.28
+2019,,,7 years,,88.57
+2020,,,7 years,,88.9
+2021,,,7 years,,88.35
+2022,,,7 years,,90.36
+2015,,,8 years,,92.4
+2016,,,8 years,,91.61
+2017,,,8 years,,90.16
+2018,,,8 years,,90.31
+2019,,,8 years,,90.38
+2020,,,8 years,,89.29
+2021,,,8 years,,89.94
+2022,,,8 years,,89.33
+2015,,,9 years,,91.46
+2016,,,9 years,,91.23
+2017,,,9 years,,91.25
+2018,,,9 years,,90.15
+2019,,,9 years,,90.26
+2020,,,9 years,,90.1
+2021,,,9 years,,89.46
+2022,,,9 years,,89.86
+2015,,,10 years,,91.32
+2016,,,10 years,,90.2
+2017,,,10 years,,90.77
+2018,,,10 years,,90.6
+2019,,,10 years,,89.42
+2020,,,10 years,,89.77
+2021,,,10 years,,89.95
+2022,,,10 years,,89.14
+2015,,,11 years,,92.83
+2016,,,11 years,,90.25
+2017,,,11 years,,89.74
+2018,,,11 years,,90.51
+2019,,,11 years,,90.55
+2020,,,11 years,,89.15
+2021,,,11 years,,89.44
+2022,,,11 years,,89.72
+2015,,,12 years,,92.65
+2016,,,12 years,,91.68
+2017,,,12 years,,90.08
+2018,,,12 years,,89.84
+2019,,,12 years,,90.25
+2020,,,12 years,,90.21
+2021,,,12 years,,89.17
+2022,,,12 years,,89.3
+2015,,,13 years,,93.87
+2016,,,13 years,,91.81
+2017,,,13 years,,91.48
+2018,,,13 years,,89.58
+2019,,,13 years,,89.34
+2020,,,13 years,,89.94
+2021,,,13 years,,90.05
+2022,,,13 years,,88.57
+2015,,,14 years,,93.15
+2016,,,14 years,,92.0
+2017,,,14 years,,90.72
+2018,,,14 years,,90.67
+2019,,,14 years,,88.97
+2020,,,14 years,,88.55
+2021,,,14 years,,89.16
+2022,,,14 years,,89.37
+2015,,,15 years,,68.44
+2016,,,15 years,,67.89
+2017,,,15 years,,66.36
+2018,,,15 years,,65.64
+2019,,,15 years,,67.45
+2020,,,15 years,,67.17
+2021,,,15 years,,68.07
+2022,,,15 years,,67.69
+2015,,,16 years,,55.42
+2016,,,16 years,,54.02
+2017,,,16 years,,53.75
+2018,,,16 years,,53.07
+2019,,,16 years,,53.72
+2020,,,16 years,,56.16
+2021,,,16 years,,56.28
+2022,,,16 years,,56.82
+2015,,,17 years,,17.23
+2016,,,17 years,,16.53
+2017,,,17 years,,16.12
+2018,,,17 years,,15.77
+2019,,,17 years,,15.64
+2020,,,17 years,,16.44
+2021,,,17 years,,15.83
+2022,,,17 years,,16.61
+2015,,,,urban,79.26
+2016,,,,urban,78.95
+2017,,,,urban,79.94
+2018,,,,urban,80.31
+2019,,,,urban,80.96
+2020,,,,urban,81.38
+2021,,,,urban,81.75
+2022,,,,urban,82.69
+2015,,,,rural,72.2
+2016,,,,rural,71.28
+2017,,,,rural,69.82
+2018,,,,rural,68.96
+2019,,,,rural,69.14
+2020,,,,rural,68.68
+2021,,,,rural,68.06
+2022,,,,rural,66.8

@@ -1,0 +1,74 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11_ext_quar",
+                "12_ext_coal",
+                "13_ext_oil",
+                "14_ext_ores",
+                "15_ext_miner",
+                "16_serv",
+                "17_proc_ind",
+                "18_man_food",
+                "19_man_bev",
+                "20_man_tobac",
+                "21_man_text",
+                "22_man_cloth",
+                "23_man_leather",
+                "24_man_wood",
+                "25_man_paper",
+                "26_print",
+                "27_man_coke",
+                "28_man_chemic",
+                "29_man_pharmac",
+                "30_man_rubber",
+                "31_man_non_met",
+                "32_man_met",
+                "33_man_equip",
+                "34_man_pc",
+                "35_man_el_equip",
+                "36_not_class",
+                "37_man_motor",
+                "38_man_oth_veh",
+                "39_man_furn",
+                "40_man_oth_prod",
+                "41_repair",
+                "42_suppl_elec",
+                "43_suppl_wat",
+                "44_collec_wat",
+                "45_waste_wat",
+                "46_restor",
+                "47_waste_act",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-5-2-a",
+  "title": "global_indicators.9-5-2-a-title"
+}

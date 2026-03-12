@@ -1,0 +1,142 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_16_17",
+                "age_18_24",
+                "age_25_35",
+                "age_36_59",
+                "age_60_74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By frequency of use",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "at_least_once_a_day",
+                "at_least_onc_a_week_but_not_every_day",
+                "less_than_once_a_week",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "By purpose of use",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sending e-mail",
+                "for interaction with government bodies including obtaining information",
+                "banking",
+                "reading/downloading newspapers magazines online",
+                "downloading films images music watching television or videos or listening to the radio or music playing video or computer games or downloading them",
+                "participating in social networks communicating",
+                "downloading software",
+                "using Internet storage for personal purposes to store documents images music videos or other files",
+                "conducting training activities for educational professional or private purposes through an online course",
+                "conducting training activities for educational professional or private purposes through an online course except for full online courses",
+                "conducting training activities for educational professional or private purposes through communication via the Internet with teachers or students using educational sites or portals",
+                "making an appointment with a specialist doctor through the Internet",
+                "searching for information related to health issues for yourself and others",
+                "ordering goods and services",
+                "telephone conversations through the Internet/Volp",
+                "posting opinions on civil or political issues on websites",
+                "participating in online consultations voting on civil or political issues",
+                "selling goods and services over the Internet",
+                "using services related to travel or hotel accommodation while traveling",
+                "looking for work or sending a job application",
+                "searching for information about goods and services not previously mentioned",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
+                "city_Sevastopol",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-6-4",
+  "title": "global_indicators.9-6-4-title"
+}

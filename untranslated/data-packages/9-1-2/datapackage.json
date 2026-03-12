@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ec_activ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "s_11_indu",
+                "3_mining",
+                "4_proc_ind",
+                "48_products",
+                "49_leather",
+                "50_wood",
+                "51_chemicals",
+                "52_rubber",
+                "53_metallurgy",
+                "54_computers",
+                "55_transport_equipment",
+                "56_furniture",
+                "57_energy",
+                "58_water_supply",
+                "59_water_collection",
+                "60_waste_management",
+                "61_trade_transport_info",
+                "62_wholesale_trade",
+                "63_transport_storage",
+                "64_transport_types",
+                "65_transport_support",
+                "66_information",
+                "67_media",
+                "68_telecom_it",
+                "69_finance",
+                "70_architecture_engineering",
+                "71_architecture_testing",
+                "72_research",
+                "73_advertising",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-1-2",
+  "title": "global_indicators.9-1-2-title"
+}

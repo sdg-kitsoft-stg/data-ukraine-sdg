@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Україна",
+                "м. Київ",
+                "Центр",
+                "Схід",
+                "Південь",
+                "Захід",
+                ""
+              ]
+            },
+            "title": "Область"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 30 років",
+                "30–54 роки",
+                "55 років і старші",
+                ""
+              ]
+            },
+            "title": "Вік"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Чоловіча",
+                "жінки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "обласні центри",
+                "районні центри та міста",
+                "села",
+                ""
+              ]
+            },
+            "title": "Тип місцевості проживання"
+          },
+          {
+            "name": "group_21",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "нижче середнього та найнижчий",
+                "середній",
+                "найвищий та вище середнього",
+                ""
+              ]
+            },
+            "title": "Рівень доходу"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-6-2",
+  "title": "Рівень обізнаності про можливість отримання безоплатної правничої допомоги, відсотків"
+}

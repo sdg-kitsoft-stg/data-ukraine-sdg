@@ -1,0 +1,227 @@
+Indicator,Disaggregations,Number of disaggregations
+#1-1-1,"Sex, Type of residence, Age, Households",4
+#1-1-1-a,"Sex, Age, Households",3
+#1-1-2,"Sex, Type of residence, Age, Households",4
+#1-1-3,"Sex, Type of residence, Households",3
+#1-2-1,"Sex, Type of residence, Age, Households",4
+#1-2-1-a,"Sex, Age, Households",3
+#1-3-1-a,"Type of residence, Sex of the head of household",2
+#1-3-2-a,"Type of residence, Decile groups",2
+#1-3-3,"Type of residence, Households, Decile groups",3
+#1-3-4,"Sex, Type of residence, Age, Households, Reason of disability",5
+#10-1-1,"Region, Category",2
+#10-1-1-a,Type of residence,1
+#10-1-2,"Sex, Region, Age",3
+#10-2-2,"Sex, By form of discrimination, By spheres of public relations, by type of residence",4
+#10-3-1,by type of residence,1
+#10-4-1,Wage replacement rate by pensions,1
+#10-4-1-a,Region,1
+#10-4-2,Sex,1
+#11-1-1,"Group, Sex, Type of residence",3
+#11-4-1,"Region, Category",2
+#11-4-2,By type of shelters,1
+#11-4-4,By type of shelters,1
+#11-4-5,Region,1
+#11-4-7,"Region, Category",2
+#11-5-2-a,Pollutants,1
+#12-1-1,"Region, By safety",2
+#12-1-1-a,Res_inten,1
+#12-1-2,Region,1
+#12-3-1,Group,1
+#12-5-1,By level of education,1
+#13-1-1-a,GHG_ratio,1
+#13-2-1,Region,1
+#14-1-1,group_1,1
+#14-1-3,"Region, group_2",2
+#14-2-2,group_label_92,1
+#14-2-3,group_3,1
+#14-3-1,"group_label_90, group_label_91, group_4, group_5, group_6, group_7, group_8, group_9",8
+#15-1-1,Region,1
+#15-3-1,"Region, group_10",2
+#15-3-1-a,Zone,1
+#15-4-1,group_11,1
+#15-4-2,group_11,1
+#15-5-1,Region,1
+#15-5-2,Region,1
+#16-1-1-a,"Article, Unit",2
+#16-1-2-a,"Article, Group, Unit",3
+#16-1-3-a,"Group, Unit",2
+#16-10-5,"Region, Age, Gender, group_14, group_15",5
+#16-11-1,"Region, Age, Gender, group_16, group_17",5
+#16-12-1,"Region, group_18",2
+#16-13-1,"Region, Age, Gender, group_16, 23_educ, group_20, group_21, group_22",8
+#16-13-2,"Region, Age, Gender, group_16, 23_educ, group_20, group_21, group_22",8
+#16-2-1,Region,1
+#16-2-1-a,"Group, Unit",2
+#16-2-2,Region,1
+#16-2-3,Region,1
+#16-2-4,Region,1
+#16-3-1,Region,1
+#16-3-1-a,Group,1
+#16-3-2,"Region, group_label_229",2
+#16-3-2-a,"Sex, Age",2
+#16-3-3,Region,1
+#16-4-2,Region,1
+#16-5-1-a,Type_weapon,1
+#16-5-2-a,"Region, Ammunition",2
+#16-5-3-a,"Article, Unit",2
+#16-6-1,"Region, Age, group_label_230, Gender, group_16, group_24, group_25",7
+#16-6-2,"Region, Age, Gender, group_16, group_21",5
+#16-7-1,group_26,1
+#16-8-1-a,"Sex, Age",2
+#16-8-2-a,"Sex, Type of residence, Age",3
+#16-8-3-a,Region,1
+#16-8-4-a,"Unit, Organization",2
+#16-9-1-a,"Region, Age, Gender, Component",4
+#16-9-2,group_27,1
+#17-2-1,"Region, Sphere, Status",3
+#17-3-1-a,Region,1
+#2-1-1,Type of residence,1
+#2-1-1-a,Region,1
+#2-1-2,Type of residence,1
+#2-1-2-a,Region,1
+#2-1-3,Type of residence,1
+#2-1-3-a,Region,1
+#2-1-4,Type of residence,1
+#2-1-4-a,Region,1
+#2-1-5-a,Region,1
+#2-2-2-a,"Farm caregory, Products",2
+#2-3-1,"Region, Land purpose",2
+#2-3-1-a,Group,1
+#2-4-1,by main product groups,1
+#2-4-1-a,by main product groups,1
+#3-1-1-a,Type of residence,1
+#3-1-2,by type of place of registration of service providers,1
+#3-1-3,Type of residence,1
+#3-1-4,"Sex, Type of residence, Age",3
+#3-1-5,"Sex, Age, by type of place of registration of service providers",3
+#3-10-1,"Sex, Type of residence",2
+#3-2-1,Cause of death,1
+#3-2-1-a,Type of residence,1
+#3-3-1-a,"Region, Gender",2
+#3-4-1-a,Region,1
+#3-4-2,"Sex, Age",2
+#3-4-2-a,Region,1
+#3-4-3-a,Region,1
+#3-4-4-a,Region,1
+#3-5-1-a,Type of residence,1
+#3-5-2-a,Type of residence,1
+#3-6-1,Form of rehabilitation assistance,1
+#3-6-2-a,Mode of transport,1
+#3-7-1-a,"Age, Infectious diseases",2
+#3-8-1,"Region, Age, Infectious diseases",3
+#3-8-1-a,Type of residence,1
+#3-8-2-a,Type of residence,1
+#3-9-1,"Sex, Type of residence",2
+#4-1-1,"Sex, Type of residence, Region",3
+#4-1-1-a,"Sex, Level, Settlement",3
+#4-2-1,"Sex, Type of residence, Region, Age",4
+#4-2-1-a,Type of residence,1
+#4-2-2,"Sex, Type of residence, Subject, School type, SES",5
+#4-2-3,"Type of residence, Type of educational institution",2
+#4-3-1,"Sex, Type of residence, Subject, Type of educational institution",4
+#4-3-2,"Sex, Type of residence, Subject, Type of educational institution, SES",5
+#4-4-1,Sex,1
+#4-4-2,Sex,1
+#4-4-2-a,"Sex, Age, Level_ed",3
+#4-4-3,Sources of funding,1
+#4-4-3-a,Cost_train,1
+#4-4-4,"Sex, Age",2
+#4-4-4-a,Fund,1
+#4-4-5,"Sex, Age",2
+#4-4-6,"Category, Category_type",2
+#4-4-7,"Specialty, Education Level",2
+#4-5-1,"Sex, Type of residence",2
+#4-5-1-a,"Sex, Age",2
+#4-5-2-a,"Sex, Type of residence, Age",3
+#4-6-1,"Region, EducationInternetType",2
+#4-6-2,Type of residence,1
+#4-7-1,"Sex, Type of residence",2
+#4-7-2,"Sex, Type of residence",2
+#4-7-3,Sex,1
+#4-7-3-a,Type of residence,1
+#4-8-1,Sex,1
+#5-2-2-a,Group,1
+#5-2-5,"Sex, Region, Age",3
+#5-3-1,"Region, Age",2
+#5-3-1-a,"Unit, Type of residence, Gender",3
+#5-4-1,"Type of residence, Region",2
+#5-4-2,Region,1
+#5-4-3-a,Cat,1
+#5-5-1,Sex,1
+#5-5-1-a,"Region, Age",2
+#5-5-2,"Sex, Region, CouncilLevel",3
+#5-5-3,Sex,1
+#5-5-4,"Sex, Age",2
+#5-5-5,Sex,1
+#5-5-6,"Sex, CourtLevel",2
+#5-5-7,Sex,1
+#5-5-8,Sex,1
+#5-6-1,Sex,1
+#5-6-1-a,Ec_activ,1
+#5-6-2,"Region, Type of economic activity, Organisation and legal forms",3
+#5-6-3,"Region, Type of economic activity",2
+#5-6-4,"Region, Type of economic activity, Organisation and legal forms, Number of employees",4
+#6-1-1,"Region, SupplyType, WaterType",3
+#6-1-1-a,"Type of residence, Type of water supply",2
+#6-1-2,Type of residence,1
+#6-1-2-a,"Type of residence, Type of water supply",2
+#6-1-3,Region,1
+#6-1-3-a,"Type of residence, Type of water supply",2
+#6-1-4,"Type of residence, SupplyType",2
+#6-2-1,"Type of residence, PopulationGroup",2
+#6-3-1,"Region, Type of economic activity, By river basins",3
+#6-3-1-a,Ec_activ,1
+#6-3-2-a,Ec_activ,1
+#6-5-1,By river basins,1
+#7-1-1-a,Generation,1
+#7-1-2-a,"Unit, Category, including",3
+#7-1-3,Type of energy resources,1
+#7-2-1,Region,1
+#7-2-1-a,Sou_en,1
+#7-3-1,By type of area,1
+#7-3-5,Indicators of production and technological costs in natural gas supply grids,1
+#7-4-4,"By types of producers, By types of renewable energy generation",2
+#7-5-10,"Category, By sectors of the fuel and energy sector",2
+#7-5-2,Indicators of energy consumption by households,1
+#7-5-3,Average monthly electricity consumption,1
+#7-5-4,By consumer categories,1
+#7-5-7,By consumer categories,1
+#7-5-9,"Resource, Building_type",2
+#7-6-1,"Sex, Type of residence, Region, Age",4
+#7-6-2,"Sex, Type of residence, Region, Age",4
+#7-6-3,"Type of residence, Region, Households",3
+#7-6-4,"Type of residence, Households",2
+#7-7-1,"Type of residence, Region",2
+#7-7-2,"Type of residence, Region",2
+#8-1-4,group_30,1
+#8-2-1,"Region, group_16, group_13, group_28, group_31",5
+#8-2-2,"Region, group_16, group_13, group_28, group_31",5
+#8-2-2-a,Group,1
+#8-2-3,"Region, group_16, group_13",3
+#8-2-4,"group_32, group_33, group_34, group_35, group_36",5
+#8-3-1,"group_13, group_30, group_29",3
+#8-3-1-a,"Sex, Type of residence",2
+#8-4-1,group_30,1
+#8-4-1-a,Sex,1
+#8-5-1-a,Region,1
+#8-5-2-a,Region,1
+#8-5-3-a,"Ec_activ, including",2
+#8-6-1-a,Ec_activ,1
+#8-6-2-a,Group,1
+#9-1-1-a,Region,1
+#9-1-2,Ec_activ,1
+#9-1-2-a,m_trans,1
+#9-1-3,Ec_activ,1
+#9-1-3-a,m_trans,1
+#9-1-4-a,m_trans,1
+#9-2-1,By special aggregations,1
+#9-2-2,By special aggregations,1
+#9-3-1,m_trans,1
+#9-3-2,m_trans,1
+#9-3-2-a,Object,1
+#9-4-2,Unnamed: 1,1
+#9-5-2-a,Ec_activ,1
+#9-6-1-a,"Type of residence, Region",2
+#9-6-3,"Region, Category",2
+#9-6-4,"Sex, Type of residence, Region, Age, By frequency of use, By purpose of use",6

@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "energy_intensity_of_the_gross_domestic_product",
+                "material_intensity_of_the_gross_domestic_product",
+                "carbon_intensity_of_the_gross_domestic_product",
+                "water_intensity_of_the_gross_domestic_product",
+                "waste_intensity_of_the_gross_domestic_product",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-3-1",
+  "title": "global_indicators.12-3-1-title"
+}

@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "group_30",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture, forestry and fishing",
+                "Industry",
+                "Construction",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transportation and storage; postal and courier activities",
+                "Accommodation and food service activities",
+                "Information and telecommunications ",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, sports, entertainment and recreation",
+                "Other economic activities",
+                ""
+              ]
+            },
+            "title": "Types of economic activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-1-4",
+  "title": "Labor productivity index, percent"
+}

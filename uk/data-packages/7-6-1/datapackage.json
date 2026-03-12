@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Рік"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "сільська",
+                "міська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "до 18 років",
+                "18 - 29 років",
+                "30 - 59 років",
+                "60 років і старші",
+                ""
+              ]
+            },
+            "title": "Вік"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Жіноча",
+                "Чоловіча",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Вінницька",
+                "Волинська",
+                "Дніпропетровська",
+                "Донецька",
+                "Житомирська",
+                "Закарпатська",
+                "Запорізька",
+                "Івано-Франківська",
+                "Київська",
+                "Кіровоградська",
+                "Луганська",
+                "Львівська",
+                "Одеська",
+                "Полтавська",
+                "Рівненська",
+                "Сумська",
+                "Тернопільська",
+                "Харківська",
+                "Херсонська",
+                "Черкаська",
+                "Чернівецька",
+                "Чернігівська",
+                "м. Київ",
+                "23_reg_Mykolaiv",
+                "31_reg_Khmelnytsya",
+                ""
+              ]
+            },
+            "title": "Область"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-6-1",
+  "title": "7-6-1"
+}
