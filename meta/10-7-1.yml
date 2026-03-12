@@ -3,6 +3,5 @@ SDG_TARGET: 10.7 Promoting orderly, safe, legal and responsible migration and mo
 SDG_INDICATOR: 10.7.1 Increasing the level of manageability of migration and mobility of people, in particular through the implementation of a planned and well-managed migration policy (SDG indicator 10.7.1)
 UNIT_MEASURE: "Level"
 CONTACT_ORGANISATION: State Migration Service of Ukraine – data will be available after involving development partners
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: "overall assessment of migration management in Ukraine from the United Nations Department of Economic and Social Affairs – “Fully compliant”"
+reference_title: "Target values of the indicator for 2030"
+footer_reference: "overall assessment of migration management in Ukraine from the United Nations Department of Economic and Social Affairs – “Fully compliant”"
