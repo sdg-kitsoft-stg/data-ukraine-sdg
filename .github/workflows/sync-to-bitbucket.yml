@@ -25,6 +25,6 @@ jobs:
           git remote remove bitbucket 2>/dev/null || true
           git remote add bitbucket "https://x-token-auth:${BB_TOKEN}@bitbucket.org/${BB_REPO}.git"
 
-      - name: Push main to Bitbucket
+      - name: Force push main to Bitbucket
         run: |
-          git push bitbucket main:main
+          git push --force bitbucket main:main
