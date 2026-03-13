@@ -11,7 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-3-4,"Sex, Type of residence, Age, Households, Reason of disability",5
 #10-1-1,"Region, Category",2
 #10-1-1-a,Type of residence,1
-#10-1-2,"Sex, Region, Age",3
+#10-1-2,"Sex, Region",2
 #10-2-2,"Sex, By form of discrimination, By spheres of public relations, by type of residence",4
 #10-3-1,by type of residence,1
 #10-4-1,Wage replacement rate by pensions,1
