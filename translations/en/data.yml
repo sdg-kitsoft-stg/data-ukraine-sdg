@@ -3133,3 +3133,6 @@ group_35: 'Gender (age 15-34)'
 group_36: "Type of place of residence (age 15-34)"
 by_territorial_automated_centralized_warning_systems: by territorial automated centralized warning systems
 energy_water_utilities: energy water utilities
+tourism_recreation_culture_sport: tourism, leisure, recreation, culture and sport
+waste_management_excl_collection_transport: waste management, except collection and transportation
+suspended_due_to_war: suspended due to the armed aggression of the russian federation
