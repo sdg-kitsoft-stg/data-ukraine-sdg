@@ -10,6 +10,7 @@ Year,Type of residence,Region,Value
 2023,,,2453668.0
 2023,urban,,1340763.0
 2023,rural,,1118028.0
+2023,,Autonomous Republic of Crimea,
 2023,,Vinnytsya,139.058
 2023,,Volyn,66.304
 2023,,Dnipropetrovsk,188.201
@@ -22,6 +23,7 @@ Year,Type of residence,Region,Value
 2023,,Kirovohrad,78.455
 2023,,Luhansk,57.27
 2023,,Lviv,129.224
+2023,,Mykolayiv,
 2023,,Odesa,72.544
 2023,,Poltava,139.665
 2023,,Rivne,73.547
@@ -29,9 +31,11 @@ Year,Type of residence,Region,Value
 2023,,Ternopil,80.327
 2023,,Kharkiv,179.459
 2023,,Kherson,45.922
+2023,,Khmelnytskiy,
 2023,,Cherkasy,133.372
 2023,,Chernivtsi,44.417
 2023,,Chernihiv,119.539
 2023,,the city of Kyiv,67.942
+2023,,city Sevastopol,
 2023,,23_reg_Mykolaiv,63.762
 2023,,31_reg_Khmelnytsya,109.001

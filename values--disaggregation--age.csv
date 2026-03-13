@@ -5,7 +5,7 @@ age_0_17,1,1
 age_0_5,1,1
 age_14_30,1,1
 age_15,2,2
-age_15_17,2,2
+age_15_17,29,2
 age_15_24,3,1
 age_15_64,3,1
 age_16_17,1,1
@@ -36,7 +36,7 @@ age_75,1,1
 age_under15,1,1
 age_under20,24,1
 age_vac_1_under 1 year,6,1
-age_vac_1_under_1_year,146,1
+age_vac_1_under_1_year,148,1
 age_vac_2_1 year,2,1
 age_vac_2_1_year,51,1
 age_vac_3_18 months,3,1
