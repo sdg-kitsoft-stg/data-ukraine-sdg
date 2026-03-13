@@ -31,8 +31,8 @@ Year,Type of residence,Household type,Region,Value
 2015,,,Chernihiv,8.4
 2015,,,the city of Kyiv,12.4
 2015,,,city Sevastopol,
-2015,,,23_reg_Mykolaiv,9.9
-2015,,,31_reg_Khmelnytsya,10.4
+2015,,,Mykolayiv,9.9
+2015,,,Khmelnytskiy,10.4
 2016,,,,14.7
 2016,,households/families with children,,13.8
 2016,,households/families without children,,15.4
@@ -65,8 +65,8 @@ Year,Type of residence,Household type,Region,Value
 2016,,,Chernihiv,13.0
 2016,,,the city of Kyiv,16.2
 2016,,,city Sevastopol,
-2016,,,23_reg_Mykolaiv,12.2
-2016,,,31_reg_Khmelnytsya,17.8
+2016,,,Mykolayiv,12.2
+2016,,,Khmelnytskiy,17.8
 2017,,,,15.4
 2017,,households/families with children,,14.6
 2017,,households/families without children,,16.2
@@ -99,8 +99,8 @@ Year,Type of residence,Household type,Region,Value
 2017,,,Chernihiv,14.1
 2017,,,the city of Kyiv,18.0
 2017,,,city Sevastopol,
-2017,,,23_reg_Mykolaiv,13.6
-2017,,,31_reg_Khmelnytsya,17.6
+2017,,,Mykolayiv,13.6
+2017,,,Khmelnytskiy,17.6
 2018,,,,13.9
 2018,,households/families with children,,12.8
 2018,,households/families without children,,14.9
@@ -133,8 +133,8 @@ Year,Type of residence,Household type,Region,Value
 2018,,,Chernihiv,12.5
 2018,,,the city of Kyiv,16.1
 2018,,,city Sevastopol,
-2018,,,23_reg_Mykolaiv,11.7
-2018,,,31_reg_Khmelnytsya,14.0
+2018,,,Mykolayiv,11.7
+2018,,,Khmelnytskiy,14.0
 2019,,,,13.0
 2019,,households/families with children,,12.0
 2019,,households/families without children,,13.8
@@ -167,8 +167,8 @@ Year,Type of residence,Household type,Region,Value
 2019,,,Chernihiv,11.0
 2019,,,the city of Kyiv,15.7
 2019,,,city Sevastopol,
-2019,,,23_reg_Mykolaiv,10.8
-2019,,,31_reg_Khmelnytsya,11.0
+2019,,,Mykolayiv,10.8
+2019,,,Khmelnytskiy,11.0
 2020,,,,12.9
 2020,,households/families with children,,12.4
 2020,,households/families without children,,13.3
@@ -201,8 +201,8 @@ Year,Type of residence,Household type,Region,Value
 2020,,,Chernihiv,10.1
 2020,,,the city of Kyiv,18.0
 2020,,,city Sevastopol,
-2020,,,23_reg_Mykolaiv,11.7
-2020,,,31_reg_Khmelnytsya,10.3
+2020,,,Mykolayiv,11.7
+2020,,,Khmelnytskiy,10.3
 2021,,,,13.8
 2021,,households/families with children,,12.7
 2021,,households/families without children,,14.8
@@ -235,5 +235,5 @@ Year,Type of residence,Household type,Region,Value
 2021,,,Chernihiv,11.0
 2021,,,the city of Kyiv,17.3
 2021,,,city Sevastopol,
-2021,,,23_reg_Mykolaiv,13.4
-2021,,,31_reg_Khmelnytsya,12.5
+2021,,,Mykolayiv,13.4
+2021,,,Khmelnytskiy,12.5

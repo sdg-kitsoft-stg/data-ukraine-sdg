@@ -35,8 +35,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2015,,,,34_reg_Chernihiv,15.5
 2015,,,,35_reg_Kyiv_city,6.7
 2015,,,,city_Sevastopol,
-2015,,,,23_reg_Mykolaiv,23.6
-2015,,,,31_reg_Khmelnytsya,20.2
+2015,,,,23_reg_Mykolayiv,23.6
+2015,,,,31_reg_Khmelnytskiy,20.2
 2017,,,,,25.3
 2017,,,females,,26.5
 2017,,,males,,23.9
@@ -73,8 +73,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2017,,,,34_reg_Chernihiv,67.8
 2017,,,,35_reg_Kyiv_city,8.4
 2017,,,,city_Sevastopol,
-2017,,,,23_reg_Mykolaiv,27.4
-2017,,,,31_reg_Khmelnytsya,5.7
+2017,,,,23_reg_Mykolayiv,27.4
+2017,,,,31_reg_Khmelnytskiy,5.7
 2019,,,,,18.8
 2019,,,females,,19.6
 2019,,,males,,18.0
@@ -111,8 +111,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2019,,,,34_reg_Chernihiv,25.1
 2019,,,,35_reg_Kyiv_city,3.5
 2019,,,,city_Sevastopol,
-2019,,,,23_reg_Mykolaiv,18.0
-2019,,,,31_reg_Khmelnytsya,5.7
+2019,,,,23_reg_Mykolayiv,18.0
+2019,,,,31_reg_Khmelnytskiy,5.7
 2021,,,,,15.4
 2021,,,females,,16.3
 2021,,,males,,14.3
@@ -149,5 +149,5 @@ Year,Type of residence,Age,Sex,Region,Value
 2021,,,,34_reg_Chernihiv,27.5
 2021,,,,35_reg_Kyiv_city,8.3
 2021,,,,city_Sevastopol,
-2021,,,,23_reg_Mykolaiv,10.7
-2021,,,,31_reg_Khmelnytsya,6.7
+2021,,,,23_reg_Mykolayiv,10.7
+2021,,,,31_reg_Khmelnytskiy,6.7

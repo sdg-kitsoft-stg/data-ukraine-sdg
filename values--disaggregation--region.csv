@@ -7,12 +7,10 @@ Value,Disaggregation combinations using this value,Number of indicators
 16_reg_Zakarpattya,114,74
 17_reg_Zaporizhzhya,250,75
 18_reg_Ivano-Frankivsk,114,74
-18_reg_Ivano_Frankivsk,1,1
 19_reg_Kyiv,100,74
 20_reg_Kirovohrad,114,74
 21_reg_Luhansk,250,76
 22_reg_Lviv,114,74
-23_reg_Mykolaiv,5,5
 23_reg_Mykolayiv,114,74
 24_reg_Odesa,114,74
 25_reg_Poltava,114,74
@@ -23,7 +21,6 @@ Value,Disaggregation combinations using this value,Number of indicators
 30_reg_Kherson,114,74
 31_reg_Khmelnytskiy,114,74
 31_reg_Khmelnytskyi,1,1
-31_reg_Khmelnytsya,4,4
 32_reg_Cherkasy,114,74
 33_reg_Chernivtsi,114,74
 34_reg_Chernihiv,114,74

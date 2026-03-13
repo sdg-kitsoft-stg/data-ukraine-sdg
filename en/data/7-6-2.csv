@@ -36,8 +36,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2015,,,,Chernihiv,21.8
 2015,,,,the city of Kyiv,5.9
 2015,,,,city Sevastopol,
-2015,,,,18_reg_Ivano_Frankivsk,49.1
-2015,,,,23_reg_Mykolaiv,28.9
+2015,,,,Ivano-Frankivsk,49.1
+2015,,,,Mykolayiv,28.9
 2015,,,,31_reg_Khmelnytskyi,25.8
 2017,,,,,25.6
 2017,,,,,25.6
@@ -76,8 +76,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2017,,,,Chernihiv,34.0
 2017,,,,the city of Kyiv,4.8
 2017,,,,city Sevastopol,
-2017,,,,18_reg_Ivano_Frankivsk,68.3
-2017,,,,23_reg_Mykolaiv,37.7
+2017,,,,Ivano-Frankivsk,68.3
+2017,,,,Mykolayiv,37.7
 2017,,,,31_reg_Khmelnytskyi,7.0
 2019,,,,,21.8
 2019,,,,,21.8
@@ -116,8 +116,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2019,,,,Chernihiv,16.0
 2019,,,,the city of Kyiv,5.0
 2019,,,,city Sevastopol,
-2019,,,,18_reg_Ivano_Frankivsk,59.6
-2019,,,,23_reg_Mykolaiv,19.2
+2019,,,,Ivano-Frankivsk,59.6
+2019,,,,Mykolayiv,19.2
 2019,,,,31_reg_Khmelnytskyi,12.2
 2021,,,,,17.2
 2021,,,,,17.2
@@ -156,6 +156,6 @@ Year,Type of residence,Age,Sex,Region,Value
 2021,,,,Chernihiv,10.9
 2021,,,,the city of Kyiv,3.1
 2021,,,,city Sevastopol,
-2021,,,,18_reg_Ivano_Frankivsk,66.1
-2021,,,,23_reg_Mykolaiv,21.5
+2021,,,,Ivano-Frankivsk,66.1
+2021,,,,Mykolayiv,21.5
 2021,,,,31_reg_Khmelnytskyi,11.9
