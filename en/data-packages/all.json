@@ -9207,8 +9207,8 @@
                 "energy water utilities",
                 "transport_infrastructure",
                 "healthcare",
-                "tourism_recreation_culture_sport",
-                "waste_management_excl_collection_transport",
+                "tourism, leisure, recreation, culture and sport",
+                "waste management, except collection and transportation",
                 "others",
                 ""
               ]
@@ -9222,7 +9222,7 @@
               "enum": [
                 "implemented",
                 "not_implemented",
-                "suspended_due_to_war",
+                "suspended due to the armed aggression of the russian federation",
                 ""
               ]
             },
