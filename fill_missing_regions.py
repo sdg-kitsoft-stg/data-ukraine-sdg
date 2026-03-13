@@ -3,15 +3,14 @@
 
 import csv
 import re
-from collections import defaultdict
+from collections import OrderedDict
 from pathlib import Path
-
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
 REGION_ORDER = [
-#    "Ukraine",
+    "Ukraine",
     "autonomous_Republic_of_Crimea",
     "11_reg_Vinnytsya",
     "12_reg_Volyn",
@@ -64,13 +63,15 @@ def get_field_name(fieldnames: list[str], target: str) -> str | None:
     return None
 
 
+def norm(value: str) -> str:
+    return (value or "").replace("\ufeff", "").strip()
+
+
 def region_sort_key(row: dict, region_field: str):
-    region = (row.get(region_field) or "").strip()
-    if region == "":
-        return (0, -1, "")
+    region = norm(row.get(region_field, ""))
     if region in REGION_INDEX:
-        return (1, REGION_INDEX[region], "")
-    return (2, 999999, region.lower())
+        return (0, REGION_INDEX[region])
+    return (1, region.lower())
 
 
 def process_csv(csv_path: Path) -> tuple[bool, int]:
@@ -90,62 +91,71 @@ def process_csv(csv_path: Path) -> tuple[bool, int]:
         region_field = get_field_name(fieldnames, "Region")
         value_field = get_field_name(fieldnames, "Value")
 
-        if not region_field or not year_field:
+        if not year_field or not region_field:
             return False, 0
 
-        rows = list(reader)
+        rows = [dict(row) for row in reader]
 
     if not rows:
         return True, 0
 
-    # Группируем строки по году
-    rows_by_year = defaultdict(list)
-    for row in rows:
-        year = (row.get(year_field) or "").strip()
-        rows_by_year[year].append(row)
+    original_rows = [dict(r) for r in rows]
 
-    new_rows = list(rows)
+    rows_by_year = OrderedDict()
+    for row in rows:
+        year = norm(row.get(year_field, ""))
+        rows_by_year.setdefault(year, []).append(row)
+
+    rebuilt_rows = []
     added_count = 0
 
     for year, year_rows in rows_by_year.items():
-        # Берём только строки этого года, где Region заполнен
-        region_rows = [r for r in year_rows if (r.get(region_field) or "").strip() != ""]
+        non_region_rows = []
+        region_rows = []
+
+        for row in year_rows:
+            region_value = norm(row.get(region_field, ""))
+            if region_value == "":
+                non_region_rows.append(dict(row))
+            else:
+                region_rows.append(dict(row))
+
         if not region_rows:
+            rebuilt_rows.extend(year_rows)
             continue
 
-        existing_regions = {(r.get(region_field) or "").strip() for r in region_rows}
-        missing_regions = [r for r in REGION_ORDER if r not in existing_regions]
+        existing_regions = {norm(r.get(region_field, "")) for r in region_rows}
 
-        if not missing_regions:
-            continue
+        # Ukraine — исключение: не добавляем, если её нет
+        required_regions = [r for r in REGION_ORDER if r != "Ukraine"]
+        missing_regions = [r for r in required_regions if r not in existing_regions]
 
-        # Любая строка этого года с заполненным Region подходит как шаблон
-        template_row = dict(region_rows[0])
+        if missing_regions:
+            template_row = dict(region_rows[0])
 
-        for missing_region in missing_regions:
-            new_row = dict(template_row)
-            new_row[region_field] = missing_region
-            if value_field:
-                new_row[value_field] = ""
-            new_rows.append(new_row)
-            added_count += 1
+            for missing_region in missing_regions:
+                new_row = dict(template_row)
+                new_row[region_field] = missing_region
+                if value_field:
+                    new_row[value_field] = ""
+                region_rows.append(new_row)
+                added_count += 1
 
-    if added_count == 0:
-        return True, 0
-
-    # Сохраняем более предсказуемый порядок:
-    # сначала Year, внутри года пустой Region / известные регионы / прочие
-    new_rows.sort(
-        key=lambda row: (
-            (row.get(year_field) or "").strip(),
-            *region_sort_key(row, region_field),
+        region_rows_sorted = sorted(
+            region_rows,
+            key=lambda row: region_sort_key(row, region_field)
         )
-    )
+
+        rebuilt_rows.extend(non_region_rows)
+        rebuilt_rows.extend(region_rows_sorted)
+
+    if rebuilt_rows == original_rows:
+        return True, 0
 
     with csv_path.open("w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, dialect=dialect)
         writer.writeheader()
-        writer.writerows(new_rows)
+        writer.writerows(rebuilt_rows)
 
     return True, added_count
 
@@ -185,7 +195,7 @@ def main():
     print()
     print("[DONE]")
     print(f"CSV scanned: {scanned}")
-    print(f"CSV with Region+Year: {processed}")
+    print(f"CSV with Region: {processed}")
     print(f"Changed files: {changed_files}")
     print(f"Added rows total: {added_rows_total}")
     print(f"Skipped archive: {skipped_archive}")
