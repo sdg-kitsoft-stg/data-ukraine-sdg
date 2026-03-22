@@ -20700,6 +20700,30 @@
       "title": "Кількість об’єктів культурної та природної спадщини, які включені до Списку всесвітньої спадщини ЮНЕСКО, одиниць"
     },
     {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Частка домогосподарств, які мають фіксований широкосмуговий доступ до Інтернету із швидкістю не менше 100 Мбіт/с, відсотків"
+    },
+    {
       "path": "7-3-2/data.csv",
       "name": "7-3-2",
       "profile": "tabular-data-resource",
@@ -20722,6 +20746,30 @@
         ]
       },
       "title": "Показники технологічних витрат в електромережах: частка технологічних витрат електричної енергії в мережах (від обсягу відбору), відсотків; частка технологічних витрат електричної енергії в мережах систем розподілу (від обсягу відбору), відсотків "
+    },
+    {
+      "path": "9-1-8/data.csv",
+      "name": "9-1-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Рік"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Частка інноваційно активних підприємств у загальній кількості підприємств, відсотків"
     },
     {
       "path": "7-3-4/data.csv",
@@ -21082,30 +21130,6 @@
         ]
       },
       "title": "16-10-1"
-    },
-    {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-6-2"
     },
     {
       "path": "11-1-6/data.csv",
@@ -22162,30 +22186,6 @@
         ]
       },
       "title": "11-2-8"
-    },
-    {
-      "path": "9-1-8/data.csv",
-      "name": "9-1-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Рік"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "9-1-8"
     },
     {
       "path": "5-2-3/data.csv",
