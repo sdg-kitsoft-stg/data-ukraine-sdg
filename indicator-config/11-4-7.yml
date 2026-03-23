@@ -31,8 +31,7 @@ indicator_number: 11.4.7
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision:
-- decimals: 2
+precision: []
 reporting_status: complete
 sort: ''
 standalone: false

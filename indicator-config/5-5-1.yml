@@ -27,8 +27,7 @@ indicator_number: 5.5.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision:
-- decimals: 2
+precision: []
 reporting_status: complete
 sort: ''
 standalone: false
