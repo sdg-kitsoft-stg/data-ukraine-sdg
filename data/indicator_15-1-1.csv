@@ -1,4 +1,4 @@
-﻿Year,Region,Value
+Year,Region,Value
 2015,Ukraine,3803.132
 2015,autonomous_Republic_of_Crimea,219.319
 2015,11_reg_Vinnytsya,59.394
@@ -25,7 +25,7 @@
 2015,32_reg_Cherkasy,63.118
 2015,33_reg_Chernivtsi,103.598
 2015,34_reg_Chernihiv,249.285
-2015,35_reg_Kyiv_city,17.559
+2015,Kyiv_city,17.559
 2015,city_Sevastopol,26.241
 2016,Ukraine,3985.605
 2016,autonomous_Republic_of_Crimea,219.319
@@ -53,7 +53,7 @@
 2016,32_reg_Cherkasy,63.907
 2016,33_reg_Chernivtsi,103.598
 2016,34_reg_Chernihiv,249.290
-2016,35_reg_Kyiv_city,17.711
+2016,Kyiv_city,17.711
 2016,city_Sevastopol,26.241
 2017,Ukraine,3985.022
 2017,autonomous_Republic_of_Crimea,219.319
@@ -81,7 +81,7 @@
 2017,32_reg_Cherkasy,64.008
 2017,33_reg_Chernivtsi,103.598
 2017,34_reg_Chernihiv,249.365
-2017,35_reg_Kyiv_city,17.711
+2017,Kyiv_city,17.711
 2017,city_Sevastopol,26.241
 2018,Ukraine,3991.638
 2018,autonomous_Republic_of_Crimea,219.319
@@ -109,7 +109,7 @@
 2018,32_reg_Cherkasy,64.119
 2018,33_reg_Chernivtsi,103.598
 2018,34_reg_Chernihiv,249.381
-2018,35_reg_Kyiv_city,17.727
+2018,Kyiv_city,17.727
 2018,city_Sevastopol,26.241
 2019,Ukraine,4085.861
 2019,autonomous_Republic_of_Crimea,219.319
@@ -137,7 +137,7 @@
 2019,32_reg_Cherkasy,64.596
 2019,33_reg_Chernivtsi,103.599
 2019,34_reg_Chernihiv,250.537
-2019,35_reg_Kyiv_city,18.092
+2019,Kyiv_city,18.092
 2019,city_Sevastopol,26.241
 2020,Ukraine,4105.522
 2020,autonomous_Republic_of_Crimea,219.319
@@ -165,7 +165,7 @@
 2020,32_reg_Cherkasy,64.746
 2020,33_reg_Chernivtsi,103.599
 2020,34_reg_Chernihiv,250.720
-2020,35_reg_Kyiv_city,21.149
+2020,Kyiv_city,21.149
 2020,city_Sevastopol,26.241
 2021,Ukraine,4117.607
 2021,autonomous_Republic_of_Crimea,219.319
@@ -193,7 +193,7 @@
 2021,32_reg_Cherkasy,64.860
 2021,33_reg_Chernivtsi,104.326
 2021,34_reg_Chernihiv,250.867
-2021,35_reg_Kyiv_city,21.267
+2021,Kyiv_city,21.267
 2021,city_Sevastopol,26.241
 2022,Ukraine,4173.018
 2022,autonomous_Republic_of_Crimea,219.319
@@ -221,7 +221,7 @@
 2022,32_reg_Cherkasy,71.717
 2022,33_reg_Chernivtsi,104.457
 2022,34_reg_Chernihiv,251.230
-2022,35_reg_Kyiv_city,21.567
+2022,Kyiv_city,21.567
 2022,city_Sevastopol,26.241
 2023,Ukraine,4183.851
 2023,autonomous_Republic_of_Crimea,219.319
@@ -249,7 +249,7 @@
 2023,32_reg_Cherkasy,70.360
 2023,33_reg_Chernivtsi,104.457
 2023,34_reg_Chernihiv,251.443
-2023,35_reg_Kyiv_city,21.796
+2023,35_Kyiv_city,21.796
 2023,city_Sevastopol,26.241
 2024,Ukraine,4188.050
 2024,autonomous_Republic_of_Crimea,219.319
@@ -277,5 +277,5 @@
 2024,32_reg_Cherkasy,70.482
 2024,33_reg_Chernivtsi,104.457
 2024,34_reg_Chernihiv,251.646
-2024,35_reg_Kyiv_city,21.774
+2024,Kyiv_city,21.774
 2024,city_Sevastopol,26.241

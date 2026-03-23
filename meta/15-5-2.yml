@@ -1,6 +1,6 @@
 SDG_GOAL: 15 Protect and restore terrestrial ecosystems
 SDG_TARGET: 15.5 Reducing the number of poaching cases and of illegal trade in protected species of flora and fauna
 SDG_INDICATOR: 15.5.2 Share of cases of illegal hunting for which persons who violated the rules of hunting are brought to justice, percent
-UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Ministry of Economy, Environment and Agriculture of Ukraine"
-REC_USE_LIM: 
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: Ministry of Economy, Environment and Agriculture of Ukraine
+REC_USE_LIM: null

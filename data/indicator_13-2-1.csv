@@ -1,4 +1,4 @@
-﻿Year,Region,Value
+Year,Region,Value
 2015,Ukraine,
 2015,autonomous_Republic_of_Crimea,
 2015,11_reg_Vinnytsya,
@@ -25,7 +25,7 @@
 2015,32_reg_Cherkasy,
 2015,33_reg_Chernivtsi,
 2015,34_reg_Chernihiv,
-2015,35_reg_Kyiv_city,
+2015,Kyiv_city,
 2015,city_Sevastopol,
 2016,Ukraine,
 2016,autonomous_Republic_of_Crimea,
@@ -53,7 +53,7 @@
 2016,32_reg_Cherkasy,
 2016,33_reg_Chernivtsi,
 2016,34_reg_Chernihiv,
-2016,35_reg_Kyiv_city,
+2016,Kyiv_city,
 2016,city_Sevastopol,
 2017,Ukraine,
 2017,autonomous_Republic_of_Crimea,
@@ -81,7 +81,7 @@
 2017,32_reg_Cherkasy,
 2017,33_reg_Chernivtsi,
 2017,34_reg_Chernihiv,
-2017,35_reg_Kyiv_city,
+2017,Kyiv_city,
 2017,city_Sevastopol,
 2018,Ukraine,
 2018,autonomous_Republic_of_Crimea,
@@ -109,7 +109,7 @@
 2018,32_reg_Cherkasy,
 2018,33_reg_Chernivtsi,
 2018,34_reg_Chernihiv,
-2018,35_reg_Kyiv_city,
+2018,Kyiv_city,
 2018,city_Sevastopol,
 2019,Ukraine,
 2019,autonomous_Republic_of_Crimea,
@@ -137,7 +137,7 @@
 2019,32_reg_Cherkasy,
 2019,33_reg_Chernivtsi,
 2019,34_reg_Chernihiv,
-2019,35_reg_Kyiv_city,
+2019,Kyiv_city,
 2019,city_Sevastopol,
 2020,Ukraine,
 2020,autonomous_Republic_of_Crimea,
@@ -165,7 +165,7 @@
 2020,32_reg_Cherkasy,
 2020,33_reg_Chernivtsi,
 2020,34_reg_Chernihiv,
-2020,35_reg_Kyiv_city,
+2020,Kyiv_city,
 2020,city_Sevastopol,
 2021,Ukraine,4.4
 2021,autonomous_Republic_of_Crimea,
@@ -193,7 +193,7 @@
 2021,32_reg_Cherkasy,1.3
 2021,33_reg_Chernivtsi,45.7
 2021,34_reg_Chernihiv,12.9
-2021,35_reg_Kyiv_city,0.0
+2021,Kyiv_city,0.0
 2021,city_Sevastopol,
 2022,Ukraine,8.5
 2022,autonomous_Republic_of_Crimea,
@@ -221,7 +221,7 @@
 2022,32_reg_Cherkasy,1.8
 2022,33_reg_Chernivtsi,119.8
 2022,34_reg_Chernihiv,17.4
-2022,35_reg_Kyiv_city,0.0
+2022,Kyiv_city,0.0
 2022,city_Sevastopol,
 2023,Ukraine,16.8
 2023,autonomous_Republic_of_Crimea,
@@ -249,7 +249,7 @@
 2023,32_reg_Cherkasy,2.7
 2023,33_reg_Chernivtsi,128.0
 2023,34_reg_Chernihiv,36.2
-2023,35_reg_Kyiv_city,0.0
+2023,Kyiv_city,0.0
 2023,city_Sevastopol,
 2024,Ukraine,20.1
 2024,autonomous_Republic_of_Crimea,
@@ -277,5 +277,5 @@
 2024,32_reg_Cherkasy,9.1
 2024,33_reg_Chernivtsi,128.0
 2024,34_reg_Chernihiv,56.7
-2024,35_reg_Kyiv_city,0.0
+2024,Kyiv_city,0.0
 2024,city_Sevastopol,

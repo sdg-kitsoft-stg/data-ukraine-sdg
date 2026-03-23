@@ -1,4 +1,4 @@
-﻿Year,Region,By safety,Value
+Year,Region,By safety,Value
 2015,,hazardous_waste,14
 2015,,non_hazardous_waste,7274
 2015,Ukraine,,7288
@@ -27,7 +27,7 @@
 2015,32_reg_Cherkasy,,945
 2015,33_reg_Chernivtsi,,438
 2015,34_reg_Chernihiv,,826
-2015,35_reg_Kyiv_city,,556
+2015,Kyiv_city,,556
 2015,city_Sevastopol,,
 2016,,hazardous_waste,15
 2016,,non_hazardous_waste,6919
@@ -57,7 +57,7 @@
 2016,32_reg_Cherkasy,,986
 2016,33_reg_Chernivtsi,,427
 2016,34_reg_Chernihiv,,693
-2016,35_reg_Kyiv_city,,572
+2016,Kyiv_city,,572
 2016,city_Sevastopol,,
 2017,,hazardous_waste,14
 2017,,non_hazardous_waste,8602
@@ -87,7 +87,7 @@
 2017,32_reg_Cherkasy,,1057
 2017,33_reg_Chernivtsi,,407
 2017,34_reg_Chernihiv,,714
-2017,35_reg_Kyiv_city,,324
+2017,Kyiv_city,,324
 2017,city_Sevastopol,,
 2018,,hazardous_waste,15
 2018,,non_hazardous_waste,8602
@@ -117,7 +117,7 @@
 2018,32_reg_Cherkasy,,1224
 2018,33_reg_Chernivtsi,,340
 2018,34_reg_Chernihiv,,708
-2018,35_reg_Kyiv_city,,331
+2018,Kyiv_city,,331
 2018,city_Sevastopol,,
 2019,,hazardous_waste,13
 2019,,non_hazardous_waste,10492
@@ -147,7 +147,7 @@
 2019,32_reg_Cherkasy,,1050
 2019,33_reg_Chernivtsi,,353
 2019,34_reg_Chernihiv,,697
-2019,35_reg_Kyiv_city,,338
+2019,Kyiv_city,,338
 2019,city_Sevastopol,,
 2020,,hazardous_waste,13
 2020,,non_hazardous_waste,11061
@@ -177,7 +177,7 @@
 2020,32_reg_Cherkasy,,949
 2020,33_reg_Chernivtsi,,232
 2020,34_reg_Chernihiv,,506
-2020,35_reg_Kyiv_city,,1064
+2020,Kyiv_city,,1064
 2020,city_Sevastopol,,
 2021,,hazardous_waste,15
 2021,,non_hazardous_waste,11906
@@ -207,7 +207,7 @@
 2021,32_reg_Cherkasy,,1183
 2021,33_reg_Chernivtsi,,204
 2021,34_reg_Chernihiv,,609
-2021,35_reg_Kyiv_city,,491
+2021,35_Kyiv_city,,491
 2021,city_Sevastopol,,
 2022,,hazardous_waste,
 2022,,non_hazardous_waste,
@@ -237,7 +237,7 @@
 2022,32_reg_Cherkasy,,
 2022,33_reg_Chernivtsi,,
 2022,34_reg_Chernihiv,,
-2022,35_reg_Kyiv_city,,
+2022,Kyiv_city,,
 2022,city_Sevastopol,,
 2023,,hazardous_waste,
 2023,,non_hazardous_waste,
@@ -267,7 +267,7 @@
 2023,32_reg_Cherkasy,,
 2023,33_reg_Chernivtsi,,
 2023,34_reg_Chernihiv,,
-2023,35_reg_Kyiv_city,,
+2023,Kyiv_city,,
 2023,city_Sevastopol,,
 2024,,hazardous_waste,
 2024,,non_hazardous_waste,
@@ -297,5 +297,5 @@
 2024,32_reg_Cherkasy,,
 2024,33_reg_Chernivtsi,,
 2024,34_reg_Chernihiv,,
-2024,35_reg_Kyiv_city,,
+2024,Kyiv_city,,
 2024,city_Sevastopol,,

@@ -1,6 +1,8 @@
 SDG_GOAL: 1 End poverty
 SDG_TARGET: 1.2 Increasing the share of coverage of the poor population by targeted social support programs
 SDG_INDICATOR: 1.2.2 Share of children from among privileged categories provided with free hot meals in general secondary educational institutions, percent
-UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine (Institute for Demography of the NAS of Ukraine)"
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine (Institute for Demography of the NAS of Ukraine)
 REC_USE_LIM: Data will be provided additionally.
+reference_title: Target value of the indicator for 2030
+footer_reference: '50'
