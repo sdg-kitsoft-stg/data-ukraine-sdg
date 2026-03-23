@@ -25,7 +25,7 @@ Year,Region,Category,Value
 2015,32_reg_Cherkasy,,61.0
 2015,33_reg_Chernivtsi,,17.3
 2015,34_reg_Chernihiv,,15.4
-2015,35_reg_Kyiv_city,,15.9
+2015,Kyiv_city,,15.9
 2015,city_Sevastopol,,
 2016,Ukraine,,28.6
 2016,autonomous_Republic_of_Crimea,,
@@ -53,7 +53,7 @@ Year,Region,Category,Value
 2016,32_reg_Cherkasy,,57.2
 2016,33_reg_Chernivtsi,,31.2
 2016,34_reg_Chernihiv,,14.5
-2016,35_reg_Kyiv_city,,0.1
+2016,Kyiv_city,,0.1
 2016,city_Sevastopol,,
 2017,Ukraine,,27.3
 2017,autonomous_Republic_of_Crimea,,
@@ -81,7 +81,7 @@ Year,Region,Category,Value
 2017,32_reg_Cherkasy,,59.2
 2017,33_reg_Chernivtsi,,30.3
 2017,34_reg_Chernihiv,,17.8
-2017,35_reg_Kyiv_city,,1.0
+2017,Kyiv_city,,1.0
 2017,city_Sevastopol,,
 2018,Ukraine,,29.4
 2018,autonomous_Republic_of_Crimea,,
@@ -109,7 +109,7 @@ Year,Region,Category,Value
 2018,32_reg_Cherkasy,,53.0
 2018,33_reg_Chernivtsi,,29.6
 2018,34_reg_Chernihiv,,15.3
-2018,35_reg_Kyiv_city,,0.2
+2018,Kyiv_city,,0.2
 2018,city_Sevastopol,,
 2019,Ukraine,,24.5
 2019,autonomous_Republic_of_Crimea,,
@@ -137,7 +137,7 @@ Year,Region,Category,Value
 2019,32_reg_Cherkasy,,55.4
 2019,33_reg_Chernivtsi,,36.7
 2019,34_reg_Chernihiv,,9.9
-2019,35_reg_Kyiv_city,,0.1
+2019,Kyiv_city,,0.1
 2019,city_Sevastopol,,
 2020,Ukraine,,21.7
 2020,autonomous_Republic_of_Crimea,,
@@ -165,7 +165,7 @@ Year,Region,Category,Value
 2020,32_reg_Cherkasy,,56.4
 2020,33_reg_Chernivtsi,,39.5
 2020,34_reg_Chernihiv,,14.7
-2020,35_reg_Kyiv_city,,4.1
+2020,Kyiv_city,,4.1
 2020,city_Sevastopol,,
 2021,Ukraine,,21.8
 2021,autonomous_Republic_of_Crimea,,
@@ -193,7 +193,7 @@ Year,Region,Category,Value
 2021,32_reg_Cherkasy,,60.4
 2021,33_reg_Chernivtsi,,5.3
 2021,34_reg_Chernihiv,,10.2
-2021,35_reg_Kyiv_city,,8.9
+2021,Kyiv_city,,8.9
 2021,city_Sevastopol,,
 2022,Ukraine,,29.0
 2022,autonomous_Republic_of_Crimea,,
@@ -221,7 +221,7 @@ Year,Region,Category,Value
 2022,32_reg_Cherkasy,,55.6
 2022,33_reg_Chernivtsi,,5.9
 2022,34_reg_Chernihiv,,16.2
-2022,35_reg_Kyiv_city,,49.1
+2022,Kyiv_city,,49.1
 2022,city_Sevastopol,,
 2023,Ukraine,,22.3
 2023,autonomous_Republic_of_Crimea,,
@@ -249,7 +249,7 @@ Year,Region,Category,Value
 2023,32_reg_Cherkasy,,58.8
 2023,33_reg_Chernivtsi,,6.6
 2023,34_reg_Chernihiv,,18.0
-2023,35_reg_Kyiv_city,,2.0
+2023,Kyiv_city,,2.0
 2023,city_Sevastopol,,
 2024,Ukraine,,12.6
 2024,autonomous_Republic_of_Crimea,,
@@ -277,5 +277,5 @@ Year,Region,Category,Value
 2024,32_reg_Cherkasy,,52.4
 2024,33_reg_Chernivtsi,,10.2
 2024,34_reg_Chernihiv,,25.3
-2024,35_reg_Kyiv_city,,4.3
+2024,Kyiv_city,,4.3
 2024,city_Sevastopol,,

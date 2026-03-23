@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "до 18 років",
+                "age_18_1",
                 "18 – 34 роки",
                 "35 – 59 років",
                 "60 років і старші",
@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
-                "Чоловіча",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
@@ -54,16 +54,16 @@
             "title": "Місцевість проживання"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "Домогосподарства з дітьми",
-                "Домогосподарства без дітей",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Домогосподарства"
+            "title": "Households_1"
           },
           {
             "name": "Value",

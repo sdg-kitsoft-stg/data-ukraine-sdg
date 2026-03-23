@@ -1,4 +1,4 @@
-Year,Age,Sex,Type of residence,Household type,Reason of obtaining disability,Value
+Year,Age,Sex,Type of residence,Households_1,Reason of obtaining disability,Value
 2015,,,,,,43.4
 2016,,,,,,44.2
 2017,,,,,,45.2
@@ -9,16 +9,16 @@ Year,Age,Sex,Type of residence,Household type,Reason of obtaining disability,Val
 2022,,,,,,53.9
 2023,,,,,,53.6
 2024,,,,,,52.3
-2015,under 18 years old,,,,,82.1
-2016,under 18 years old,,,,,82.0
-2017,under 18 years old,,,,,80.0
-2018,under 18 years old,,,,,80.0
-2019,under 18 years old,,,,,81.3
-2020,under 18 years old,,,,,82.0
-2021,under 18 years old,,,,,82.3
-2022,under 18 years old,,,,,82.8
-2023,under 18 years old,,,,,83.1
-2024,under 18 years old,,,,,83.8
+2015,age_18_1,,,,,82.1
+2016,age_18_1,,,,,82.0
+2017,age_18_1,,,,,80.0
+2018,age_18_1,,,,,80.0
+2019,age_18_1,,,,,81.3
+2020,age_18_1,,,,,82.0
+2021,age_18_1,,,,,82.3
+2022,age_18_1,,,,,82.8
+2023,age_18_1,,,,,83.1
+2024,age_18_1,,,,,83.8
 2015,18-34 years,,,,,86.7
 2016,18-34 years,,,,,87.1
 2017,18-34 years,,,,,86.6
@@ -49,26 +49,26 @@ Year,Age,Sex,Type of residence,Household type,Reason of obtaining disability,Val
 2022,60 years and older,,,,,42.4
 2023,60 years and older,,,,,44.0
 2024,60 years and older,,,,,46.0
-2015,,women,,,,68.5
-2016,,women,,,,68.7
-2017,,women,,,,68.7
-2018,,women,,,,68.9
-2019,,women,,,,69.4
-2020,,women,,,,70.2
-2021,,women,,,,71.4
-2022,,women,,,,71.9
-2023,,women,,,,70.9
-2024,,women,,,,70.4
-2015,,men,,,,59.9
-2016,,men,,,,60.1
-2017,,men,,,,60.2
-2018,,men,,,,60.7
-2019,,men,,,,61.4
-2020,,men,,,,62.7
-2021,,men,,,,64.4
-2022,,men,,,,65.0
-2023,,men,,,,62.5
-2024,,men,,,,60.1
+2015,,females_1,,,,68.5
+2016,,females_1,,,,68.7
+2017,,females_1,,,,68.7
+2018,,females_1,,,,68.9
+2019,,females_1,,,,69.4
+2020,,females_1,,,,70.2
+2021,,females_1,,,,71.4
+2022,,females_1,,,,71.9
+2023,,females_1,,,,70.9
+2024,,females_1,,,,70.4
+2015,,males_1,,,,59.9
+2016,,males_1,,,,60.1
+2017,,males_1,,,,60.2
+2018,,males_1,,,,60.7
+2019,,males_1,,,,61.4
+2020,,males_1,,,,62.7
+2021,,males_1,,,,64.4
+2022,,males_1,,,,65.0
+2023,,males_1,,,,62.5
+2024,,males_1,,,,60.1
 2015,,,urban,,,63.1
 2016,,,urban,,,63.4
 2017,,,urban,,,63.8
@@ -89,26 +89,26 @@ Year,Age,Sex,Type of residence,Household type,Reason of obtaining disability,Val
 2022,,,rural,,,79.5
 2023,,,rural,,,77.7
 2024,,,rural,,,76.7
-2015,,,,households/families with children,,99.9
-2016,,,,households/families with children,,99.9
-2017,,,,households/families with children,,99.9
-2018,,,,households/families with children,,99.9
-2019,,,,households/families with children,,99.9
-2020,,,,households/families with children,,99.9
-2021,,,,households/families with children,,99.9
-2022,,,,households/families with children,,99.9
-2023,,,,households/families with children,,99.9
-2024,,,,households/families with children,,100.0
-2015,,,,households/families without children,,42.5
-2016,,,,households/families without children,,43.3
-2017,,,,households/families without children,,44.0
-2018,,,,households/families without children,,44.9
-2019,,,,households/families without children,,46.0
-2020,,,,households/families without children,,47.5
-2021,,,,households/families without children,,49.6
+2015,,,,hh_ch_2,,99.9
+2016,,,,hh_ch_2,,99.9
+2017,,,,hh_ch_2,,99.9
+2018,,,,hh_ch_2,,99.9
+2019,,,,hh_ch_2,,99.9
+2020,,,,hh_ch_2,,99.9
+2021,,,,hh_ch_2,,99.9
+2022,,,,hh_ch_2,,99.9
+2023,,,,hh_ch_2,,99.9
+2024,,,,hh_ch_2,,100.0
+2015,,,,hh_ch_02,,42.5
+2016,,,,hh_ch_02,,43.3
+2017,,,,hh_ch_02,,44.0
+2018,,,,hh_ch_02,,44.9
+2019,,,,hh_ch_02,,46.0
+2020,,,,hh_ch_02,,47.5
+2021,,,,hh_ch_02,,49.6
 2022,,,,households/families without children,,50.8
-2023,,,,households/families without children,,50.7
-2024,,,,households/families without children,,50.9
+2023,,,,hh_ch_02,,50.7
+2024,,,,hh_ch_02,,50.9
 2015,,,,,as a result of military action,60.5
 2016,,,,,as a result of military action,61.0
 2017,,,,,as a result of military action,61.8

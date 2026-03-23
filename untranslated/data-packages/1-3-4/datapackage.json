@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -50,11 +50,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
+                "hh_ch_2",
+                "hh_ch_02",
                 "hh_ch_0",
                 ""
               ]

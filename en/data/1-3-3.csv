@@ -1,4 +1,4 @@
-Year,Type of residence,Decile groups of income,Household type,Value
+Year,Type of residence,Decile groups of income,Households_1,Value
 2015,,,,54.6
 2016,,,,51.4
 2017,,,,49.6
@@ -129,23 +129,23 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,10th group (high income),,
 2023,,10th group (high income),,
 2024,,10th group (high income),,
-2015,,,households/families with children,54.4
-2016,,,households/families with children,51.9
-2017,,,households/families with children,49.5
-2018,,,households/families with children,49.6
-2019,,,households/families with children,49.0
-2020,,,households/families with children,49.2
-2021,,,households/families with children,46.6
-2022,,,households/families with children,
-2023,,,households/families with children,
-2024,,,households/families with children,
-2015,,,households/families without children,55.0
-2016,,,households/families without children,51.1
-2017,,,households/families without children,49.8
-2018,,,households/families without children,49.3
-2019,,,households/families without children,48.0
-2020,,,households/families without children,49.3
-2021,,,households/families without children,47.4
-2022,,,households/families without children,
-2023,,,households/families without children,
-2024,,,households/families without children,
+2015,,,hh_ch_1,54.4
+2016,,,hh_ch_1,51.9
+2017,,,hh_ch_1,49.5
+2018,,,hh_ch_1,49.6
+2019,,,hh_ch_1,49.0
+2020,,,hh_ch_1,49.2
+2021,,,hh_ch_1,46.6
+2022,,,hh_ch_1,
+2023,,,hh_ch_1,
+2024,,,hh_ch_1,
+2015,,,hh_ch_01,55.0
+2016,,,hh_ch_01,51.1
+2017,,,hh_ch_01,49.8
+2018,,,hh_ch_01,49.3
+2019,,,hh_ch_01,48.0
+2020,,,hh_ch_01,49.3
+2021,,,hh_ch_01,47.4
+2022,,,hh_ch_01,
+2023,,,hh_ch_01,
+2024,,,hh_ch_01,

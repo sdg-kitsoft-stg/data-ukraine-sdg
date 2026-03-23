@@ -25,7 +25,7 @@ Year,Region,Value
 2015,Cherkasy,63.118
 2015,Chernivtsi,103.598
 2015,Chernihiv,249.285
-2015,the city of Kyiv,17.559
+2015,city Kyiv,17.559
 2015,city Sevastopol,26.241
 2016,Ukraine,3985.605
 2016,Autonomous Republic of Crimea,219.319
@@ -53,7 +53,7 @@ Year,Region,Value
 2016,Cherkasy,63.907
 2016,Chernivtsi,103.598
 2016,Chernihiv,249.29
-2016,the city of Kyiv,17.711
+2016,city Kyiv,17.711
 2016,city Sevastopol,26.241
 2017,Ukraine,3985.022
 2017,Autonomous Republic of Crimea,219.319
@@ -81,7 +81,7 @@ Year,Region,Value
 2017,Cherkasy,64.008
 2017,Chernivtsi,103.598
 2017,Chernihiv,249.365
-2017,the city of Kyiv,17.711
+2017,city Kyiv,17.711
 2017,city Sevastopol,26.241
 2018,Ukraine,3991.638
 2018,Autonomous Republic of Crimea,219.319
@@ -109,7 +109,7 @@ Year,Region,Value
 2018,Cherkasy,64.119
 2018,Chernivtsi,103.598
 2018,Chernihiv,249.381
-2018,the city of Kyiv,17.727
+2018,city Kyiv,17.727
 2018,city Sevastopol,26.241
 2019,Ukraine,4085.861
 2019,Autonomous Republic of Crimea,219.319
@@ -137,7 +137,7 @@ Year,Region,Value
 2019,Cherkasy,64.596
 2019,Chernivtsi,103.599
 2019,Chernihiv,250.537
-2019,the city of Kyiv,18.092
+2019,city Kyiv,18.092
 2019,city Sevastopol,26.241
 2020,Ukraine,4105.522
 2020,Autonomous Republic of Crimea,219.319
@@ -165,7 +165,7 @@ Year,Region,Value
 2020,Cherkasy,64.746
 2020,Chernivtsi,103.599
 2020,Chernihiv,250.72
-2020,the city of Kyiv,21.149
+2020,city Kyiv,21.149
 2020,city Sevastopol,26.241
 2021,Ukraine,4117.607
 2021,Autonomous Republic of Crimea,219.319
@@ -193,7 +193,7 @@ Year,Region,Value
 2021,Cherkasy,64.86
 2021,Chernivtsi,104.326
 2021,Chernihiv,250.867
-2021,the city of Kyiv,21.267
+2021,city Kyiv,21.267
 2021,city Sevastopol,26.241
 2022,Ukraine,4173.018
 2022,Autonomous Republic of Crimea,219.319
@@ -221,7 +221,7 @@ Year,Region,Value
 2022,Cherkasy,71.717
 2022,Chernivtsi,104.457
 2022,Chernihiv,251.23
-2022,the city of Kyiv,21.567
+2022,city Kyiv,21.567
 2022,city Sevastopol,26.241
 2023,Ukraine,4183.851
 2023,Autonomous Republic of Crimea,219.319
@@ -249,7 +249,7 @@ Year,Region,Value
 2023,Cherkasy,70.36
 2023,Chernivtsi,104.457
 2023,Chernihiv,251.443
-2023,the city of Kyiv,21.796
+2023,35_Kyiv_city,21.796
 2023,city Sevastopol,26.241
 2024,Ukraine,4188.05
 2024,Autonomous Republic of Crimea,219.319
@@ -277,5 +277,5 @@ Year,Region,Value
 2024,Cherkasy,70.482
 2024,Chernivtsi,104.457
 2024,Chernihiv,251.646
-2024,the city of Kyiv,21.774
+2024,city Kyiv,21.774
 2024,city Sevastopol,26.241

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "age_18_1",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
@@ -54,16 +54,17 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
+                "hh_ch_2",
+                "hh_ch_02",
                 "households/families without children",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Reason of disability",

@@ -27,7 +27,7 @@ Year,Region,Safety,Value
 2015,Cherkasy,,945.0
 2015,Chernivtsi,,438.0
 2015,Chernihiv,,826.0
-2015,the city of Kyiv,,556.0
+2015,city Kyiv,,556.0
 2015,city Sevastopol,,
 2016,,hazardous waste,15.0
 2016,,non-hazardous waste,6919.0
@@ -57,7 +57,7 @@ Year,Region,Safety,Value
 2016,Cherkasy,,986.0
 2016,Chernivtsi,,427.0
 2016,Chernihiv,,693.0
-2016,the city of Kyiv,,572.0
+2016,city Kyiv,,572.0
 2016,city Sevastopol,,
 2017,,hazardous waste,14.0
 2017,,non-hazardous waste,8602.0
@@ -87,7 +87,7 @@ Year,Region,Safety,Value
 2017,Cherkasy,,1057.0
 2017,Chernivtsi,,407.0
 2017,Chernihiv,,714.0
-2017,the city of Kyiv,,324.0
+2017,city Kyiv,,324.0
 2017,city Sevastopol,,
 2018,,hazardous waste,15.0
 2018,,non-hazardous waste,8602.0
@@ -117,7 +117,7 @@ Year,Region,Safety,Value
 2018,Cherkasy,,1224.0
 2018,Chernivtsi,,340.0
 2018,Chernihiv,,708.0
-2018,the city of Kyiv,,331.0
+2018,city Kyiv,,331.0
 2018,city Sevastopol,,
 2019,,hazardous waste,13.0
 2019,,non-hazardous waste,10492.0
@@ -147,7 +147,7 @@ Year,Region,Safety,Value
 2019,Cherkasy,,1050.0
 2019,Chernivtsi,,353.0
 2019,Chernihiv,,697.0
-2019,the city of Kyiv,,338.0
+2019,city Kyiv,,338.0
 2019,city Sevastopol,,
 2020,,hazardous waste,13.0
 2020,,non-hazardous waste,11061.0
@@ -177,7 +177,7 @@ Year,Region,Safety,Value
 2020,Cherkasy,,949.0
 2020,Chernivtsi,,232.0
 2020,Chernihiv,,506.0
-2020,the city of Kyiv,,1064.0
+2020,city Kyiv,,1064.0
 2020,city Sevastopol,,
 2021,,hazardous waste,15.0
 2021,,non-hazardous waste,11906.0
@@ -207,7 +207,7 @@ Year,Region,Safety,Value
 2021,Cherkasy,,1183.0
 2021,Chernivtsi,,204.0
 2021,Chernihiv,,609.0
-2021,the city of Kyiv,,491.0
+2021,35_Kyiv_city,,491.0
 2021,city Sevastopol,,
 2022,,hazardous waste,
 2022,,non-hazardous waste,
@@ -237,7 +237,7 @@ Year,Region,Safety,Value
 2022,Cherkasy,,
 2022,Chernivtsi,,
 2022,Chernihiv,,
-2022,the city of Kyiv,,
+2022,city Kyiv,,
 2022,city Sevastopol,,
 2023,,hazardous waste,
 2023,,non-hazardous waste,
@@ -267,7 +267,7 @@ Year,Region,Safety,Value
 2023,Cherkasy,,
 2023,Chernivtsi,,
 2023,Chernihiv,,
-2023,the city of Kyiv,,
+2023,city Kyiv,,
 2023,city Sevastopol,,
 2024,,hazardous waste,
 2024,,non-hazardous waste,
@@ -297,5 +297,5 @@ Year,Region,Safety,Value
 2024,Cherkasy,,
 2024,Chernivtsi,,
 2024,Chernihiv,,
-2024,the city of Kyiv,,
+2024,city Kyiv,,
 2024,city Sevastopol,,

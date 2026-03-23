@@ -48,16 +48,16 @@
             "title": "Decile groups of income"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Value",

@@ -4,9 +4,11 @@ age_vac_7_adult,1,1
 boys,3,3
 children,1,1
 female,10,10
-females,49,28
+females,45,24
+females_1,5,5
 girls,3,3
 male,10,10
-males,49,28
+males,44,23
+males_1,5,5
 men,51,10
 women,51,10

@@ -16,7 +16,7 @@
             "title": "Рік"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "за приморськими областями в цілому"
+            "title": "Coastal regions"
           },
           {
             "name": "Value",

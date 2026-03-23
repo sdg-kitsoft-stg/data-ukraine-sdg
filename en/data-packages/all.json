@@ -3173,7 +3173,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -4523,7 +4523,7 @@
             "title": "Year"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4531,7 +4531,7 @@
                 ""
               ]
             },
-            "title": "Overall for coastal oblasts"
+            "title": "Coastal regions"
           },
           {
             "name": "Value",
@@ -4644,7 +4644,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "age_18_1",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -4658,8 +4658,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
@@ -4678,16 +4678,17 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
+                "hh_ch_2",
+                "hh_ch_02",
                 "households/families without children",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Reason of disability",
@@ -5634,7 +5635,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "age_18_1",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -5648,24 +5649,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Type of residence",
@@ -5952,7 +5953,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "age_18_1",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -5966,8 +5967,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
@@ -5986,16 +5987,16 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Value",
@@ -9048,8 +9049,9 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
+                "35_Kyiv_city",
                 ""
               ]
             },
@@ -9903,7 +9905,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "age_18_1",
                 "18-34 years",
                 "35-59 years",
                 "60 years and older",
@@ -9917,8 +9919,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             },
@@ -9937,16 +9939,16 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Value",
@@ -11800,8 +11802,9 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
+                "35_Kyiv_city",
                 ""
               ]
             },
@@ -13018,33 +13021,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
                 "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
                 "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
                 "Mykolayiv",
                 "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
                 "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14080,8 +14062,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "females_1",
                 "women",
-                "men",
+                "males_1",
                 ""
               ]
             },
@@ -14100,16 +14083,16 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Value",
@@ -15621,7 +15604,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16030,16 +16013,16 @@
             "title": "Decile groups of income"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "households/families with children",
-                "households/families without children",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             },
-            "title": "Household type"
+            "title": "Households_1"
           },
           {
             "name": "Value",
@@ -16841,7 +16824,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -18072,7 +18055,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -18486,7 +18469,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -18512,7 +18494,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]

@@ -2984,7 +2984,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -4230,7 +4230,7 @@
             "type": "integer"
           },
           {
-            "name": "group_label_92",
+            "name": "Coastal regions",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4341,7 +4341,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -4354,8 +4354,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -4372,11 +4372,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
+                "hh_ch_2",
+                "hh_ch_02",
                 "hh_ch_0",
                 ""
               ]
@@ -5252,7 +5253,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -5265,19 +5266,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -5545,7 +5546,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -5558,8 +5559,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -5576,12 +5577,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -8464,8 +8465,9 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
+                "35_Kyiv_city",
                 ""
               ]
             }
@@ -9260,7 +9262,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_1",
                 "age_18_34",
                 "age_35_59",
                 "age_60",
@@ -9273,8 +9275,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -9291,12 +9293,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -11011,8 +11013,9 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
+                "35_Kyiv_city",
                 ""
               ]
             }
@@ -12152,33 +12155,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "autonomous_Republic_of_Crimea",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
                 "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
                 "23_reg_Mykolayiv",
                 "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
                 "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -13147,8 +13129,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "females_1",
                 "females",
-                "males",
+                "males_1",
                 ""
               ]
             }
@@ -13165,12 +13148,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -14586,7 +14569,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -14967,12 +14950,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch",
-                "hh_ch_0",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -15721,7 +15704,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -16869,7 +16852,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -17249,7 +17232,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -17275,7 +17257,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
