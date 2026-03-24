@@ -355,7 +355,7 @@ dg_10: 10th group (high income)
 32_reg_Cherkasy: Cherkasy
 33_reg_Chernivtsi: Chernivtsi
 34_reg_Chernihiv: Chernihiv
-35_reg_Kyiv_city: city Kyiv
+35_reg_Kyiv_city: the city of Kyiv
 autonomous_Republic_of_Crimea: Autonomous Republic of Crimea
 city_Sevastopol: city Sevastopol
 Kyiv_city: city Kyiv
@@ -491,7 +491,7 @@ state_source: from the state budget
 individuals_legal: funds of individuals and legal entities
 direct_obstetric_causes: directly related to obstetric causes
 indirect_obstetric_causes: indirectly related to obstetric causes
-Land purpose: by land purpose
+Land purpose: Land purpose
 arable_land: arable land
 outpatient: outpatient
 stationary: stationary
@@ -1281,7 +1281,7 @@ hazardous_waste: hazardous waste
 non_hazardous_waste: non-hazardous waste
 By safety: Safety
 Organisation and legal forms: by the organisational and legal forms
-Type of economic activity: by types of economic activity
+Type of economic activity: Types of economic activity
 accounting_bookkeeping_and_auditing_activities_tax_consultancy: accounting, bookkeeping and auditing activities; tax consultancy
 activities_in_the_field_of_compulsory_social_insurance: activities in the field of compulsory social insurance
 activities_in_the_field_of_defense: activities in the field of defense
@@ -1911,11 +1911,11 @@ social_insurance_funds: Social insurance funds
 state_joint_stock_company_company: State joint stock company (company)
 state_run_enterprise: State-run enterprise
 state_run_organisation_establishment_institution: State-run organisation (establishment, institution)
-WaterType: By type of indicators
+WaterType: Types of indicators
 microbiological: microbiological indicators
-sanitary_chemical: sanitary and chemical indicators
+sanitary_chemical: sanitary-chemical indicators
 radiation: radiation indicators
-SupplyType: Type of water supply
+SupplyType: Types of water supply
 urban_pipelines: urban water pipelines
 rural_pipelines: rural water pipelines
 centralized_1: centralized water supply
@@ -2848,7 +2848,7 @@ Wage replacement rate by pensions: Wage replacement rate by pensions
 relative_to_0_5_average_wage: relative to 0.5 average wage
 relative_to_full_average_wage: relative to full average wage
 relative_to_1_5_average_wage: relative to 1.5 average wage
-PopulationGroup: Population Group
+PopulationGroup: Population type
 urban_population: urban population
 rural_population: rural population
 By river basins: River basins
@@ -3025,7 +3025,7 @@ group_34: Type of place of residence (age 15-24)
 group_35: Gender (age 15-34)
 group_36: Type of place of residence (age 15-34)
 by_territorial_automated_centralized_warning_systems: by territorial automated centralized warning systems
-energy_water_utilities: energy water utilities
+energy_water_utilities: production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity
 tourism_recreation_culture_sport: tourism, leisure, recreation, culture and sport
 waste_management_excl_collection_transport: waste management, except collection and transportation
 suspended_due_to_war: suspended due to the armed aggression of the russian federation
@@ -3061,3 +3061,20 @@ group_label_153: European catfish
 group_label_154: Taranya (common gossip)
 group_label_155: Chekhonia
 group_label_156: Common pike
+Spheres: Spheres
+Status_1: Status of execution
+transport_infrastructure: construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure
+healthcare: health care
+implemented: implemented
+not_implemented: not implemented
+18_oil_1: sunflower oil
+corn: corn
+barley: barley
+wheat: wheat
+reasons_ land: Reasons of land returned to cultivation
+reasons_1: reasons
+centralized: centralized water supply
+SupplyType_1: Methods of supplying drinking water
+Centralized_1: centralized water supply
+Non-centralized_1: non-centralized water supply
+age_groups: age groups

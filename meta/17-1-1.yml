@@ -1,9 +1,9 @@
 SDG_GOAL: 17 Partnership for sustainable development
 SDG_TARGET: 17.1 Attracting additional financial resources for recovery from the consequences of the armed aggression of the Russian Federation against Ukraine and modernization of the state
 SDG_INDICATOR: 17.1.1 Volume of private remittances to Ukraine, percent of the gross domestic product
-UNIT_MEASURE: "Percent of the gross domestic product"
-CONTACT_ORGANISATION: "National Bank of Ukraine"
-REC_USE_LIM: 2024 - Data for 2024 − 31.01.2026.
+UNIT_MEASURE: Percent of the gross domestic product
+CONTACT_ORGANISATION: National Bank of Ukraine
+REC_USE_LIM: '2024: Data for 2024 – 31.01.2026.'
 footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: 'increase by 5 percent every 3 years'
+- label: Target value of the indicator for 2030
+  value: increase by 5 percent

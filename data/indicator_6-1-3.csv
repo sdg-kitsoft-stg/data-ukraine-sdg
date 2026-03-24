@@ -1,4 +1,4 @@
-﻿Year,Region,Value
+Year,Region,Value
 2015,Ukraine,34.0
 2015,autonomous_Republic_of_Crimea,
 2015,11_reg_Vinnytsya,28.5
@@ -25,7 +25,7 @@
 2015,32_reg_Cherkasy,18.7
 2015,33_reg_Chernivtsi,28.7
 2015,34_reg_Chernihiv,25.5
-2015,35_reg_Kyiv_city,41.4
+Kyiv_city,41.4
 2015,city_Sevastopol,
 2016,Ukraine,35.3
 2016,autonomous_Republic_of_Crimea,
@@ -53,7 +53,7 @@
 2016,32_reg_Cherkasy,30.1
 2016,33_reg_Chernivtsi,28.1
 2016,34_reg_Chernihiv,34.9
-2016,35_reg_Kyiv_city,42.5
+Kyiv_city,42.5
 2016,city_Sevastopol,
 2017,Ukraine,34.9
 2017,autonomous_Republic_of_Crimea,
@@ -81,7 +81,7 @@
 2017,32_reg_Cherkasy,29.0
 2017,33_reg_Chernivtsi,27.8
 2017,34_reg_Chernihiv,33.7
-2017,35_reg_Kyiv_city,43.5
+Kyiv_city,43.5
 2017,city_Sevastopol,
 2018,Ukraine,33.3
 2018,autonomous_Republic_of_Crimea,
@@ -109,7 +109,7 @@
 2018,32_reg_Cherkasy,29.5
 2018,33_reg_Chernivtsi,27.6
 2018,34_reg_Chernihiv,34.0
-2018,35_reg_Kyiv_city,44.5
+Kyiv_city,44.5
 2018,city_Sevastopol,
 2019,Ukraine,38.3
 2019,autonomous_Republic_of_Crimea,
@@ -137,7 +137,7 @@
 2019,32_reg_Cherkasy,28.1
 2019,33_reg_Chernivtsi,27.4
 2019,34_reg_Chernihiv,37.3
-2019,35_reg_Kyiv_city,45.8
+Kyiv_city,45.8
 2019,city_Sevastopol,
 2020,Ukraine,38.2
 2020,autonomous_Republic_of_Crimea,
@@ -165,7 +165,7 @@
 2020,32_reg_Cherkasy,33.2
 2020,33_reg_Chernivtsi,27.3
 2020,34_reg_Chernihiv,37.3
-2020,35_reg_Kyiv_city,46.5
+Kyiv_city,46.5
 2020,city_Sevastopol,
 2021,Ukraine,33.0
 2021,autonomous_Republic_of_Crimea,
@@ -193,7 +193,7 @@
 2021,32_reg_Cherkasy,33.2
 2021,33_reg_Chernivtsi,26.7
 2021,34_reg_Chernihiv,42.3
-2021,35_reg_Kyiv_city,47.3
+Kyiv_city,47.3
 2021,city_Sevastopol,
 2022,Ukraine,34.8
 2022,autonomous_Republic_of_Crimea,
@@ -221,7 +221,7 @@
 2022,32_reg_Cherkasy,37.8
 2022,33_reg_Chernivtsi,24.5
 2022,34_reg_Chernihiv,42.9
-2022,35_reg_Kyiv_city,48.1
+Kyiv_city,48.1
 2022,city_Sevastopol,
 2023,Ukraine,36.5
 2023,autonomous_Republic_of_Crimea,
@@ -249,5 +249,5 @@
 2023,32_reg_Cherkasy,36.5
 2023,33_reg_Chernivtsi,21.7
 2023,34_reg_Chernihiv,41.5
-2023,35_reg_Kyiv_city,49.7
+Kyiv_city,49.7
 2023,city_Sevastopol,

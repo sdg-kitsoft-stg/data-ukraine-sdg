@@ -1,6 +1,6 @@
 SDG_GOAL: 17 Partnership for sustainable development
 SDG_TARGET: 17.2 Ensuring the development of partnerships between government and business to achieve the Sustainable Development Goals
 SDG_INDICATOR: 17.2.1 Number of public-private partnership projects, units
-UNIT_MEASURE: "Units"
-CONTACT_ORGANISATION: "Ministry of Economy, Environment and Agriculture of Ukraine"
-REC_USE_LIM: "Until 2020, the Ministry of Economy did not hold information on the number of concluded concession agreements, the status of their implementation and areas (The Register of Concession Agreements was transferred by the State Property Fund of Ukraine to the Ministry of Economic Development, Trade and Agriculture of Ukraine at the end of 2019 in accordance with paragraph 8 of Section XII \"Final and Transitional Provisions\" of the Law of Ukraine dated 03.10.2019 No. 155-ИХ \"On Concession\")."
+UNIT_MEASURE: Units
+CONTACT_ORGANISATION: Ministry of Economy, Environment and Agriculture of Ukraine
+REC_USE_LIM: 'Spheres, status of execution: Until 2020, the Ministry of Economy did not hold information on the number of concluded concession agreements, the status of their implementation and areas (The Register of Concession Agreements was transferred by the State Property Fund of Ukraine to the Ministry of Economic Development, Trade and Agriculture of Ukraine at the end of 2019 in accordance with paragraph 8 of Section XII "Final and Transitional Provisions" of the Law of Ukraine dated 03.10.2019 No. 155-IХ "On Concession").'

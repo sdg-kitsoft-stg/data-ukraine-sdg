@@ -1,6 +1,6 @@
 SDG_GOAL: 2 End hunger, promote sustainable agriculture
 SDG_TARGET: 2.2 Increasing agricultural productivity
 SDG_INDICATOR: 2.2.2 Agricultural production index, percent
-UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: 'Note: аgricultural production indices for 2015–2022 have been revised due to the introduction of the reference/base year 2021. <br>2022-2024 - Data can be updated.'
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 'Note: аgricultural production indices for 2015–2022 have been revised due to the introduction of the reference/base year 2021. <br> 2022–2024: Data can be updated.'
