@@ -1,5 +1,5 @@
 Year,Region,Age,Gender,Type of place of residence,education,Employment status,Income level,Displacement status,Value
-2015,,men 18–35 years ,,,,,,,
+2015,,men 18–35 years,,,,,,,
 2015,,men 36–59 years,,,,,,,
 2015,,men 60 years and older,,,,,,,
 2015,,women 18–35 years,,,,,,,
@@ -55,7 +55,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2015,Chernihiv,,,,,,,,
 2015,the city of Kyiv,,,,,,,,
 2015,city Sevastopol,,,,,,,,
-2016,,men 18–35 years ,,,,,,,
+2016,,men 18–35 years,,,,,,,
 2016,,men 36–59 years,,,,,,,
 2016,,men 60 years and older,,,,,,,
 2016,,women 18–35 years,,,,,,,
@@ -111,7 +111,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2016,Chernihiv,,,,,,,,
 2016,the city of Kyiv,,,,,,,,
 2016,city Sevastopol,,,,,,,,
-2017,,men 18–35 years ,,,,,,,
+2017,,men 18–35 years,,,,,,,
 2017,,men 36–59 years,,,,,,,
 2017,,men 60 years and older,,,,,,,
 2017,,women 18–35 years,,,,,,,
@@ -167,7 +167,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2017,Chernihiv,,,,,,,,
 2017,the city of Kyiv,,,,,,,,
 2017,city Sevastopol,,,,,,,,
-2018,,men 18–35 years ,,,,,,,
+2018,,men 18–35 years,,,,,,,
 2018,,men 36–59 years,,,,,,,
 2018,,men 60 years and older,,,,,,,
 2018,,women 18–35 years,,,,,,,
@@ -223,7 +223,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2018,Chernihiv,,,,,,,,
 2018,the city of Kyiv,,,,,,,,
 2018,city Sevastopol,,,,,,,,
-2019,,men 18–35 years ,,,,,,,
+2019,,men 18–35 years,,,,,,,
 2019,,men 36–59 years,,,,,,,
 2019,,men 60 years and older,,,,,,,
 2019,,women 18–35 years,,,,,,,
@@ -279,7 +279,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2019,Chernihiv,,,,,,,,
 2019,the city of Kyiv,,,,,,,,
 2019,city Sevastopol,,,,,,,,
-2020,,men 18–35 years ,,,,,,,
+2020,,men 18–35 years,,,,,,,
 2020,,men 36–59 years,,,,,,,
 2020,,men 60 years and older,,,,,,,
 2020,,women 18–35 years,,,,,,,
@@ -335,7 +335,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2020,Chernihiv,,,,,,,,
 2020,the city of Kyiv,,,,,,,,
 2020,city Sevastopol,,,,,,,,
-2021,,men 18–35 years ,,,,,,,5.9
+2021,,men 18–35 years,,,,,,,5.9
 2021,,men 36–59 years,,,,,,,5.6
 2021,,men 60 years and older,,,,,,,5.2
 2021,,women 18–35 years,,,,,,,5.9
@@ -391,7 +391,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2021,Chernihiv,,,,,,,,4.6
 2021,the city of Kyiv,,,,,,,,6.5
 2021,city Sevastopol,,,,,,,,
-2022,,men 18–35 years ,,,,,,,
+2022,,men 18–35 years,,,,,,,
 2022,,men 36–59 years,,,,,,,
 2022,,men 60 years and older,,,,,,,
 2022,,women 18–35 years,,,,,,,
@@ -447,7 +447,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2022,Chernihiv,,,,,,,,
 2022,the city of Kyiv,,,,,,,,
 2022,city Sevastopol,,,,,,,,
-2023,,men 18–35 years ,,,,,,,6.0
+2023,,men 18–35 years,,,,,,,6.0
 2023,,men 36–59 years,,,,,,,5.9
 2023,,men 60 years and older,,,,,,,5.4
 2023,,women 18–35 years,,,,,,,6.1
@@ -503,7 +503,7 @@ Year,Region,Age,Gender,Type of place of residence,education,Employment status,In
 2023,Chernihiv,,,,,,,,6.1
 2023,the city of Kyiv,,,,,,,,6.1
 2023,city Sevastopol,,,,,,,,
-2024,,men 18–35 years ,,,,,,,5.6
+2024,,men 18–35 years,,,,,,,5.6
 2024,,men 36–59 years,,,,,,,5.6
 2024,,men 60 years and older,,,,,,,5.1
 2024,,women 18–35 years,,,,,,,5.7

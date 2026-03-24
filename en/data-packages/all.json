@@ -2492,7 +2492,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -4527,7 +4527,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Overall for coastal oblasts",
+                "by coastal regions as a whole",
                 ""
               ]
             },
@@ -4644,9 +4644,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18_1",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -4658,8 +4658,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -4682,13 +4682,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_2",
-                "hh_ch_02",
+                "households/families with children",
+                "households/families without children",
                 "households/families without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Reason of disability",
@@ -5635,9 +5635,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18_1",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -5649,8 +5649,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -5661,12 +5661,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Type of residence",
@@ -5953,9 +5953,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18_1",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -5967,8 +5967,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -5991,12 +5991,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -7388,8 +7388,8 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -7654,7 +7654,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",
@@ -9905,9 +9905,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18_1",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -9919,8 +9919,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -9943,12 +9943,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -10750,14 +10750,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zakarpattia Oblast",
-                "Ivano-Frankivsk Oblast",
-                "Lviv Oblast",
-                "Chernivtsi Oblast",
+                "Zakarpattya region",
+                "Ivano-Frankivsk region",
+                "Lviv region",
+                "Chernivtsi region",
                 ""
               ]
             },
-            "title": "Mountain region"
+            "title": "Mountainous region"
           },
           {
             "name": "Value",
@@ -11939,7 +11939,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men 18–35 years ",
+                "men 18–35 years",
                 "men 36–59 years",
                 "men 60 years and older",
                 "women 18–35 years",
@@ -12815,25 +12815,25 @@
             "constraints": {
               "enum": [
                 "Azov turbot",
-                "Artemia salina (brine shrimp)",
+                "Artemia salina (crustaceans)",
                 "Artemia salina (eggs)",
-                "Goby fish",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Eelgrass (Zostera)",
+                "Glossa",
+                "Zostera",
                 "Shrimp",
-                "Noah's ark shell (Scapharca)",
+                "Cuniarca (scafarka)",
                 "Bream",
                 "Mussel",
-                "Bloodworm (chironomid larvae)",
+                "Motil (chironomid larvae)",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "Roach",
+                "Pilengas",
+                "Gossip",
                 "Rapana",
-                "Nase",
-                "Zander (pike-perch)",
-                "Common sprat",
-                "Anchovy (Azov)",
+                "Rybets",
+                "Common pikeperch",
+                "Common tulka",
+                "Azov hamsa",
                 ""
               ]
             },
@@ -12844,28 +12844,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "Red mullet",
-                "Goby fish",
+                "Sandy atherina",
+                "Barbula",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Black Sea garfish",
+                "Glossa",
+                "Gostronis",
                 "Black Sea sprat",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "Whiting",
+                "loban",
+                "Merlang",
                 "Mussel",
-                "Thornback ray",
-                "Common stingray",
+                "Sea fox",
+                "Sea cat",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
+                "Pilengas",
                 "Rapana",
-                "Garfish",
-                "Golden grey mullet (singil)",
+                "Common sargan",
+                "Singil",
                 "Horse mackerel",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "Cystoseira",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Cystosira",
                 "Black Sea turbot",
                 ""
               ]
@@ -12877,120 +12877,120 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "group_label_139",
-                "group_label_140",
-                "group_label_141",
-                "group_label_142",
-                "group_label_143",
-                "group_label_144",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Common rudd",
+                "European chub",
+                "Silver crucian carp",
+                "Redfin",
+                "Tench fish",
                 "Bream",
-                "group_label_145",
-                "group_label_146",
+                "Common perch",
+                "Sun perch",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "group_label_147",
-                "group_label_148",
-                "group_label_149",
-                "group_label_150",
-                "group_label_151",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "group_label_155",
-                "group_label_156",
+                "Pilengas",
+                "Flatfish",
+                "Buzanok",
+                "Narrow-toed crayfish",
+                "Common carp",
+                "Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Chekhonia",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Dnipro–Buh estuarine system"
+            "title": "Dnieper–Bug estuarine system"
           },
           {
             "name": "group_5",
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_138",
-                "group_label_139",
-                "group_label_142",
-                "group_label_143",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Silver crucian carp",
+                "Redfin",
                 "Bream",
-                "group_label_145",
+                "Common perch",
                 "Black Sea herring",
-                "group_label_147",
+                "Flatfish",
                 "Crayfish",
                 "Herbivorous fish (silver carp, bighead carp, their hybrid)",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "group_label_156",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Lower Dniester with lakes and the Dniester Estuary (Liman)"
+            "title": "Lower Dniester with lakes and the Dniester Estuary"
           },
           {
             "name": "group_6",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Tuzly Lagoons group"
+            "title": "Tuzlov group of estuaries"
           },
           {
             "name": "group_7",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Budak (Shabolat) Lagoon"
+            "title": "Budatsky (Shabolatsky) estuary"
           },
           {
             "name": "group_8",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
-                "Zander (pike-perch)",
+                "loban",
+                "Pilengas",
+                "Singil",
+                "Common pikeperch",
                 ""
               ]
             },
-            "title": "Berezan Estuary (Liman)"
+            "title": "Berezansky estuary"
           },
           {
             "name": "group_9",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
+                "loban",
+                "Pilengas",
+                "Singil",
                 ""
               ]
             },
-            "title": "Tyligul Estuary (Liman)"
+            "title": "Tyligul estuary"
           },
           {
             "name": "Value",
@@ -13043,7 +13043,7 @@
                 ""
               ]
             },
-            "title": "By sea"
+            "title": "Seas"
           },
           {
             "name": "Value",
@@ -13758,7 +13758,7 @@
                 ""
               ]
             },
-            "title": "Concentration of major pollutants in seawater by substance, milligrams per cubic meter"
+            "title": "Substances"
           },
           {
             "name": "Value",
@@ -13859,21 +13859,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Phosphate phosphorus",
-                "Total phosphorus",
-                "Nitrate nitrogen",
-                "Nitrite nitrogen",
-                "Ammonium nitrogen",
-                "Dissolved mineral nitrogen",
-                "Total nitrogen",
-                "Chlorophyll-a",
-                "Transparency",
-                "Dissolved oxygen",
-                "Biochemical oxygen demand (5-day BOD)",
+                "phosphate phosphorus",
+                "total phosphorus",
+                "nitrate nitrogen",
+                "nitrite nitrogen",
+                "ammonium nitrogen",
+                "dissolved mineral nitrogen",
+                "total nitrogen",
+                "chlorophyll-a",
+                "transparency",
+                "dissolved oxygen",
+                "biochemical oxygen consumption in five days",
                 ""
               ]
             },
-            "title": "Water quality indicator (milligrams per cubic decimeter) by components, percent"
+            "title": "Components of water quality indicator"
           },
           {
             "name": "Value",
@@ -14062,9 +14062,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
                 "women",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -14087,12 +14087,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -14835,7 +14835,7 @@
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
                 "Accommodation and food service activities",
-                "Information and telecommunications ",
+                "Information and telecommunications",
                 "Financial and insurance activities",
                 "Real estate activities",
                 "Professional, scientific and technical activities",
@@ -15149,7 +15149,7 @@
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
                 "Transportation and storage; postal and courier activities",
                 "Accommodation and food service activities",
-                "Information and telecommunications ",
+                "Information and telecommunications",
                 "Financial and insurance activities",
                 "Real estate activities",
                 "Professional, scientific and technical activities",
@@ -15386,8 +15386,8 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -16017,12 +16017,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Value",
@@ -16141,7 +16141,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men 18–35 years ",
+                "men 18–35 years",
                 "men 36–59 years",
                 "men 60 years and older",
                 "women 18–35 years",
@@ -17066,14 +17066,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zakarpattia Oblast",
-                "Ivano-Frankivsk Oblast",
-                "Lviv Oblast",
-                "Chernivtsi Oblast",
+                "Zakarpattya region",
+                "Ivano-Frankivsk region",
+                "Lviv region",
+                "Chernivtsi region",
                 ""
               ]
             },
-            "title": "Mountain region"
+            "title": "Mountainous region"
           },
           {
             "name": "Value",
@@ -19809,7 +19809,7 @@
                 "sawmilling and planing of wood",
                 "manufacture of veneer sheets and wood-based panels",
                 "manufacture of assembled parquet floors",
-                "manufacture of other builders' carpentry and joinery",
+                "manufacture of other builders\\' carpentry and joinery",
                 "manufacture of wooden containers",
                 "manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
                 "manufacture of pulp",

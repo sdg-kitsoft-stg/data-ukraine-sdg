@@ -21,25 +21,25 @@
             "constraints": {
               "enum": [
                 "Azov turbot",
-                "Artemia salina (brine shrimp)",
+                "Artemia salina (crustaceans)",
                 "Artemia salina (eggs)",
-                "Goby fish",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Eelgrass (Zostera)",
+                "Glossa",
+                "Zostera",
                 "Shrimp",
-                "Noah's ark shell (Scapharca)",
+                "Cuniarca (scafarka)",
                 "Bream",
                 "Mussel",
-                "Bloodworm (chironomid larvae)",
+                "Motil (chironomid larvae)",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "Roach",
+                "Pilengas",
+                "Gossip",
                 "Rapana",
-                "Nase",
-                "Zander (pike-perch)",
-                "Common sprat",
-                "Anchovy (Azov)",
+                "Rybets",
+                "Common pikeperch",
+                "Common tulka",
+                "Azov hamsa",
                 ""
               ]
             },
@@ -50,28 +50,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "Red mullet",
-                "Goby fish",
+                "Sandy atherina",
+                "Barbula",
+                "Gobies",
                 "Gammarids",
-                "Flounder (glossa)",
-                "Black Sea garfish",
+                "Glossa",
+                "Gostronis",
                 "Black Sea sprat",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "Whiting",
+                "loban",
+                "Merlang",
                 "Mussel",
-                "Thornback ray",
-                "Common stingray",
+                "Sea fox",
+                "Sea cat",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
+                "Pilengas",
                 "Rapana",
-                "Garfish",
-                "Golden grey mullet (singil)",
+                "Common sargan",
+                "Singil",
                 "Horse mackerel",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "Cystoseira",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Cystosira",
                 "Black Sea turbot",
                 ""
               ]
@@ -83,120 +83,120 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "group_label_139",
-                "group_label_140",
-                "group_label_141",
-                "group_label_142",
-                "group_label_143",
-                "group_label_144",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Common rudd",
+                "European chub",
+                "Silver crucian carp",
+                "Redfin",
+                "Tench fish",
                 "Bream",
-                "group_label_145",
-                "group_label_146",
+                "Common perch",
+                "Sun perch",
                 "Black Sea herring",
-                "So-iuy mullet (pilengas)",
-                "group_label_147",
-                "group_label_148",
-                "group_label_149",
-                "group_label_150",
-                "group_label_151",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "Common sprat",
-                "Anchovy (Black Sea)",
-                "group_label_155",
-                "group_label_156",
+                "Pilengas",
+                "Flatfish",
+                "Buzanok",
+                "Narrow-toed crayfish",
+                "Common carp",
+                "Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common tulka",
+                "Black Sea hamsa",
+                "Chekhonia",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Dnipro–Buh estuarine system"
+            "title": "Dnieper–Bug estuarine system"
           },
           {
             "name": "group_5",
             "type": "string",
             "constraints": {
               "enum": [
-                "group_label_138",
-                "group_label_139",
-                "group_label_142",
-                "group_label_143",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Common whiteness",
+                "Silver crucian carp",
+                "Redfin",
                 "Bream",
-                "group_label_145",
+                "Common perch",
                 "Black Sea herring",
-                "group_label_147",
+                "Flatfish",
                 "Crayfish",
                 "Herbivorous fish (silver carp, bighead carp, their hybrid)",
-                "group_label_152",
-                "group_label_153",
-                "Zander (pike-perch)",
-                "group_label_154",
-                "group_label_156",
+                "Sazan",
+                "European catfish",
+                "Common pikeperch",
+                "Taranya (common gossip)",
+                "Common pike",
                 ""
               ]
             },
-            "title": "Lower Dniester with lakes and the Dniester Estuary (Liman)"
+            "title": "Lower Dniester with lakes and the Dniester Estuary"
           },
           {
             "name": "group_6",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Tuzly Lagoons group"
+            "title": "Tuzlov group of estuaries"
           },
           {
             "name": "group_7",
             "type": "string",
             "constraints": {
               "enum": [
-                "European flounder (glossa)",
+                "Flounder-glossa",
                 ""
               ]
             },
-            "title": "Budak (Shabolat) Lagoon"
+            "title": "Budatsky (Shabolatsky) estuary"
           },
           {
             "name": "group_8",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
-                "Zander (pike-perch)",
+                "loban",
+                "Pilengas",
+                "Singil",
+                "Common pikeperch",
                 ""
               ]
             },
-            "title": "Berezan Estuary (Liman)"
+            "title": "Berezansky estuary"
           },
           {
             "name": "group_9",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sand smelt (Atherina)",
-                "group_label_138",
-                "European flounder (glossa)",
-                "Black Sea garfish",
+                "Sandy atherina",
+                "Gobies (except for species listed in the Red Book of Ukraine)",
+                "Glos",
+                "Gostronis",
                 "Shrimp",
-                "Flathead grey mullet (loban)",
-                "So-iuy mullet (pilengas)",
-                "Golden grey mullet (singil)",
+                "loban",
+                "Pilengas",
+                "Singil",
                 ""
               ]
             },
-            "title": "Tyligul Estuary (Liman)"
+            "title": "Tyligul estuary"
           },
           {
             "name": "Value",

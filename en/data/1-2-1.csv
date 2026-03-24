@@ -1,4 +1,4 @@
-Year,Age,Sex,Type of residence,Households_1,Value
+Year,Age,Sex,Type of residence,Household type,Value
 2015,,,,,63.0
 2016,,,,,70.3
 2017,,,,,73.6
@@ -9,36 +9,36 @@ Year,Age,Sex,Type of residence,Households_1,Value
 2022,,,,,
 2023,,,,,
 2024,,,,,
-2015,age_18_1,,,,66.7
-2016,age_18_1,,,,71.8
-2017,age_18_1,,,,78.4
-2018,age_18_1,,,,75.7
-2019,age_18_1,,,,59.7
-2020,age_18_1,,,,85.1
-2021,age_18_1,,,,56.9
-2022,age_18_1,,,,
-2023,age_18_1,,,,
-2024,age_18_1,,,,
-2015,18-34 years,,,,63.4
-2016,18-34 years,,,,73.4
-2017,18-34 years,,,,74.8
-2018,18-34 years,,,,72.7
-2019,18-34 years,,,,57.0
-2020,18-34 years,,,,52.2
-2021,18-34 years,,,,54.1
-2022,18-34 years,,,,
-2023,18-34 years,,,,
-2024,18-34 years,,,,
-2015,35-59 years,,,,58.6
-2016,35-59 years,,,,71.6
-2017,35-59 years,,,,72.4
-2018,35-59 years,,,,68.8
-2019,35-59 years,,,,52.7
-2020,35-59 years,,,,46.7
-2021,35-59 years,,,,48.9
-2022,35-59 years,,,,
-2023,35-59 years,,,,
-2024,35-59 years,,,,
+2015,up to 18 years,,,,66.7
+2016,up to 18 years,,,,71.8
+2017,up to 18 years,,,,78.4
+2018,up to 18 years,,,,75.7
+2019,up to 18 years,,,,59.7
+2020,up to 18 years,,,,85.1
+2021,up to 18 years,,,,56.9
+2022,up to 18 years,,,,
+2023,up to 18 years,,,,
+2024,up to 18 years,,,,
+2015,18–34 years,,,,63.4
+2016,18–34 years,,,,73.4
+2017,18–34 years,,,,74.8
+2018,18–34 years,,,,72.7
+2019,18–34 years,,,,57.0
+2020,18–34 years,,,,52.2
+2021,18–34 years,,,,54.1
+2022,18–34 years,,,,
+2023,18–34 years,,,,
+2024,18–34 years,,,,
+2015,35–59 years,,,,58.6
+2016,35–59 years,,,,71.6
+2017,35–59 years,,,,72.4
+2018,35–59 years,,,,68.8
+2019,35–59 years,,,,52.7
+2020,35–59 years,,,,46.7
+2021,35–59 years,,,,48.9
+2022,35–59 years,,,,
+2023,35–59 years,,,,
+2024,35–59 years,,,,
 2015,60 years and older,,,,77.9
 2016,60 years and older,,,,71.1
 2017,60 years and older,,,,77.8
@@ -49,26 +49,26 @@ Year,Age,Sex,Type of residence,Households_1,Value
 2022,60 years and older,,,,
 2023,60 years and older,,,,
 2024,60 years and older,,,,
-2015,,females_1,,,63.3
-2016,,females_1,,,71.2
-2017,,females_1,,,74.3
-2018,,females_1,,,72.4
-2019,,females_1,,,57.8
-2020,,females_1,,,55.8
-2021,,females_1,,,54.3
-2022,,females_1,,,
-2023,,females_1,,,
-2024,,females_1,,,
-2015,,males_1,,,62.5
-2016,,males_1,,,71.5
-2017,,males_1,,,73.2
-2018,,males_1,,,71.4
-2019,,males_1,,,56.4
-2020,,males_1,,,54.0
-2021,,males_1,,,52.2
-2022,,males_1,,,
-2023,,males_1,,,
-2024,,males_1,,,
+2015,,women,,,63.3
+2016,,women,,,71.2
+2017,,women,,,74.3
+2018,,women,,,72.4
+2019,,women,,,57.8
+2020,,women,,,55.8
+2021,,women,,,54.3
+2022,,women,,,
+2023,,women,,,
+2024,,women,,,
+2015,,men,,,62.5
+2016,,men,,,71.5
+2017,,men,,,73.2
+2018,,men,,,71.4
+2019,,men,,,56.4
+2020,,men,,,54.0
+2021,,men,,,52.2
+2022,,men,,,
+2023,,men,,,
+2024,,men,,,
 2015,,,urban,,63.3
 2016,,,urban,,72.5
 2017,,,urban,,76.8
@@ -89,23 +89,23 @@ Year,Age,Sex,Type of residence,Households_1,Value
 2022,,,rural,,
 2023,,,rural,,
 2024,,,rural,,
-2015,,,,hh_ch_1,66.7
-2016,,,,hh_ch_1,74.4
-2017,,,,hh_ch_1,78.4
-2018,,,,hh_ch_1,75.7
-2019,,,,hh_ch_1,59.7
-2020,,,,hh_ch_1,58.0
-2021,,,,hh_ch_1,56.9
-2022,,,,hh_ch_1,
-2023,,,,hh_ch_1,
-2024,,,,hh_ch_1,
-2015,,,,hh_ch_01,57.2
-2016,,,,hh_ch_01,64.3
-2017,,,,hh_ch_01,65.5
-2018,,,,hh_ch_01,66.1
-2019,,,,hh_ch_01,53.7
-2020,,,,hh_ch_01,51.4
-2021,,,,hh_ch_01,48.7
-2022,,,,hh_ch_01,
-2023,,,,hh_ch_01,
-2024,,,,hh_ch_01,
+2015,,,,households with children,66.7
+2016,,,,households with children,74.4
+2017,,,,households with children,78.4
+2018,,,,households with children,75.7
+2019,,,,households with children,59.7
+2020,,,,households with children,58.0
+2021,,,,households with children,56.9
+2022,,,,households with children,
+2023,,,,households with children,
+2024,,,,households with children,
+2015,,,,households without children,57.2
+2016,,,,households without children,64.3
+2017,,,,households without children,65.5
+2018,,,,households without children,66.1
+2019,,,,households without children,53.7
+2020,,,,households without children,51.4
+2021,,,,households without children,48.7
+2022,,,,households without children,
+2023,,,,households without children,
+2024,,,,households without children,

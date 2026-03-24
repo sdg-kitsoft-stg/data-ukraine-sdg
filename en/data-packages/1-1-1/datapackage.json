@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18_1",
-                "18-34 years",
-                "35-59 years",
+                "up to 18 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]
@@ -34,8 +34,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
-                "males_1",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -46,12 +46,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "households with children",
+                "households without children",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Household type"
           },
           {
             "name": "Type of residence",

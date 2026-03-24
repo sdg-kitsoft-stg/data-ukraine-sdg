@@ -21,8 +21,8 @@
             "constraints": {
               "enum": [
                 "under 18 years old",
-                "18-34 years",
-                "35-59 years",
+                "18–34 years",
+                "35–59 years",
                 "60 years and older",
                 ""
               ]

@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females_1",
+                "жінки",
                 "Жіноча",
-                "males_1",
+                "чоловіки",
                 ""
               ]
             },
@@ -45,12 +45,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
                 ""
               ]
             },
-            "title": "Households_1"
+            "title": "Тип домогосподарства"
           },
           {
             "name": "Value",

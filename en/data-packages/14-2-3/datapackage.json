@@ -20,21 +20,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Phosphate phosphorus",
-                "Total phosphorus",
-                "Nitrate nitrogen",
-                "Nitrite nitrogen",
-                "Ammonium nitrogen",
-                "Dissolved mineral nitrogen",
-                "Total nitrogen",
-                "Chlorophyll-a",
-                "Transparency",
-                "Dissolved oxygen",
-                "Biochemical oxygen demand (5-day BOD)",
+                "phosphate phosphorus",
+                "total phosphorus",
+                "nitrate nitrogen",
+                "nitrite nitrogen",
+                "ammonium nitrogen",
+                "dissolved mineral nitrogen",
+                "total nitrogen",
+                "chlorophyll-a",
+                "transparency",
+                "dissolved oxygen",
+                "biochemical oxygen consumption in five days",
                 ""
               ]
             },
-            "title": "Water quality indicator (milligrams per cubic decimeter) by components, percent"
+            "title": "Components of water quality indicator"
           },
           {
             "name": "Value",

@@ -1,111 +1,111 @@
-Year,"Water quality indicator (milligrams per cubic decimeter) by components, percent",Value
-2015,Phosphate phosphorus,0.008
-2016,Phosphate phosphorus,0.009
-2017,Phosphate phosphorus,0.014
-2018,Phosphate phosphorus,0.013
-2019,Phosphate phosphorus,0.012
-2020,Phosphate phosphorus,0.013
-2021,Phosphate phosphorus,0.011
-2022,Phosphate phosphorus,0.011
-2023,Phosphate phosphorus,0.016
-2024,Phosphate phosphorus,0.019
-2015,Total phosphorus,0.024
-2016,Total phosphorus,0.028
-2017,Total phosphorus,0.063
-2018,Total phosphorus,0.03
-2019,Total phosphorus,0.023
-2020,Total phosphorus,0.03
-2021,Total phosphorus,0.033
-2022,Total phosphorus,0.038
-2023,Total phosphorus,0.034
-2024,Total phosphorus,0.087
-2015,Nitrate nitrogen,1.227
-2016,Nitrate nitrogen,0.822
-2017,Nitrate nitrogen,0.057
-2018,Nitrate nitrogen,0.076
-2019,Nitrate nitrogen,0.18
-2020,Nitrate nitrogen,0.044
-2021,Nitrate nitrogen,0.128
-2022,Nitrate nitrogen,0.117
-2023,Nitrate nitrogen,0.219
-2024,Nitrate nitrogen,0.29
-2015,Nitrite nitrogen,0.002
-2016,Nitrite nitrogen,0.002
-2017,Nitrite nitrogen,0.002
-2018,Nitrite nitrogen,0.003
-2019,Nitrite nitrogen,0.002
-2020,Nitrite nitrogen,0.003
-2021,Nitrite nitrogen,0.003
-2022,Nitrite nitrogen,0.004
-2023,Nitrite nitrogen,0.006
-2024,Nitrite nitrogen,0.004
-2015,Ammonium nitrogen,0.001
-2016,Ammonium nitrogen,0.002
-2017,Ammonium nitrogen,0.0
-2018,Ammonium nitrogen,0.002
-2019,Ammonium nitrogen,0.0
-2020,Ammonium nitrogen,0.004
-2021,Ammonium nitrogen,0.01
-2022,Ammonium nitrogen,0.011
-2023,Ammonium nitrogen,0.053
-2024,Ammonium nitrogen,0.019
-2015,Dissolved mineral nitrogen,1.23
-2016,Dissolved mineral nitrogen,0.826
-2017,Dissolved mineral nitrogen,0.057
-2018,Dissolved mineral nitrogen,0.002
-2019,Dissolved mineral nitrogen,0.182
-2020,Dissolved mineral nitrogen,0.048
-2021,Dissolved mineral nitrogen,0.14
-2022,Dissolved mineral nitrogen,0.131
-2023,Dissolved mineral nitrogen,0.269
-2024,Dissolved mineral nitrogen,0.299
-2015,Total nitrogen,34.038
-2016,Total nitrogen,1.783
-2017,Total nitrogen,0.791
-2018,Total nitrogen,0.691
-2019,Total nitrogen,0.803
-2020,Total nitrogen,0.521
-2021,Total nitrogen,0.804
-2022,Total nitrogen,0.674
-2023,Total nitrogen,3.015
-2024,Total nitrogen,5.985
-2015,Chlorophyll-a,0.002
-2016,Chlorophyll-a,0.002
-2017,Chlorophyll-a,0.002
-2018,Chlorophyll-a,0.003
-2019,Chlorophyll-a,0.002
-2020,Chlorophyll-a,0.002
-2021,Chlorophyll-a,0.002
-2022,Chlorophyll-a,0.003
-2023,Chlorophyll-a,0.004
-2024,Chlorophyll-a,0.002
-2015,Transparency,
-2016,Transparency,
-2017,Transparency,
-2018,Transparency,
-2019,Transparency,
-2020,Transparency,
-2021,Transparency,
-2022,Transparency,
-2023,Transparency,
-2024,Transparency,
-2015,Dissolved oxygen,10.341
-2016,Dissolved oxygen,10.154
-2017,Dissolved oxygen,9.688
-2018,Dissolved oxygen,9.793
-2019,Dissolved oxygen,9.936
-2020,Dissolved oxygen,8.548
-2021,Dissolved oxygen,8.813
-2022,Dissolved oxygen,8.663
-2023,Dissolved oxygen,8.898
-2024,Dissolved oxygen,9.432
-2015,Biochemical oxygen demand (5-day BOD),1.197
-2016,Biochemical oxygen demand (5-day BOD),1.085
-2017,Biochemical oxygen demand (5-day BOD),1.227
-2018,Biochemical oxygen demand (5-day BOD),1.383
-2019,Biochemical oxygen demand (5-day BOD),1.526
-2020,Biochemical oxygen demand (5-day BOD),0.953
-2021,Biochemical oxygen demand (5-day BOD),1.152
-2022,Biochemical oxygen demand (5-day BOD),1.099
-2023,Biochemical oxygen demand (5-day BOD),1.374
-2024,Biochemical oxygen demand (5-day BOD),1.579
+Year,Components of water quality indicator,Value
+2015,phosphate phosphorus,0.008
+2016,phosphate phosphorus,0.009
+2017,phosphate phosphorus,0.014
+2018,phosphate phosphorus,0.013
+2019,phosphate phosphorus,0.012
+2020,phosphate phosphorus,0.013
+2021,phosphate phosphorus,0.011
+2022,phosphate phosphorus,0.011
+2023,phosphate phosphorus,0.016
+2024,phosphate phosphorus,0.019
+2015,total phosphorus,0.024
+2016,total phosphorus,0.028
+2017,total phosphorus,0.063
+2018,total phosphorus,0.03
+2019,total phosphorus,0.023
+2020,total phosphorus,0.03
+2021,total phosphorus,0.033
+2022,total phosphorus,0.038
+2023,total phosphorus,0.034
+2024,total phosphorus,0.087
+2015,nitrate nitrogen,1.227
+2016,nitrate nitrogen,0.822
+2017,nitrate nitrogen,0.057
+2018,nitrate nitrogen,0.076
+2019,nitrate nitrogen,0.18
+2020,nitrate nitrogen,0.044
+2021,nitrate nitrogen,0.128
+2022,nitrate nitrogen,0.117
+2023,nitrate nitrogen,0.219
+2024,nitrate nitrogen,0.29
+2015,nitrite nitrogen,0.002
+2016,nitrite nitrogen,0.002
+2017,nitrite nitrogen,0.002
+2018,nitrite nitrogen,0.003
+2019,nitrite nitrogen,0.002
+2020,nitrite nitrogen,0.003
+2021,nitrite nitrogen,0.003
+2022,nitrite nitrogen,0.004
+2023,nitrite nitrogen,0.006
+2024,nitrite nitrogen,0.004
+2015,ammonium nitrogen,0.001
+2016,ammonium nitrogen,0.002
+2017,ammonium nitrogen,0.0
+2018,ammonium nitrogen,0.002
+2019,ammonium nitrogen,0.0
+2020,ammonium nitrogen,0.004
+2021,ammonium nitrogen,0.01
+2022,ammonium nitrogen,0.011
+2023,ammonium nitrogen,0.053
+2024,ammonium nitrogen,0.019
+2015,dissolved mineral nitrogen,1.23
+2016,dissolved mineral nitrogen,0.826
+2017,dissolved mineral nitrogen,0.057
+2018,dissolved mineral nitrogen,0.002
+2019,dissolved mineral nitrogen,0.182
+2020,dissolved mineral nitrogen,0.048
+2021,dissolved mineral nitrogen,0.14
+2022,dissolved mineral nitrogen,0.131
+2023,dissolved mineral nitrogen,0.269
+2024,dissolved mineral nitrogen,0.299
+2015,total nitrogen,34.038
+2016,total nitrogen,1.783
+2017,total nitrogen,0.791
+2018,total nitrogen,0.691
+2019,total nitrogen,0.803
+2020,total nitrogen,0.521
+2021,total nitrogen,0.804
+2022,total nitrogen,0.674
+2023,total nitrogen,3.015
+2024,total nitrogen,5.985
+2015,chlorophyll-a,0.002
+2016,chlorophyll-a,0.002
+2017,chlorophyll-a,0.002
+2018,chlorophyll-a,0.003
+2019,chlorophyll-a,0.002
+2020,chlorophyll-a,0.002
+2021,chlorophyll-a,0.002
+2022,chlorophyll-a,0.003
+2023,chlorophyll-a,0.004
+2024,chlorophyll-a,0.002
+2015,transparency,
+2016,transparency,
+2017,transparency,
+2018,transparency,
+2019,transparency,
+2020,transparency,
+2021,transparency,
+2022,transparency,
+2023,transparency,
+2024,transparency,
+2015,dissolved oxygen,10.341
+2016,dissolved oxygen,10.154
+2017,dissolved oxygen,9.688
+2018,dissolved oxygen,9.793
+2019,dissolved oxygen,9.936
+2020,dissolved oxygen,8.548
+2021,dissolved oxygen,8.813
+2022,dissolved oxygen,8.663
+2023,dissolved oxygen,8.898
+2024,dissolved oxygen,9.432
+2015,biochemical oxygen consumption in five days,1.197
+2016,biochemical oxygen consumption in five days,1.085
+2017,biochemical oxygen consumption in five days,1.227
+2018,biochemical oxygen consumption in five days,1.383
+2019,biochemical oxygen consumption in five days,1.526
+2020,biochemical oxygen consumption in five days,0.953
+2021,biochemical oxygen consumption in five days,1.152
+2022,biochemical oxygen consumption in five days,1.099
+2023,biochemical oxygen consumption in five days,1.374
+2024,biochemical oxygen consumption in five days,1.579

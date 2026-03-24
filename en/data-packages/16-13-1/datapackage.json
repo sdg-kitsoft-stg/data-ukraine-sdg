@@ -58,7 +58,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men 18–35 years ",
+                "men 18–35 years",
                 "men 36–59 years",
                 "men 60 years and older",
                 "women 18–35 years",

@@ -20,14 +20,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Zakarpattia Oblast",
-                "Ivano-Frankivsk Oblast",
-                "Lviv Oblast",
-                "Chernivtsi Oblast",
+                "Zakarpattya region",
+                "Ivano-Frankivsk region",
+                "Lviv region",
+                "Chernivtsi region",
                 ""
               ]
             },
-            "title": "Mountain region"
+            "title": "Mountainous region"
           },
           {
             "name": "Value",
