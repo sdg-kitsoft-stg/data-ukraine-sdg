@@ -16,14 +16,15 @@
             "title": "Year"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons",
                 ""
               ]
             },
-            "title": "by reasons"
+            "title": "Reasons of land returned to cultivation"
           },
           {
             "name": "Value",

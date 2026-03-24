@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Region",
@@ -45,8 +45,16 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "41.4",
                 "city_Sevastopol",
+                "42.5",
+                "43.5",
+                "44.5",
+                "45.8",
+                "46.5",
+                "47.3",
+                "48.1",
+                "49.7",
                 ""
               ]
             }

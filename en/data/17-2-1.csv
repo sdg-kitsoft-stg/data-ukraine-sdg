@@ -1,14 +1,14 @@
-Year,Sphere,Status,Region,Value
-2015,energy water utilities,,,
-2015,transport_infrastructure,,,
-2015,healthcare,,,
+Year,Spheres,Status of execution,Region,Value
+2015,,,Ukraine,177.0
+2015,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,
+2015,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,
+2015,health care,,,
 2015,"tourism, leisure, recreation, culture and sport",,,
 2015,"waste management, except collection and transportation",,,
 2015,others,,,
 2015,,implemented,,
-2015,,not_implemented,,
+2015,,not implemented,,
 2015,,suspended due to the armed aggression of the russian federation,,
-2015,,,Ukraine,177.0
 2015,,,Autonomous Republic of Crimea,
 2015,,,Vinnytsya,
 2015,,,Volyn,
@@ -36,16 +36,16 @@ Year,Sphere,Status,Region,Value
 2015,,,Chernihiv,1.0
 2015,,,city Kyiv,
 2015,,,city Sevastopol,
-2016,energy water utilities,,,
-2016,transport_infrastructure,,,
-2016,healthcare,,,
+2016,,,Ukraine,186.0
+2016,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,
+2016,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,
+2016,health care,,,
 2016,"tourism, leisure, recreation, culture and sport",,,
 2016,"waste management, except collection and transportation",,,
 2016,others,,,
 2016,,implemented,,
-2016,,not_implemented,,
+2016,,not implemented,,
 2016,,suspended due to the armed aggression of the russian federation,,
-2016,,,Ukraine,186.0
 2016,,,Autonomous Republic of Crimea,
 2016,,,Vinnytsya,
 2016,,,Volyn,
@@ -73,16 +73,16 @@ Year,Sphere,Status,Region,Value
 2016,,,Chernihiv,1.0
 2016,,,city Kyiv,
 2016,,,city Sevastopol,
-2017,energy water utilities,,,
-2017,transport_infrastructure,,,
-2017,healthcare,,,
+2017,,,Ukraine,191.0
+2017,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,
+2017,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,
+2017,health care,,,
 2017,"tourism, leisure, recreation, culture and sport",,,
 2017,"waste management, except collection and transportation",,,
 2017,others,,,
 2017,,implemented,,
-2017,,not_implemented,,
+2017,,not implemented,,
 2017,,suspended due to the armed aggression of the russian federation,,
-2017,,,Ukraine,191.0
 2017,,,Autonomous Republic of Crimea,
 2017,,,Vinnytsya,
 2017,,,Volyn,
@@ -110,16 +110,16 @@ Year,Sphere,Status,Region,Value
 2017,,,Chernihiv,1.0
 2017,,,city Kyiv,
 2017,,,city Sevastopol,
-2018,energy water utilities,,,
-2018,transport_infrastructure,,,
-2018,healthcare,,,
+2018,,,Ukraine,189.0
+2018,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,
+2018,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,
+2018,health care,,,
 2018,"tourism, leisure, recreation, culture and sport",,,
 2018,"waste management, except collection and transportation",,,
 2018,others,,,
 2018,,implemented,,
-2018,,not_implemented,,
+2018,,not implemented,,
 2018,,suspended due to the armed aggression of the russian federation,,
-2018,,,Ukraine,189.0
 2018,,,Autonomous Republic of Crimea,
 2018,,,Vinnytsya,
 2018,,,Volyn,
@@ -147,16 +147,16 @@ Year,Sphere,Status,Region,Value
 2018,,,Chernihiv,1.0
 2018,,,city Kyiv,
 2018,,,city Sevastopol,
-2019,energy water utilities,,,
-2019,transport_infrastructure,,,
-2019,healthcare,,,
+2019,,,Ukraine,187.0
+2019,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,
+2019,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,
+2019,health care,,,
 2019,"tourism, leisure, recreation, culture and sport",,,
 2019,"waste management, except collection and transportation",,,
 2019,others,,,
 2019,,implemented,,
-2019,,not_implemented,,
+2019,,not implemented,,
 2019,,suspended due to the armed aggression of the russian federation,,
-2019,,,Ukraine,187.0
 2019,,,Autonomous Republic of Crimea,
 2019,,,Vinnytsya,
 2019,,,Volyn,
@@ -184,16 +184,16 @@ Year,Sphere,Status,Region,Value
 2019,,,Chernihiv,1.0
 2019,,,city Kyiv,
 2019,,,city Sevastopol,
-2020,energy water utilities,,,55.0
-2020,transport_infrastructure,,,5.0
-2020,healthcare,,,2.0
+2020,,,Ukraine,192.0
+2020,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,55.0
+2020,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,5.0
+2020,health care,,,2.0
 2020,"tourism, leisure, recreation, culture and sport",,,7.0
 2020,"waste management, except collection and transportation",,,113.0
 2020,others,,,10.0
 2020,,implemented,,39.0
-2020,,not_implemented,,153.0
+2020,,not implemented,,153.0
 2020,,suspended due to the armed aggression of the russian federation,,
-2020,,,Ukraine,192.0
 2020,,,Autonomous Republic of Crimea,
 2020,,,Vinnytsya,
 2020,,,Volyn,
@@ -221,16 +221,16 @@ Year,Sphere,Status,Region,Value
 2020,,,Chernihiv,1.0
 2020,,,city Kyiv,
 2020,,,city Sevastopol,
-2021,energy water utilities,,,55.0
-2021,transport_infrastructure,,,5.0
-2021,healthcare,,,2.0
+2021,,,Ukraine,193.0
+2021,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,55.0
+2021,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,5.0
+2021,health care,,,2.0
 2021,"tourism, leisure, recreation, culture and sport",,,7.0
 2021,"waste management, except collection and transportation",,,113.0
 2021,others,,,11.0
 2021,,implemented,,31.0
-2021,,not_implemented,,162.0
+2021,,not implemented,,162.0
 2021,,suspended due to the armed aggression of the russian federation,,
-2021,,,Ukraine,193.0
 2021,,,Autonomous Republic of Crimea,
 2021,,,Vinnytsya,
 2021,,,Volyn,
@@ -258,16 +258,16 @@ Year,Sphere,Status,Region,Value
 2021,,,Chernihiv,1.0
 2021,,,city Kyiv,
 2021,,,city Sevastopol,
-2022,energy water utilities,,,55.0
-2022,transport_infrastructure,,,5.0
-2022,healthcare,,,2.0
+2022,,,Ukraine,193.0
+2022,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,55.0
+2022,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,5.0
+2022,health care,,,2.0
 2022,"tourism, leisure, recreation, culture and sport",,,7.0
 2022,"waste management, except collection and transportation",,,113.0
 2022,others,,,11.0
 2022,,implemented,,18.0
-2022,,not_implemented,,162.0
+2022,,not implemented,,162.0
 2022,,suspended due to the armed aggression of the russian federation,,13.0
-2022,,,Ukraine,193.0
 2022,,,Autonomous Republic of Crimea,
 2022,,,Vinnytsya,
 2022,,,Volyn,
@@ -295,16 +295,16 @@ Year,Sphere,Status,Region,Value
 2022,,,Chernihiv,1.0
 2022,,,city Kyiv,
 2022,,,city Sevastopol,
-2023,energy water utilities,,,56.0
-2023,transport_infrastructure,,,5.0
-2023,healthcare,,,3.0
+2023,,,Ukraine,198.0
+2023,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,56.0
+2023,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,5.0
+2023,health care,,,3.0
 2023,"tourism, leisure, recreation, culture and sport",,,9.0
 2023,"waste management, except collection and transportation",,,114.0
 2023,others,,,11.0
 2023,,implemented,,22.0
-2023,,not_implemented,,166.0
+2023,,not implemented,,166.0
 2023,,suspended due to the armed aggression of the russian federation,,10.0
-2023,,,Ukraine,198.0
 2023,,,Autonomous Republic of Crimea,
 2023,,,Vinnytsya,
 2023,,,Volyn,1.0
@@ -332,16 +332,16 @@ Year,Sphere,Status,Region,Value
 2023,,,Chernihiv,1.0
 2023,,,city Kyiv,
 2023,,,city Sevastopol,
-2024,energy water utilities,,,57.0
-2024,transport_infrastructure,,,5.0
-2024,healthcare,,,3.0
+2024,,,Ukraine,200.0
+2024,"production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",,,57.0
+2024,"construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",,,5.0
+2024,health care,,,3.0
 2024,"tourism, leisure, recreation, culture and sport",,,10.0
 2024,"waste management, except collection and transportation",,,114.0
 2024,others,,,11.0
 2024,,implemented,,22.0
-2024,,not_implemented,,167.0
+2024,,not implemented,,167.0
 2024,,suspended due to the armed aggression of the russian federation,,11.0
-2024,,,Ukraine,200.0
 2024,,,Autonomous Republic of Crimea,
 2024,,,Vinnytsya,
 2024,,,Volyn,1.0

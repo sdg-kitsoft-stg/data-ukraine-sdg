@@ -9,7 +9,7 @@ By consumer categories,2,2
 By form of discrimination,1,5
 By frequency of use,1,3
 By level of education,1,3
-by main product groups,2,12
+by main product groups,2,13
 By purpose of use,1,21
 By river basins,2,9
 By safety,1,2
@@ -59,7 +59,7 @@ group_24,1,2
 group_25,1,19
 group_26,1,3
 group_27,1,2
-group_28,2,7
+group_28,3,8
 group_29,1,2
 group_3,1,11
 group_30,3,34
@@ -98,7 +98,8 @@ Pollutants,1,10
 PopulationGroup,1,2
 Products,1,3
 Reason of disability,1,2
-Region,76,34
+reasons_ land,1,1
+Region,76,43
 Res_inten,1,5
 Resource,1,3
 School type,1,3
@@ -109,14 +110,15 @@ Sex,52,13
 Sou_en,1,3
 Sources of funding,1,2
 Specialty,1,61
-Sphere,1,6
-Status,1,3
+Spheres,1,6
+Status_1,1,3
 Subject,3,7
-SupplyType,2,5
+SupplyType,1,4
+SupplyType_1,1,2
 Type of economic activity,4,1242
 Type of educational institution,3,8
 Type of energy resources,1,6
-Type of residence,55,2
+Type of residence,55,3
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,8,14

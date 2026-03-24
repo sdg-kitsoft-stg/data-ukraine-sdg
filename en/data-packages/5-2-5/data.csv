@@ -31,7 +31,7 @@ Year,Sex,Age,Region,Value
 2017,,,Cherkasy,12.0
 2017,,,Chernivtsi,23.0
 2017,,,Chernihiv,22.0
-2017,,,city Kyiv,25.0
+2017,,,the city of Kyiv,25.0
 2017,,,city Sevastopol,
 2018,,,,15.0
 2018,adults,,,
@@ -63,7 +63,7 @@ Year,Sex,Age,Region,Value
 2018,,,Cherkasy,7.0
 2018,,,Chernivtsi,21.0
 2018,,,Chernihiv,29.0
-2018,,,city Kyiv,21.0
+2018,,,the city of Kyiv,21.0
 2018,,,city Sevastopol,
 2019,,,,18.0
 2019,adults,,,
@@ -95,7 +95,7 @@ Year,Sex,Age,Region,Value
 2019,,,Cherkasy,3.0
 2019,,,Chernivtsi,17.0
 2019,,,Chernihiv,28.0
-2019,,,city Kyiv,7.0
+2019,,,the city of Kyiv,7.0
 2019,,,city Sevastopol,
 2020,,,,11.0
 2020,adults,,,
@@ -127,7 +127,7 @@ Year,Sex,Age,Region,Value
 2020,,,Cherkasy,5.0
 2020,,,Chernivtsi,10.0
 2020,,,Chernihiv,13.0
-2020,,,city Kyiv,2.0
+2020,,,the city of Kyiv,2.0
 2020,,,city Sevastopol,
 2021,,,,14.0
 2021,adults,,,
@@ -159,7 +159,7 @@ Year,Sex,Age,Region,Value
 2021,,,Cherkasy,6.0
 2021,,,Chernivtsi,9.0
 2021,,,Chernihiv,8.0
-2021,,,city Kyiv,7.0
+2021,,,the city of Kyiv,7.0
 2021,,,city Sevastopol,
 2022,,,,14.0
 2022,adults,,,
@@ -191,7 +191,7 @@ Year,Sex,Age,Region,Value
 2022,,,Cherkasy,15.0
 2022,,,Chernivtsi,3.0
 2022,,,Chernihiv,8.0
-2022,,,city Kyiv,7.0
+2022,,,the city of Kyiv,7.0
 2022,,,city Sevastopol,
 2023,,,,32.0
 2023,adults,,,
@@ -223,7 +223,7 @@ Year,Sex,Age,Region,Value
 2023,,,Cherkasy,8.0
 2023,,,Chernivtsi,7.0
 2023,,,Chernihiv,24.0
-2023,,,city Kyiv,18.0
+2023,,,the city of Kyiv,18.0
 2023,,,city Sevastopol,
 2024,,,,33.0
 2024,adults,,,
@@ -255,5 +255,5 @@ Year,Sex,Age,Region,Value
 2024,,,Cherkasy,16.0
 2024,,,Chernivtsi,15.0
 2024,,,Chernihiv,48.0
-2024,,,city Kyiv,11.0
+2024,,,the city of Kyiv,11.0
 2024,,,city Sevastopol,

@@ -37,6 +37,16 @@
             }
           },
           {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_groups",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

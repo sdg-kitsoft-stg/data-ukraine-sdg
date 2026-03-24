@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Population Group"
+            "title": "Population type"
           },
           {
             "name": "Type of residence",
@@ -38,6 +38,17 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age groups",
+                ""
+              ]
+            },
+            "title": "Age groups"
           },
           {
             "name": "Value",

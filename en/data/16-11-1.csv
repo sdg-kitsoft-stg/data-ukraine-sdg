@@ -46,7 +46,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2015,Cherkasy,,,,,1.6
 2015,Chernivtsi,,,,,5.1
 2015,Chernihiv,,,,,1.8
-2015,city Kyiv,,,,,4.7
+2015,the city of Kyiv,,,,,4.7
 2015,city Sevastopol,,,,,
 2016,,up to 15 years,,,,
 2016,,15–17 years,,,,0.2
@@ -95,7 +95,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2016,Cherkasy,,,,,2.1
 2016,Chernivtsi,,,,,4.4
 2016,Chernihiv,,,,,1.2
-2016,city Kyiv,,,,,2.4
+2016,the city of Kyiv,,,,,2.4
 2016,city Sevastopol,,,,,
 2017,,up to 15 years,,,,0.1
 2017,,15–17 years,,,,0.1
@@ -144,7 +144,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2017,Cherkasy,,,,,3.6
 2017,Chernivtsi,,,,,2.6
 2017,Chernihiv,,,,,2.8
-2017,city Kyiv,,,,,3.8
+2017,the city of Kyiv,,,,,3.8
 2017,city Sevastopol,,,,,
 2018,,up to 15 years,,,,0.2
 2018,,15–17 years,,,,0.1
@@ -193,7 +193,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2018,Cherkasy,,,,,1.2
 2018,Chernivtsi,,,,,4.7
 2018,Chernihiv,,,,,6.9
-2018,city Kyiv,,,,,3.8
+2018,the city of Kyiv,,,,,3.8
 2018,city Sevastopol,,,,,
 2019,,up to 15 years,,,,0.0
 2019,,15–17 years,,,,0.0
@@ -242,7 +242,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2019,Cherkasy,,,,,2.0
 2019,Chernivtsi,,,,,4.7
 2019,Chernihiv,,,,,4.1
-2019,city Kyiv,,,,,4.5
+2019,the city of Kyiv,,,,,4.5
 2019,city Sevastopol,,,,,
 2020,,up to 15 years,,,,0.0
 2020,,15–17 years,,,,0.7
@@ -291,7 +291,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2020,Cherkasy,,,,,3.9
 2020,Chernivtsi,,,,,4.6
 2020,Chernihiv,,,,,1.5
-2020,city Kyiv,,,,,5.8
+2020,the city of Kyiv,,,,,5.8
 2020,city Sevastopol,,,,,
 2021,,up to 15 years,,,,0.0
 2021,,15–17 years,,,,0.7
@@ -340,7 +340,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2021,Cherkasy,,,,,3.0
 2021,Chernivtsi,,,,,5.4
 2021,Chernihiv,,,,,0.8
-2021,city Kyiv,,,,,9.6
+2021,the city of Kyiv,,,,,9.6
 2021,city Sevastopol,,,,,
 2022,,up to 15 years,,,,
 2022,,15–17 years,,,,
@@ -389,7 +389,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2022,Cherkasy,,,,,
 2022,Chernivtsi,,,,,
 2022,Chernihiv,,,,,
-2022,city Kyiv,,,,,
+2022,the city of Kyiv,,,,,
 2022,city Sevastopol,,,,,
 2023,,up to 15 years,,,,
 2023,,15–17 years,,,,
@@ -438,7 +438,7 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2023,Cherkasy,,,,,
 2023,Chernivtsi,,,,,
 2023,Chernihiv,,,,,
-2023,city Kyiv,,,,,
+2023,the city of Kyiv,,,,,
 2023,city Sevastopol,,,,,
 2024,,up to 15 years,,,,
 2024,,15–17 years,,,,
@@ -487,5 +487,5 @@ Year,Region,Age,Gender,Type of place of residence,Decile groups by level of aver
 2024,Cherkasy,,,,,
 2024,Chernivtsi,,,,,
 2024,Chernihiv,,,,,
-2024,city Kyiv,,,,,
+2024,the city of Kyiv,,,,,
 2024,city Sevastopol,,,,,

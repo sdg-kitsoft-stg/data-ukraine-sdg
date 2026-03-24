@@ -390,7 +390,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -783,7 +783,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -865,7 +865,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "By river basins",
@@ -1012,7 +1012,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -1171,7 +1171,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -1519,7 +1519,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -1638,7 +1638,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -1958,7 +1958,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -2975,7 +2975,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -3018,7 +3018,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -3462,7 +3462,7 @@
                 ""
               ]
             },
-            "title": "Population Group"
+            "title": "Population type"
           },
           {
             "name": "Type of residence",
@@ -3475,6 +3475,17 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age groups",
+                ""
+              ]
+            },
+            "title": "Age groups"
           },
           {
             "name": "Value",
@@ -3950,7 +3961,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -4229,7 +4240,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -4301,7 +4312,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -4814,7 +4825,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -5157,7 +5168,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -5255,7 +5266,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -6236,7 +6247,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -6380,7 +6391,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -6798,7 +6809,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -7192,7 +7203,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8160,7 +8171,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -8276,7 +8287,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8412,7 +8423,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8561,7 +8572,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -8699,7 +8710,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9121,7 +9132,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -9210,33 +9221,33 @@
             "title": "Year"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
-                "energy water utilities",
-                "transport_infrastructure",
-                "healthcare",
+                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
+                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
+                "health care",
                 "tourism, leisure, recreation, culture and sport",
                 "waste management, except collection and transportation",
                 "others",
                 ""
               ]
             },
-            "title": "Sphere"
+            "title": "Spheres"
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
                 "implemented",
-                "not_implemented",
+                "not implemented",
                 "suspended due to the armed aggression of the russian federation",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Status of execution"
           },
           {
             "name": "Region",
@@ -9368,7 +9379,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9560,7 +9571,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9646,7 +9657,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -10186,7 +10197,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -10899,14 +10910,15 @@
             "title": "Year"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons",
                 ""
               ]
             },
-            "title": "by reasons"
+            "title": "Reasons of land returned to cultivation"
           },
           {
             "name": "Value",
@@ -11239,7 +11251,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11691,7 +11703,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11864,7 +11876,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11926,7 +11938,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -12144,7 +12156,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -12233,16 +12245,16 @@
             "title": "Year"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "centralized water supply",
+                "non-centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Methods of supplying drinking water"
           },
           {
             "name": "Type of residence",
@@ -12251,6 +12263,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "1.0",
                 ""
               ]
             },
@@ -12393,7 +12406,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -12719,7 +12732,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -13513,7 +13526,7 @@
                 ""
               ]
             },
-            "title": "by land purpose"
+            "title": "Land purpose"
           },
           {
             "name": "Region",
@@ -13545,7 +13558,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14014,7 +14027,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -14280,7 +14293,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14366,7 +14379,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14520,7 +14533,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14768,7 +14781,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -14879,12 +14892,12 @@
             "constraints": {
               "enum": [
                 "microbiological indicators",
-                "sanitary and chemical indicators",
+                "sanitary-chemical indicators",
                 "radiation indicators",
                 ""
               ]
             },
-            "title": "By type of indicators"
+            "title": "Types of indicators"
           },
           {
             "name": "SupplyType",
@@ -14894,11 +14907,11 @@
                 "urban water pipelines",
                 "rural water pipelines",
                 "non-centralized water supply",
-                "centralized",
+                "centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Types of water supply"
           },
           {
             "name": "Region",
@@ -15083,7 +15096,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -15239,7 +15252,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -15348,7 +15361,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -15470,7 +15483,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -15702,7 +15715,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -16128,7 +16141,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16727,7 +16740,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16884,7 +16897,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17029,7 +17042,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17128,7 +17141,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17255,7 +17268,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -17649,7 +17662,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 "Center",
                 "East",
@@ -17776,7 +17789,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -17946,7 +17959,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -18138,7 +18151,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized water supply",
                 "decentralized",
                 ""
               ]
@@ -18757,7 +18770,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -19178,7 +19191,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -19212,8 +19225,16 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "41.4",
                 "city Sevastopol",
+                "42.5",
+                "43.5",
+                "44.5",
+                "45.8",
+                "46.5",
+                "47.3",
+                "48.1",
+                "49.7",
                 ""
               ]
             },
@@ -19272,7 +19293,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -19460,7 +19481,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 ""
               ]
             },
@@ -20314,7 +20335,7 @@
                 ""
               ]
             },
-            "title": "by types of economic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Organisation and legal forms",
@@ -20430,7 +20451,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "the city of Kyiv",
                 "city Sevastopol",
                 ""
               ]

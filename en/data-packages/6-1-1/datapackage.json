@@ -21,12 +21,12 @@
             "constraints": {
               "enum": [
                 "microbiological indicators",
-                "sanitary and chemical indicators",
+                "sanitary-chemical indicators",
                 "radiation indicators",
                 ""
               ]
             },
-            "title": "By type of indicators"
+            "title": "Types of indicators"
           },
           {
             "name": "SupplyType",
@@ -36,11 +36,11 @@
                 "urban water pipelines",
                 "rural water pipelines",
                 "non-centralized water supply",
-                "centralized",
+                "centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Types of water supply"
           },
           {
             "name": "Region",

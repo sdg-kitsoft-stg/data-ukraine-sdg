@@ -16,14 +16,15 @@
             "title": "Рік"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "причини",
                 ""
               ]
             },
-            "title": "by reasons"
+            "title": "Причини повернутих в обробіток земель"
           },
           {
             "name": "Value",

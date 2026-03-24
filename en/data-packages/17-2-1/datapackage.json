@@ -16,33 +16,33 @@
             "title": "Year"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
-                "energy water utilities",
-                "transport_infrastructure",
-                "healthcare",
+                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
+                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
+                "health care",
                 "tourism, leisure, recreation, culture and sport",
                 "waste management, except collection and transportation",
                 "others",
                 ""
               ]
             },
-            "title": "Sphere"
+            "title": "Spheres"
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
                 "implemented",
-                "not_implemented",
+                "not implemented",
                 "suspended due to the armed aggression of the russian federation",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Status of execution"
           },
           {
             "name": "Region",

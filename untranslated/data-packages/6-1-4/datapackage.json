@@ -15,12 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "Centralized_1",
+                "Non-centralized_1",
                 ""
               ]
             }
@@ -32,6 +32,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "1.0",
                 ""
               ]
             }

@@ -6,7 +6,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 15_veg,1,1
 16_fruits,1,1
 17_sugar,2,2
-18_oil,2,2
+18_oil,1,1
+18_oil_1,1,1
 19_eggs,1,1
 barley,1,1
 corn,1,1

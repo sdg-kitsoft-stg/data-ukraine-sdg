@@ -16,16 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "centralized water supply",
+                "non-centralized water supply",
                 ""
               ]
             },
-            "title": "Type of water supply"
+            "title": "Methods of supplying drinking water"
           },
           {
             "name": "Type of residence",
@@ -34,6 +34,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "1.0",
                 ""
               ]
             },

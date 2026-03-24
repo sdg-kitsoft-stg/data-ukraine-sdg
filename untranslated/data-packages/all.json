@@ -850,7 +850,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -3257,6 +3257,16 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_groups",
                 ""
               ]
             }
@@ -8614,7 +8624,7 @@
             "type": "integer"
           },
           {
-            "name": "Sphere",
+            "name": "Spheres",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8629,7 +8639,7 @@
             }
           },
           {
-            "name": "Status",
+            "name": "Status_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8671,7 +8681,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -9743,7 +9753,7 @@
             "constraints": {
               "enum": [
                 "17_sugar",
-                "18_oil",
+                "18_oil_1",
                 "corn",
                 "barley",
                 "wheat",
@@ -10178,10 +10188,11 @@
             "type": "integer"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons_1",
                 ""
               ]
             }
@@ -11418,12 +11429,12 @@
             "type": "integer"
           },
           {
-            "name": "SupplyType",
+            "name": "SupplyType_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
-                "non_centralized",
+                "Centralized_1",
+                "Non-centralized_1",
                 ""
               ]
             }
@@ -11435,6 +11446,7 @@
               "enum": [
                 "urban",
                 "rural",
+                "1.0",
                 ""
               ]
             }
@@ -13941,7 +13953,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -17888,7 +17900,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Region",
@@ -17921,8 +17933,16 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "41.4",
                 "city_Sevastopol",
+                "42.5",
+                "43.5",
+                "44.5",
+                "45.8",
+                "46.5",
+                "47.3",
+                "48.1",
+                "49.7",
                 ""
               ]
             }

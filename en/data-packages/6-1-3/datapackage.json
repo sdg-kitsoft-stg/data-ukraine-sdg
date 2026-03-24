@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -46,8 +46,16 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "city Kyiv",
+                "41.4",
                 "city Sevastopol",
+                "42.5",
+                "43.5",
+                "44.5",
+                "45.8",
+                "46.5",
+                "47.3",
+                "48.1",
+                "49.7",
                 ""
               ]
             },

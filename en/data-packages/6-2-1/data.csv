@@ -1,37 +1,56 @@
-Year,Population Group,Type of residence,Value
-2015,rural population,,3.0
-2015,urban population,,92.0
-2016,rural population,,2.0
-2016,urban population,,69.3
-2017,rural population,,2.9
-2017,urban population,,66.3
-2018,rural population,,2.9
-2018,urban population,,69.6
-2019,rural population,,3.4
-2019,urban population,,67.3
-2020,rural population,,5.3
-2020,urban population,,71.7
-2021,rural population,,5.3
-2021,urban population,,73.7
-2022,rural population,,3.3
-2022,urban population,,76.0
-2023,rural population,,3.6
-2023,urban population,,76.7
-2015,,urban,69.1
-2016,,urban,69.2
-2017,,urban,69.2
-2018,,urban,69.3
-2019,,urban,69.4
-2020,,urban,69.5
-2021,,urban,69.6
-2022,,urban,69.7
-2023,,,
-2015,,rural,30.9
-2016,,rural,30.8
-2017,,rural,30.8
-2018,,rural,30.7
-2019,,rural,30.6
-2020,,rural,30.5
-2021,,rural,30.4
-2022,,rural,30.3
-2023,,,
+Year,Population type,Type of residence,Age groups,Value
+2015,rural population,,,3.0
+2015,urban population,,,92.0
+2016,rural population,,,2.0
+2016,urban population,,,69.3
+2017,rural population,,,2.9
+2017,urban population,,,66.3
+2018,rural population,,,2.9
+2018,urban population,,,69.6
+2019,rural population,,,3.4
+2019,urban population,,,67.3
+2020,rural population,,,5.3
+2020,urban population,,,71.7
+2021,rural population,,,5.3
+2021,urban population,,,73.7
+2022,rural population,,,3.3
+2022,urban population,,,76.0
+2023,rural population,,,3.6
+2023,urban population,,,76.7
+2015,urban population,,,92.0
+2015,urban population,,age groups,
+2016,urban population,,age groups,
+2017,urban population,,age groups,
+2018,urban population,,age groups,
+2019,urban population,,age groups,
+2020,urban population,,age groups,
+2021,urban population,,age groups,
+2022,urban population,,age groups,
+2023,urban population,,age groups,
+2015,rural population,,age groups,
+2016,rural population,,age groups,
+2017,rural population,,age groups,
+2018,rural population,,age groups,
+2019,rural population,,age groups,
+2020,rural population,,age groups,
+2021,rural population,,age groups,
+2022,rural population,,age groups,
+2023,rural population,,age groups,
+2015,,urban,,69.1
+2016,,urban,,69.2
+2017,,urban,,69.2
+2018,,urban,,69.3
+2019,,urban,,69.4
+2020,,urban,,69.5
+2021,,urban,,69.6
+2022,,urban,,69.7
+2023,,,,
+2015,,rural,,30.9
+2016,,rural,,30.8
+2017,,rural,,30.8
+2018,,rural,,30.7
+2019,,rural,,30.6
+2020,,rural,,30.5
+2021,,rural,,30.4
+2022,,rural,,30.3
+2023,,,,

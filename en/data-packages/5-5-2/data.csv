@@ -63,8 +63,8 @@ Year,by level of councils,Region,Sex,Value
 2015,,Chernivtsi,men,62.3
 2015,,Chernihiv,women,58.64
 2015,,Chernihiv,men,41.36
-2015,,city Kyiv,women,18.33
-2015,,city Kyiv,men,81.67
+2015,,the city of Kyiv,women,18.33
+2015,,the city of Kyiv,men,81.67
 2015,,city Sevastopol,women,
 2015,,city Sevastopol,men,
 2016,regional councils,,women,14.96
@@ -131,8 +131,8 @@ Year,by level of councils,Region,Sex,Value
 2016,,Chernivtsi,men,62.76
 2016,,Chernihiv,women,57.31
 2016,,Chernihiv,men,42.69
-2016,,city Kyiv,women,18.33
-2016,,city Kyiv,men,81.67
+2016,,the city of Kyiv,women,18.33
+2016,,the city of Kyiv,men,81.67
 2016,,city Sevastopol,women,
 2016,,city Sevastopol,men,
 2017,regional councils,,women,15.12
@@ -199,8 +199,8 @@ Year,by level of councils,Region,Sex,Value
 2017,,Chernivtsi,men,63.28
 2017,,Chernihiv,women,53.44
 2017,,Chernihiv,men,46.56
-2017,,city Kyiv,women,18.33
-2017,,city Kyiv,men,81.67
+2017,,the city of Kyiv,women,18.33
+2017,,the city of Kyiv,men,81.67
 2017,,city Sevastopol,women,
 2017,,city Sevastopol,men,
 2018,regional councils,,women,15.29
@@ -267,8 +267,8 @@ Year,by level of councils,Region,Sex,Value
 2018,,Chernivtsi,women,36.74
 2018,,Chernihiv,men,46.55
 2018,,Chernihiv,women,53.45
-2018,,city Kyiv,men,81.67
-2018,,city Kyiv,women,18.33
+2018,,the city of Kyiv,men,81.67
+2018,,the city of Kyiv,women,18.33
 2018,,city Sevastopol,men,
 2018,,city Sevastopol,women,
 2019,regional councils,,women,15.5
@@ -335,8 +335,8 @@ Year,by level of councils,Region,Sex,Value
 2019,,Chernivtsi,women,36.34
 2019,,Chernihiv,men,49.16
 2019,,Chernihiv,women,50.84
-2019,,city Kyiv,men,80.83
-2019,,city Kyiv,women,19.17
+2019,,the city of Kyiv,men,80.83
+2019,,the city of Kyiv,women,19.17
 2019,,city Sevastopol,men,
 2019,,city Sevastopol,women,
 2020,regional councils,,women,26.76
@@ -403,8 +403,8 @@ Year,by level of councils,Region,Sex,Value
 2020,,Chernivtsi,women,32.79
 2020,,Chernihiv,men,59.48
 2020,,Chernihiv,women,40.52
-2020,,city Kyiv,men,71.67
-2020,,city Kyiv,women,28.33
+2020,,the city of Kyiv,men,71.67
+2020,,the city of Kyiv,women,28.33
 2020,,city Sevastopol,men,
 2020,,city Sevastopol,women,
 2021,regional councils,,women,26.88
@@ -471,8 +471,8 @@ Year,by level of councils,Region,Sex,Value
 2021,,Chernivtsi,women,33.03
 2021,,Chernihiv,men,59.43
 2021,,Chernihiv,women,40.57
-2021,,city Kyiv,men,72.27
-2021,,city Kyiv,women,27.73
+2021,,the city of Kyiv,men,72.27
+2021,,the city of Kyiv,women,27.73
 2021,,city Sevastopol,men,
 2021,,city Sevastopol,women,
 2022,regional councils,,women,27.37
@@ -535,8 +535,8 @@ Year,by level of councils,Region,Sex,Value
 2022,,Chernivtsi,women,33.19
 2022,,Chernihiv,men,59.68
 2022,,Chernihiv,women,40.32
-2022,,city Kyiv,men,70.83
-2022,,city Kyiv,women,99.17
+2022,,the city of Kyiv,men,70.83
+2022,,the city of Kyiv,women,99.17
 2022,,city Sevastopol,women,
 2023,regional councils,,women,27.55
 2023,regional councils,,men,72.45
@@ -602,8 +602,8 @@ Year,by level of councils,Region,Sex,Value
 2023,,Chernivtsi,women,33.12
 2023,,Chernihiv,men,59.83
 2023,,Chernihiv,women,40.17
-2023,,city Kyiv,men,72.03
-2023,,city Kyiv,women,97.97
+2023,,the city of Kyiv,men,72.03
+2023,,the city of Kyiv,women,97.97
 2023,,city Sevastopol,men,
 2023,,city Sevastopol,women,
 2024,,Ukraine,men,
@@ -633,5 +633,5 @@ Year,by level of councils,Region,Sex,Value
 2024,,Cherkasy,men,
 2024,,Chernivtsi,men,
 2024,,Chernihiv,men,
-2024,,city Kyiv,men,
+2024,,the city of Kyiv,men,
 2024,,city Sevastopol,men,

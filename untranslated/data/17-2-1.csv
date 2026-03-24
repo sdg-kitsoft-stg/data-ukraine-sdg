@@ -1,4 +1,5 @@
-Year,Sphere,Status,Region,Value
+Year,Spheres,Status_1,Region,Value
+2015,,,Ukraine,177.0
 2015,energy_water_utilities,,,
 2015,transport_infrastructure,,,
 2015,healthcare,,,
@@ -8,7 +9,6 @@ Year,Sphere,Status,Region,Value
 2015,,implemented,,
 2015,,not_implemented,,
 2015,,suspended_due_to_war,,
-2015,,,Ukraine,177.0
 2015,,,autonomous_Republic_of_Crimea,
 2015,,,11_reg_Vinnytsya,
 2015,,,12_reg_Volyn,
@@ -34,8 +34,9 @@ Year,Sphere,Status,Region,Value
 2015,,,32_reg_Cherkasy,
 2015,,,33_reg_Chernivtsi,
 2015,,,34_reg_Chernihiv,1.0
-2015,,,35_reg_Kyiv_city,
+2015,,,Kyiv_city,
 2015,,,city_Sevastopol,
+2016,,,Ukraine,186.0
 2016,energy_water_utilities,,,
 2016,transport_infrastructure,,,
 2016,healthcare,,,
@@ -45,7 +46,6 @@ Year,Sphere,Status,Region,Value
 2016,,implemented,,
 2016,,not_implemented,,
 2016,,suspended_due_to_war,,
-2016,,,Ukraine,186.0
 2016,,,autonomous_Republic_of_Crimea,
 2016,,,11_reg_Vinnytsya,
 2016,,,12_reg_Volyn,
@@ -71,8 +71,9 @@ Year,Sphere,Status,Region,Value
 2016,,,32_reg_Cherkasy,
 2016,,,33_reg_Chernivtsi,
 2016,,,34_reg_Chernihiv,1.0
-2016,,,35_reg_Kyiv_city,
+2016,,,Kyiv_city,
 2016,,,city_Sevastopol,
+2017,,,Ukraine,191.0
 2017,energy_water_utilities,,,
 2017,transport_infrastructure,,,
 2017,healthcare,,,
@@ -82,7 +83,6 @@ Year,Sphere,Status,Region,Value
 2017,,implemented,,
 2017,,not_implemented,,
 2017,,suspended_due_to_war,,
-2017,,,Ukraine,191.0
 2017,,,autonomous_Republic_of_Crimea,
 2017,,,11_reg_Vinnytsya,
 2017,,,12_reg_Volyn,
@@ -108,8 +108,9 @@ Year,Sphere,Status,Region,Value
 2017,,,32_reg_Cherkasy,
 2017,,,33_reg_Chernivtsi,
 2017,,,34_reg_Chernihiv,1.0
-2017,,,35_reg_Kyiv_city,
+2017,,,Kyiv_city,
 2017,,,city_Sevastopol,
+2018,,,Ukraine,189.0
 2018,energy_water_utilities,,,
 2018,transport_infrastructure,,,
 2018,healthcare,,,
@@ -119,7 +120,6 @@ Year,Sphere,Status,Region,Value
 2018,,implemented,,
 2018,,not_implemented,,
 2018,,suspended_due_to_war,,
-2018,,,Ukraine,189.0
 2018,,,autonomous_Republic_of_Crimea,
 2018,,,11_reg_Vinnytsya,
 2018,,,12_reg_Volyn,
@@ -145,8 +145,9 @@ Year,Sphere,Status,Region,Value
 2018,,,32_reg_Cherkasy,
 2018,,,33_reg_Chernivtsi,
 2018,,,34_reg_Chernihiv,1.0
-2018,,,35_reg_Kyiv_city,
+2018,,,Kyiv_city,
 2018,,,city_Sevastopol,
+2019,,,Ukraine,187.0
 2019,energy_water_utilities,,,
 2019,transport_infrastructure,,,
 2019,healthcare,,,
@@ -156,7 +157,6 @@ Year,Sphere,Status,Region,Value
 2019,,implemented,,
 2019,,not_implemented,,
 2019,,suspended_due_to_war,,
-2019,,,Ukraine,187.0
 2019,,,autonomous_Republic_of_Crimea,
 2019,,,11_reg_Vinnytsya,
 2019,,,12_reg_Volyn,
@@ -182,8 +182,9 @@ Year,Sphere,Status,Region,Value
 2019,,,32_reg_Cherkasy,
 2019,,,33_reg_Chernivtsi,
 2019,,,34_reg_Chernihiv,1.0
-2019,,,35_reg_Kyiv_city,
+2019,,,Kyiv_city,
 2019,,,city_Sevastopol,
+2020,,,Ukraine,192.0
 2020,energy_water_utilities,,,55.0
 2020,transport_infrastructure,,,5.0
 2020,healthcare,,,2.0
@@ -193,7 +194,6 @@ Year,Sphere,Status,Region,Value
 2020,,implemented,,39.0
 2020,,not_implemented,,153.0
 2020,,suspended_due_to_war,,
-2020,,,Ukraine,192.0
 2020,,,autonomous_Republic_of_Crimea,
 2020,,,11_reg_Vinnytsya,
 2020,,,12_reg_Volyn,
@@ -219,8 +219,9 @@ Year,Sphere,Status,Region,Value
 2020,,,32_reg_Cherkasy,
 2020,,,33_reg_Chernivtsi,1.0
 2020,,,34_reg_Chernihiv,1.0
-2020,,,35_reg_Kyiv_city,
+2020,,,Kyiv_city,
 2020,,,city_Sevastopol,
+2021,,,Ukraine,193.0
 2021,energy_water_utilities,,,55.0
 2021,transport_infrastructure,,,5.0
 2021,healthcare,,,2.0
@@ -230,7 +231,6 @@ Year,Sphere,Status,Region,Value
 2021,,implemented,,31.0
 2021,,not_implemented,,162.0
 2021,,suspended_due_to_war,,
-2021,,,Ukraine,193.0
 2021,,,autonomous_Republic_of_Crimea,
 2021,,,11_reg_Vinnytsya,
 2021,,,12_reg_Volyn,
@@ -256,8 +256,9 @@ Year,Sphere,Status,Region,Value
 2021,,,32_reg_Cherkasy,
 2021,,,33_reg_Chernivtsi,1.0
 2021,,,34_reg_Chernihiv,1.0
-2021,,,35_reg_Kyiv_city,
+2021,,,Kyiv_city,
 2021,,,city_Sevastopol,
+2022,,,Ukraine,193.0
 2022,energy_water_utilities,,,55.0
 2022,transport_infrastructure,,,5.0
 2022,healthcare,,,2.0
@@ -267,7 +268,6 @@ Year,Sphere,Status,Region,Value
 2022,,implemented,,18.0
 2022,,not_implemented,,162.0
 2022,,suspended_due_to_war,,13.0
-2022,,,Ukraine,193.0
 2022,,,autonomous_Republic_of_Crimea,
 2022,,,11_reg_Vinnytsya,
 2022,,,12_reg_Volyn,
@@ -293,8 +293,9 @@ Year,Sphere,Status,Region,Value
 2022,,,32_reg_Cherkasy,
 2022,,,33_reg_Chernivtsi,1.0
 2022,,,34_reg_Chernihiv,1.0
-2022,,,35_reg_Kyiv_city,
+2022,,,Kyiv_city,
 2022,,,city_Sevastopol,
+2023,,,Ukraine,198.0
 2023,energy_water_utilities,,,56.0
 2023,transport_infrastructure,,,5.0
 2023,healthcare,,,3.0
@@ -304,7 +305,6 @@ Year,Sphere,Status,Region,Value
 2023,,implemented,,22.0
 2023,,not_implemented,,166.0
 2023,,suspended_due_to_war,,10.0
-2023,,,Ukraine,198.0
 2023,,,autonomous_Republic_of_Crimea,
 2023,,,11_reg_Vinnytsya,
 2023,,,12_reg_Volyn,1.0
@@ -330,8 +330,9 @@ Year,Sphere,Status,Region,Value
 2023,,,32_reg_Cherkasy,
 2023,,,33_reg_Chernivtsi,1.0
 2023,,,34_reg_Chernihiv,1.0
-2023,,,35_reg_Kyiv_city,
+2023,,,Kyiv_city,
 2023,,,city_Sevastopol,
+2024,,,Ukraine,200.0
 2024,energy_water_utilities,,,57.0
 2024,transport_infrastructure,,,5.0
 2024,healthcare,,,3.0
@@ -341,7 +342,6 @@ Year,Sphere,Status,Region,Value
 2024,,implemented,,22.0
 2024,,not_implemented,,167.0
 2024,,suspended_due_to_war,,11.0
-2024,,,Ukraine,200.0
 2024,,,autonomous_Republic_of_Crimea,
 2024,,,11_reg_Vinnytsya,
 2024,,,12_reg_Volyn,1.0
@@ -367,5 +367,5 @@ Year,Sphere,Status,Region,Value
 2024,,,32_reg_Cherkasy,
 2024,,,33_reg_Chernivtsi,1.0
 2024,,,34_reg_Chernihiv,1.0
-2024,,,35_reg_Kyiv_city,
+2024,,,Kyiv_city,
 2024,,,city_Sevastopol,

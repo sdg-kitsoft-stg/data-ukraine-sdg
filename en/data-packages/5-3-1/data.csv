@@ -27,7 +27,7 @@ Year,Age,Region,Value
 2015,under 20 years,Cherkasy,29.9
 2015,under 20 years,Chernivtsi,27.3
 2015,under 20 years,Chernihiv,25.6
-2015,under 20 years,city Kyiv,8.2
+2015,under 20 years,the city of Kyiv,8.2
 2015,15-17 years,city Sevastopol,
 2016,15-17 years,Ukraine,10.6
 2016,under 15 years,Ukraine,0.4
@@ -57,7 +57,7 @@ Year,Age,Region,Value
 2016,under 20 years,Cherkasy,27.9
 2016,under 20 years,Chernivtsi,23.8
 2016,under 20 years,Chernihiv,22.5
-2016,under 20 years,city Kyiv,7.6
+2016,under 20 years,the city of Kyiv,7.6
 2016,15-17 years,city Sevastopol,
 2017,15-17 years,Ukraine,8.9
 2017,under 15 years,Ukraine,0.3
@@ -87,7 +87,7 @@ Year,Age,Region,Value
 2017,under 20 years,Cherkasy,25.8
 2017,under 20 years,Chernivtsi,24.0
 2017,under 20 years,Chernihiv,19.1
-2017,under 20 years,city Kyiv,7.5
+2017,under 20 years,the city of Kyiv,7.5
 2017,15-17 years,city Sevastopol,
 2018,15-17 years,Ukraine,8.2
 2018,under 15 years,Ukraine,0.4
@@ -117,7 +117,7 @@ Year,Age,Region,Value
 2018,under 20 years,Cherkasy,20.9
 2018,under 20 years,Chernivtsi,19.6
 2018,under 20 years,Chernihiv,17.3
-2018,under 20 years,city Kyiv,6.5
+2018,under 20 years,the city of Kyiv,6.5
 2018,15-17 years,city Sevastopol,
 2019,15-17 years,Ukraine,7.1
 2019,under 15 years,Ukraine,0.2
@@ -147,7 +147,7 @@ Year,Age,Region,Value
 2019,under 20 years,Cherkasy,16.7
 2019,under 20 years,Chernivtsi,18.0
 2019,under 20 years,Chernihiv,15.0
-2019,under 20 years,city Kyiv,5.7
+2019,under 20 years,the city of Kyiv,5.7
 2019,15-17 years,city Sevastopol,
 2020,15-17 years,Ukraine,6.8
 2020,under 15 years,Ukraine,0.1
@@ -177,7 +177,7 @@ Year,Age,Region,Value
 2020,under 20 years,Cherkasy,16.0
 2020,under 20 years,Chernivtsi,17.0
 2020,under 20 years,Chernihiv,14.3
-2020,under 20 years,city Kyiv,5.4
+2020,under 20 years,the city of Kyiv,5.4
 2020,15-17 years,city Sevastopol,
 2021,15-17 years,Ukraine,5.8
 2021,under 15 years,Ukraine,0.1
@@ -207,7 +207,7 @@ Year,Age,Region,Value
 2021,under 20 years,Cherkasy,15.7
 2021,under 20 years,Chernivtsi,16.3
 2021,under 20 years,Chernihiv,12.4
-2021,under 20 years,city Kyiv,4.1
+2021,under 20 years,the city of Kyiv,4.1
 2021,,city Sevastopol,
 2022,15-17 years,Ukraine,
 2022,15-17 years,Autonomous Republic of Crimea,
@@ -235,7 +235,7 @@ Year,Age,Region,Value
 2022,15-17 years,Cherkasy,
 2022,15-17 years,Chernivtsi,
 2022,15-17 years,Chernihiv,
-2022,15-17 years,city Kyiv,
+2022,15-17 years,the city of Kyiv,
 2022,15-17 years,city Sevastopol,
 2023,15-17 years,Ukraine,
 2023,15-17 years,Autonomous Republic of Crimea,
@@ -263,7 +263,7 @@ Year,Age,Region,Value
 2023,15-17 years,Cherkasy,
 2023,15-17 years,Chernivtsi,
 2023,15-17 years,Chernihiv,
-2023,15-17 years,city Kyiv,
+2023,15-17 years,the city of Kyiv,
 2023,15-17 years,city Sevastopol,
 2024,15-17 years,Ukraine,
 2024,15-17 years,Autonomous Republic of Crimea,
@@ -291,5 +291,5 @@ Year,Age,Region,Value
 2024,15-17 years,Cherkasy,
 2024,15-17 years,Chernivtsi,
 2024,15-17 years,Chernihiv,
-2024,15-17 years,city Kyiv,
+2024,15-17 years,the city of Kyiv,
 2024,15-17 years,city Sevastopol,

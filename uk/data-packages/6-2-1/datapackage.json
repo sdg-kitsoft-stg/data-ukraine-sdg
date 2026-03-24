@@ -40,6 +40,17 @@
             "title": "Місцевість проживання"
           },
           {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "вікові групи",
+                ""
+              ]
+            },
+            "title": "Вікові групи"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -1,4 +1,4 @@
-Year,by types of economic activity,by the organisational and legal forms,Region,Number of employees,Value
+Year,Types of economic activity,by the organisational and legal forms,Region,Number of employees,Value
 2015,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2015,growing of rice,,,,
 2015,"growing of vegetables and melons, roots and tubers",,,,
@@ -710,7 +710,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2015,,,Cherkasy,,
 2015,,,Chernivtsi,,
 2015,,,Chernihiv,,
-2015,,,city Kyiv,,
+2015,,,the city of Kyiv,,
 2015,,,city Sevastopol,,
 2016,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2016,growing of rice,,,,
@@ -1423,7 +1423,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2016,,,Cherkasy,,
 2016,,,Chernivtsi,,
 2016,,,Chernihiv,,
-2016,,,city Kyiv,,
+2016,,,the city of Kyiv,,
 2016,,,city Sevastopol,,
 2017,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2017,growing of rice,,,,
@@ -2136,7 +2136,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2017,,,Cherkasy,,
 2017,,,Chernivtsi,,
 2017,,,Chernihiv,,
-2017,,,city Kyiv,,
+2017,,,the city of Kyiv,,
 2017,,,city Sevastopol,,
 2018,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2018,growing of rice,,,,
@@ -2849,7 +2849,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2018,,,Cherkasy,,
 2018,,,Chernivtsi,,
 2018,,,Chernihiv,,
-2018,,,city Kyiv,,
+2018,,,the city of Kyiv,,
 2018,,,city Sevastopol,,
 2018,,,city Sevastopol,,
 2019,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
@@ -3563,7 +3563,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2019,,,Cherkasy,,
 2019,,,Chernivtsi,,
 2019,,,Chernihiv,,
-2019,,,city Kyiv,,
+2019,,,the city of Kyiv,,
 2019,,,city Sevastopol,,
 2020,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2020,growing of rice,,,,
@@ -4276,7 +4276,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2020,,,Cherkasy,,
 2020,,,Chernivtsi,,
 2020,,,Chernihiv,,
-2020,,,city Kyiv,,
+2020,,,the city of Kyiv,,
 2020,,,city Sevastopol,,
 2021,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.4
 2021,growing of rice,,,,18.2
@@ -4993,7 +4993,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2021,,,Cherkasy,,35.5
 2021,,,Chernivtsi,,32.2
 2021,,,Chernihiv,,36.4
-2021,,,city Kyiv,,30.6
+2021,,,the city of Kyiv,,30.6
 2021,,,city Sevastopol,,
 2022,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.2
 2022,growing of rice,,,,21.7
@@ -5710,7 +5710,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2022,,,Cherkasy,,35.6
 2022,,,Chernivtsi,,32.5
 2022,,,Chernihiv,,36.7
-2022,,,city Kyiv,,30.6
+2022,,,the city of Kyiv,,30.6
 2022,,,city Sevastopol,,
 2023,"growing of cereals (except rice), leguminous crops and oil seeds",,,,18.9
 2023,growing of rice,,,,12.5
@@ -6427,7 +6427,7 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2023,,,Cherkasy,,35.8
 2023,,,Chernivtsi,,33.1
 2023,,,Chernihiv,,37.2
-2023,,,city Kyiv,,30.8
+2023,,,the city of Kyiv,,30.8
 2023,,,city Sevastopol,,
 2024,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.3
 2024,growing of rice,,,,10.0
@@ -7144,5 +7144,5 @@ Year,by types of economic activity,by the organisational and legal forms,Region,
 2024,,,Cherkasy,,35.9
 2024,,,Chernivtsi,,34.0
 2024,,,Chernihiv,,38.1
-2024,,,city Kyiv,,32.4
+2024,,,the city of Kyiv,,32.4
 2024,,,city Sevastopol,,

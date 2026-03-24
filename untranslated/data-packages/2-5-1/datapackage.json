@@ -15,10 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "by reasons",
-            "type": "number",
+            "name": "reasons_ land",
+            "type": "string",
             "constraints": {
               "enum": [
+                "reasons_1",
                 ""
               ]
             }

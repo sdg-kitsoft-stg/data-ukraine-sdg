@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "17_sugar",
-                "18_oil",
+                "18_oil_1",
                 "corn",
                 "barley",
                 "wheat",

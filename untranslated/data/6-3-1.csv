@@ -55,7 +55,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2015,,,32_reg_Cherkasy,5.958
 2015,,,33_reg_Chernivtsi,2.268
 2015,,,34_reg_Chernihiv,4.968
-2015,,,35_reg_Kyiv_city,20.96
+2015,,,Kyiv_city,20.96
 2015,,,city_Sevastopol,
 2016,,,,698.3
 2016,,azov_river_basin_area,,168.1
@@ -113,7 +113,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2016,,,32_reg_Cherkasy,7.318
 2016,,,33_reg_Chernivtsi,1.932
 2016,,,34_reg_Chernihiv,6.272
-2016,,,35_reg_Kyiv_city,19.73
+2016,,,Kyiv_city,19.73
 2016,,,city_Sevastopol,
 2017,,,,997.3
 2017,,azov_river_basin_area,,190.5
@@ -171,7 +171,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2017,,,32_reg_Cherkasy,4.486
 2017,,,33_reg_Chernivtsi,1.871
 2017,,,34_reg_Chernihiv,13.94
-2017,,,35_reg_Kyiv_city,284.3
+2017,,,Kyiv_city,284.3
 2017,,,city_Sevastopol,
 2018,,,,952.0
 2018,,azov_river_basin_area,,175.5
@@ -229,7 +229,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2018,,,32_reg_Cherkasy,7.171
 2018,,,33_reg_Chernivtsi,1.89
 2018,,,34_reg_Chernihiv,15.57
-2018,,,35_reg_Kyiv_city,283.3
+2018,,,Kyiv_city,283.3
 2018,,,city_Sevastopol,
 2019,,,,737.2
 2019,,azov_river_basin_area,,34.2
@@ -287,7 +287,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2019,,,32_reg_Cherkasy,2.854
 2019,,,33_reg_Chernivtsi,1.366
 2019,,,34_reg_Chernihiv,14.1
-2019,,,35_reg_Kyiv_city,287.4
+2019,,,Kyiv_city,287.4
 2019,,,city_Sevastopol,
 2020,,,,518.351
 2020,,azov_river_basin_area,,17.899
@@ -345,7 +345,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2020,,,32_reg_Cherkasy,3.203
 2020,,,33_reg_Chernivtsi,1.697
 2020,,,34_reg_Chernihiv,10.777
-2020,,,35_reg_Kyiv_city,16.488
+2020,,,Kyiv_city,16.488
 2020,,,city_Sevastopol,
 2021,,,,543.093
 2021,,azov_river_basin_area,,29.894
@@ -403,7 +403,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2021,,,32_reg_Cherkasy,4.134
 2021,,,33_reg_Chernivtsi,1.376
 2021,,,34_reg_Chernihiv,14.506
-2021,,,35_reg_Kyiv_city,16.259
+2021,,,Kyiv_city,16.259
 2021,,,city_Sevastopol,
 2022,,,,374.027
 2022,,azov_river_basin_area,,
@@ -461,7 +461,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2022,,,32_reg_Cherkasy,3.668
 2022,,,33_reg_Chernivtsi,1.061
 2022,,,34_reg_Chernihiv,0.742
-2022,,,35_reg_Kyiv_city,15.228
+2022,,,Kyiv_city,15.228
 2022,,,city_Sevastopol,
 2023,,,,375.647
 2023,,azov_river_basin_area,,
@@ -519,7 +519,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2023,,,32_reg_Cherkasy,3.566
 2023,,,33_reg_Chernivtsi,1.551
 2023,,,34_reg_Chernihiv,0.648
-2023,,,35_reg_Kyiv_city,12.932
+2023,,,Kyiv_city,12.932
 2023,,,city_Sevastopol,
 2024,,,,328.621
 2024,,azov_river_basin_area,,
@@ -577,5 +577,5 @@ Year,Type of economic activity,By river basins,Region,Value
 2024,,,32_reg_Cherkasy,3.483
 2024,,,33_reg_Chernivtsi,1.716
 2024,,,34_reg_Chernihiv,1.161
-2024,,,35_reg_Kyiv_city,12.361
+2024,,,Kyiv_city,12.361
 2024,,,city_Sevastopol,
