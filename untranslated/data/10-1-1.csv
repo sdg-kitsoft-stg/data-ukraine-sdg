@@ -27,7 +27,7 @@ Year,Region,Category,Value
 2015,32_reg_Cherkasy,,0.204
 2015,33_reg_Chernivtsi,,0.209
 2015,34_reg_Chernihiv,,0.183
-2015,35_reg_Kyiv_city,,0.26
+2015,Kyiv_city,,0.26
 2015,city_Sevastopol,,
 2016,,,0.22
 2016,,urban,0.226
@@ -57,7 +57,7 @@ Year,Region,Category,Value
 2016,32_reg_Cherkasy,,0.189
 2016,33_reg_Chernivtsi,,0.19
 2016,34_reg_Chernihiv,,0.193
-2016,35_reg_Kyiv_city,,0.291
+2016,Kyiv_city,,0.291
 2016,city_Sevastopol,,
 2017,,,0.232
 2017,,urban,0.235
@@ -87,7 +87,7 @@ Year,Region,Category,Value
 2017,32_reg_Cherkasy,,0.229
 2017,33_reg_Chernivtsi,,0.207
 2017,34_reg_Chernihiv,,0.213
-2017,35_reg_Kyiv_city,,0.275
+2017,Kyiv_city,,0.275
 2017,city_Sevastopol,,
 2018,,,0.238
 2018,,urban,0.244
@@ -117,7 +117,7 @@ Year,Region,Category,Value
 2018,32_reg_Cherkasy,,0.213
 2018,33_reg_Chernivtsi,,0.183
 2018,34_reg_Chernihiv,,0.251
-2018,35_reg_Kyiv_city,,0.266
+2018,Kyiv_city,,0.266
 2018,city_Sevastopol,,
 2019,,,0.249
 2019,,urban,0.253
@@ -147,7 +147,7 @@ Year,Region,Category,Value
 2019,32_reg_Cherkasy,,0.231
 2019,33_reg_Chernivtsi,,0.228
 2019,34_reg_Chernihiv,,0.23
-2019,35_reg_Kyiv_city,,0.268
+2019,Kyiv_city,,0.268
 2019,city_Sevastopol,,
 2020,,,0.247
 2020,,urban,0.254
@@ -177,7 +177,7 @@ Year,Region,Category,Value
 2020,32_reg_Cherkasy,,0.206
 2020,33_reg_Chernivtsi,,0.223
 2020,34_reg_Chernihiv,,0.196
-2020,35_reg_Kyiv_city,,0.317
+2020,Kyiv_city,,0.317
 2020,city_Sevastopol,,
 2021,,,0.244
 2021,,urban,0.244
@@ -207,7 +207,7 @@ Year,Region,Category,Value
 2021,32_reg_Cherkasy,,0.222
 2021,33_reg_Chernivtsi,,0.201
 2021,34_reg_Chernihiv,,0.215
-2021,35_reg_Kyiv_city,,0.302
+2021,Kyiv_city,,0.302
 2021,city_Sevastopol,,
 2022,,,
 2022,,urban,
@@ -237,7 +237,7 @@ Year,Region,Category,Value
 2022,32_reg_Cherkasy,,
 2022,33_reg_Chernivtsi,,
 2022,34_reg_Chernihiv,,
-2022,35_reg_Kyiv_city,,
+2022,Kyiv_city,,
 2022,city_Sevastopol,,
 2023,,,
 2023,,urban,
@@ -267,7 +267,7 @@ Year,Region,Category,Value
 2023,32_reg_Cherkasy,,
 2023,33_reg_Chernivtsi,,
 2023,34_reg_Chernihiv,,
-2023,35_reg_Kyiv_city,,
+2023,Kyiv_city,,
 2023,city_Sevastopol,,
 2024,,,
 2024,,urban,
@@ -297,5 +297,5 @@ Year,Region,Category,Value
 2024,32_reg_Cherkasy,,
 2024,33_reg_Chernivtsi,,
 2024,34_reg_Chernihiv,,
-2024,35_reg_Kyiv_city,,
+2024,Kyiv_city,,
 2024,city_Sevastopol,,

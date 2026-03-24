@@ -23,8 +23,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 32_reg_Cherkasy,113,73
 33_reg_Chernivtsi,113,73
 34_reg_Chernihiv,113,73
-35_Kyiv_city,1,1
-35_reg_Kyiv_city,74,56
+35_reg_Kyiv_city,73,55
 41.4,1,1
 42.5,1,1
 43.5,1,1
@@ -38,7 +37,7 @@ autonomous_Republic_of_Crimea,69,56
 Center,1,1
 city_Sevastopol,69,56
 East,1,1
-Kyiv_city,18,10
+Kyiv_city,19,11
 South,1,1
 Ukraine,57,35
 West,1,1
