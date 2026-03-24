@@ -51,8 +51,8 @@ Year,Region,Category,Value
 2015,Chernivtsi,by local automated centralized warning systems,
 2015,Chernihiv,by territorial automated centralized warning systems,
 2015,Chernihiv,by local automated centralized warning systems,
-2015,the city of Kyiv,by territorial automated centralized warning systems,
-2015,the city of Kyiv,by local automated centralized warning systems,
+2015,city Kyiv,by territorial automated centralized warning systems,
+2015,city Kyiv,by local automated centralized warning systems,
 2015,city Sevastopol,by territorial automated centralized warning systems,
 2015,city Sevastopol,by local automated centralized warning systems,
 2016,,by territorial automated centralized warning systems,4.0
@@ -107,8 +107,8 @@ Year,Region,Category,Value
 2016,Chernivtsi,by local automated centralized warning systems,
 2016,Chernihiv,by territorial automated centralized warning systems,
 2016,Chernihiv,by local automated centralized warning systems,
-2016,the city of Kyiv,by territorial automated centralized warning systems,
-2016,the city of Kyiv,by local automated centralized warning systems,
+2016,city Kyiv,by territorial automated centralized warning systems,
+2016,city Kyiv,by local automated centralized warning systems,
 2016,city Sevastopol,by territorial automated centralized warning systems,
 2016,city Sevastopol,by local automated centralized warning systems,
 2017,,by territorial automated centralized warning systems,4.0
@@ -163,8 +163,8 @@ Year,Region,Category,Value
 2017,Chernivtsi,by local automated centralized warning systems,
 2017,Chernihiv,by territorial automated centralized warning systems,
 2017,Chernihiv,by local automated centralized warning systems,
-2017,the city of Kyiv,by territorial automated centralized warning systems,
-2017,the city of Kyiv,by local automated centralized warning systems,
+2017,city Kyiv,by territorial automated centralized warning systems,
+2017,city Kyiv,by local automated centralized warning systems,
 2017,city Sevastopol,by territorial automated centralized warning systems,
 2017,city Sevastopol,by local automated centralized warning systems,
 2018,,by territorial automated centralized warning systems,4.0
@@ -219,8 +219,8 @@ Year,Region,Category,Value
 2018,Chernivtsi,by local automated centralized warning systems,
 2018,Chernihiv,by territorial automated centralized warning systems,
 2018,Chernihiv,by local automated centralized warning systems,
-2018,the city of Kyiv,by territorial automated centralized warning systems,
-2018,the city of Kyiv,by local automated centralized warning systems,
+2018,city Kyiv,by territorial automated centralized warning systems,
+2018,city Kyiv,by local automated centralized warning systems,
 2018,city Sevastopol,by territorial automated centralized warning systems,
 2018,city Sevastopol,by local automated centralized warning systems,
 2019,,by territorial automated centralized warning systems,12.0
@@ -275,8 +275,8 @@ Year,Region,Category,Value
 2019,Chernivtsi,by local automated centralized warning systems,
 2019,Chernihiv,by territorial automated centralized warning systems,
 2019,Chernihiv,by local automated centralized warning systems,
-2019,the city of Kyiv,by territorial automated centralized warning systems,
-2019,the city of Kyiv,by local automated centralized warning systems,
+2019,city Kyiv,by territorial automated centralized warning systems,
+2019,city Kyiv,by local automated centralized warning systems,
 2019,city Sevastopol,by territorial automated centralized warning systems,
 2019,city Sevastopol,by local automated centralized warning systems,
 2020,,by territorial automated centralized warning systems,16.0
@@ -331,8 +331,8 @@ Year,Region,Category,Value
 2020,Chernivtsi,by local automated centralized warning systems,
 2020,Chernihiv,by territorial automated centralized warning systems,100.0
 2020,Chernihiv,by local automated centralized warning systems,
-2020,the city of Kyiv,by territorial automated centralized warning systems,
-2020,the city of Kyiv,by local automated centralized warning systems,
+2020,city Kyiv,by territorial automated centralized warning systems,
+2020,city Kyiv,by local automated centralized warning systems,
 2020,city Sevastopol,by territorial automated centralized warning systems,
 2020,city Sevastopol,by local automated centralized warning systems,
 2021,,by territorial automated centralized warning systems,16.0
@@ -387,8 +387,8 @@ Year,Region,Category,Value
 2021,Chernivtsi,by local automated centralized warning systems,
 2021,Chernihiv,by territorial automated centralized warning systems,100.0
 2021,Chernihiv,by local automated centralized warning systems,5.2
-2021,the city of Kyiv,by territorial automated centralized warning systems,
-2021,the city of Kyiv,by local automated centralized warning systems,
+2021,city Kyiv,by territorial automated centralized warning systems,
+2021,city Kyiv,by local automated centralized warning systems,
 2021,city Sevastopol,by territorial automated centralized warning systems,
 2021,city Sevastopol,by local automated centralized warning systems,
 2022,,by territorial automated centralized warning systems,16.0
@@ -443,8 +443,8 @@ Year,Region,Category,Value
 2022,Chernivtsi,by local automated centralized warning systems,
 2022,Chernihiv,by territorial automated centralized warning systems,100.0
 2022,Chernihiv,by local automated centralized warning systems,7.0
-2022,the city of Kyiv,by territorial automated centralized warning systems,
-2022,the city of Kyiv,by local automated centralized warning systems,
+2022,city Kyiv,by territorial automated centralized warning systems,
+2022,city Kyiv,by local automated centralized warning systems,
 2022,city Sevastopol,by territorial automated centralized warning systems,
 2022,city Sevastopol,by local automated centralized warning systems,
 2023,,by territorial automated centralized warning systems,20.0
@@ -499,8 +499,8 @@ Year,Region,Category,Value
 2023,Chernivtsi,by local automated centralized warning systems,
 2023,Chernihiv,by territorial automated centralized warning systems,100.0
 2023,Chernihiv,by local automated centralized warning systems,21.1
-2023,the city of Kyiv,by territorial automated centralized warning systems,
-2023,the city of Kyiv,by local automated centralized warning systems,
+2023,city Kyiv,by territorial automated centralized warning systems,
+2023,city Kyiv,by local automated centralized warning systems,
 2023,city Sevastopol,by territorial automated centralized warning systems,
 2023,city Sevastopol,by local automated centralized warning systems,
 2024,,by territorial automated centralized warning systems,32.0
@@ -555,7 +555,7 @@ Year,Region,Category,Value
 2024,Chernivtsi,by local automated centralized warning systems,
 2024,Chernihiv,by territorial automated centralized warning systems,100.0
 2024,Chernihiv,by local automated centralized warning systems,8.8
-2024,the city of Kyiv,by territorial automated centralized warning systems,
-2024,the city of Kyiv,by local automated centralized warning systems,
+2024,city Kyiv,by territorial automated centralized warning systems,
+2024,city Kyiv,by local automated centralized warning systems,
 2024,city Sevastopol,by territorial automated centralized warning systems,
 2024,city Sevastopol,by local automated centralized warning systems,

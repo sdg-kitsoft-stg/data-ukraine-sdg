@@ -29,7 +29,7 @@ Year,Type of residence,Household type,Region,Value
 2015,,,Cherkasy,9.2
 2015,,,Chernivtsi,
 2015,,,Chernihiv,8.4
-2015,,,the city of Kyiv,12.4
+2015,,,city Kyiv,12.4
 2015,,,city Sevastopol,
 2015,,,Mykolayiv,9.9
 2015,,,Khmelnytskiy,10.4
@@ -63,7 +63,7 @@ Year,Type of residence,Household type,Region,Value
 2016,,,Cherkasy,16.4
 2016,,,Chernivtsi,
 2016,,,Chernihiv,13.0
-2016,,,the city of Kyiv,16.2
+2016,,,city Kyiv,16.2
 2016,,,city Sevastopol,
 2016,,,Mykolayiv,12.2
 2016,,,Khmelnytskiy,17.8
@@ -97,7 +97,7 @@ Year,Type of residence,Household type,Region,Value
 2017,,,Cherkasy,16.7
 2017,,,Chernivtsi,
 2017,,,Chernihiv,14.1
-2017,,,the city of Kyiv,18.0
+2017,,,city Kyiv,18.0
 2017,,,city Sevastopol,
 2017,,,Mykolayiv,13.6
 2017,,,Khmelnytskiy,17.6
@@ -131,7 +131,7 @@ Year,Type of residence,Household type,Region,Value
 2018,,,Cherkasy,13.6
 2018,,,Chernivtsi,
 2018,,,Chernihiv,12.5
-2018,,,the city of Kyiv,16.1
+2018,,,city Kyiv,16.1
 2018,,,city Sevastopol,
 2018,,,Mykolayiv,11.7
 2018,,,Khmelnytskiy,14.0
@@ -165,7 +165,7 @@ Year,Type of residence,Household type,Region,Value
 2019,,,Cherkasy,13.0
 2019,,,Chernivtsi,
 2019,,,Chernihiv,11.0
-2019,,,the city of Kyiv,15.7
+2019,,,city Kyiv,15.7
 2019,,,city Sevastopol,
 2019,,,Mykolayiv,10.8
 2019,,,Khmelnytskiy,11.0
@@ -199,7 +199,7 @@ Year,Type of residence,Household type,Region,Value
 2020,,,Cherkasy,11.8
 2020,,,Chernivtsi,
 2020,,,Chernihiv,10.1
-2020,,,the city of Kyiv,18.0
+2020,,,city Kyiv,18.0
 2020,,,city Sevastopol,
 2020,,,Mykolayiv,11.7
 2020,,,Khmelnytskiy,10.3
@@ -233,7 +233,7 @@ Year,Type of residence,Household type,Region,Value
 2021,,,Cherkasy,12.4
 2021,,,Chernivtsi,
 2021,,,Chernihiv,11.0
-2021,,,the city of Kyiv,17.3
+2021,,,city Kyiv,17.3
 2021,,,city Sevastopol,
 2021,,,Mykolayiv,13.4
 2021,,,Khmelnytskiy,12.5

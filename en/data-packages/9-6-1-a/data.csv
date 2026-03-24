@@ -224,15 +224,15 @@ Year,Type of residence,Region,Value
 2021,,Chernihiv,44.0
 2022,,Chernihiv,43.0
 2023,,Chernihiv,47.0
-2015,,the city of Kyiv,
-2016,,the city of Kyiv,
-2017,,the city of Kyiv,
-2018,,the city of Kyiv,
-2019,,the city of Kyiv,78.0
-2020,,the city of Kyiv,86.0
-2021,,the city of Kyiv,86.0
-2022,,the city of Kyiv,84.0
-2023,,the city of Kyiv,92.0
+2015,,city Kyiv,
+2016,,city Kyiv,
+2017,,city Kyiv,
+2018,,city Kyiv,
+2019,,city Kyiv,78.0
+2020,,city Kyiv,86.0
+2021,,city Kyiv,86.0
+2022,,city Kyiv,84.0
+2023,,city Kyiv,92.0
 2015,urban,,
 2016,urban,,
 2017,urban,,
@@ -458,15 +458,15 @@ Year,Type of residence,Region,Value
 2021,urban,Chernihiv,54.0
 2022,urban,Chernihiv,54.0
 2023,urban,Chernihiv,55.0
-2015,urban,the city of Kyiv,
-2016,urban,the city of Kyiv,
-2017,urban,the city of Kyiv,
-2018,urban,the city of Kyiv,
-2019,urban,the city of Kyiv,78.0
-2020,urban,the city of Kyiv,86.0
-2021,urban,the city of Kyiv,86.0
-2022,urban,the city of Kyiv,84.0
-2023,urban,the city of Kyiv,92.0
+2015,urban,city Kyiv,
+2016,urban,city Kyiv,
+2017,urban,city Kyiv,
+2018,urban,city Kyiv,
+2019,urban,city Kyiv,78.0
+2020,urban,city Kyiv,86.0
+2021,urban,city Kyiv,86.0
+2022,urban,city Kyiv,84.0
+2023,urban,city Kyiv,92.0
 2015,rural,,
 2016,rural,,
 2017,rural,,
@@ -692,12 +692,12 @@ Year,Type of residence,Region,Value
 2021,rural,Chernihiv,30.0
 2022,rural,Chernihiv,27.0
 2023,rural,Chernihiv,34.0
-2015,rural,the city of Kyiv,
-2016,rural,the city of Kyiv,
-2017,rural,the city of Kyiv,
-2018,rural,the city of Kyiv,
-2019,rural,the city of Kyiv,
-2020,rural,the city of Kyiv,
-2021,rural,the city of Kyiv,
-2022,rural,the city of Kyiv,
-2023,rural,the city of Kyiv,
+2015,rural,city Kyiv,
+2016,rural,city Kyiv,
+2017,rural,city Kyiv,
+2018,rural,city Kyiv,
+2019,rural,city Kyiv,
+2020,rural,city Kyiv,
+2021,rural,city Kyiv,
+2022,rural,city Kyiv,
+2023,rural,city Kyiv,
