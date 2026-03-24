@@ -1,11 +1,8 @@
 Percentage: percentage
 min_day: minutes per day
-
 Fund: Sources of funding
 state: national budget
-
 1_Level: Level
-
 1_health: Health care facilities
 2_educational: Educational institutions
 3_soc_prot: Structural subdivisions on social protection issues
@@ -16,10 +13,8 @@ state: national budget
 8_pension: Institutions of the pension fund
 9_civ_prot: Civil protection structures
 99_judge: Judge
-
 1_free: barrier-free,%
 2_part: partially barrier-free,%
-
 Component: Сomponent of the index
 com_1_cohension: social cohesion and sense of ownership
 com_2_tolerance: tolerance and socially responsible citizenship
@@ -38,7 +33,6 @@ com_14_dialog_gr: readiness for dialogue with different groups
 com_15_belief_changes: the belief that everyone can influence changes in the country
 com_16_soc_tolerance: social tolerance
 com_17_active_position: active civic position
-
 1_hectares: Demined area, hectares
 2_roads: сleared roads, km
 3_railways: сleared railways, km
@@ -46,7 +40,6 @@ com_17_active_position: active civic position
 2_trans: State Special Transport Service
 3_emerg: State Emergency Service of Ukraine
 4_ngo: Mine action operators
-
 art_1_262: Stealing, misappropriation, extortion of firearms, ammunition, explosives or radioactive materials, or acquisition by fraud or abuse of office, Art. 262
 art_2_263: Illegal handling of weapons, ammunition or explosives, Art. 263
 art_3_263_1: Illegal manufacture, processing or repair of firearms, or tampering, illegal removal or alteration of their marking, or illicit manufacture of ammunition, explosives or explosive devices, Art. 263-1
@@ -55,61 +48,49 @@ Ammunition: Type of ammunition
 2_am_grenades: grenades
 3_am_mines: mines
 4_am_devic: improvised explosive devices
-
 Type_weapon: Type of weapons
 weap_1_bore: smooth-bore
 weap_2_rifled: rifled
 weap_3_oth: other firearms
 weap_4_grenade: grenade launchers and rocket systems
 weap_5_cold: cold weapons
-
 1_pop: population
 2_particip: participants in court proceedings
 3_exper: experts (attorneys, lawyers)
-
 1_vic_100: Victims of criminal offenses (per 100 thousand population)
 2_vic_tot: Victims of criminal offenses (Art. 152), total
 2_vic_149: Victims of criminal offenses (Art. 149), total
-
 1_vict_per_100: Victims of criminal offenses (per 100 thousand population)
 2_vict_all: Victims of criminal offenses (total)
-
 1_total: Total criminal offenses (number)
 2_per_100: Per 100 thousand population
-
 1_all: all
 2_females: females
 3_adolescents: adolescents
 4_young: young (under 14)
-
 1_art_all: total number of victims of criminal offenses, Аrt. of CCU
 2_art_115_118: intentional homicide (and relevant attempts), Аrticles 115-118
 3_art_152: rape (and relevant attempts), Аrt. 152
 4_art_121: intentional grievous bodily harm, Аrt. 121
 5_art_149: human trafficking or other illicit transactions involving the transfer of human beings, Аrt. 149
-
-Article: Article of the Criminal Code of Ukraine 
+Article: Article of the Criminal Code of Ukraine
 art_1_115: Intentional homicide, Art. 115
 art_2_116: Intentional homicide committed in a state of intense emotional excitement, Art. 116
 art_3_117: Intentional murder of a newborn by mother, Art. 117
 art_4_118: Intentional homicide committed while exceeding the limits of necessary defense or measures necessary to apprehend the the person who committed the criminal offense, Art. 118
 art_5_121: Intentional grievous bodily harm, Art. 121
-
 zone_1_polis: Polissya
 zone_2_fores_st: Forest-steppe
 zone_3_st: Steppe
-
 GHG_ratio: Ratio of GHG emissions to 1990 level
 GHG_1_all: all
 GHG_2_types: by main types of sources, including road transport
-
 Res_inten: Resource intensity of GDP
 int_1_energy: GDP energy intensity
 int_2_mater: GDP material intensity
 int_3_carbon: GDP carbon intensity
 int_4_water: GDP water intensity
 int_5_waste: GDP waste intensity
-
 pol_11_dust: suspended matter (dust)
 pol_12_sulfur: sulfur dioxide
 pol_13_carbon: carbon monoxide
@@ -120,14 +101,12 @@ pol_17_soot: soot
 pol_18_hydrogen: hydrogen fluoride
 pol_19_ammonia: ammonia
 pol_20_form: formaldehyde
-
 inherit: Type of inheritance
 strategy: Сomponents of regional strategy
-10_phase: Regional strategy 
+10_phase: Regional strategy
 11_phase: Regional strategy and action plan for the implementation of the regional strategy (first phase)
 12_phase: Regional strategy and action plan for the implementation of the regional strategy (second phase)
 number: number of regions
-
 11_ext_quar: mining and quarrying
 12_ext_coal: extraction of hard coal and brown coal
 13_ext_oil: extraction of crude oil and natural gas
@@ -191,7 +170,6 @@ number: number of regions
 71_architecture_testing: Architectural and engineering activities; technical testing and analysis
 72_research: Scientific research and development
 73_advertising: Advertising and market research
-
 m_trans: Mode of transport
 tr_1_rail: rail
 tr_2_motor: motor
@@ -203,13 +181,11 @@ tr_6_air: air
 tr_7_tram: by trams
 tr_8_trolley: by trolleybuses
 tr_9_subway: by subway trains
-
 tr_1_land_pipe: Land and pipeline transport
 tr_2_warer: Water transport
 tr_3_air_tr: Air transport
 tr_4_ware: Warehousing and auxiliary transport activities
-tr_5_post: Post and courier services 
-
+tr_5_post: Post and courier services
 1_agr_and_rel: Agriculture and related services
 2_indus: Industry
 3_mining: Mining and quarrying
@@ -219,7 +195,6 @@ tr_5_post: Post and courier services
 7_constr: Construction
 8_trans_act: Transport, warehousing, postal and courier activities
 9_telec: Telecommunications
-
 inc_11_coal: hard coal and brown coal extraction
 inc_12_food: manufacture of food, beverages and tobacco products
 inc_13_leather: textile manufacturing, manufacture of clothing, leather, leather goods and other materials
@@ -230,31 +205,27 @@ inc_17_pharma: manufacture of main pharmaceutical products and preparations
 inc_18_plastic: manufacture of rubber and plastic products, other non-metallic mineral products
 inc_19_metall: metallurgical manufacturing, manufacture of fabricated metal products, except machinery and equipment
 inc_20_pc: manufacture of computers, electronic and optical products
-inc_21_electro: manufacture of electrical equipment 
+inc_21_electro: manufacture of electrical equipment
 inc_22_machinery: manufacture of machinery and equipment, not elsewhere classified
 inc_23_motor: manufacture of motor vehicles, trailers and semi-trailers and other vehicles
 inc_24_furn: manufacture of furniture, other products, repair and installation of machinery and equipment
-
 electr_1_supply: Supply of electricity to the grid
 kWh: million kWh
 per: percentage
-electr_2_pr_supply: Productive supply of electricity to the grid 
+electr_2_pr_supply: Productive supply of electricity to the grid
 electr_3_act_value: Reported actual value of technological electric power consumption
 1_norm_val: normative value of technological electric power consumption
 2_exc_val: excess value of technological electric power consumption
-electr_4_tech_cons: Technological electric power consumption in distribution system 
-
+electr_4_tech_cons: Technological electric power consumption in distribution system
 Sou_en: Source of energy
 en_1_coal: coal (2701)
 en_2_petrol: petroleum (2709)
 en_3_gas: natural gas (271121)
-
 Cost_train: Cost of training a specialist
 1_per_student: average costs per one given student, UAH
 2_per_student_job: average costs per one graduated student, who studies without separation from production, UAH
 3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
 4_per_doctoral: average costs per one doctoral student, UAH
-
 age_0_5: 0-5 years
 age_6_17: 6-17 years
 age_0_17: 0-17 years old inclusive
@@ -262,17 +233,15 @@ age_18_plus: 18 years and older
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
 age_36_60: from 36 years to 60 years inclusive
-
 age_1_18_35: 18-35 years
 age_2_36_60: 36-60 years
 age_2_61_64: 61-64 years
 age_2_65_70: 65-70 years
 under_35: under 35 years
 age_3_61: 61 years and older
-
 age_16_17: 16-17 years
-age_18_34: 18-34 years
-age_35_59: 35-59 years
+age_18_34: 18–34 years
+age_35_59: 35–59 years
 age_60: 60 years and older
 age_65_plus: 65 years and older
 age_65: 65 years
@@ -313,15 +282,12 @@ aged_17: 17 years
 aged_18: 18 years
 aged_19: 19 years
 aged_20_under: up to 20 years
-
 age_under20: under 20 years
 age_under15: under 15 years
-
 cat_A: A
 cat_B: B
 cat_C: C
 Cat: Category
-
 Sex: Sex
 Sex of the head of household: Sex of the head of household
 males: men
@@ -330,7 +296,6 @@ mal: men
 femal: women
 women: women
 men: men
-
 CouncilLevel: by level of councils
 regional_councils: regional councils
 district_councils: district councils
@@ -338,7 +303,6 @@ city_councils: city councils (including Kyiv City council)
 district_councils_in_cities: district councils in cities
 settlement_councils: settlement councils
 village_councils: village councils
-
 Level: Levels of academic achievement
 Level_ed: Level of education
 1_level: 1st_level (basic, 0-3 points)
@@ -351,14 +315,11 @@ Level_ed: Level of education
 4_prof_ed: Professional and technical
 5_comp_aver: Complete total average
 6_bas_ed: Basic, elementary general or no education
-
 urban_settl: urban settlement
 village_: settlement, village
-
 Households: Household type
 hh_ch: households/families with children
 hh_ch_0: households/families without children
-
 Decile groups: Decile groups of income
 dg_01: 1st group (low income)
 dg_02: 2nd group
@@ -370,7 +331,6 @@ dg_07: 7th group
 dg_08: 8th group
 dg_09: 9th group
 dg_10: 10th group (high income)
-
 11_reg_Vinnytsya: Vinnytsya
 12_reg_Volyn: Volyn
 13_reg_Dnipropetrovsk: Dnipropetrovsk
@@ -399,15 +359,12 @@ dg_10: 10th group (high income)
 autonomous_Republic_of_Crimea: Autonomous Republic of Crimea
 city_Sevastopol: city Sevastopol
 Kyiv_city: city Kyiv
-
 farms_1_all: Farms of all categories
 farms_2_enterprise: Enterprises
 farms_3_household: Households
-
 prod_1_agri: agricultural products
 prod_2_crop: crop products
 prod_3_livestock: livestock products
-
 age_vac_1_under 1 year: under 1 year
 age_vac_2_1 year: 1 year
 age_vac_3_18 months: 18 months
@@ -415,7 +372,6 @@ age_vac_4_6 years: 6 years
 age_vac_5_14 years: 14 years
 age_vac_6_16 years: 16 years
 age_vac_7_adult: adults
-
 prod_1_meat: Production of meat and meat products
 prod_2_fish: Processing and preserving of fish, crustaceans and molluscs
 prod_3_fru_veg: Processing and preserving of fruits and vegetables
@@ -432,7 +388,6 @@ prod_13_cocoa: Production of cocoa, chocolate and sugar confectionery
 prod_14_tea: Production of tea and coffee
 prod_15_spices: Production of spices and seasonings
 prod_16_not_else: Production of other food products not elsewhere classified
-
 11_bread: bread and bakery products
 12_meat: meat and meat products
 13_milk: milk
@@ -442,7 +397,6 @@ prod_16_not_else: Production of other food products not elsewhere classified
 17_sugar: sugar
 18_oil: sunflower oil
 19_eggs: eggs
-
 Ec_activ: Еconomic activity
 s_11_indu: industry
 s_12_agri: agriculture
@@ -456,7 +410,6 @@ s_19_resid: residential sector
 s_20_care: health care, physical education
 s_21_pub_ed: public education
 s_22_oth_sec: other sectors
-
 12_indu: industry
 11_agricul: agriculture, forestry and fisheries
 11_1_agricul: agriculture, forestry and fisheries
@@ -475,10 +428,8 @@ s_22_oth_sec: other sectors
 25_arts: arts, sports, entertainment and recreation
 26_other_serv: provision of other services
 26_1_other_serv: provision of other services
-
 1_tr_road: Road transport used by road hauliers
-2_tr_urban: Urban electric transport 
-
+2_tr_urban: Urban electric transport
 ill_1_tub: Tuberculosis
 ill_2_hep: Hepatitis B
 ill_3_m_m_r: Measles, mumps, rubella
@@ -486,7 +437,6 @@ ill_4_diph: Diphtheria, tetanus
 ill_5_pert: Pertussis
 ill_6_polio: Poliomyelitis
 ill_7_hib: Hib infection
-
 Generation: Electricity generation
 el_1_power: Power generating companies of TPP
 el_2_CHP: TPP and cogeneration units
@@ -495,27 +445,22 @@ el_4_PSP: HAPP
 el_5_NPP: NPP
 el_6_plants: Block stations
 el_7_alternative: Alternative energy sources (WPS, SPS, Biomass)
-
 Reason of disability: Reason of obtaining disability
 war_actions: as a result of military action
-since_childhood:  since childhood
-
+since_childhood: since childhood
 Cause of death: Causes of mortality
 Form of rehabilitation assistance: Forms of rehabilitation assistance
-
 Infectious diseases: Infectious diseases
 ill_8_mumps: Mumps
 ill_9_rubella: Rubella
 ill_10_tetanus: Tetanus
 ill_10_haemophilic_infection: Haemophilus infection
-
 age_vac_1_under_1_year: under 1 year
 age_vac_2_1_year: 1 year
 age_vac_3_18_months: 18 months
 age_vac_4_6_years: 6 years
 age_vac_5_14_years: 14 years
 age_vac_6_16_years: 16 years
-
 Subject: Subject
 reading: reading
 math: mathematics
@@ -524,7 +469,6 @@ math_grade6: mathematics 6th grade
 math_grade8: mathematics 8th grade
 ukr_grade6: Ukrainian language 6th grade
 ukr_grade8: Ukrainian language 8th grade
-
 School type: by type of educational institution
 lyceum_gymnasium_specialized: lyceum / gymnasium / specialized school
 general_school_complex: secondary school / educational complex
@@ -533,36 +477,27 @@ lyceum: lyceum
 gymnasium: gymnasium
 other_institution: others
 specialized_school: specialized school
-
 SES: by socioeconomic status
 low_ses: pupils with low socioeconomic status (25% of pupils with the lowest scores on the PISA Economic Socioeconomic Status Index (ESCS))
 high_ses: pupils with high socioeconomic status (25% of pupils with the highest scores on the PISA Economic Socioeconomic Status Index (ESCS))
-
 Type of educational institution: by type of educational institution
 gsei: general secondary educational institutions (GSEI)
 pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
 ippte: institutions of professional pre-tertiary education (IPPTE)
 other_2: other institutions 2
-
 For reference: 'For reference: the legally established minimum subsistence level per month on average per person, UAH'
-
 Sources of funding: by sources of funding
 state_source: from the state budget
 individuals_legal: funds of individuals and legal entities
-
 direct_obstetric_causes: directly related to obstetric causes
 indirect_obstetric_causes: indirectly related to obstetric causes
-
 Land purpose: by land purpose
 arable_land: arable land
-
 outpatient: outpatient
 stationary: stationary
-
 books_and_materials: participants who have printed books and other materials needed for learning
 own_room: having your own space (room or workspace)
-
-Specialty:
+Specialty: null
 spec_101: Ecology
 spec_102: Chemistry
 spec_103: Earth sciences
@@ -624,16 +559,14 @@ spec_273: Air transport
 spec_274: Railway transport
 spec_275: Road transport
 spec_276: Transport technologies
-
 EducationInternetType: by type of educational institution
-preschool_wired_gt30: "Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access"
-preschool_wireless_gt30: "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access"
-preschool_wired_or_wireless_gt30: "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access"
-secondary_internet_any_speed: "General secondary educational institutions with Internet access (without specifying the speed)"
-secondary_wired_gt30: "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access"
-secondary_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access"
-secondary_wired_or_wireless_gt30: "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access"
-
+preschool_wired_gt30: Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access
+preschool_wireless_gt30: Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access
+preschool_wired_or_wireless_gt30: Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access
+secondary_internet_any_speed: General secondary educational institutions with Internet access (without specifying the speed)
+secondary_wired_gt30: General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access
+secondary_wireless_gt30: General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access
+secondary_wired_or_wireless_gt30: General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access
 Category_type: Type
 status: by status
 sphere: by sphere
@@ -643,7 +576,6 @@ teacher_professional_pre_tertiary: pedagogical workers of institution of profess
 academic_staff_tertiary: scientific-pedagogical workers of tertiary educational institution
 professional_pre_tertiary_education: professional pre-tertiary education
 tertiary_education: tertiary education
-
 Education Level: by levels (degrees) of education
 edu_fakhovyy_junior_bachelor: professional junior bachelor
 edu_junior: junior specialist
@@ -652,16 +584,13 @@ edu_bachelor: bachelor
 edu_specialist: specialist
 edu_master: master
 edu_doctor_of_philosophy: doctor of philosophy
-
 girls: girls
 boys: boys
-
 CourtLevel: Ratio of women to men among
 local_courts: local courts
 appellate_courts: appellate courts
 higher_specialized_courts: higher specialized courts
 supreme_court: Supreme Court
-
 farm: Farm
 private_enterprise: Private enterprise
 collective_enterprise: Collective enterprise
@@ -844,7 +773,7 @@ A105: manufacture of footwear
 A106: sawmilling and planing of wood
 A107: manufacture of veneer sheets and wood-based panels
 A108: manufacture of assembled parquet floors
-A109: manufacture of other builders' carpentry and joinery
+A109: manufacture of other builders\' carpentry and joinery
 A110: manufacture of wooden containers
 A111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 A112: manufacture of pulp
@@ -1347,15 +1276,12 @@ A608: activities of households as producers of goods for own consumption
 A609: activities of households as producers of services for own consumption
 A610: activities of extraterritorial organizations and bodies
 A611: no code for NACE Rev.2
-
 volume_of_waste_per_person: Volume of generated waste per person, kilograms
 hazardous_waste: hazardous waste
 non_hazardous_waste: non-hazardous waste
-
 By safety: Safety
 Organisation and legal forms: by the organisational and legal forms
 Type of economic activity: by types of economic activity
-
 accounting_bookkeeping_and_auditing_activities_tax_consultancy: accounting, bookkeeping and auditing activities; tax consultancy
 activities_in_the_field_of_compulsory_social_insurance: activities in the field of compulsory social insurance
 activities_in_the_field_of_defense: activities in the field of defense
@@ -1985,299 +1911,293 @@ social_insurance_funds: Social insurance funds
 state_joint_stock_company_company: State joint stock company (company)
 state_run_enterprise: State-run enterprise
 state_run_organisation_establishment_institution: State-run organisation (establishment, institution)
-
 WaterType: By type of indicators
 microbiological: microbiological indicators
 sanitary_chemical: sanitary and chemical indicators
 radiation: radiation indicators
-
 SupplyType: Type of water supply
 urban_pipelines: urban water pipelines
 rural_pipelines: rural water pipelines
 centralized_1: centralized water supply
 non_centralized_1: non-centralized water supply
-  
 energy_intensity_of_the_gross_domestic_product: energy intensity of the gross domestic product
 material_intensity_of_the_gross_domestic_product: material intensity of the gross domestic product
 carbon_intensity_of_the_gross_domestic_product: carbon intensity of the gross domestic product
 water_intensity_of_the_gross_domestic_product: water intensity of the gross domestic product
 waste_intensity_of_the_gross_domestic_product: waste intensity of the gross domestic product
-
 By level of education: Level of education
 primary_level_of_education: primary
 basic_secondary_level_of_education: basic secondary
 profile_level_of_education: profile secondary
-
-group_1: "Concentration of major pollutants in seawater by substance, milligrams per cubic meter"
-group_label_1: 'Cadmium and its compounds'
-group_label_2: 'Lead and its compounds'
-group_label_3: 'Mercury and its compounds'
-group_label_4: 'Nickel and its compounds'
-group_label_5: 'Arsenic (As)'
-group_label_6: 'Chromium (Cr)'
-group_label_7: 'Copper (Cu)'
-group_label_8: 'Zinc (Zn)'
-group_label_9: 'Cobalt (Co)'
-group_label_10: 'Vanadium'
-group_label_11: 'Molybdenum'
-group_label_12: 'Iron'
-group_label_13: 'Tributyltin oxide'
-group_label_14: 'Anthracene'
-group_label_15: 'Benzene'
-group_label_16: 'Sum Brominated diphenylethers'
-group_label_17: 'C10-13 Chloroalkanes'
-group_label_18: '1,2-Dichloroethane'
-group_label_19: 'Dichloromethane'
-group_label_20: 'Di(2-ethylhexyl)-phthalate (DEHP)'
-group_label_21: 'Fluoranthene'
-group_label_22: 'Hexachlorobutadiene'
-group_label_23: 'Naphthalene'
-group_label_24: 'Sum Phenol, 4-nonyl-, branched'
-group_label_25: 'Sum (4-(1,1,3,3- tetramethyl- butyl)-phenol, 4-Octylphenol)'
-group_label_26: 'Pentachlorobenzene'
-group_label_27: 'Pentachlorophenol'
-group_label_28: 'Phenols (sum volatile )'
-group_label_29: 'Monochlor Phenol'
-group_label_30: 'Dichlorophenol'
-group_label_31: 'Trichlorophenol'
-group_label_32: 'Tetrachlorophenol'
-group_label_33: 'Chlorophenol (sum)'
-group_label_34: 'Benzo(a)pyrene'
-group_label_35: 'Benzo(b)fluoranthene'
-group_label_36: 'Benzo(g,h,i)perylene'
-group_label_37: 'Benzo(k)fluoranthene'
-group_label_38: 'Indeno(1,2,3cd)-pyrene'
-group_label_39: 'benz(a)anthracene'
-group_label_40: 'Сhrysene'
-group_label_41: 'Phenanthrene'
-group_label_42: 'Tributyltin compounds (Tributyltin-cation)'
-group_label_43: 'Trichlorobenzenes'
-group_label_44: 'Trichloromethane'
-group_label_45: 'Dicofol'
-group_label_46: 'Perfluorooctane sulfonic acid and its derivatives (PFOS)'
-group_label_47: '2,3,3,4,4,5-Hexachlorobiphenyl (PCB156)'
-group_label_48: '2,3,4,4,5-Pentachlorobiphenyl (PCB118)'
-group_label_49: '3,4,5,3,4-Pentachlorobiphenyl (PCB126)'
-group_label_50: 'Sum Hexabromocyclododecane isomers'
-group_label_51: '2,2,3,4,4,5,5-Heptachlorobiphenyl (PCB180)'
-group_label_52: '2,2,3,4,4,5-Hexachlorobiphenyl (PCB138)'
-group_label_53: '2,4,4-Trichlorobiphenyl (PCB28)'
-group_label_54: '2,4,5,2,4,5-Hexachlorobiphenyl (PCB153)'
-group_label_55: '2,4,5,2,5-Pentachlorobiphenyl (PCB101)'
-group_label_56: '2,5,2,5-Tetrachlorobiphenyl (PCB52)'
-group_label_57: 'Tetrachloroethylene'
-group_label_58: 'Trichloroethylene'
-group_label_59: 'Carbon-tetrachloride'
-group_label_60: 'Alachlor'
-group_label_61: 'Atrazine'
-group_label_62: 'Chlorfenvinphos'
-group_label_63: 'Chlorpyrifos (Chlorpyrifosethyl)'
-group_label_64: 'Diuron'
-group_label_65: 'Endosulfan'
-group_label_66: 'Hexachlorobenzene'
-group_label_67: 'Hexachlorocyclohexane Total'
-group_label_68: 'Isoproturon'
-group_label_69: 'Simazine'
-group_label_70: 'Trifluralin'
-group_label_71: 'Quinoxyfen'
-group_label_72: 'Aclonifen'
-group_label_73: 'Bifenox'
-group_label_74: 'Cybutryne'
-group_label_75: 'Cypermethrin'
-group_label_76: 'Dichlorvos'
-group_label_77: 'Heptachlor'
-group_label_78: 'Terbutryn'
-group_label_79: 'gamma-1,2,3,4,5,6-Hexachlorocyclohexane (g-HCH)'
-group_label_80: 'beta-1,2,3,4,5,6-Hexachlorocyclohexane (b-HCH)'
-group_label_81: 'Sum metabolites DDT'
-group_label_82: 'Dichlorodiphenyltrichloroethane (p,p-DDT)'
-group_label_83: 'Trichlorobenzene'
-group_label_84: 'Azinphos-methyl'
-group_label_85: 'Diazinon'
-group_label_86: 'Malathion'
-group_label_87: 'Parathion-ethyl'
-group_label_88: 'TPH'
-group_label_89: 'Anionic Surface Active Substances'
-group_2: "By sea"
-group_label_90: "Sea of Azov"
-group_label_91: "Black Sea"
-group_label_92: "Overall for coastal oblasts"
-group_3: "Water quality indicator (milligrams per cubic decimeter) by components, percent"
-group_label_93: "Phosphate phosphorus"
-group_label_94: "Total phosphorus"
-group_label_95: "Nitrate nitrogen"
-group_label_96: "Nitrite nitrogen"
-group_label_97: "Ammonium nitrogen"
-group_label_98: "Dissolved mineral nitrogen"
-group_label_99: "Total nitrogen"
-group_label_100: "Chlorophyll-a"
-group_label_101: "Transparency"
-group_label_102: "Dissolved oxygen"
-group_label_103: "Biochemical oxygen demand (5-day BOD)"
-group_4: "Dnipro–Buh estuarine system"
-group_label_104: "Azov turbot"
-group_label_105: "Artemia salina (brine shrimp)"
-group_label_106: "Artemia salina (eggs)"
-group_label_107: "Goby fish"
-group_label_108: "Gammarids"
-group_label_109: "Flounder (glossa)"
-group_label_110: "Eelgrass (Zostera)"
-group_label_111: "Shrimp"
-group_label_112: "Noah's ark shell (Scapharca)"
-group_label_113: "Bream"
-group_label_114: "Mussel"
-group_label_115: "Bloodworm (chironomid larvae)"
-group_label_116: "Black Sea herring"
-group_label_117: "So-iuy mullet (pilengas)"
-group_label_118: "Roach"
-group_label_119: "Rapana"
-group_label_120: "Nase"
-group_label_121: "Zander (pike-perch)"
-group_label_122: "Common sprat"
-group_label_123: "Anchovy (Azov)"
-group_label_124: "Sand smelt (Atherina)"
-group_label_125: "Red mullet"
-group_label_126: "Black Sea garfish"
-group_label_127: "Black Sea sprat"
-group_label_128: "Flathead grey mullet (loban)"
-group_label_129: "Whiting"
-group_label_130: "Thornback ray"
-group_label_131: "Common stingray"
-group_label_132: "Garfish"
-group_label_133: "Golden grey mullet (singil)"
-group_label_134: "Horse mackerel"
-group_label_135: "Anchovy (Black Sea)"
-group_label_136: "Cystoseira"
-group_label_137: "Black Sea turbot"
-group_5: "Lower Dniester with lakes and the Dniester Estuary (Liman)"
-group_label_157: "Crayfish"
-group_label_158: "Herbivorous fish (silver carp, bighead carp, their hybrid)"
-group_6: "Tuzly Lagoons group"
-group_label_159: "European flounder (glossa)"
-group_7: "Budak (Shabolat) Lagoon"
-group_8: "Berezan Estuary (Liman)"
-group_label_160: "European flounder (glossa)"
-group_9: "Tyligul Estuary (Liman)"
-group_10: "Zones"
-group_label_161: "Polissia"
-group_label_162: "Forest-steppe"
-group_label_163: "Steppe"
-group_11: "Mountain region"
-group_label_164: "Zakarpattia Oblast"
-group_label_165: "Ivano-Frankivsk Oblast"
-group_label_166: "Lviv Oblast"
-group_label_167: "Chernivtsi Oblast"
-group_12: "Age"
-group_label_168: "14–18 years"
-group_label_169: "19–25 years"
-group_label_170: "26–35 years"
-group_label_171: "36–45 years"
-group_label_172: "46–60 years"
-group_label_173: "Over 60 years"
-group_13: "Sex"
-group_label_174: "Women"
-group_label_175: "Men"
-group_14: "Status of the subject of the appeal"
-group_label_176: "Individual"
-group_label_177: "Sole proprietor (individual entrepreneur)"
-group_label_178: "Legal entity"
-group_15: "Type of authority that established the ASC"
-group_label_179: "City council"
-group_label_180: "Settlement council"
-group_label_181: "Village council"
-group_16: "Type of place of residence"
-group_label_189: "Urban"
-group_label_190: "Rural"
-group_17: "Decile groups by level of average per capita equivalent total income"
-group_label_191: "First (lowest)"
-group_label_192: "Second"
-group_label_193: "Third"
-group_label_194: "Fourth"
-group_label_195: "Fifth"
-group_label_196: "Sixth"
-group_label_197: "Seventh"
-group_label_198: "Eighth"
-group_label_199: "Ninth"
-group_label_200: "Tenth (highest)"
-group_18: "Conducted by"
-group_label_201: "By ministries and other central executive bodies"
-group_label_202: "By regional, Kyiv city state administrations (military administrations)"
-group_label_203: 'men 18–35 years '
-group_label_204: 'men 36–59 years'
-group_label_205: 'men 60 years and older'
-group_label_206: 'women 18–35 years'
-group_label_207: 'women 36–59 years'
-group_label_208: 'women 60 years and older'
-group_label_209: 'large cities (population 500,000 or more)'
-group_label_210: 'cities (population 50,000–500,000)'
-group_label_211: 'small cities (population less than 50,000)'
-group_label_212: 'rural areas'
-group_19: "Education level"
-group_label_213: "Primary education"
-group_label_214: "Secondary education"
-group_label_215: "Secondary vocational education"
-group_label_216: "Higher education"
-group_20: "Employment status"
-group_label_217: "Full/part-time employment"
-group_label_218: "Housekeeping or maternity leave"
-group_label_219: "Pensioners"
-group_label_220: "Students"
-group_label_221: "Unemployed"
-group_21: "Income level"
-group_label_222: "Not enough money for food"
-group_label_223: "Enough for food, but not enough for clothing"
-group_label_224: "Enough for clothing, but not enough for expensive goods"
-group_label_225: "Enough money for expensive goods"
-group_22: "Displacement status"
-group_label_226: "Internally displaced persons (IDPs)"
-group_label_227: "Returnees"
-group_label_228: "People who did not leave"
-group_label_229: "By disability criterion"
-group_label_230: 'including who have applied to a single contact number of the free legal aid system 0-800-213-103 2'
-group_label_231: 'up to 18 years'
-group_label_232: '18–35 years'
-group_label_233: '36–60 years'
-group_label_234: '61 years and older'
-group_23: "Type of place of residence"
-group_24: "Type of legal aid"
-group_label_235: "Primary legal aid"
-group_label_236: "Secondary legal aid"
-group_25: "Category of issues"
-group_label_237: "Social security"
-group_label_238: "Inheritance law"
-group_label_239: "Family law"
-group_label_240: "Medical law"
-group_label_241: "Labor law"
-group_label_242: "Administrative law and administrative procedure"
-group_label_243: "Land law"
-group_label_244: "Contract law"
-group_label_245: "Housing law"
-group_label_246: "Civil law and civil procedure"
-group_label_247: "Enforcement of court decisions"
-group_label_248: "Non-legal issue"
-group_label_249: "Other"
-group_label_250: "Criminal law and criminal procedure"
-group_label_251: "Pension law"
-group_label_252: "Tax law"
-group_label_253: "Electoral law"
-group_label_254: "Commercial law"
-group_label_255: "Issues related to armed aggression"
-group_label_256: 'up to 30 years'
-group_label_257: '30–54 years'
-group_label_258: '55 years and older'
-group_label_259: 'regional centers'
-group_label_260: 'district centers and cities'
-group_label_261: 'villages'
-group_label_262: 'below average and lowest'
-group_label_263: 'average'
-group_label_264: 'highest and above average'
-group_26: "Risk level"
-group_label_265: "low"
-group_label_266: "high"
-group_27: "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
-group_label_267: "Share of population"
-group_label_268: "Share of business representatives"
-
+group_1: Substances
+group_label_1: Cadmium and its compounds
+group_label_2: Lead and its compounds
+group_label_3: Mercury and its compounds
+group_label_4: Nickel and its compounds
+group_label_5: Arsenic (As)
+group_label_6: Chromium (Cr)
+group_label_7: Copper (Cu)
+group_label_8: Zinc (Zn)
+group_label_9: Cobalt (Co)
+group_label_10: Vanadium
+group_label_11: Molybdenum
+group_label_12: Iron
+group_label_13: Tributyltin oxide
+group_label_14: Anthracene
+group_label_15: Benzene
+group_label_16: Sum Brominated diphenylethers
+group_label_17: C10-13 Chloroalkanes
+group_label_18: 1,2-Dichloroethane
+group_label_19: Dichloromethane
+group_label_20: Di(2-ethylhexyl)-phthalate (DEHP)
+group_label_21: Fluoranthene
+group_label_22: Hexachlorobutadiene
+group_label_23: Naphthalene
+group_label_24: Sum Phenol, 4-nonyl-, branched
+group_label_25: Sum (4-(1,1,3,3- tetramethyl- butyl)-phenol, 4-Octylphenol)
+group_label_26: Pentachlorobenzene
+group_label_27: Pentachlorophenol
+group_label_28: Phenols (sum volatile )
+group_label_29: Monochlor Phenol
+group_label_30: Dichlorophenol
+group_label_31: Trichlorophenol
+group_label_32: Tetrachlorophenol
+group_label_33: Chlorophenol (sum)
+group_label_34: Benzo(a)pyrene
+group_label_35: Benzo(b)fluoranthene
+group_label_36: Benzo(g,h,i)perylene
+group_label_37: Benzo(k)fluoranthene
+group_label_38: Indeno(1,2,3cd)-pyrene
+group_label_39: benz(a)anthracene
+group_label_40: Сhrysene
+group_label_41: Phenanthrene
+group_label_42: Tributyltin compounds (Tributyltin-cation)
+group_label_43: Trichlorobenzenes
+group_label_44: Trichloromethane
+group_label_45: Dicofol
+group_label_46: Perfluorooctane sulfonic acid and its derivatives (PFOS)
+group_label_47: 2,3,3,4,4,5-Hexachlorobiphenyl (PCB156)
+group_label_48: 2,3,4,4,5-Pentachlorobiphenyl (PCB118)
+group_label_49: 3,4,5,3,4-Pentachlorobiphenyl (PCB126)
+group_label_50: Sum Hexabromocyclododecane isomers
+group_label_51: 2,2,3,4,4,5,5-Heptachlorobiphenyl (PCB180)
+group_label_52: 2,2,3,4,4,5-Hexachlorobiphenyl (PCB138)
+group_label_53: 2,4,4-Trichlorobiphenyl (PCB28)
+group_label_54: 2,4,5,2,4,5-Hexachlorobiphenyl (PCB153)
+group_label_55: 2,4,5,2,5-Pentachlorobiphenyl (PCB101)
+group_label_56: 2,5,2,5-Tetrachlorobiphenyl (PCB52)
+group_label_57: Tetrachloroethylene
+group_label_58: Trichloroethylene
+group_label_59: Carbon-tetrachloride
+group_label_60: Alachlor
+group_label_61: Atrazine
+group_label_62: Chlorfenvinphos
+group_label_63: Chlorpyrifos (Chlorpyrifosethyl)
+group_label_64: Diuron
+group_label_65: Endosulfan
+group_label_66: Hexachlorobenzene
+group_label_67: Hexachlorocyclohexane Total
+group_label_68: Isoproturon
+group_label_69: Simazine
+group_label_70: Trifluralin
+group_label_71: Quinoxyfen
+group_label_72: Aclonifen
+group_label_73: Bifenox
+group_label_74: Cybutryne
+group_label_75: Cypermethrin
+group_label_76: Dichlorvos
+group_label_77: Heptachlor
+group_label_78: Terbutryn
+group_label_79: gamma-1,2,3,4,5,6-Hexachlorocyclohexane (g-HCH)
+group_label_80: beta-1,2,3,4,5,6-Hexachlorocyclohexane (b-HCH)
+group_label_81: Sum metabolites DDT
+group_label_82: Dichlorodiphenyltrichloroethane (p,p-DDT)
+group_label_83: Trichlorobenzene
+group_label_84: Azinphos-methyl
+group_label_85: Diazinon
+group_label_86: Malathion
+group_label_87: Parathion-ethyl
+group_label_88: TPH
+group_label_89: Anionic Surface Active Substances
+group_2: Seas
+group_label_90: Sea of Azov
+group_label_91: Black Sea
+group_label_92: by coastal regions as a whole
+group_3: Components of water quality indicator
+group_label_93: phosphate phosphorus
+group_label_94: total phosphorus
+group_label_95: nitrate nitrogen
+group_label_96: nitrite nitrogen
+group_label_97: ammonium nitrogen
+group_label_98: dissolved mineral nitrogen
+group_label_99: total nitrogen
+group_label_100: chlorophyll-a
+group_label_101: transparency
+group_label_102: dissolved oxygen
+group_label_103: biochemical oxygen consumption in five days
+group_4: Dnieper–Bug estuarine system
+group_label_104: Azov turbot
+group_label_105: Artemia salina (crustaceans)
+group_label_106: Artemia salina (eggs)
+group_label_107: Gobies
+group_label_108: Gammarids
+group_label_109: Glossa
+group_label_110: Zostera
+group_label_111: Shrimp
+group_label_112: Cuniarca (scafarka)
+group_label_113: Bream
+group_label_114: Mussel
+group_label_115: Motil (chironomid larvae)
+group_label_116: Black Sea herring
+group_label_117: Pilengas
+group_label_118: Gossip
+group_label_119: Rapana
+group_label_120: Rybets
+group_label_121: Common pikeperch
+group_label_122: Common tulka
+group_label_123: Azov hamsa
+group_label_124: Sandy atherina
+group_label_125: Barbula
+group_label_126: Gostronis
+group_label_127: Black Sea sprat
+group_label_128: loban
+group_label_129: Merlang
+group_label_130: Sea fox
+group_label_131: Sea cat
+group_label_132: Common sargan
+group_label_133: Singil
+group_label_134: Horse mackerel
+group_label_135: Black Sea hamsa
+group_label_136: Cystosira
+group_label_137: Black Sea turbot
+group_5: Lower Dniester with lakes and the Dniester Estuary
+group_label_157: Crayfish
+group_label_158: Herbivorous fish (silver carp, bighead carp, their hybrid)
+group_6: Tuzlov group of estuaries
+group_label_159: Flounder-glossa
+group_7: Budatsky (Shabolatsky) estuary
+group_8: Berezansky estuary
+group_label_160: Glos
+group_9: Tyligul estuary
+group_10: Zones
+group_label_161: Polissia
+group_label_162: Forest-steppe
+group_label_163: Steppe
+group_11: Mountainous region
+group_label_164: Zakarpattya region
+group_label_165: Ivano-Frankivsk region
+group_label_166: Lviv region
+group_label_167: Chernivtsi region
+group_12: Age
+group_label_168: 14–18 years
+group_label_169: 19–25 years
+group_label_170: 26–35 years
+group_label_171: 36–45 years
+group_label_172: 46–60 years
+group_label_173: Over 60 years
+group_13: Sex
+group_label_174: Women
+group_label_175: Men
+group_14: Status of the subject of the appeal
+group_label_176: Individual
+group_label_177: Sole proprietor (individual entrepreneur)
+group_label_178: Legal entity
+group_15: Type of authority that established the ASC
+group_label_179: City council
+group_label_180: Settlement council
+group_label_181: Village council
+group_16: Type of place of residence
+group_label_189: Urban
+group_label_190: Rural
+group_17: Decile groups by level of average per capita equivalent total income
+group_label_191: First (lowest)
+group_label_192: Second
+group_label_193: Third
+group_label_194: Fourth
+group_label_195: Fifth
+group_label_196: Sixth
+group_label_197: Seventh
+group_label_198: Eighth
+group_label_199: Ninth
+group_label_200: Tenth (highest)
+group_18: Conducted by
+group_label_201: By ministries and other central executive bodies
+group_label_202: By regional, Kyiv city state administrations (military administrations)
+group_label_203: men 18–35 years
+group_label_204: men 36–59 years
+group_label_205: men 60 years and older
+group_label_206: women 18–35 years
+group_label_207: women 36–59 years
+group_label_208: women 60 years and older
+group_label_209: large cities (population 500,000 or more)
+group_label_210: cities (population 50,000–500,000)
+group_label_211: small cities (population less than 50,000)
+group_label_212: rural areas
+group_19: Education level
+group_label_213: Primary education
+group_label_214: Secondary education
+group_label_215: Secondary vocational education
+group_label_216: Higher education
+group_20: Employment status
+group_label_217: Full/part-time employment
+group_label_218: Housekeeping or maternity leave
+group_label_219: Pensioners
+group_label_220: Students
+group_label_221: Unemployed
+group_21: Income level
+group_label_222: Not enough money for food
+group_label_223: Enough for food, but not enough for clothing
+group_label_224: Enough for clothing, but not enough for expensive goods
+group_label_225: Enough money for expensive goods
+group_22: Displacement status
+group_label_226: Internally displaced persons (IDPs)
+group_label_227: Returnees
+group_label_228: People who did not leave
+group_label_229: By disability criterion
+group_label_230: including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
+group_label_231: up to 18 years
+group_label_232: 18–35 years
+group_label_233: 36–60 years
+group_label_234: 61 years and older
+group_23: Type of place of residence
+group_24: Type of legal aid
+group_label_235: Primary legal aid
+group_label_236: Secondary legal aid
+group_25: Category of issues
+group_label_237: Social security
+group_label_238: Inheritance law
+group_label_239: Family law
+group_label_240: Medical law
+group_label_241: Labor law
+group_label_242: Administrative law and administrative procedure
+group_label_243: Land law
+group_label_244: Contract law
+group_label_245: Housing law
+group_label_246: Civil law and civil procedure
+group_label_247: Enforcement of court decisions
+group_label_248: Non-legal issue
+group_label_249: Other
+group_label_250: Criminal law and criminal procedure
+group_label_251: Pension law
+group_label_252: Tax law
+group_label_253: Electoral law
+group_label_254: Commercial law
+group_label_255: Issues related to armed aggression
+group_label_256: up to 30 years
+group_label_257: 30–54 years
+group_label_258: 55 years and older
+group_label_259: regional centers
+group_label_260: district centers and cities
+group_label_261: villages
+group_label_262: below average and lowest
+group_label_263: average
+group_label_264: highest and above average
+group_26: Risk level
+group_label_265: low
+group_label_266: high
+group_27: Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent
+group_label_267: Share of population
+group_label_268: Share of business representatives
 B01: growing of cereals (except rice), leguminous crops and oil seeds
 B02: growing of rice
 B03: growing of vegetables and melons, roots and tubers
@@ -2386,7 +2306,7 @@ B105: manufacture of footwear
 B106: sawmilling and planing of wood
 B107: manufacture of veneer sheets and wood-based panels
 B108: manufacture of assembled parquet floors
-B109: manufacture of other builders' carpentry and joinery
+B109: manufacture of other builders\' carpentry and joinery
 B110: manufacture of wooden containers
 B111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 B112: manufacture of pulp
@@ -2889,33 +2809,28 @@ B608: activities of households as employers of domestic workers
 B609: activities of households as producers of goods for own consumption
 B610: activities of households as producers of services for own consumption
 B611: activities of extraterritorial organizations and bodies
-
 Number of employees: Number of employees
 up_to_9: up to 9 persons
 employees_10_49: 10-49 persons
 employees_50_249: 50-249 persons
 employees_250_plus: 250 persons or more
-
 by main product groups: Type of product
 by_territorial_communities: territorial communities
 working_population: working population
 non_working_population: non-working population
 education_seekers: education seekers
-
 storages: storages
 anti_radiation_shelters: anti-radiation shelters
 dual_use_structures: dual-use structures
 simplest_shelters: simplest shelters
 of_which_by_regions: of which by regions
 by_local_automated_centralized_warning_systems: by local automated centralized warning systems
-
 By form of discrimination: form of discrimination
 direct_discrimination: direct discrimination
 indirect_discrimination: indirect discrimination
 incitement_to_discrimination: incitement to discrimination
 complicity_in_discrimination: complicity in discrimination
 oppression: oppression
-
 By spheres of public relations: by spheres of public relations
 freedom_from_discrimination_in_the_field_of_social_protection: freedom from discrimination in the field of social protection
 freedom_from_discrimination_in_the_field_of_education: freedom from discrimination in the field of education
@@ -2929,16 +2844,13 @@ freedom_from_discrimination_in_the_field_of_advertising: freedom from discrimina
 freedom_from_discrimination_in_the_field_of_advertising_for_vacancies: freedom from discrimination in the field of advertising for vacancies (recruitment)
 internally_displaced_persons: internally displaced persons
 by_migration_status: by migration status(refugee, citizen of another state - labor migrant, foreigner, illegal migrant, stateless person, person granted subsidiary protection, person granted temporary protection, asylum seeker)
-
 Wage replacement rate by pensions: Wage replacement rate by pensions
 relative_to_0_5_average_wage: relative to 0.5 average wage
 relative_to_full_average_wage: relative to full average wage
 relative_to_1_5_average_wage: relative to 1.5 average wage
-
 PopulationGroup: Population Group
 urban_population: urban population
 rural_population: rural population
-
 By river basins: River basins
 azov_river_basin_area: Azov River Basin Area
 black_sea_river_basin_area: Black Sea River Basin Area
@@ -2949,7 +2861,6 @@ dnipro_river_basin_area: Dnipro River Basin Area
 don_river_basin_area: Don River Basin Area
 southern_bug_river_basin_area: Southern Bug River Basin Area
 vistula_river_basin_area: Vistula River Basin Area
-
 Type of energy resources: Type of energy resources
 anthracite_coal: anthracite coal (code according to UCGFEA 2701 11 00 00)
 motor_gasolines: motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99)
@@ -2957,10 +2868,8 @@ diesel_fuels: diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48
 liquefied_petroleum_gases: liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00)
 natural_gas: natural gas (code according to UCGFEA 2711 21 00 00)
 non_irradiated_fuel_elements: non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00)
-
 By type of area: Type of area
 Indicators of production and technological costs in natural gas supply grids: Indicators of production and technological costs in natural gas supply grids
-
 By types of producers: Types of producers
 electricity_producers: electricity producers
 consumers_with_own_electrical_installations: consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator
@@ -2972,67 +2881,55 @@ biomass: biomass
 biogas: biogas
 geothermal_power_plants: geothermal power plants (GPP)
 other_res: other_res
-
 Indicators of energy consumption by households: Indicators of energy consumption by households
 indicator_of_energy_1: share of energy consumption by the household sector in total final energy consumption, percent
 indicator_of_energy_2: specific energy consumption of residential buildings, kilowatt-hours per square meter
-
-group_label_269: "Transportation and storage; postal and courier activities"
-group_label_270: "Public administration and defence; compulsory social security"
-group_label_271: "Human health and social work activities"
-
-group_28: "Age groups"
-group_label_272: "15–24 years"
-group_label_273: "25–29 years"
-group_label_274: "30–34 years"
-group_label_275: "35–39 years"
-group_label_276: "40–49 years"
-group_label_277: "50–59 years"
-group_label_278: "60–70 years"
-
-group_label_279: "Basic, primary general secondary, or no education"
-
-group_29: "Total number and fatality"
-group_label_281: "total number"
-group_label_282: "fatality"
-
-group_label_283: "Coal industry"
-group_label_284: "Metal ore and non-metal mining industry"
-group_label_285: "Oil and gas extraction industry and geological exploration"
-group_label_286: "Energy sector"
-group_label_287: "Boiler supervision, lifting equipment"
-group_label_288: "Machine building"
-group_label_289: "Metallurgical industry"
-group_label_290: "Chemical industry"
-group_label_291: "Communications"
-group_label_292: "Gas industry"
-group_label_293: "Housing and utilities sector"
-group_label_294: "Agro-industrial complex"
-group_label_295: "Woodworking industry"
-group_label_296: "Light and textile industry"
-group_label_297: "Socio-cultural sector and trade"
-
+group_label_269: Transportation and storage; postal and courier activities
+group_label_270: Public administration and defence; compulsory social security
+group_label_271: Human health and social work activities
+group_28: Age groups
+group_label_272: 15–24 years
+group_label_273: 25–29 years
+group_label_274: 30–34 years
+group_label_275: 35–39 years
+group_label_276: 40–49 years
+group_label_277: 50–59 years
+group_label_278: 60–70 years
+group_label_279: Basic, primary general secondary, or no education
+group_29: Total number and fatality
+group_label_281: total number
+group_label_282: fatality
+group_label_283: Coal industry
+group_label_284: Metal ore and non-metal mining industry
+group_label_285: Oil and gas extraction industry and geological exploration
+group_label_286: Energy sector
+group_label_287: Boiler supervision, lifting equipment
+group_label_288: Machine building
+group_label_289: Metallurgical industry
+group_label_290: Chemical industry
+group_label_291: Communications
+group_label_292: Gas industry
+group_label_293: Housing and utilities sector
+group_label_294: Agro-industrial complex
+group_label_295: Woodworking industry
+group_label_296: Light and textile industry
+group_label_297: Socio-cultural sector and trade
 Average monthly electricity consumption: Average monthly electricity consumption per household consumer, kilowatt–hours
 without_electric_heating: without electric heating
 with_electric_heating: with electric heating
-
 By consumer categories: Consumer categories
 household: household
 non_household: non-household
-
 Resource: Type of equipment
 heat_energy: heat energy
 hot_water: hot water
 drinking_water: drinking water
-
 By sectors of the fuel and energy sector: Fuel and energy sector
 electric_energy: electric energy
 natural_gas_2: natural gas
 oil_and_liquid_fuels: oil and liquid fuels
 thermal_coal: thermal coal
 thermal_energy: thermal energy
-
-
 authorities: Authorities
 balances: Balances
 consumption: Consumption
@@ -3041,7 +2938,6 @@ policy: Policy
 reliability_and_safety: Reliability and safety
 reporting: Reporting
 supply: Supply
-
 accommodation_and_food_service: Accommodation and food service activities
 administrative_and_support_service: Administrative and support service activities
 agriculture_forestry_and_fishing: Agriculture, forestry and fishing
@@ -3062,19 +2958,16 @@ real_estate: Real estate activities
 transportation_and_storage_post_and_courier_services: Transportation and storage, post and courier services
 water_supply_sewerage_waste_management_remediation: Water supply; sewerage, waste management and remediation activities
 wholesale_retail_trade_repair_motor_vehicles_motorcycles: Wholesale and retail trade; repair of motor vehicles and motorcycles
-
 By special aggregations: special aggregations
 production_using_technologies_of: production using technologies of
 high_level: high level
 medium_high_level: medium-high level
 medium_low_level: medium-low level
 low_level: low level
-
 By frequency of use: by frequency of use
 at_least_once_a_day: at least once a day
 at_least_onc_a_week_but_not_every_day: at least once a week, but not every day
 less_than_once_a_week: less than once a week
-
 By purpose of use: purpose of use
 sending e-mail: sending (receiving) e-mail
 for interaction with government bodies including obtaining information: for interaction with government bodies (e-government system), including obtaining information
@@ -3097,43 +2990,74 @@ selling goods and services over the Internet: selling goods and services over th
 using services related to travel or hotel accommodation while traveling: using services related to travel or hotel accommodation while traveling
 looking for work or sending a job application: looking for work or sending a job application
 searching for information about goods and services not previously mentioned: searching for information about goods and services not previously mentioned
-
-group_30: 'Types of economic activity'
-group_label_298: 'Agriculture, forestry and fishing'
-group_label_299: 'Industry'
-group_label_300: 'Construction'
-group_label_301: 'Wholesale and retail trade; repair of motor vehicles and motorcycles'
-group_label_302: 'Accommodation and food service activities'
-group_label_303: 'Information and telecommunications '
-group_label_304: 'Financial and insurance activities'
-group_label_305: 'Real estate activities'
-group_label_306: 'Professional, scientific and technical activities'
-group_label_307: 'Administrative and support service activities'
-group_label_308: 'Education'
-group_label_309: 'Arts, sports, entertainment and recreation'
-group_label_310: 'Other economic activities'
-group_label_311: 'full tertiary education'
-group_label_312: 'basic tertiary education'
-group_label_313: 'incomplete tertiary education'
-group_label_314: 'vocational and technical education'
-group_label_315: 'full general secondary education'
-group_label_316: 'Transport'
-group_label_317: 'Agriculture, forestry and fishing'
-group_label_318: 'Other service activities'
-group_31: "Education"
-group_label_319: "basic, primary general secondary or no education"
-group_32: "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
-group_label_320: "aged 15–24"
-group_label_321: "aged 15–34"
-group_label_322: 'Number of registered client requests for free legal assistance'
-group_label_323: 'including who have applied to a single contact number of the free legal aid system 0-800-213-103 2'
-group_label_324: 'medium'
-group_33: 'Gender (age 15-24)'
-group_34: "Type of place of residence (age 15-24)"
-group_35: 'Gender (age 15-34)'
-group_36: "Type of place of residence (age 15-34)"
+group_30: Types of economic activity
+group_label_298: Agriculture, forestry and fishing
+group_label_299: Industry
+group_label_300: Construction
+group_label_301: Wholesale and retail trade; repair of motor vehicles and motorcycles
+group_label_302: Accommodation and food service activities
+group_label_303: Information and telecommunications
+group_label_304: Financial and insurance activities
+group_label_305: Real estate activities
+group_label_306: Professional, scientific and technical activities
+group_label_307: Administrative and support service activities
+group_label_308: Education
+group_label_309: Arts, sports, entertainment and recreation
+group_label_310: Other economic activities
+group_label_311: full tertiary education
+group_label_312: basic tertiary education
+group_label_313: incomplete tertiary education
+group_label_314: vocational and technical education
+group_label_315: full general secondary education
+group_label_316: Transport
+group_label_317: Agriculture, forestry and fishing
+group_label_318: Other service activities
+group_31: Education
+group_label_319: basic, primary general secondary or no education
+group_32: Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent
+group_label_320: aged 15–24
+group_label_321: aged 15–34
+group_label_322: Number of registered client requests for free legal assistance
+group_label_323: including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
+group_label_324: medium
+group_33: Gender (age 15-24)
+group_34: Type of place of residence (age 15-24)
+group_35: Gender (age 15-34)
+group_36: Type of place of residence (age 15-34)
 by_territorial_automated_centralized_warning_systems: by territorial automated centralized warning systems
 energy_water_utilities: energy water utilities
 tourism_recreation_culture_sport: tourism, leisure, recreation, culture and sport
 waste_management_excl_collection_transport: waste management, except collection and transportation
 suspended_due_to_war: suspended due to the armed aggression of the russian federation
+Households_1: Household type
+Type of residence: Type of residence
+age_18_1: up to 18 years
+females_1: women
+males_1: men
+hh_ch_1: households with children
+hh_ch_01: households without children
+urban: urban
+rural: rural
+hh_ch_2: households/families with children
+hh_ch_02: households/families without children
+Ukraine: Ukraine
+Coastal regions: Coastal regions
+group_label_138: Gobies (except for species listed in the Red Book of Ukraine)
+group_label_139: Common whiteness
+group_label_140: Common rudd
+group_label_141: European chub
+group_label_142: Silver crucian carp
+group_label_143: Redfin
+group_label_144: Tench fish
+group_label_145: Common perch
+group_label_146: Sun perch
+group_label_147: Flatfish
+group_label_148: Buzanok
+group_label_149: Narrow-toed crayfish
+group_label_150: Common carp
+group_label_151: Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)
+group_label_152: Sazan
+group_label_153: European catfish
+group_label_154: Taranya (common gossip)
+group_label_155: Chekhonia
+group_label_156: Common pike
