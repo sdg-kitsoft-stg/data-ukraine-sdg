@@ -514,7 +514,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2017,microbiological indicators,urban water pipelines,Ukraine,4.6
 2017,microbiological indicators,rural water pipelines,Ukraine,11.2
 2017,microbiological indicators,non-centralized water supply,Ukraine,20.4
-2017,microbiological indicators,centralized water supply,Ukraine,6.7
+2017,microbiological indicators,Centralized_1_1,Ukraine,6.7
 2017,microbiological indicators,urban water pipelines,Ukraine,4.6
 2017,microbiological indicators,rural water pipelines,Ukraine,11.2
 2017,microbiological indicators,non-centralized water supply,Ukraine,20.4
@@ -770,7 +770,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2018,microbiological indicators,urban water pipelines,Ukraine,5.1
 2018,microbiological indicators,rural water pipelines,Ukraine,11.8
 2018,microbiological indicators,non-centralized water supply,Ukraine,23.4
-2018,microbiological indicators,centralized water supply,Ukraine,7.7
+2018,microbiological indicators,Centralized_1_1,Ukraine,7.7
 2018,microbiological indicators,urban water pipelines,Ukraine,5.1
 2018,microbiological indicators,rural water pipelines,Ukraine,11.8
 2018,microbiological indicators,non-centralized water supply,Ukraine,23.4
@@ -1026,7 +1026,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2019,microbiological indicators,urban water pipelines,Ukraine,5.7
 2019,microbiological indicators,rural water pipelines,Ukraine,11.4
 2019,microbiological indicators,non-centralized water supply,Ukraine,24.6
-2019,microbiological indicators,centralized water supply,Ukraine,8.2
+2019,microbiological indicators,Centralized_1_1,Ukraine,8.2
 2019,microbiological indicators,urban water pipelines,Ukraine,5.7
 2019,microbiological indicators,rural water pipelines,Ukraine,11.4
 2019,microbiological indicators,non-centralized water supply,Ukraine,24.6
@@ -1282,7 +1282,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2020,microbiological indicators,urban water pipelines,Ukraine,4.7
 2020,microbiological indicators,rural water pipelines,Ukraine,13.8
 2020,microbiological indicators,non-centralized water supply,Ukraine,22.6
-2020,microbiological indicators,centralized water supply,Ukraine,7.6
+2020,microbiological indicators,Centralized_1_1,Ukraine,7.6
 2020,microbiological indicators,urban water pipelines,Ukraine,4.7
 2020,microbiological indicators,rural water pipelines,Ukraine,13.8
 2020,microbiological indicators,non-centralized water supply,Ukraine,22.6
@@ -1538,7 +1538,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2021,microbiological indicators,urban water pipelines,Ukraine,5.1
 2021,microbiological indicators,rural water pipelines,Ukraine,11.9
 2021,microbiological indicators,non-centralized water supply,Ukraine,22.9
-2021,microbiological indicators,centralized water supply,Ukraine,7.5
+2021,microbiological indicators,Centralized_1_1,Ukraine,7.5
 2021,microbiological indicators,urban water pipelines,Ukraine,5.1
 2021,microbiological indicators,rural water pipelines,Ukraine,11.9
 2021,microbiological indicators,non-centralized water supply,Ukraine,22.9
@@ -1794,7 +1794,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2022,microbiological indicators,urban water pipelines,Ukraine,2.1
 2022,microbiological indicators,rural water pipelines,Ukraine,11.4
 2022,microbiological indicators,non-centralized water supply,Ukraine,28.3
-2022,microbiological indicators,centralized water supply,Ukraine,3.5
+2022,microbiological indicators,Centralized_1_1,Ukraine,3.5
 2022,microbiological indicators,urban water pipelines,Ukraine,2.1
 2022,microbiological indicators,rural water pipelines,Ukraine,11.4
 2022,microbiological indicators,non-centralized water supply,Ukraine,28.3
@@ -2050,7 +2050,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2023,microbiological indicators,urban water pipelines,Ukraine,2.7
 2023,microbiological indicators,rural water pipelines,Ukraine,11.0
 2023,microbiological indicators,non-centralized water supply,Ukraine,25.1
-2023,microbiological indicators,centralized water supply,Ukraine,4.3
+2023,microbiological indicators,Centralized_1_1,Ukraine,4.3
 2023,microbiological indicators,urban water pipelines,Ukraine,2.7
 2023,microbiological indicators,rural water pipelines,Ukraine,11.0
 2023,microbiological indicators,non-centralized water supply,Ukraine,25.1
@@ -2306,7 +2306,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2024,microbiological indicators,urban water pipelines,Ukraine,2.3
 2024,microbiological indicators,rural water pipelines,Ukraine,10.2
 2024,microbiological indicators,non-centralized water supply,Ukraine,25.4
-2024,microbiological indicators,centralized water supply,Ukraine,3.8
+2024,microbiological indicators,Centralized_1_1,Ukraine,3.8
 2024,microbiological indicators,urban water pipelines,Ukraine,2.3
 2024,microbiological indicators,rural water pipelines,Ukraine,10.2
 2024,microbiological indicators,non-centralized water supply,Ukraine,25.4
@@ -2559,7 +2559,7 @@ Year,Types of indicators,Types of water supply,Region,Value
 2024,radiation indicators,urban water pipelines,city Sevastopol,
 2024,radiation indicators,rural water pipelines,city Sevastopol,
 2024,radiation indicators,non-centralized water supply,city Sevastopol,
-2015,radiation indicators,centralized water supply,Ukraine,1.1
+2015,radiation indicators,Centralized_1_1,Ukraine,1.1
 2016,radiation indicators,centralized water supply,Ukraine,1.1
 2017,radiation indicators,centralized water supply,Ukraine,3.9
 2018,radiation indicators,centralized water supply,Ukraine,4.0

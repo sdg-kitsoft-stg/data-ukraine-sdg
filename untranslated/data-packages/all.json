@@ -11444,7 +11444,6 @@
               "enum": [
                 "urban",
                 "rural",
-                "1.0",
                 ""
               ]
             }
@@ -12654,7 +12653,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -13914,7 +13913,8 @@
                 "urban_pipelines",
                 "rural_pipelines",
                 "non_centralized_1",
-                "centralized",
+                "Centralized_1",
+                "Centralized_1_1",
                 ""
               ]
             }
@@ -17897,7 +17897,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Region",
@@ -17930,16 +17930,8 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "41.4",
+                "Kyiv_city",
                 "city_Sevastopol",
-                "42.5",
-                "43.5",
-                "44.5",
-                "45.8",
-                "46.5",
-                "47.3",
-                "48.1",
-                "49.7",
                 ""
               ]
             }
