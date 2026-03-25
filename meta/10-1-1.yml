@@ -1,6 +1,6 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.1 Promoting the reduce of difference in the level of income of the population
 SDG_INDICATOR: 10.1.1 Gini index
-CONTACT_ORGANISATION: State Statistics Service of Ukraine
 UNIT_MEASURE: "Index"
+CONTACT_ORGANISATION: State Statistics Service of Ukraine
 REC_USE_LIM: "by sex, by age: Data are not being developed. <br> 2022-2024: Data are calculated for partially occupied regions and have atypical values."
