@@ -7116,6 +7116,18 @@
             "title": "Рік"
           },
           {
+            "name": "group_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Азовське море",
+                "Чорне море",
+                ""
+              ]
+            },
+            "title": "Моря"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -7131,18 +7143,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "group_2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Азовське море",
-                "Чорне море",
-                ""
-              ]
-            },
-            "title": "Моря"
           },
           {
             "name": "Value",
@@ -18244,6 +18244,19 @@
             "title": "Рік"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Полісся",
+                "Лісостеп",
+                "Степ",
+                ""
+              ]
+            },
+            "title": "Зони"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -18279,19 +18292,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Полісся",
-                "Лісостеп",
-                "Степ",
-                ""
-              ]
-            },
-            "title": "Зони"
           },
           {
             "name": "Value",

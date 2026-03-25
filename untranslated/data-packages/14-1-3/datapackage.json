@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "group_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_90",
+                "group_label_91",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -26,17 +37,6 @@
                 "24_reg_Odesa",
                 "30_reg_Kherson",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_90",
-                "group_label_91",
                 ""
               ]
             }

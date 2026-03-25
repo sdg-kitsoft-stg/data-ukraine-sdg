@@ -15,6 +15,18 @@
             "type": "integer"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zone_1_polis",
+                "zone_2_fores_st",
+                "zone_3_st",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -46,18 +58,6 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "zone_1_polis",
-                "zone_2_fores_st",
-                "zone_3_st",
                 ""
               ]
             }

@@ -16,6 +16,18 @@
             "title": "Рік"
           },
           {
+            "name": "group_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Азовське море",
+                "Чорне море",
+                ""
+              ]
+            },
+            "title": "Моря"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -31,18 +43,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "group_2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Азовське море",
-                "Чорне море",
-                ""
-              ]
-            },
-            "title": "Моря"
           },
           {
             "name": "Value",

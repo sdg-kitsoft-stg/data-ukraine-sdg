@@ -1,101 +1,101 @@
-Year,Region,Seas,Value
+Year,Seas,Region,Value
 2015,,,147.692
-2015,,Sea of Azov,147.425
-2015,,Black Sea,0.267
-2015,Autonomous Republic of Crimea,,
-2015,Donetsk,,141.621
-2015,Zaporizhzhya,,5.772
-2015,Mykolayiv,,0.196
-2015,Odesa,,
-2015,Kherson,,0.103
-2015,city Sevastopol,,
+2015,Sea of Azov,,147.425
+2015,Black Sea,,0.267
+2015,,Autonomous Republic of Crimea,
+2015,,Donetsk,141.621
+2015,,Zaporizhzhya,5.772
+2015,,Mykolayiv,0.196
+2015,,Odesa,
+2015,,Kherson,0.103
+2015,,city Sevastopol,
 2016,,,147.4
-2016,,Sea of Azov,146.5
-2016,,Black Sea,0.9
-2016,Autonomous Republic of Crimea,,
-2016,Donetsk,,140.76
-2016,Zaporizhzhya,,5.739
-2016,Mykolayiv,,0.185
-2016,Odesa,,
-2016,Kherson,,0.716
-2016,city Sevastopol,,
+2016,Sea of Azov,,146.5
+2016,Black Sea,,0.9
+2016,,Autonomous Republic of Crimea,
+2016,,Donetsk,140.76
+2016,,Zaporizhzhya,5.739
+2016,,Mykolayiv,0.185
+2016,,Odesa,
+2016,,Kherson,0.716
+2016,,city Sevastopol,
 2017,,,160.5
-2017,,Sea of Azov,159.702
-2017,,Black Sea,0.798
-2017,Autonomous Republic of Crimea,,
-2017,Donetsk,,154.0
-2017,Zaporizhzhya,,5.702
-2017,Mykolayiv,,0.239
-2017,Odesa,,
-2017,Kherson,,0.559
-2017,city Sevastopol,,
+2017,Sea of Azov,,159.702
+2017,Black Sea,,0.798
+2017,,Autonomous Republic of Crimea,
+2017,,Donetsk,154.0
+2017,,Zaporizhzhya,5.702
+2017,,Mykolayiv,0.239
+2017,,Odesa,
+2017,,Kherson,0.559
+2017,,city Sevastopol,
 2018,,,146.573
-2018,,Sea of Azov,145.252
-2018,,Black Sea,1.321
-2018,Autonomous Republic of Crimea,,
-2018,Donetsk,,139.9
-2018,Zaporizhzhya,,5.352
-2018,Mykolayiv,,0.242
-2018,Odesa,,
-2018,Kherson,,1.079
-2018,city Sevastopol,,
+2018,Sea of Azov,,145.252
+2018,Black Sea,,1.321
+2018,,Autonomous Republic of Crimea,
+2018,,Donetsk,139.9
+2018,,Zaporizhzhya,5.352
+2018,,Mykolayiv,0.242
+2018,,Odesa,
+2018,,Kherson,1.079
+2018,,city Sevastopol,
 2019,,,6.24
-2019,,Sea of Azov,4.856
-2019,,Black Sea,1.384
-2019,Autonomous Republic of Crimea,,
-2019,Donetsk,,0.04
-2019,Zaporizhzhya,,4.816
-2019,Mykolayiv,,0.236
-2019,Odesa,,0.534
-2019,Kherson,,0.614
-2019,city Sevastopol,,
+2019,Sea of Azov,,4.856
+2019,Black Sea,,1.384
+2019,,Autonomous Republic of Crimea,
+2019,,Donetsk,0.04
+2019,,Zaporizhzhya,4.816
+2019,,Mykolayiv,0.236
+2019,,Odesa,0.534
+2019,,Kherson,0.614
+2019,,city Sevastopol,
 2020,,,6.309
-2020,,Sea of Azov,5.313
-2020,,Black Sea,0.996
-2020,Autonomous Republic of Crimea,,
-2020,Donetsk,,0.107
-2020,Zaporizhzhya,,5.195
-2020,Mykolayiv,,0.267
-2020,Odesa,,0.132
-2020,Kherson,,0.608
-2020,city Sevastopol,,
+2020,Sea of Azov,,5.313
+2020,Black Sea,,0.996
+2020,,Autonomous Republic of Crimea,
+2020,,Donetsk,0.107
+2020,,Zaporizhzhya,5.195
+2020,,Mykolayiv,0.267
+2020,,Odesa,0.132
+2020,,Kherson,0.608
+2020,,city Sevastopol,
 2021,,,6.783
-2021,,Sea of Azov,5.307
-2021,,Black Sea,1.476
-2021,Autonomous Republic of Crimea,,
-2021,Donetsk,,0.312
-2021,Zaporizhzhya,,4.994
-2021,Mykolayiv,,0.263
-2021,Odesa,,0.632
-2021,Kherson,,0.582
-2021,city Sevastopol,,
+2021,Sea of Azov,,5.307
+2021,Black Sea,,1.476
+2021,,Autonomous Republic of Crimea,
+2021,,Donetsk,0.312
+2021,,Zaporizhzhya,4.994
+2021,,Mykolayiv,0.263
+2021,,Odesa,0.632
+2021,,Kherson,0.582
+2021,,city Sevastopol,
 2022,,,0.405
-2022,,Sea of Azov,
-2022,,Black Sea,0.405
-2022,Autonomous Republic of Crimea,,
-2022,Donetsk,,
-2022,Zaporizhzhya,,
-2022,Mykolayiv,,0.155
-2022,Odesa,,0.25
-2022,Kherson,,
-2022,city Sevastopol,,
+2022,Sea of Azov,,
+2022,Black Sea,,0.405
+2022,,Autonomous Republic of Crimea,
+2022,,Donetsk,
+2022,,Zaporizhzhya,
+2022,,Mykolayiv,0.155
+2022,,Odesa,0.25
+2022,,Kherson,
+2022,,city Sevastopol,
 2023,,,0.488
-2023,,Sea of Azov,
-2023,,Black Sea,0.488
-2023,Autonomous Republic of Crimea,,
-2023,Donetsk,,
-2023,Zaporizhzhya,,
-2023,Mykolayiv,,0.146
-2023,Odesa,,0.342
-2023,Kherson,,
-2023,city Sevastopol,,
+2023,Sea of Azov,,
+2023,Black Sea,,0.488
+2023,,Autonomous Republic of Crimea,
+2023,,Donetsk,
+2023,,Zaporizhzhya,
+2023,,Mykolayiv,0.146
+2023,,Odesa,0.342
+2023,,Kherson,
+2023,,city Sevastopol,
 2024,,,0.414
-2024,,Sea of Azov,
-2024,,Black Sea,0.414
-2024,Autonomous Republic of Crimea,,
-2024,Donetsk,,
-2024,Zaporizhzhya,,
-2024,Mykolayiv,,0.148
-2024,Odesa,,0.266
-2024,Kherson,,
-2024,city Sevastopol,,
+2024,Sea of Azov,,
+2024,Black Sea,,0.414
+2024,,Autonomous Republic of Crimea,
+2024,,Donetsk,
+2024,,Zaporizhzhya,
+2024,,Mykolayiv,0.148
+2024,,Odesa,0.266
+2024,,Kherson,
+2024,,city Sevastopol,

@@ -7116,6 +7116,18 @@
             "title": "Year"
           },
           {
+            "name": "group_2",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sea of Azov",
+                "Black Sea",
+                ""
+              ]
+            },
+            "title": "Seas"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -7131,18 +7143,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_2",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sea of Azov",
-                "Black Sea",
-                ""
-              ]
-            },
-            "title": "Seas"
           },
           {
             "name": "Value",
@@ -18244,6 +18244,19 @@
             "title": "Year"
           },
           {
+            "name": "group_10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Polissya",
+                "Forest-steppe",
+                "Steppe",
+                ""
+              ]
+            },
+            "title": "Zones"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -18279,19 +18292,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_10",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Polissya",
-                "Forest-steppe",
-                "Steppe",
-                ""
-              ]
-            },
-            "title": "Zones"
           },
           {
             "name": "Value",
