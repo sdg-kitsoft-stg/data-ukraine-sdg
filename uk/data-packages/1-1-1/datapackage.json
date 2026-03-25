@@ -42,18 +42,6 @@
             "title": "Стать"
           },
           {
-            "name": "Households_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "домогосподарства з дітьми",
-                "домогосподарства без дітей",
-                ""
-              ]
-            },
-            "title": "Тип домогосподарства"
-          },
-          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
@@ -64,6 +52,18 @@
               ]
             },
             "title": "Місцевість проживання"
+          },
+          {
+            "name": "Households_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "домогосподарства з дітьми",
+                "домогосподарства без дітей",
+                ""
+              ]
+            },
+            "title": "Тип домогосподарства"
           },
           {
             "name": "Value",

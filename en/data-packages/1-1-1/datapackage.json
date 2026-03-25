@@ -42,18 +42,6 @@
             "title": "Sex"
           },
           {
-            "name": "Households_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "households with children",
-                "households without children",
-                ""
-              ]
-            },
-            "title": "Household type"
-          },
-          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
@@ -64,6 +52,18 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Households_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "households with children",
+                "households without children",
+                ""
+              ]
+            },
+            "title": "Household type"
           },
           {
             "name": "Value",

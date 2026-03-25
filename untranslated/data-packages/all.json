@@ -4388,7 +4388,6 @@
               "enum": [
                 "hh_ch_2",
                 "hh_ch_02",
-                "hh_ch_0",
                 ""
               ]
             }
@@ -5283,23 +5282,23 @@
             }
           },
           {
-            "name": "Households_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hh_ch_1",
-                "hh_ch_01",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Households_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }
@@ -13140,7 +13139,6 @@
             "constraints": {
               "enum": [
                 "females_1",
-                "females",
                 "males_1",
                 ""
               ]

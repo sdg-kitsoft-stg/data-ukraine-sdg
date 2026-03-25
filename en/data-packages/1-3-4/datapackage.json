@@ -60,7 +60,6 @@
               "enum": [
                 "households/families with children",
                 "households/families without children",
-                "households/families without children",
                 ""
               ]
             },
