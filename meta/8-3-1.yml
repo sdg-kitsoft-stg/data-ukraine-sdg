@@ -1,6 +1,6 @@
 SDG_GOAL: 8 Decent work and economic growth
 SDG_TARGET: 8.3 Promoting the creation of proper, safe working conditions for the working population
 SDG_INDICATOR: 8.3.1 Number of persons injured as a result of accidents at work (excluding accidents that occurred as a result of the armed aggression of the Russian Federation against Ukraine) per 100,000 working persons
-UNIT_MEASURE: "Injured per 100,000 working persons"
-CONTACT_ORGANISATION: "State Labor Service of Ukraine (SLS)"
+UNIT_MEASURE: Injured per 100,000 working persons
+CONTACT_ORGANISATION: State Labor Service of Ukraine (SLS)
 REC_USE_LIM: Data have been developed since 2024.

@@ -1,6 +1,6 @@
 SDG_GOAL: 3 Healthy lives and well-being
 SDG_TARGET: 3.5 Reducing premature mortality from non-communicable diseases
 SDG_INDICATOR: 3.5.3 Share of diagnosed malignant neoplasms (breast, cervical, prostate, colorectal cancer, lung) at early stages in the total number of diagnosed malignant neoplasms, percent
-UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "State Institution \"Public Health Center of the Ministry of Health of Ukraine\" (Public Health Center of the MoH of Ukraine)"
-REC_USE_LIM: 
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: State Institution "Public Health Center of the Ministry of Health of Ukraine" (Public Health Center of the MoH of Ukraine)
+REC_USE_LIM: null

@@ -1,4 +1,4 @@
-Year,Age,Sex,by type of place of registration of service providers,Value
+Year,Age,Sex,Type of place of registration of service providers,Value
 2015,,,,
 2016,,,,
 2017,,,,
@@ -9,9 +9,25 @@ Year,Age,Sex,by type of place of registration of service providers,Value
 2022,,,,
 2023,age_40_64,,,0.5
 2024,age_40_64,,,23.0
-2023,age_40_64,females,,0.5
-2024,age_40_64,females,,23.6
-2023,age_40_64,males,,0.5
+2023,age_40_64,females_1,,0.5
+2024,age_40_64,females_1,,23.6
+2023,age_40_64,males_1,,0.5
+2024,age_40_64,males_1,,22.2
+2023,age_40_64,,urban,0.5
+2024,age_40_64,,urban,24.0
+2023,age_40_64,,rural,0.6
+2024,age_40_64,,rural,18.1
+2023,age_65_plus,,,0.2
+2024,age_65_plus,,,22.5
+2023,age_65_plus,females_1,,0.2
+2024,age_65_plus,females_1,,22.7
+2023,age_65_plus,males_1,,0.2
+2024,age_65_plus,males_1,,22.2
+2023,age_65_plus,,urban,0.2
+2024,age_65_plus,,urban,23.9
+2023,age_65_plus,,rural,0.1
+2024,age_65_plus,,rural,14.9
+
 2024,age_40_64,males,,22.2
 2023,age_40_64,,urban,0.5
 2024,age_40_64,,urban,24.0

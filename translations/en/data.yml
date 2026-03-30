@@ -226,9 +226,9 @@ Cost_train: Cost of training a specialist
 2_per_student_job: average costs per one graduated student, who studies without separation from production, UAH
 3_per_graduate: average costs per one graduated student, who studies with separation from production, UAH
 4_per_doctoral: average costs per one doctoral student, UAH
-age_0_5: 0-5 years
-age_6_17: 6-17 years
-age_0_17: 0-17 years old inclusive
+age_0_5: 0–5 years
+age_6_17: 6–17 years
+age_0_17: 0–17 years old inclusive
 age_18_plus: 18 years and older
 age_18: under 18 years old
 age_18_35: from 18 years to 35 years inclusive
@@ -256,11 +256,11 @@ age_14_30: 14-30 years
 age_15_17: 15-17 years
 age_18_24: 18-24 years
 age_18_29: 18-29 years
-age_18_39: 18-39 years
+age_18_39: 18–39 years
 age_25_35: 25-35 years
 age_30_59: 30-59 years
 age_36_59: 36-59 years
-age_40_64: 40-64 years
+age_40_64: 40–64 years
 age_60_74: 60-74 years
 age_15_64: 15-64 years
 age_15_24: 15-24 years
@@ -455,7 +455,7 @@ ill_8_mumps: Mumps
 ill_9_rubella: Rubella
 ill_10_tetanus: Tetanus
 ill_10_haemophilic_infection: Haemophilus infection
-age_vac_1_under_1_year: under 1 year
+age_vac_1_under_1_year: up to 1 year
 age_vac_2_1_year: 1 year
 age_vac_3_18_months: 18 months
 age_vac_4_6_years: 6 years
@@ -2096,8 +2096,8 @@ group_label_171: 36–45 years
 group_label_172: 46–60 years
 group_label_173: Over 60 years
 group_13: Sex
-group_label_174: Women
-group_label_175: Men
+group_label_174: women
+group_label_175: men
 group_14: Status of the subject of the appeal
 group_label_176: Individual
 group_label_177: Sole proprietor (individual entrepreneur)
@@ -2106,9 +2106,9 @@ group_15: Type of authority that established the ASC
 group_label_179: City council
 group_label_180: Settlement council
 group_label_181: Village council
-group_16: Type of place of residence
-group_label_189: Urban
-group_label_190: Rural
+group_16: Type of residence
+group_label_189: urban
+group_label_190: rural
 group_17: Decile groups by level of average per capita equivalent total income
 group_label_191: First (lowest)
 group_label_192: Second
@@ -2884,7 +2884,7 @@ other_res: other_res
 Indicators of energy consumption by households: Indicators of energy consumption by households
 indicator_of_energy_1: share of energy consumption by the household sector in total final energy consumption, percent
 indicator_of_energy_2: specific energy consumption of residential buildings, kilowatt-hours per square meter
-group_label_269: Transportation and storage; postal and courier activities
+group_label_269: Transportation and storage; postal and courier services
 group_label_270: Public administration and defence; compulsory social security
 group_label_271: Human health and social work activities
 group_28: Age groups
@@ -2900,20 +2900,20 @@ group_29: Total number and fatality
 group_label_281: total number
 group_label_282: fatality
 group_label_283: Coal industry
-group_label_284: Metal ore and non-metal mining industry
+group_label_284: Mining and non-metallic industry
 group_label_285: Oil and gas extraction industry and geological exploration
-group_label_286: Energy sector
-group_label_287: Boiler supervision, lifting equipment
-group_label_288: Machine building
+group_label_286: Energy
+group_label_287: Boiler inspection, lifting structures
+group_label_288: Mechanical engineering
 group_label_289: Metallurgical industry
 group_label_290: Chemical industry
 group_label_291: Communications
 group_label_292: Gas industry
-group_label_293: Housing and utilities sector
+group_label_293: Housing and communal economy
 group_label_294: Agro-industrial complex
 group_label_295: Woodworking industry
 group_label_296: Light and textile industry
-group_label_297: Socio-cultural sector and trade
+group_label_297: Socio-cultural sphere and trade
 Average monthly electricity consumption: Average monthly electricity consumption per household consumer, kilowatt–hours
 without_electric_heating: without electric heating
 with_electric_heating: with electric heating
@@ -3012,18 +3012,18 @@ group_label_315: full general secondary education
 group_label_316: Transport
 group_label_317: Agriculture, forestry and fishing
 group_label_318: Other service activities
-group_31: Education
+group_31: Level of education
 group_label_319: basic, primary general secondary or no education
-group_32: Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent
+group_32: Age groups of youth who are not in employment, education or training
 group_label_320: aged 15–24
 group_label_321: aged 15–34
 group_label_322: Number of registered client requests for free legal assistance
 group_label_323: including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
 group_label_324: medium
-group_33: Gender (age 15-24)
-group_34: Type of place of residence (age 15-24)
-group_35: Gender (age 15-34)
-group_36: Type of place of residence (age 15-34)
+group_33: Sex (age 15–24)
+group_34: Type of residence (age 15–24)
+group_35: Sex (age 15–34)
+group_36: Type of residence (age 15–34)
 by_territorial_automated_centralized_warning_systems: by territorial automated centralized warning systems
 energy_water_utilities: production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity
 tourism_recreation_culture_sport: tourism, leisure, recreation, culture and sport
@@ -3078,3 +3078,13 @@ SupplyType_1: Methods of supplying drinking water
 Centralized_1: centralized water supply
 Non-centralized_1: non-centralized water supply
 age_groups: age groups
+by type of place of registration of service providers: Type of place of registration of service providers
+age_16_years: 16 years
+females_2: women, 15–24 years
+males_2: men, 15–24 years
+urban_1: urban, 15–24 years
+rural_1: rural, 15–24 years
+females_3: women, 15–34 years
+males_3: men, 15–34 years
+urban_2: urban, 15–34 years
+rural_2: rural, 15–34 years
