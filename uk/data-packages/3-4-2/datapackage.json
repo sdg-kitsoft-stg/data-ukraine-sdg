@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
-                "Чоловіча",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 років включно",
+                "0–17 років включно",
                 "18 років і старше",
                 ""
               ]
@@ -41,9 +41,11 @@
           },
           {
             "name": "Type of residence",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "міська",
+                "сільська",
                 ""
               ]
             },

@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_2",
+                "males_2",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban_1",
+                "rural_1",
                 ""
               ]
             }
@@ -52,8 +52,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_3",
+                "males_3",
                 ""
               ]
             }
@@ -63,8 +63,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban_2",
+                "rural_2",
                 ""
               ]
             }

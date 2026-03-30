@@ -39,9 +39,9 @@
                 "age_vac_2_1_year",
                 "age_vac_4_6_years",
                 "age_vac_3_18_months",
+                "age_16_years",
                 "age_vac_7_adult",
                 "age_vac_5_14_years",
-                "age_16_years",
                 ""
               ]
             }
@@ -60,7 +60,7 @@
                 "16_reg_Zakarpattya",
                 "17_reg_Zaporizhzhya",
                 "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
+                "18_reg_Kyiv",
                 "20_reg_Kirovohrad",
                 "21_reg_Luhansk",
                 "22_reg_Lviv",
@@ -76,7 +76,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]

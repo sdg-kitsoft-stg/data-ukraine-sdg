@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
-                "Men",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -45,22 +45,22 @@
             "constraints": {
               "enum": [
                 "Coal industry",
-                "Metal ore and non-metal mining industry",
+                "Mining and non-metallic industry",
                 "Oil and gas extraction industry and geological exploration",
-                "Energy sector",
+                "Energy",
                 "Construction",
-                "Boiler supervision, lifting equipment",
-                "Machine building",
+                "Boiler inspection, lifting structures",
+                "Mechanical engineering",
                 "Metallurgical industry",
                 "Chemical industry",
                 "Transport",
                 "Communications",
                 "Gas industry",
-                "Housing and utilities sector",
+                "Housing and communal economy",
                 "Agro-industrial complex",
                 "Woodworking industry",
                 "Light and textile industry",
-                "Socio-cultural sector and trade",
+                "Socio-cultural sphere and trade",
                 ""
               ]
             },

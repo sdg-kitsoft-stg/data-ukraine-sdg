@@ -17,7 +17,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2015,,,,,group_label_314,63.3
 2015,,,,,group_label_315,42.7
 2015,,,,,group_label_319,16.7
-2015,Ukraine,,,,,56.7
 2015,autonomous_Republic_of_Crimea,,,,,
 2015,11_reg_Vinnytsya,,,,,57.7
 2015,12_reg_Volyn,,,,,53.1
@@ -43,7 +42,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2015,32_reg_Cherkasy,,,,,56.5
 2015,33_reg_Chernivtsi,,,,,54.9
 2015,34_reg_Chernihiv,,,,,56.2
-2015,35_reg_Kyiv_city,,,,,62.0
+2015,Kyiv_city,,,,,62.0
 2015,city_Sevastopol,,,,,
 2016,,,,,,56.3
 2016,,group_label_272,,,,27.0
@@ -63,7 +62,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2016,,,,,group_label_314,62.9
 2016,,,,,group_label_315,42.1
 2016,,,,,group_label_319,16.9
-2016,Ukraine,,,,,56.3
 2016,autonomous_Republic_of_Crimea,,,,,
 2016,11_reg_Vinnytsya,,,,,56.6
 2016,12_reg_Volyn,,,,,51.0
@@ -89,7 +87,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2016,32_reg_Cherkasy,,,,,56.2
 2016,33_reg_Chernivtsi,,,,,56.2
 2016,34_reg_Chernihiv,,,,,55.6
-2016,35_reg_Kyiv_city,,,,,62.3
+2016,Kyiv_city,,,,,62.3
 2016,city_Sevastopol,,,,,
 2017,,,,,,56.1
 2017,,group_label_272,,,,27.9
@@ -109,7 +107,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2017,,,,,group_label_314,61.6
 2017,,,,,group_label_315,42.6
 2017,,,,,group_label_319,16.7
-2017,Ukraine,,,,,56.1
 2017,autonomous_Republic_of_Crimea,,,,,
 2017,11_reg_Vinnytsya,,,,,55.3
 2017,12_reg_Volyn,,,,,48.8
@@ -135,7 +132,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2017,32_reg_Cherkasy,,,,,56.7
 2017,33_reg_Chernivtsi,,,,,56.6
 2017,34_reg_Chernihiv,,,,,56.1
-2017,35_reg_Kyiv_city,,,,,61.8
+2017,Kyiv_city,,,,,61.8
 2017,city_Sevastopol,,,,,
 2018,,,,,,57.1
 2018,,group_label_272,,,,27.6
@@ -155,7 +152,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2018,,,,,group_label_314,62.5
 2018,,,,,group_label_315,43.2
 2018,,,,,group_label_319,15.5
-2018,Ukraine,,,,,57.1
 2018,autonomous_Republic_of_Crimea,,,,,
 2018,11_reg_Vinnytsya,,,,,56.8
 2018,12_reg_Volyn,,,,,49.5
@@ -181,7 +177,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2018,32_reg_Cherkasy,,,,,57.7
 2018,33_reg_Chernivtsi,,,,,57.2
 2018,34_reg_Chernihiv,,,,,57.3
-2018,35_reg_Kyiv_city,,,,,62.6
+2018,Kyiv_city,,,,,62.6
 2018,city_Sevastopol,,,,,
 2019,,,,,,58.2
 2019,,group_label_272,,,,30.6
@@ -201,7 +197,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2019,,,,,group_label_314,63.6
 2019,,,,,group_label_315,44.7
 2019,,,,,group_label_319,17.8
-2019,Ukraine,,,,,58.2
 2019,autonomous_Republic_of_Crimea,,,,,
 2019,11_reg_Vinnytsya,,,,,58.0
 2019,12_reg_Volyn,,,,,50.9
@@ -227,7 +222,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2019,32_reg_Cherkasy,,,,,59.3
 2019,33_reg_Chernivtsi,,,,,59.0
 2019,34_reg_Chernihiv,,,,,58.9
-2019,35_reg_Kyiv_city,,,,,63.1
+2019,Kyiv_city,,,,,63.1
 2019,city_Sevastopol,,,,,
 2020,,,,,,56.2
 2020,,group_label_272,,,,25.8
@@ -247,7 +242,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2020,,,,,group_label_314,61.4
 2020,,,,,group_label_315,42.7
 2020,,,,,group_label_319,15.6
-2020,Ukraine,,,,,56.2
 2020,autonomous_Republic_of_Crimea,,,,,
 2020,11_reg_Vinnytsya,,,,,56.2
 2020,12_reg_Volyn,,,,,48.9
@@ -273,7 +267,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2020,32_reg_Cherkasy,,,,,57.0
 2020,33_reg_Chernivtsi,,,,,56.5
 2020,34_reg_Chernihiv,,,,,56.4
-2020,35_reg_Kyiv_city,,,,,61.7
+2020,Kyiv_city,,,,,61.7
 2020,city_Sevastopol,,,,,
 2021,,,,,,55.7
 2021,,group_label_272,,,,24.8
@@ -293,7 +287,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2021,,,,,group_label_314,61.2
 2021,,,,,group_label_315,41.3
 2021,,,,,group_label_319,14.8
-2021,Ukraine,,,,,55.7
 2021,autonomous_Republic_of_Crimea,,,,,
 2021,11_reg_Vinnytsya,,,,,55.6
 2021,12_reg_Volyn,,,,,48.5
@@ -319,7 +312,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2021,32_reg_Cherkasy,,,,,56.0
 2021,33_reg_Chernivtsi,,,,,55.6
 2021,34_reg_Chernihiv,,,,,55.5
-2021,35_reg_Kyiv_city,,,,,61.6
+2021,Kyiv_city,,,,,61.6
 2021,city_Sevastopol,,,,,
 2022,,,,,,
 2022,,group_label_272,,,,
@@ -339,7 +332,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2022,,,,,group_label_314,
 2022,,,,,group_label_315,
 2022,,,,,group_label_319,
-2022,Ukraine,,,,,
 2022,autonomous_Republic_of_Crimea,,,,,
 2022,11_reg_Vinnytsya,,,,,
 2022,12_reg_Volyn,,,,,
@@ -365,7 +357,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2022,32_reg_Cherkasy,,,,,
 2022,33_reg_Chernivtsi,,,,,
 2022,34_reg_Chernihiv,,,,,
-2022,35_reg_Kyiv_city,,,,,
+2022,Kyiv_city,,,,,
 2022,city_Sevastopol,,,,,
 2023,,,,,,
 2023,,group_label_272,,,,
@@ -385,7 +377,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2023,,,,,group_label_314,
 2023,,,,,group_label_315,
 2023,,,,,group_label_319,
-2023,Ukraine,,,,,
 2023,autonomous_Republic_of_Crimea,,,,,
 2023,11_reg_Vinnytsya,,,,,
 2023,12_reg_Volyn,,,,,
@@ -411,7 +402,7 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2023,32_reg_Cherkasy,,,,,
 2023,33_reg_Chernivtsi,,,,,
 2023,34_reg_Chernihiv,,,,,
-2023,35_reg_Kyiv_city,,,,,
+2023,Kyiv_city,,,,,
 2023,city_Sevastopol,,,,,
 2024,,,,,,
 2024,,group_label_272,,,,
@@ -431,7 +422,6 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2024,,,,,group_label_314,
 2024,,,,,group_label_315,
 2024,,,,,group_label_319,
-2024,Ukraine,,,,,
 2024,autonomous_Republic_of_Crimea,,,,,
 2024,11_reg_Vinnytsya,,,,,
 2024,12_reg_Volyn,,,,,
@@ -457,5 +447,5 @@ Year,Region,group_28,group_13,group_16,group_31,Value
 2024,32_reg_Cherkasy,,,,,
 2024,33_reg_Chernivtsi,,,,,
 2024,34_reg_Chernihiv,,,,,
-2024,35_reg_Kyiv_city,,,,,
+2024,Kyiv_city,,,,,
 2024,city_Sevastopol,,,,,

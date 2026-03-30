@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0-17 years old inclusive",
+                "0–17 years old inclusive",
                 "18 years and older",
                 ""
               ]
@@ -41,9 +41,11 @@
           },
           {
             "name": "Type of residence",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "urban",
+                "rural",
                 ""
               ]
             },

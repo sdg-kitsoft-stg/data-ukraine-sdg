@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "females_1",
+                "males_1",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -24,17 +35,6 @@
                 "age_18_39",
                 "age_40_64",
                 "age_65_plus",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "women",
-                "men",
                 ""
               ]
             }

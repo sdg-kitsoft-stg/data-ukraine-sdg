@@ -37,13 +37,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 1 year",
+                "up to 1 year",
                 "1 year",
                 "6 years",
                 "18 months",
+                "16 years",
                 "adults",
                 "14 years",
-                "age_16_years",
                 ""
               ]
             },
@@ -63,7 +63,7 @@
                 "Zakarpattya",
                 "Zaporizhzhya",
                 "Ivano-Frankivsk",
-                "Kyiv",
+                "18_reg_Kyiv",
                 "Kirovohrad",
                 "Luhansk",
                 "Lviv",
@@ -79,7 +79,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]

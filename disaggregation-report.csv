@@ -17,7 +17,7 @@ By sectors of the fuel and energy sector,1,5
 By special aggregations,2,5
 By spheres of public relations,1,10
 By type of area,1,2
-by type of place of registration of service providers,2,2
+by type of place of registration of service providers,1,2
 by type of residence,2,2
 By type of shelters,2,4
 By types of producers,1,2
@@ -99,7 +99,7 @@ PopulationGroup,1,2
 Products,1,3
 Reason of disability,1,2
 reasons_ land,1,1
-Region,76,33
+Region,76,34
 Res_inten,1,5
 Resource,1,3
 School type,1,3
@@ -118,7 +118,8 @@ SupplyType_1,1,2
 Type of economic activity,4,1242
 Type of educational institution,3,8
 Type of energy resources,1,6
-Type of residence,55,2
+Type of place of registration of service providers,1,2
+Type of residence,56,2
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,8,14

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "40-64 years",
+                "40–64 years",
                 "65 years and older",
                 ""
               ]
@@ -34,13 +34,15 @@
               "enum": [
                 "women",
                 "men",
+                "men",
+                "women",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "by type of place of registration of service providers",
+            "name": "Type of place of registration of service providers",
             "type": "string",
             "constraints": {
               "enum": [
@@ -49,7 +51,7 @@
                 ""
               ]
             },
-            "title": "by type of place of registration of service providers"
+            "title": "Type of place of registration of service providers"
           },
           {
             "name": "Value",

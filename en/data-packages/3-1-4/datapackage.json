@@ -16,21 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0-5 years",
-                "6-17 years",
-                "18-39 years",
-                "40-64 years",
-                "65 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -41,6 +26,21 @@
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0–5 years",
+                "6–17 years",
+                "18–39 years",
+                "40–64 years",
+                "65 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Type of residence",

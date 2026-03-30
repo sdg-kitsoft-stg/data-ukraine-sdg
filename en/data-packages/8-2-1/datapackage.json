@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,7 +45,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -75,8 +74,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Women",
-                "Men",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -87,12 +86,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "urban",
+                "rural",
                 ""
               ]
             },
-            "title": "Type of place of residence"
+            "title": "Type of residence"
           },
           {
             "name": "group_31",
@@ -108,7 +107,7 @@
                 ""
               ]
             },
-            "title": "Education"
+            "title": "Level of education"
           },
           {
             "name": "Value",

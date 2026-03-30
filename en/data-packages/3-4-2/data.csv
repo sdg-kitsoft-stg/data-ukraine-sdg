@@ -26,15 +26,15 @@ Year,Sex,Age,Type of residence,Value
 2022,men,,,84.6
 2023,men,,,76.3
 2024,men,,,73.9
-2016,,0-17 years old inclusive,,94.4
-2017,,0-17 years old inclusive,,94.5
-2018,,0-17 years old inclusive,,96.8
-2019,,0-17 years old inclusive,,98.2
-2020,,0-17 years old inclusive,,98.5
-2021,,0-17 years old inclusive,,97.5
-2022,,0-17 years old inclusive,,99.7
-2023,,0-17 years old inclusive,,88.5
-2024,,0-17 years old inclusive,,85.8
+2016,,0–17 years old inclusive,,94.4
+2017,,0–17 years old inclusive,,94.5
+2018,,0–17 years old inclusive,,96.8
+2019,,0–17 years old inclusive,,98.2
+2020,,0–17 years old inclusive,,98.5
+2021,,0–17 years old inclusive,,97.5
+2022,,0–17 years old inclusive,,99.7
+2023,,0–17 years old inclusive,,88.5
+2024,,0–17 years old inclusive,,85.8
 2016,,18 years and older,,49.1
 2017,,18 years and older,,57.7
 2018,,18 years and older,,64.0
@@ -44,3 +44,21 @@ Year,Sex,Age,Type of residence,Value
 2022,,18 years and older,,86.6
 2023,,18 years and older,,76.8
 2024,,18 years and older,,75.0
+2016,,,urban,
+2017,,,urban,
+2018,,,urban,
+2019,,,urban,
+2020,,,urban,
+2021,,,urban,
+2022,,,urban,
+2023,,,urban,
+2024,,,urban,
+2016,,,rural,
+2017,,,rural,
+2018,,,rural,
+2019,,,rural,
+2020,,,rural,
+2021,,,rural,
+2022,,,rural,
+2023,,,rural,
+2024,,,rural,

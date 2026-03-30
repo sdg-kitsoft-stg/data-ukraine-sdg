@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "40 - 64 роки",
+                "40–64 роки",
                 "65 років і старші",
                 ""
               ]
@@ -32,15 +32,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
+                "жінки",
+                "чоловіки",
                 "Чоловіча",
+                "Жіноча",
                 ""
               ]
             },
             "title": "Стать"
           },
           {
-            "name": "by type of place of registration of service providers",
+            "name": "Type of place of registration of service providers",
             "type": "string",
             "constraints": {
               "enum": [
@@ -49,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Тип місцевості реєстрації надавачів послуг"
+            "title": "Type of place of registration of service providers"
           },
           {
             "name": "Value",

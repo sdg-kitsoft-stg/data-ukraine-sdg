@@ -25,55 +25,55 @@
                 ""
               ]
             },
-            "title": "Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent"
+            "title": "Age groups of youth who are not in employment, education or training"
           },
           {
             "name": "group_33",
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "women, 15–24 years",
+                "men, 15–24 years",
                 ""
               ]
             },
-            "title": "Gender (age 15-24)"
+            "title": "Sex (age 15–24)"
           },
           {
             "name": "group_34",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban, 15–24 years",
+                "rural, 15–24 years",
                 ""
               ]
             },
-            "title": "Type of place of residence (age 15-24)"
+            "title": "Type of residence (age 15–24)"
           },
           {
             "name": "group_35",
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "women, 15–34 years",
+                "men, 15–34 years",
                 ""
               ]
             },
-            "title": "Gender (age 15-34)"
+            "title": "Sex (age 15–34)"
           },
           {
             "name": "group_36",
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban, 15–34 years",
+                "rural, 15–34 years",
                 ""
               ]
             },
-            "title": "Type of place of residence (age 15-34)"
+            "title": "Type of residence (age 15–34)"
           },
           {
             "name": "Value",

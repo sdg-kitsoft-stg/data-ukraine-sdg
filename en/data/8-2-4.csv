@@ -1,4 +1,4 @@
-Year,"Share of youth who are not in employment, education or training, in the total population of the corresponding age, percent",Gender (age 15-24),Type of place of residence (age 15-24),Gender (age 15-34),Type of place of residence (age 15-34),Value
+Year,"Age groups of youth who are not in employment, education or training",Sex (age 15–24),Type of residence (age 15–24),Sex (age 15–34),Type of residence (age 15–34),Value
 2015,aged 15–24,,,,,17.2
 2016,aged 15–24,,,,,17.8
 2017,aged 15–24,,,,,15.9
@@ -9,6 +9,46 @@ Year,"Share of youth who are not in employment, education or training, in the to
 2022,aged 15–24,,,,,
 2023,aged 15–24,,,,,
 2024,aged 15–24,,,,,
+2015,,"women, 15–24 years",,,,19.8
+2016,,"women, 15–24 years",,,,20.8
+2017,,"women, 15–24 years",,,,19.0
+2018,,"women, 15–24 years",,,,17.8
+2019,,"women, 15–24 years",,,,19.9
+2020,,"women, 15–24 years",,,,18.4
+2021,,"women, 15–24 years",,,,18.0
+2022,,"women, 15–24 years",,,,
+2023,,"women, 15–24 years",,,,
+2024,,"women, 15–24 years",,,,
+2015,,"men, 15–24 years",,,,14.6
+2016,,"men, 15–24 years",,,,14.9
+2017,,"men, 15–24 years",,,,12.9
+2018,,"men, 15–24 years",,,,11.3
+2019,,"men, 15–24 years",,,,11.5
+2020,,"men, 15–24 years",,,,12.7
+2021,,"men, 15–24 years",,,,10.8
+2022,,"men, 15–24 years",,,,
+2023,,"men, 15–24 years",,,,
+2024,,"men, 15–24 years",,,,
+2015,,,"urban, 15–24 years",,,14.6
+2016,,,"urban, 15–24 years",,,14.9
+2017,,,"urban, 15–24 years",,,12.4
+2018,,,"urban, 15–24 years",,,11.6
+2019,,,"urban, 15–24 years",,,12.5
+2020,,,"urban, 15–24 years",,,12.0
+2021,,,"urban, 15–24 years",,,11.6
+2022,,,"urban, 15–24 years",,,
+2023,,,"urban, 15–24 years",,,
+2024,,,"urban, 15–24 years",,,
+2015,,,"rural, 15–24 years",,,21.6
+2016,,,"rural, 15–24 years",,,22.8
+2017,,,"rural, 15–24 years",,,22.0
+2018,,,"rural, 15–24 years",,,19.4
+2019,,,"rural, 15–24 years",,,21.0
+2020,,,"rural, 15–24 years",,,21.7
+2021,,,"rural, 15–24 years",,,19.2
+2022,,,"rural, 15–24 years",,,
+2023,,,"rural, 15–24 years",,,
+2024,,,"rural, 15–24 years",,,
 2015,aged 15–34,,,,,22.4
 2016,aged 15–34,,,,,23.2
 2017,aged 15–34,,,,,22.5
@@ -19,83 +59,43 @@ Year,"Share of youth who are not in employment, education or training, in the to
 2022,aged 15–34,,,,,
 2023,aged 15–34,,,,,
 2024,aged 15–34,,,,,
-2015,,women,,,,19.8
-2016,,women,,,,20.8
-2017,,women,,,,19.0
-2018,,women,,,,17.8
-2019,,women,,,,19.9
-2020,,women,,,,18.4
-2021,,women,,,,18.0
-2022,,women,,,,
-2023,,women,,,,
-2024,,women,,,,
-2015,,men,,,,14.6
-2016,,men,,,,14.9
-2017,,men,,,,12.9
-2018,,men,,,,11.3
-2019,,men,,,,11.5
-2020,,men,,,,12.7
-2021,,men,,,,10.8
-2022,,men,,,,
-2023,,men,,,,
-2024,,men,,,,
-2015,,,urban,,,14.6
-2016,,,urban,,,14.9
-2017,,,urban,,,12.4
-2018,,,urban,,,11.6
-2019,,,urban,,,12.5
-2020,,,urban,,,12.0
-2021,,,urban,,,11.6
-2022,,,urban,,,
-2023,,,urban,,,
-2024,,,urban,,,
-2015,,,rural,,,21.6
-2016,,,rural,,,22.8
-2017,,,rural,,,22.0
-2018,,,rural,,,19.4
-2019,,,rural,,,21.0
-2020,,,rural,,,21.7
-2021,,,rural,,,19.2
-2022,,,rural,,,
-2023,,,rural,,,
-2024,,,rural,,,
-2015,,,,women,,28.1
-2016,,,,women,,29.3
-2017,,,,women,,29.0
-2018,,,,women,,26.8
-2019,,,,women,,28.8
-2020,,,,women,,29.1
-2021,,,,women,,29.6
-2022,,,,women,,
-2023,,,,women,,
-2024,,,,women,,
-2015,,,,men,,16.9
-2016,,,,men,,17.4
-2017,,,,men,,16.3
-2018,,,,men,,15.2
-2019,,,,men,,13.7
-2020,,,,men,,14.8
-2021,,,,men,,14.4
-2022,,,,men,,
-2023,,,,men,,
-2024,,,,men,,
-2015,,,,,urban,20.1
-2016,,,,,urban,20.9
-2017,,,,,urban,20.0
-2018,,,,,urban,18.7
-2019,,,,,urban,18.7
-2020,,,,,urban,18.9
-2021,,,,,urban,19.3
-2022,,,,,urban,
-2023,,,,,urban,
-2024,,,,,urban,
-2015,,,,,rural,27.3
-2016,,,,,rural,28.0
-2017,,,,,rural,27.5
-2018,,,,,rural,25.2
-2019,,,,,rural,25.6
-2020,,,,,rural,27.2
-2021,,,,,rural,26.6
-2022,,,,,rural,
-2023,,,,,rural,
-2024,,,,,rural,
+2015,,,,"women, 15–34 years",,28.1
+2016,,,,"women, 15–34 years",,29.3
+2017,,,,"women, 15–34 years",,29.0
+2018,,,,"women, 15–34 years",,26.8
+2019,,,,"women, 15–34 years",,28.8
+2020,,,,"women, 15–34 years",,29.1
+2021,,,,"women, 15–34 years",,29.6
+2022,,,,"women, 15–34 years",,
+2023,,,,"women, 15–34 years",,
+2024,,,,"women, 15–34 years",,
+2015,,,,"men, 15–34 years",,16.9
+2016,,,,"men, 15–34 years",,17.4
+2017,,,,"men, 15–34 years",,16.3
+2018,,,,"men, 15–34 years",,15.2
+2019,,,,"men, 15–34 years",,13.7
+2020,,,,"men, 15–34 years",,14.8
+2021,,,,"men, 15–34 years",,14.4
+2022,,,,"men, 15–34 years",,
+2023,,,,"men, 15–34 years",,
+2024,,,,"men, 15–34 years",,
+2015,,,,,"urban, 15–34 years",20.1
+2016,,,,,"urban, 15–34 years",20.9
+2017,,,,,"urban, 15–34 years",20.0
+2018,,,,,"urban, 15–34 years",18.7
+2019,,,,,"urban, 15–34 years",18.7
+2020,,,,,"urban, 15–34 years",18.9
+2021,,,,,"urban, 15–34 years",19.3
+2022,,,,,"urban, 15–34 years",
+2023,,,,,"urban, 15–34 years",
+2024,,,,,"urban, 15–34 years",
+2015,,,,,"rural, 15–34 years",27.3
+2016,,,,,"rural, 15–34 years",28.0
+2017,,,,,"rural, 15–34 years",27.5
+2018,,,,,"rural, 15–34 years",25.2
+2019,,,,,"rural, 15–34 years",25.6
+2020,,,,,"rural, 15–34 years",27.2
+2021,,,,,"rural, 15–34 years",26.6
+2022,,,,,"rural, 15–34 years",
+2023,,,,,"rural, 15–34 years",
+2024,,,,,"rural, 15–34 years",
