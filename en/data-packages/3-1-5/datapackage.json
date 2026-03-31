@@ -34,8 +34,6 @@
               "enum": [
                 "women",
                 "men",
-                "men",
-                "women",
                 ""
               ]
             },

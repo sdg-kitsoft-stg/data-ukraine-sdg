@@ -34,8 +34,6 @@
               "enum": [
                 "жінки",
                 "чоловіки",
-                "Чоловіча",
-                "Жіноча",
                 ""
               ]
             },
@@ -51,7 +49,7 @@
                 ""
               ]
             },
-            "title": "Type of place of registration of service providers"
+            "title": "Тип місцевості реєстрації надавачів послуг"
           },
           {
             "name": "Value",

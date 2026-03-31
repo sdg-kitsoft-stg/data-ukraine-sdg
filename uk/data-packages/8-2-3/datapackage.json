@@ -16,6 +16,30 @@
             "title": "Рік"
           },
           {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "жінки",
+                "чоловіки",
+                ""
+              ]
+            },
+            "title": "Стать"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -51,30 +75,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "group_13",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "жінки",
-                "чоловіки",
-                ""
-              ]
-            },
-            "title": "Стать"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
           },
           {
             "name": "Value",

@@ -1,451 +1,451 @@
-Year,Region,Age groups,Sex,Type of residence,Level of education,Value
+Year,Age groups,Sex,Type of residence,Level of education,Region,Value
 2015,,,,,,9.1
-2015,,15–24 years,,,,22.4
-2015,,25–29 years,,,,11.2
-2015,,30–34 years,,,,9.7
-2015,,35–39 years,,,,7.2
-2015,,40–49 years,,,,7.6
-2015,,50–59 years,,,,6.3
-2015,,60–70 years,,,,0.1
-2015,,,women,,,8.1
-2015,,,men,,,10.1
-2015,,,,urban,,9.0
-2015,,,,rural,,9.4
-2015,,,,,full tertiary education,7.8
-2015,,,,,basic tertiary education,15.6
-2015,,,,,incomplete tertiary education,8.5
-2015,,,,,vocational and technical education,10.4
-2015,,,,,full general secondary education,9.6
-2015,,,,,"basic, primary general secondary or no education",12.1
-2015,Autonomous Republic of Crimea,,,,,
-2015,Vinnytsya,,,,,8.9
-2015,Volyn,,,,,9.8
-2015,Dnipropetrovsk,,,,,7.2
-2015,Donetsk,,,,,13.8
-2015,Zhytomyr,,,,,11.3
-2015,Zakarpattya,,,,,9.2
-2015,Zaporizhzhya,,,,,9.7
-2015,Ivano-Frankivsk,,,,,8.4
-2015,Kyiv,,,,,6.4
-2015,Kirovohrad,,,,,11.4
-2015,Luhansk,,,,,15.6
-2015,Lviv,,,,,8.2
-2015,Mykolayiv,,,,,8.9
-2015,Odesa,,,,,6.5
-2015,Poltava,,,,,12.1
-2015,Rivne,,,,,9.9
-2015,Sumy,,,,,10.1
-2015,Ternopil,,,,,11.8
-2015,Kharkiv,,,,,7.1
-2015,Kherson,,,,,10.2
-2015,Khmelnytskiy,,,,,10.2
-2015,Cherkasy,,,,,9.8
-2015,Chernivtsi,,,,,9.3
-2015,Chernihiv,,,,,10.7
-2015,city Kyiv,,,,,7.0
-2015,city Sevastopol,,,,,
+2015,15–24 years,,,,,22.4
+2015,25–29 years,,,,,11.2
+2015,30–34 years,,,,,9.7
+2015,35–39 years,,,,,7.2
+2015,40–49 years,,,,,7.6
+2015,50–59 years,,,,,6.3
+2015,60–70 years,,,,,0.1
+2015,,women,,,,8.1
+2015,,men,,,,10.1
+2015,,,urban,,,9.0
+2015,,,rural,,,9.4
+2015,,,,full tertiary education,,7.8
+2015,,,,basic tertiary education,,15.6
+2015,,,,incomplete tertiary education,,8.5
+2015,,,,vocational and technical education,,10.4
+2015,,,,full general secondary education,,9.6
+2015,,,,"basic, primary general secondary or no education",,12.1
+2015,,,,,Autonomous Republic of Crimea,
+2015,,,,,Vinnytsya,8.9
+2015,,,,,Volyn,9.8
+2015,,,,,Dnipropetrovsk,7.2
+2015,,,,,Donetsk,13.8
+2015,,,,,Zhytomyr,11.3
+2015,,,,,Zakarpattya,9.2
+2015,,,,,Zaporizhzhya,9.7
+2015,,,,,Ivano-Frankivsk,8.4
+2015,,,,,Kyiv,6.4
+2015,,,,,Kirovohrad,11.4
+2015,,,,,Luhansk,15.6
+2015,,,,,Lviv,8.2
+2015,,,,,Mykolayiv,8.9
+2015,,,,,Odesa,6.5
+2015,,,,,Poltava,12.1
+2015,,,,,Rivne,9.9
+2015,,,,,Sumy,10.1
+2015,,,,,Ternopil,11.8
+2015,,,,,Kharkiv,7.1
+2015,,,,,Kherson,10.2
+2015,,,,,Khmelnytskiy,10.2
+2015,,,,,Cherkasy,9.8
+2015,,,,,Chernivtsi,9.3
+2015,,,,,Chernihiv,10.7
+2015,,,,,city Kyiv,7.0
+2015,,,,,city Sevastopol,
 2016,,,,,,9.3
-2016,,15–24 years,,,,23.0
-2016,,25–29 years,,,,11.7
-2016,,30–34 years,,,,8.9
-2016,,35–39 years,,,,8.0
-2016,,40–49 years,,,,7.7
-2016,,50–59 years,,,,7.3
-2016,,60–70 years,,,,0.1
-2016,,,women,,,7.7
-2016,,,men,,,10.8
-2016,,,,urban,,9.2
-2016,,,,rural,,9.7
-2016,,,,,full tertiary education,8.0
-2016,,,,,basic tertiary education,15.3
-2016,,,,,incomplete tertiary education,8.0
-2016,,,,,vocational and technical education,10.6
-2016,,,,,full general secondary education,10.9
-2016,,,,,"basic, primary general secondary or no education",8.4
-2016,Autonomous Republic of Crimea,,,,,
-2016,Vinnytsya,,,,,9.7
-2016,Volyn,,,,,11.5
-2016,Dnipropetrovsk,,,,,7.9
-2016,Donetsk,,,,,14.1
-2016,Zhytomyr,,,,,11.2
-2016,Zakarpattya,,,,,10.0
-2016,Zaporizhzhya,,,,,10.0
-2016,Ivano-Frankivsk,,,,,8.8
-2016,Kyiv,,,,,6.8
-2016,Kirovohrad,,,,,12.4
-2016,Luhansk,,,,,16.0
-2016,Lviv,,,,,7.7
-2016,Mykolayiv,,,,,9.7
-2016,Odesa,,,,,6.8
-2016,Poltava,,,,,12.6
-2016,Rivne,,,,,10.6
-2016,Sumy,,,,,9.3
-2016,Ternopil,,,,,11.5
-2016,Kharkiv,,,,,6.4
-2016,Kherson,,,,,11.2
-2016,Khmelnytskiy,,,,,9.4
-2016,Cherkasy,,,,,10.4
-2016,Chernivtsi,,,,,8.7
-2016,Chernihiv,,,,,11.3
-2016,city Kyiv,,,,,6.7
-2016,city Sevastopol,,,,,
+2016,15–24 years,,,,,23.0
+2016,25–29 years,,,,,11.7
+2016,30–34 years,,,,,8.9
+2016,35–39 years,,,,,8.0
+2016,40–49 years,,,,,7.7
+2016,50–59 years,,,,,7.3
+2016,60–70 years,,,,,0.1
+2016,,women,,,,7.7
+2016,,men,,,,10.8
+2016,,,urban,,,9.2
+2016,,,rural,,,9.7
+2016,,,,full tertiary education,,8.0
+2016,,,,basic tertiary education,,15.3
+2016,,,,incomplete tertiary education,,8.0
+2016,,,,vocational and technical education,,10.6
+2016,,,,full general secondary education,,10.9
+2016,,,,"basic, primary general secondary or no education",,8.4
+2016,,,,,Autonomous Republic of Crimea,
+2016,,,,,Vinnytsya,9.7
+2016,,,,,Volyn,11.5
+2016,,,,,Dnipropetrovsk,7.9
+2016,,,,,Donetsk,14.1
+2016,,,,,Zhytomyr,11.2
+2016,,,,,Zakarpattya,10.0
+2016,,,,,Zaporizhzhya,10.0
+2016,,,,,Ivano-Frankivsk,8.8
+2016,,,,,Kyiv,6.8
+2016,,,,,Kirovohrad,12.4
+2016,,,,,Luhansk,16.0
+2016,,,,,Lviv,7.7
+2016,,,,,Mykolayiv,9.7
+2016,,,,,Odesa,6.8
+2016,,,,,Poltava,12.6
+2016,,,,,Rivne,10.6
+2016,,,,,Sumy,9.3
+2016,,,,,Ternopil,11.5
+2016,,,,,Kharkiv,6.4
+2016,,,,,Kherson,11.2
+2016,,,,,Khmelnytskiy,9.4
+2016,,,,,Cherkasy,10.4
+2016,,,,,Chernivtsi,8.7
+2016,,,,,Chernihiv,11.3
+2016,,,,,city Kyiv,6.7
+2016,,,,,city Sevastopol,
 2017,,,,,,9.5
-2017,,15–24 years,,,,18.9
-2017,,25–29 years,,,,11.3
-2017,,30–34 years,,,,9.8
-2017,,35–39 years,,,,8.4
-2017,,40–49 years,,,,8.7
-2017,,50–59 years,,,,8.1
-2017,,60–70 years,,,,0.1
-2017,,,women,,,7.7
-2017,,,men,,,11.1
-2017,,,,urban,,9.3
-2017,,,,rural,,9.9
-2017,,,,,full tertiary education,7.8
-2017,,,,,basic tertiary education,13.7
-2017,,,,,incomplete tertiary education,9.0
-2017,,,,,vocational and technical education,11.1
-2017,,,,,full general secondary education,10.2
-2017,,,,,"basic, primary general secondary or no education",11.9
-2017,Autonomous Republic of Crimea,,,,,
-2017,Vinnytsya,,,,,10.7
-2017,Volyn,,,,,12.5
-2017,Dnipropetrovsk,,,,,8.5
-2017,Donetsk,,,,,14.6
-2017,Zhytomyr,,,,,10.8
-2017,Zakarpattya,,,,,10.5
-2017,Zaporizhzhya,,,,,10.7
-2017,Ivano-Frankivsk,,,,,8.5
-2017,Kyiv,,,,,6.5
-2017,Kirovohrad,,,,,12.2
-2017,Luhansk,,,,,16.6
-2017,Lviv,,,,,7.5
-2017,Mykolayiv,,,,,10.3
-2017,Odesa,,,,,7.3
-2017,Poltava,,,,,12.0
-2017,Rivne,,,,,11.6
-2017,Sumy,,,,,9.1
-2017,Ternopil,,,,,11.9
-2017,Kharkiv,,,,,6.1
-2017,Kherson,,,,,11.1
-2017,Khmelnytskiy,,,,,8.9
-2017,Cherkasy,,,,,10.2
-2017,Chernivtsi,,,,,8.4
-2017,Chernihiv,,,,,11.2
-2017,city Kyiv,,,,,6.9
-2017,city Sevastopol,,,,,
+2017,15–24 years,,,,,18.9
+2017,25–29 years,,,,,11.3
+2017,30–34 years,,,,,9.8
+2017,35–39 years,,,,,8.4
+2017,40–49 years,,,,,8.7
+2017,50–59 years,,,,,8.1
+2017,60–70 years,,,,,0.1
+2017,,women,,,,7.7
+2017,,men,,,,11.1
+2017,,,urban,,,9.3
+2017,,,rural,,,9.9
+2017,,,,full tertiary education,,7.8
+2017,,,,basic tertiary education,,13.7
+2017,,,,incomplete tertiary education,,9.0
+2017,,,,vocational and technical education,,11.1
+2017,,,,full general secondary education,,10.2
+2017,,,,"basic, primary general secondary or no education",,11.9
+2017,,,,,Autonomous Republic of Crimea,
+2017,,,,,Vinnytsya,10.7
+2017,,,,,Volyn,12.5
+2017,,,,,Dnipropetrovsk,8.5
+2017,,,,,Donetsk,14.6
+2017,,,,,Zhytomyr,10.8
+2017,,,,,Zakarpattya,10.5
+2017,,,,,Zaporizhzhya,10.7
+2017,,,,,Ivano-Frankivsk,8.5
+2017,,,,,Kyiv,6.5
+2017,,,,,Kirovohrad,12.2
+2017,,,,,Luhansk,16.6
+2017,,,,,Lviv,7.5
+2017,,,,,Mykolayiv,10.3
+2017,,,,,Odesa,7.3
+2017,,,,,Poltava,12.0
+2017,,,,,Rivne,11.6
+2017,,,,,Sumy,9.1
+2017,,,,,Ternopil,11.9
+2017,,,,,Kharkiv,6.1
+2017,,,,,Kherson,11.1
+2017,,,,,Khmelnytskiy,8.9
+2017,,,,,Cherkasy,10.2
+2017,,,,,Chernivtsi,8.4
+2017,,,,,Chernihiv,11.2
+2017,,,,,city Kyiv,6.9
+2017,,,,,city Sevastopol,
 2018,,,,,,8.8
-2018,,15–24 years,,,,17.9
-2018,,25–29 years,,,,9.8
-2018,,30–34 years,,,,8.9
-2018,,35–39 years,,,,9.5
-2018,,40–49 years,,,,7.7
-2018,,50–59 years,,,,7.4
-2018,,60–70 years,,,,0.2
-2018,,,women,,,7.4
-2018,,,men,,,10.0
-2018,,,,urban,,8.6
-2018,,,,rural,,9.2
-2018,,,,,full tertiary education,7.8
-2018,,,,,basic tertiary education,15.0
-2018,,,,,incomplete tertiary education,7.0
-2018,,,,,vocational and technical education,9.9
-2018,,,,,full general secondary education,10.0
-2018,,,,,"basic, primary general secondary or no education",13.0
-2018,Autonomous Republic of Crimea,,,,,
-2018,Vinnytsya,,,,,9.9
-2018,Volyn,,,,,11.4
-2018,Dnipropetrovsk,,,,,8.0
-2018,Donetsk,,,,,14.0
-2018,Zhytomyr,,,,,10.4
-2018,Zakarpattya,,,,,10.0
-2018,Zaporizhzhya,,,,,9.9
-2018,Ivano-Frankivsk,,,,,7.8
-2018,Kyiv,,,,,6.3
-2018,Kirovohrad,,,,,11.6
-2018,Luhansk,,,,,15.1
-2018,Lviv,,,,,6.9
-2018,Mykolayiv,,,,,9.6
-2018,Odesa,,,,,6.4
-2018,Poltava,,,,,11.2
-2018,Rivne,,,,,9.7
-2018,Sumy,,,,,8.7
-2018,Ternopil,,,,,10.4
-2018,Kharkiv,,,,,5.3
-2018,Kherson,,,,,10.3
-2018,Khmelnytskiy,,,,,8.4
-2018,Cherkasy,,,,,9.6
-2018,Chernivtsi,,,,,7.9
-2018,Chernihiv,,,,,10.6
-2018,city Kyiv,,,,,6.2
-2018,city Sevastopol,,,,,
+2018,15–24 years,,,,,17.9
+2018,25–29 years,,,,,9.8
+2018,30–34 years,,,,,8.9
+2018,35–39 years,,,,,9.5
+2018,40–49 years,,,,,7.7
+2018,50–59 years,,,,,7.4
+2018,60–70 years,,,,,0.2
+2018,,women,,,,7.4
+2018,,men,,,,10.0
+2018,,,urban,,,8.6
+2018,,,rural,,,9.2
+2018,,,,full tertiary education,,7.8
+2018,,,,basic tertiary education,,15.0
+2018,,,,incomplete tertiary education,,7.0
+2018,,,,vocational and technical education,,9.9
+2018,,,,full general secondary education,,10.0
+2018,,,,"basic, primary general secondary or no education",,13.0
+2018,,,,,Autonomous Republic of Crimea,
+2018,,,,,Vinnytsya,9.9
+2018,,,,,Volyn,11.4
+2018,,,,,Dnipropetrovsk,8.0
+2018,,,,,Donetsk,14.0
+2018,,,,,Zhytomyr,10.4
+2018,,,,,Zakarpattya,10.0
+2018,,,,,Zaporizhzhya,9.9
+2018,,,,,Ivano-Frankivsk,7.8
+2018,,,,,Kyiv,6.3
+2018,,,,,Kirovohrad,11.6
+2018,,,,,Luhansk,15.1
+2018,,,,,Lviv,6.9
+2018,,,,,Mykolayiv,9.6
+2018,,,,,Odesa,6.4
+2018,,,,,Poltava,11.2
+2018,,,,,Rivne,9.7
+2018,,,,,Sumy,8.7
+2018,,,,,Ternopil,10.4
+2018,,,,,Kharkiv,5.3
+2018,,,,,Kherson,10.3
+2018,,,,,Khmelnytskiy,8.4
+2018,,,,,Cherkasy,9.6
+2018,,,,,Chernivtsi,7.9
+2018,,,,,Chernihiv,10.6
+2018,,,,,city Kyiv,6.2
+2018,,,,,city Sevastopol,
 2019,,,,,,8.2
-2019,,15–24 years,,,,15.4
-2019,,25–29 years,,,,8.4
-2019,,30–34 years,,,,7.3
-2019,,35–39 years,,,,7.5
-2019,,40–49 years,,,,8.4
-2019,,50–59 years,,,,8.0
-2019,,60–70 years,,,,0.1
-2019,,,women,,,7.9
-2019,,,men,,,8.5
-2019,,,,urban,,8.0
-2019,,,,rural,,8.7
-2019,,,,,full tertiary education,6.3
-2019,,,,,basic tertiary education,10.1
-2019,,,,,incomplete tertiary education,8.0
-2019,,,,,vocational and technical education,9.2
-2019,,,,,full general secondary education,9.6
-2019,,,,,"basic, primary general secondary or no education",13.9
-2019,Autonomous Republic of Crimea,,,,,
-2019,Vinnytsya,,,,,9.4
-2019,Volyn,,,,,10.6
-2019,Dnipropetrovsk,,,,,7.7
-2019,Donetsk,,,,,13.6
-2019,Zhytomyr,,,,,9.6
-2019,Zakarpattya,,,,,9.1
-2019,Zaporizhzhya,,,,,9.5
-2019,Ivano-Frankivsk,,,,,7.2
-2019,Kyiv,,,,,5.9
-2019,Kirovohrad,,,,,11.0
-2019,Luhansk,,,,,13.7
-2019,Lviv,,,,,6.5
-2019,Mykolayiv,,,,,9.3
-2019,Odesa,,,,,5.9
-2019,Poltava,,,,,10.6
-2019,Rivne,,,,,8.3
-2019,Sumy,,,,,7.7
-2019,Ternopil,,,,,10.0
-2019,Kharkiv,,,,,5.0
-2019,Kherson,,,,,9.6
-2019,Khmelnytskiy,,,,,8.0
-2019,Cherkasy,,,,,8.3
-2019,Chernivtsi,,,,,6.9
-2019,Chernihiv,,,,,10.2
-2019,city Kyiv,,,,,5.8
-2019,city Sevastopol,,,,,
+2019,15–24 years,,,,,15.4
+2019,25–29 years,,,,,8.4
+2019,30–34 years,,,,,7.3
+2019,35–39 years,,,,,7.5
+2019,40–49 years,,,,,8.4
+2019,50–59 years,,,,,8.0
+2019,60–70 years,,,,,0.1
+2019,,women,,,,7.9
+2019,,men,,,,8.5
+2019,,,urban,,,8.0
+2019,,,rural,,,8.7
+2019,,,,full tertiary education,,6.3
+2019,,,,basic tertiary education,,10.1
+2019,,,,incomplete tertiary education,,8.0
+2019,,,,vocational and technical education,,9.2
+2019,,,,full general secondary education,,9.6
+2019,,,,"basic, primary general secondary or no education",,13.9
+2019,,,,,Autonomous Republic of Crimea,
+2019,,,,,Vinnytsya,9.4
+2019,,,,,Volyn,10.6
+2019,,,,,Dnipropetrovsk,7.7
+2019,,,,,Donetsk,13.6
+2019,,,,,Zhytomyr,9.6
+2019,,,,,Zakarpattya,9.1
+2019,,,,,Zaporizhzhya,9.5
+2019,,,,,Ivano-Frankivsk,7.2
+2019,,,,,Kyiv,5.9
+2019,,,,,Kirovohrad,11.0
+2019,,,,,Luhansk,13.7
+2019,,,,,Lviv,6.5
+2019,,,,,Mykolayiv,9.3
+2019,,,,,Odesa,5.9
+2019,,,,,Poltava,10.6
+2019,,,,,Rivne,8.3
+2019,,,,,Sumy,7.7
+2019,,,,,Ternopil,10.0
+2019,,,,,Kharkiv,5.0
+2019,,,,,Kherson,9.6
+2019,,,,,Khmelnytskiy,8.0
+2019,,,,,Cherkasy,8.3
+2019,,,,,Chernivtsi,6.9
+2019,,,,,Chernihiv,10.2
+2019,,,,,city Kyiv,5.8
+2019,,,,,city Sevastopol,
 2020,,,,,,9.5
-2020,,15–24 years,,,,19.3
-2020,,25–29 years,,,,8.7
-2020,,30–34 years,,,,8.2
-2020,,35–39 years,,,,10.3
-2020,,40–49 years,,,,9.5
-2020,,50–59 years,,,,9.0
-2020,,60–70 years,,,,0.1
-2020,,,women,,,9.1
-2020,,,men,,,9.9
-2020,,,,urban,,9.1
-2020,,,,rural,,10.4
-2020,,,,,full tertiary education,7.3
-2020,,,,,basic tertiary education,10.2
-2020,,,,,incomplete tertiary education,9.0
-2020,,,,,vocational and technical education,10.8
-2020,,,,,full general secondary education,11.5
-2020,,,,,"basic, primary general secondary or no education",15.9
-2020,Autonomous Republic of Crimea,,,,,
-2020,Vinnytsya,,,,,10.7
-2020,Volyn,,,,,12.5
-2020,Dnipropetrovsk,,,,,8.6
-2020,Donetsk,,,,,14.9
-2020,Zhytomyr,,,,,10.9
-2020,Zakarpattya,,,,,10.6
-2020,Zaporizhzhya,,,,,10.7
-2020,Ivano-Frankivsk,,,,,8.4
-2020,Kyiv,,,,,6.9
-2020,Kirovohrad,,,,,12.7
-2020,Luhansk,,,,,15.4
-2020,Lviv,,,,,7.6
-2020,Mykolayiv,,,,,10.7
-2020,Odesa,,,,,7.1
-2020,Poltava,,,,,12.0
-2020,Rivne,,,,,9.3
-2020,Sumy,,,,,9.4
-2020,Ternopil,,,,,11.5
-2020,Kharkiv,,,,,6.2
-2020,Kherson,,,,,11.3
-2020,Khmelnytskiy,,,,,9.9
-2020,Cherkasy,,,,,9.5
-2020,Chernivtsi,,,,,8.9
-2020,Chernihiv,,,,,11.9
-2020,city Kyiv,,,,,6.8
-2020,city Sevastopol,,,,,
+2020,15–24 years,,,,,19.3
+2020,25–29 years,,,,,8.7
+2020,30–34 years,,,,,8.2
+2020,35–39 years,,,,,10.3
+2020,40–49 years,,,,,9.5
+2020,50–59 years,,,,,9.0
+2020,60–70 years,,,,,0.1
+2020,,women,,,,9.1
+2020,,men,,,,9.9
+2020,,,urban,,,9.1
+2020,,,rural,,,10.4
+2020,,,,full tertiary education,,7.3
+2020,,,,basic tertiary education,,10.2
+2020,,,,incomplete tertiary education,,9.0
+2020,,,,vocational and technical education,,10.8
+2020,,,,full general secondary education,,11.5
+2020,,,,"basic, primary general secondary or no education",,15.9
+2020,,,,,Autonomous Republic of Crimea,
+2020,,,,,Vinnytsya,10.7
+2020,,,,,Volyn,12.5
+2020,,,,,Dnipropetrovsk,8.6
+2020,,,,,Donetsk,14.9
+2020,,,,,Zhytomyr,10.9
+2020,,,,,Zakarpattya,10.6
+2020,,,,,Zaporizhzhya,10.7
+2020,,,,,Ivano-Frankivsk,8.4
+2020,,,,,Kyiv,6.9
+2020,,,,,Kirovohrad,12.7
+2020,,,,,Luhansk,15.4
+2020,,,,,Lviv,7.6
+2020,,,,,Mykolayiv,10.7
+2020,,,,,Odesa,7.1
+2020,,,,,Poltava,12.0
+2020,,,,,Rivne,9.3
+2020,,,,,Sumy,9.4
+2020,,,,,Ternopil,11.5
+2020,,,,,Kharkiv,6.2
+2020,,,,,Kherson,11.3
+2020,,,,,Khmelnytskiy,9.9
+2020,,,,,Cherkasy,9.5
+2020,,,,,Chernivtsi,8.9
+2020,,,,,Chernihiv,11.9
+2020,,,,,city Kyiv,6.8
+2020,,,,,city Sevastopol,
 2021,,,,,,9.9
-2021,,15–24 years,,,,19.1
-2021,,25–29 years,,,,9.4
-2021,,30–34 years,,,,8.4
-2021,,35–39 years,,,,10.7
-2021,,40–49 years,,,,9.8
-2021,,50–59 years,,,,9.5
-2021,,60–70 years,,,,0.3
-2021,,,women,,,10.2
-2021,,,men,,,9.6
-2021,,,,urban,,9.5
-2021,,,,rural,,10.7
-2021,,,,,full tertiary education,8.4
-2021,,,,,basic tertiary education,13.4
-2021,,,,,incomplete tertiary education,9.6
-2021,,,,,vocational and technical education,10.2
-2021,,,,,full general secondary education,11.5
-2021,,,,,"basic, primary general secondary or no education",15.0
-2021,Autonomous Republic of Crimea,,,,,
-2021,Vinnytsya,,,,,11.0
-2021,Volyn,,,,,12.7
-2021,Dnipropetrovsk,,,,,8.9
-2021,Donetsk,,,,,15.4
-2021,Zhytomyr,,,,,11.2
-2021,Zakarpattya,,,,,11.1
-2021,Zaporizhzhya,,,,,11.1
-2021,Ivano-Frankivsk,,,,,8.7
-2021,Kyiv,,,,,7.2
-2021,Kirovohrad,,,,,13.2
-2021,Luhansk,,,,,16.0
-2021,Lviv,,,,,7.7
-2021,Mykolayiv,,,,,11.3
-2021,Odesa,,,,,7.3
-2021,Poltava,,,,,12.4
-2021,Rivne,,,,,9.6
-2021,Sumy,,,,,10.1
-2021,Ternopil,,,,,11.9
-2021,Kharkiv,,,,,6.7
-2021,Kherson,,,,,11.8
-2021,Khmelnytskiy,,,,,10.3
-2021,Cherkasy,,,,,10.1
-2021,Chernivtsi,,,,,9.3
-2021,Chernihiv,,,,,12.4
-2021,city Kyiv,,,,,7.1
-2021,city Sevastopol,,,,,
+2021,15–24 years,,,,,19.1
+2021,25–29 years,,,,,9.4
+2021,30–34 years,,,,,8.4
+2021,35–39 years,,,,,10.7
+2021,40–49 years,,,,,9.8
+2021,50–59 years,,,,,9.5
+2021,60–70 years,,,,,0.3
+2021,,women,,,,10.2
+2021,,men,,,,9.6
+2021,,,urban,,,9.5
+2021,,,rural,,,10.7
+2021,,,,full tertiary education,,8.4
+2021,,,,basic tertiary education,,13.4
+2021,,,,incomplete tertiary education,,9.6
+2021,,,,vocational and technical education,,10.2
+2021,,,,full general secondary education,,11.5
+2021,,,,"basic, primary general secondary or no education",,15.0
+2021,,,,,Autonomous Republic of Crimea,
+2021,,,,,Vinnytsya,11.0
+2021,,,,,Volyn,12.7
+2021,,,,,Dnipropetrovsk,8.9
+2021,,,,,Donetsk,15.4
+2021,,,,,Zhytomyr,11.2
+2021,,,,,Zakarpattya,11.1
+2021,,,,,Zaporizhzhya,11.1
+2021,,,,,Ivano-Frankivsk,8.7
+2021,,,,,Kyiv,7.2
+2021,,,,,Kirovohrad,13.2
+2021,,,,,Luhansk,16.0
+2021,,,,,Lviv,7.7
+2021,,,,,Mykolayiv,11.3
+2021,,,,,Odesa,7.3
+2021,,,,,Poltava,12.4
+2021,,,,,Rivne,9.6
+2021,,,,,Sumy,10.1
+2021,,,,,Ternopil,11.9
+2021,,,,,Kharkiv,6.7
+2021,,,,,Kherson,11.8
+2021,,,,,Khmelnytskiy,10.3
+2021,,,,,Cherkasy,10.1
+2021,,,,,Chernivtsi,9.3
+2021,,,,,Chernihiv,12.4
+2021,,,,,city Kyiv,7.1
+2021,,,,,city Sevastopol,
 2022,,,,,,
-2022,,15–24 years,,,,
-2022,,25–29 years,,,,
-2022,,30–34 years,,,,
-2022,,35–39 years,,,,
-2022,,40–49 years,,,,
-2022,,50–59 years,,,,
-2022,,60–70 years,,,,
-2022,,,women,,,
-2022,,,men,,,
-2022,,,,urban,,
-2022,,,,rural,,
-2022,,,,,full tertiary education,
-2022,,,,,basic tertiary education,
-2022,,,,,incomplete tertiary education,
-2022,,,,,vocational and technical education,
-2022,,,,,full general secondary education,
-2022,,,,,"basic, primary general secondary or no education",
-2022,Autonomous Republic of Crimea,,,,,
-2022,Vinnytsya,,,,,
-2022,Volyn,,,,,
-2022,Dnipropetrovsk,,,,,
-2022,Donetsk,,,,,
-2022,Zhytomyr,,,,,
-2022,Zakarpattya,,,,,
-2022,Zaporizhzhya,,,,,
-2022,Ivano-Frankivsk,,,,,
-2022,Kyiv,,,,,
-2022,Kirovohrad,,,,,
-2022,Luhansk,,,,,
-2022,Lviv,,,,,
-2022,Mykolayiv,,,,,
-2022,Odesa,,,,,
-2022,Poltava,,,,,
-2022,Rivne,,,,,
-2022,Sumy,,,,,
-2022,Ternopil,,,,,
-2022,Kharkiv,,,,,
-2022,Kherson,,,,,
-2022,Khmelnytskiy,,,,,
-2022,Cherkasy,,,,,
-2022,Chernivtsi,,,,,
-2022,Chernihiv,,,,,
-2022,city Kyiv,,,,,
-2022,city Sevastopol,,,,,
+2022,15–24 years,,,,,
+2022,25–29 years,,,,,
+2022,30–34 years,,,,,
+2022,35–39 years,,,,,
+2022,40–49 years,,,,,
+2022,50–59 years,,,,,
+2022,60–70 years,,,,,
+2022,,women,,,,
+2022,,men,,,,
+2022,,,urban,,,
+2022,,,rural,,,
+2022,,,,full tertiary education,,
+2022,,,,basic tertiary education,,
+2022,,,,incomplete tertiary education,,
+2022,,,,vocational and technical education,,
+2022,,,,full general secondary education,,
+2022,,,,"basic, primary general secondary or no education",,
+2022,,,,,Autonomous Republic of Crimea,
+2022,,,,,Vinnytsya,
+2022,,,,,Volyn,
+2022,,,,,Dnipropetrovsk,
+2022,,,,,Donetsk,
+2022,,,,,Zhytomyr,
+2022,,,,,Zakarpattya,
+2022,,,,,Zaporizhzhya,
+2022,,,,,Ivano-Frankivsk,
+2022,,,,,Kyiv,
+2022,,,,,Kirovohrad,
+2022,,,,,Luhansk,
+2022,,,,,Lviv,
+2022,,,,,Mykolayiv,
+2022,,,,,Odesa,
+2022,,,,,Poltava,
+2022,,,,,Rivne,
+2022,,,,,Sumy,
+2022,,,,,Ternopil,
+2022,,,,,Kharkiv,
+2022,,,,,Kherson,
+2022,,,,,Khmelnytskiy,
+2022,,,,,Cherkasy,
+2022,,,,,Chernivtsi,
+2022,,,,,Chernihiv,
+2022,,,,,city Kyiv,
+2022,,,,,city Sevastopol,
 2023,,,,,,
-2023,,15–24 years,,,,
-2023,,25–29 years,,,,
-2023,,30–34 years,,,,
-2023,,35–39 years,,,,
-2023,,40–49 years,,,,
-2023,,50–59 years,,,,
-2023,,60–70 years,,,,
-2023,,,women,,,
-2023,,,men,,,
-2023,,,,urban,,
-2023,,,,rural,,
-2023,,,,,full tertiary education,
-2023,,,,,basic tertiary education,
-2023,,,,,incomplete tertiary education,
-2023,,,,,vocational and technical education,
-2023,,,,,full general secondary education,
-2023,,,,,"basic, primary general secondary or no education",
-2023,Autonomous Republic of Crimea,,,,,
-2023,Vinnytsya,,,,,
-2023,Volyn,,,,,
-2023,Dnipropetrovsk,,,,,
-2023,Donetsk,,,,,
-2023,Zhytomyr,,,,,
-2023,Zakarpattya,,,,,
-2023,Zaporizhzhya,,,,,
-2023,Ivano-Frankivsk,,,,,
-2023,Kyiv,,,,,
-2023,Kirovohrad,,,,,
-2023,Luhansk,,,,,
-2023,Lviv,,,,,
-2023,Mykolayiv,,,,,
-2023,Odesa,,,,,
-2023,Poltava,,,,,
-2023,Rivne,,,,,
-2023,Sumy,,,,,
-2023,Ternopil,,,,,
-2023,Kharkiv,,,,,
-2023,Kherson,,,,,
-2023,Khmelnytskiy,,,,,
-2023,Cherkasy,,,,,
-2023,Chernivtsi,,,,,
-2023,Chernihiv,,,,,
-2023,city Kyiv,,,,,
-2023,city Sevastopol,,,,,
+2023,15–24 years,,,,,
+2023,25–29 years,,,,,
+2023,30–34 years,,,,,
+2023,35–39 years,,,,,
+2023,40–49 years,,,,,
+2023,50–59 years,,,,,
+2023,60–70 years,,,,,
+2023,,women,,,,
+2023,,men,,,,
+2023,,,urban,,,
+2023,,,rural,,,
+2023,,,,full tertiary education,,
+2023,,,,basic tertiary education,,
+2023,,,,incomplete tertiary education,,
+2023,,,,vocational and technical education,,
+2023,,,,full general secondary education,,
+2023,,,,"basic, primary general secondary or no education",,
+2023,,,,,Autonomous Republic of Crimea,
+2023,,,,,Vinnytsya,
+2023,,,,,Volyn,
+2023,,,,,Dnipropetrovsk,
+2023,,,,,Donetsk,
+2023,,,,,Zhytomyr,
+2023,,,,,Zakarpattya,
+2023,,,,,Zaporizhzhya,
+2023,,,,,Ivano-Frankivsk,
+2023,,,,,Kyiv,
+2023,,,,,Kirovohrad,
+2023,,,,,Luhansk,
+2023,,,,,Lviv,
+2023,,,,,Mykolayiv,
+2023,,,,,Odesa,
+2023,,,,,Poltava,
+2023,,,,,Rivne,
+2023,,,,,Sumy,
+2023,,,,,Ternopil,
+2023,,,,,Kharkiv,
+2023,,,,,Kherson,
+2023,,,,,Khmelnytskiy,
+2023,,,,,Cherkasy,
+2023,,,,,Chernivtsi,
+2023,,,,,Chernihiv,
+2023,,,,,city Kyiv,
+2023,,,,,city Sevastopol,
 2024,,,,,,
-2024,,15–24 years,,,,
-2024,,25–29 years,,,,
-2024,,30–34 years,,,,
-2024,,35–39 years,,,,
-2024,,40–49 years,,,,
-2024,,50–59 years,,,,
-2024,,60–70 years,,,,
-2024,,,women,,,
-2024,,,men,,,
-2024,,,,urban,,
-2024,,,,rural,,
-2024,,,,,full tertiary education,
-2024,,,,,basic tertiary education,
-2024,,,,,incomplete tertiary education,
-2024,,,,,vocational and technical education,
-2024,,,,,full general secondary education,
-2024,,,,,"basic, primary general secondary or no education",
-2024,Autonomous Republic of Crimea,,,,,
-2024,Vinnytsya,,,,,
-2024,Volyn,,,,,
-2024,Dnipropetrovsk,,,,,
-2024,Donetsk,,,,,
-2024,Zhytomyr,,,,,
-2024,Zakarpattya,,,,,
-2024,Zaporizhzhya,,,,,
-2024,Ivano-Frankivsk,,,,,
-2024,Kyiv,,,,,
-2024,Kirovohrad,,,,,
-2024,Luhansk,,,,,
-2024,Lviv,,,,,
-2024,Mykolayiv,,,,,
-2024,Odesa,,,,,
-2024,Poltava,,,,,
-2024,Rivne,,,,,
-2024,Sumy,,,,,
-2024,Ternopil,,,,,
-2024,Kharkiv,,,,,
-2024,Kherson,,,,,
-2024,Khmelnytskiy,,,,,
-2024,Cherkasy,,,,,
-2024,Chernivtsi,,,,,
-2024,Chernihiv,,,,,
-2024,city Kyiv,,,,,
-2024,city Sevastopol,,,,,
+2024,15–24 years,,,,,
+2024,25–29 years,,,,,
+2024,30–34 years,,,,,
+2024,35–39 years,,,,,
+2024,40–49 years,,,,,
+2024,50–59 years,,,,,
+2024,60–70 years,,,,,
+2024,,women,,,,
+2024,,men,,,,
+2024,,,urban,,,
+2024,,,rural,,,
+2024,,,,full tertiary education,,
+2024,,,,basic tertiary education,,
+2024,,,,incomplete tertiary education,,
+2024,,,,vocational and technical education,,
+2024,,,,full general secondary education,,
+2024,,,,"basic, primary general secondary or no education",,
+2024,,,,,Autonomous Republic of Crimea,
+2024,,,,,Vinnytsya,
+2024,,,,,Volyn,
+2024,,,,,Dnipropetrovsk,
+2024,,,,,Donetsk,
+2024,,,,,Zhytomyr,
+2024,,,,,Zakarpattya,
+2024,,,,,Zaporizhzhya,
+2024,,,,,Ivano-Frankivsk,
+2024,,,,,Kyiv,
+2024,,,,,Kirovohrad,
+2024,,,,,Luhansk,
+2024,,,,,Lviv,
+2024,,,,,Mykolayiv,
+2024,,,,,Odesa,
+2024,,,,,Poltava,
+2024,,,,,Rivne,
+2024,,,,,Sumy,
+2024,,,,,Ternopil,
+2024,,,,,Kharkiv,
+2024,,,,,Kherson,
+2024,,,,,Khmelnytskiy,
+2024,,,,,Cherkasy,
+2024,,,,,Chernivtsi,
+2024,,,,,Chernihiv,
+2024,,,,,city Kyiv,
+2024,,,,,city Sevastopol,

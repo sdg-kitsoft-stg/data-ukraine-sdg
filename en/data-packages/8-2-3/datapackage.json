@@ -16,6 +16,30 @@
             "title": "Year"
           },
           {
+            "name": "group_13",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "group_16",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -51,30 +75,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_13",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "women",
-                "men",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
           },
           {
             "name": "Value",

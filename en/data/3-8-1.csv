@@ -150,21 +150,21 @@ Year,Infectious diseases,Age,Region,Value
 2015,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,64.0
 2015,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,47.8
 2015,Hepatitis B,up to 1 year,Ivano-Frankivsk,38.5
-2015,Tuberculosis,up to 1 year,18_reg_Kyiv,40.8
-2015,Poliomyelitis,up to 1 year,18_reg_Kyiv,30.7
-2015,Poliomyelitis,18 months,18_reg_Kyiv,51.0
-2015,Poliomyelitis,6 years,18_reg_Kyiv,37.2
-2015,Poliomyelitis,14 years,18_reg_Kyiv,46.6
-2015,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,21.5
-2015,Pertussis,18 months,18_reg_Kyiv,26.9
-2015,"Diphtheria, tetanus",6 years,18_reg_Kyiv,7.8
-2015,"Diphtheria, tetanus",16 years,18_reg_Kyiv,3.6
-2015,"Diphtheria, tetanus",adults,18_reg_Kyiv,0.3
-2015,Haemophilus infection,up to 1 year,18_reg_Kyiv,35.7
-2015,Haemophilus infection,1 year,18_reg_Kyiv,29.6
-2015,"Measles, mumps, rubella",1 year,18_reg_Kyiv,51.9
-2015,"Measles, mumps, rubella",6 years,18_reg_Kyiv,53.0
-2015,Hepatitis B,up to 1 year,18_reg_Kyiv,23.3
+2015,Tuberculosis,up to 1 year,Kyiv,40.8
+2015,Poliomyelitis,up to 1 year,Kyiv,30.7
+2015,Poliomyelitis,18 months,Kyiv,51.0
+2015,Poliomyelitis,6 years,Kyiv,37.2
+2015,Poliomyelitis,14 years,Kyiv,46.6
+2015,"Diphtheria, tetanus",up to 1 year,Kyiv,21.5
+2015,Pertussis,18 months,Kyiv,26.9
+2015,"Diphtheria, tetanus",6 years,Kyiv,7.8
+2015,"Diphtheria, tetanus",16 years,Kyiv,3.6
+2015,"Diphtheria, tetanus",adults,Kyiv,0.3
+2015,Haemophilus infection,up to 1 year,Kyiv,35.7
+2015,Haemophilus infection,1 year,Kyiv,29.6
+2015,"Measles, mumps, rubella",1 year,Kyiv,51.9
+2015,"Measles, mumps, rubella",6 years,Kyiv,53.0
+2015,Hepatitis B,up to 1 year,Kyiv,23.3
 2015,Tuberculosis,up to 1 year,Kirovohrad,51.9
 2015,Poliomyelitis,up to 1 year,Kirovohrad,66.9
 2015,Poliomyelitis,18 months,Kirovohrad,94.1
@@ -571,21 +571,21 @@ Year,Infectious diseases,Age,Region,Value
 2016,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,58.8
 2016,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,41.1
 2016,Hepatitis B,up to 1 year,Ivano-Frankivsk,29.4
-2016,Tuberculosis,up to 1 year,18_reg_Kyiv,81.6
-2016,Poliomyelitis,up to 1 year,18_reg_Kyiv,58.9
-2016,Poliomyelitis,18 months,18_reg_Kyiv,67.4
-2016,Poliomyelitis,6 years,18_reg_Kyiv,85.6
-2016,Poliomyelitis,14 years,18_reg_Kyiv,82.7
-2016,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,24.3
-2016,Pertussis,18 months,18_reg_Kyiv,22.1
-2016,"Diphtheria, tetanus",6 years,18_reg_Kyiv,69.9
-2016,"Diphtheria, tetanus",16 years,18_reg_Kyiv,70.4
-2016,"Diphtheria, tetanus",adults,18_reg_Kyiv,34.1
-2016,Haemophilus infection,up to 1 year,18_reg_Kyiv,36.2
-2016,Haemophilus infection,1 year,18_reg_Kyiv,67.2
-2016,"Measles, mumps, rubella",1 year,18_reg_Kyiv,41.3
-2016,"Measles, mumps, rubella",6 years,18_reg_Kyiv,25.0
-2016,Hepatitis B,up to 1 year,18_reg_Kyiv,34.7
+2016,Tuberculosis,up to 1 year,Kyiv,81.6
+2016,Poliomyelitis,up to 1 year,Kyiv,58.9
+2016,Poliomyelitis,18 months,Kyiv,67.4
+2016,Poliomyelitis,6 years,Kyiv,85.6
+2016,Poliomyelitis,14 years,Kyiv,82.7
+2016,"Diphtheria, tetanus",up to 1 year,Kyiv,24.3
+2016,Pertussis,18 months,Kyiv,22.1
+2016,"Diphtheria, tetanus",6 years,Kyiv,69.9
+2016,"Diphtheria, tetanus",16 years,Kyiv,70.4
+2016,"Diphtheria, tetanus",adults,Kyiv,34.1
+2016,Haemophilus infection,up to 1 year,Kyiv,36.2
+2016,Haemophilus infection,1 year,Kyiv,67.2
+2016,"Measles, mumps, rubella",1 year,Kyiv,41.3
+2016,"Measles, mumps, rubella",6 years,Kyiv,25.0
+2016,Hepatitis B,up to 1 year,Kyiv,34.7
 2016,Tuberculosis,up to 1 year,Kirovohrad,81.2
 2016,Poliomyelitis,up to 1 year,Kirovohrad,79.3
 2016,Poliomyelitis,18 months,Kirovohrad,79.0
@@ -992,21 +992,21 @@ Year,Infectious diseases,Age,Region,Value
 2017,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,90.6
 2017,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,87.9
 2017,Hepatitis B,up to 1 year,Ivano-Frankivsk,68.2
-2017,Tuberculosis,up to 1 year,18_reg_Kyiv,90.5
-2017,Poliomyelitis,up to 1 year,18_reg_Kyiv,46.5
-2017,Poliomyelitis,18 months,18_reg_Kyiv,81.1
-2017,Poliomyelitis,6 years,18_reg_Kyiv,92.8
-2017,Poliomyelitis,14 years,18_reg_Kyiv,94.8
-2017,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,59.6
-2017,Pertussis,18 months,18_reg_Kyiv,57.5
-2017,"Diphtheria, tetanus",6 years,18_reg_Kyiv,95.3
-2017,"Diphtheria, tetanus",16 years,18_reg_Kyiv,88.0
-2017,"Diphtheria, tetanus",adults,18_reg_Kyiv,52.4
-2017,Haemophilus infection,up to 1 year,18_reg_Kyiv,32.8
-2017,Haemophilus infection,1 year,18_reg_Kyiv,41.8
-2017,"Measles, mumps, rubella",1 year,18_reg_Kyiv,98.7
-2017,"Measles, mumps, rubella",6 years,18_reg_Kyiv,95.4
-2017,Hepatitis B,up to 1 year,18_reg_Kyiv,58.8
+2017,Tuberculosis,up to 1 year,Kyiv,90.5
+2017,Poliomyelitis,up to 1 year,Kyiv,46.5
+2017,Poliomyelitis,18 months,Kyiv,81.1
+2017,Poliomyelitis,6 years,Kyiv,92.8
+2017,Poliomyelitis,14 years,Kyiv,94.8
+2017,"Diphtheria, tetanus",up to 1 year,Kyiv,59.6
+2017,Pertussis,18 months,Kyiv,57.5
+2017,"Diphtheria, tetanus",6 years,Kyiv,95.3
+2017,"Diphtheria, tetanus",16 years,Kyiv,88.0
+2017,"Diphtheria, tetanus",adults,Kyiv,52.4
+2017,Haemophilus infection,up to 1 year,Kyiv,32.8
+2017,Haemophilus infection,1 year,Kyiv,41.8
+2017,"Measles, mumps, rubella",1 year,Kyiv,98.7
+2017,"Measles, mumps, rubella",6 years,Kyiv,95.4
+2017,Hepatitis B,up to 1 year,Kyiv,58.8
 2017,Tuberculosis,up to 1 year,Kirovohrad,81.0
 2017,Poliomyelitis,up to 1 year,Kirovohrad,53.6
 2017,Poliomyelitis,18 months,Kirovohrad,81.6
@@ -1413,21 +1413,21 @@ Year,Infectious diseases,Age,Region,Value
 2018,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,78.9
 2018,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,69.6
 2018,Hepatitis B,up to 1 year,Ivano-Frankivsk,58.7
-2018,Tuberculosis,up to 1 year,18_reg_Kyiv,86.8
-2018,Poliomyelitis,up to 1 year,18_reg_Kyiv,95.3
-2018,Poliomyelitis,18 months,18_reg_Kyiv,89.1
-2018,Poliomyelitis,6 years,18_reg_Kyiv,96.6
-2018,Poliomyelitis,14 years,18_reg_Kyiv,96.4
-2018,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,79.3
-2018,Pertussis,18 months,18_reg_Kyiv,73.4
-2018,"Diphtheria, tetanus",6 years,18_reg_Kyiv,81.3
-2018,"Diphtheria, tetanus",16 years,18_reg_Kyiv,89.9
-2018,"Diphtheria, tetanus",adults,18_reg_Kyiv,62.2
-2018,Haemophilus infection,up to 1 year,18_reg_Kyiv,61.9
-2018,Haemophilus infection,1 year,18_reg_Kyiv,61.5
-2018,"Measles, mumps, rubella",1 year,18_reg_Kyiv,87.9
-2018,"Measles, mumps, rubella",6 years,18_reg_Kyiv,81.1
-2018,Hepatitis B,up to 1 year,18_reg_Kyiv,85.7
+2018,Tuberculosis,up to 1 year,Kyiv,86.8
+2018,Poliomyelitis,up to 1 year,Kyiv,95.3
+2018,Poliomyelitis,18 months,Kyiv,89.1
+2018,Poliomyelitis,6 years,Kyiv,96.6
+2018,Poliomyelitis,14 years,Kyiv,96.4
+2018,"Diphtheria, tetanus",up to 1 year,Kyiv,79.3
+2018,Pertussis,18 months,Kyiv,73.4
+2018,"Diphtheria, tetanus",6 years,Kyiv,81.3
+2018,"Diphtheria, tetanus",16 years,Kyiv,89.9
+2018,"Diphtheria, tetanus",adults,Kyiv,62.2
+2018,Haemophilus infection,up to 1 year,Kyiv,61.9
+2018,Haemophilus infection,1 year,Kyiv,61.5
+2018,"Measles, mumps, rubella",1 year,Kyiv,87.9
+2018,"Measles, mumps, rubella",6 years,Kyiv,81.1
+2018,Hepatitis B,up to 1 year,Kyiv,85.7
 2018,Tuberculosis,up to 1 year,Kirovohrad,95.0
 2018,Poliomyelitis,up to 1 year,Kirovohrad,87.9
 2018,Poliomyelitis,18 months,Kirovohrad,77.9
@@ -1834,21 +1834,21 @@ Year,Infectious diseases,Age,Region,Value
 2019,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,90.0
 2019,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,87.5
 2019,Hepatitis B,up to 1 year,Ivano-Frankivsk,75.2
-2019,Tuberculosis,up to 1 year,18_reg_Kyiv,85.0
-2019,Poliomyelitis,up to 1 year,18_reg_Kyiv,85.7
-2019,Poliomyelitis,18 months,18_reg_Kyiv,87.4
-2019,Poliomyelitis,6 years,18_reg_Kyiv,88.1
-2019,Poliomyelitis,14 years,18_reg_Kyiv,90.2
-2019,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,83.1
-2019,Pertussis,18 months,18_reg_Kyiv,84.2
-2019,"Diphtheria, tetanus",6 years,18_reg_Kyiv,38.8
-2019,"Diphtheria, tetanus",16 years,18_reg_Kyiv,94.5
-2019,"Diphtheria, tetanus",adults,18_reg_Kyiv,89.9
-2019,Haemophilus infection,up to 1 year,18_reg_Kyiv,78.4
-2019,Haemophilus infection,1 year,18_reg_Kyiv,83.8
-2019,"Measles, mumps, rubella",1 year,18_reg_Kyiv,93.9
-2019,"Measles, mumps, rubella",6 years,18_reg_Kyiv,94.6
-2019,Hepatitis B,up to 1 year,18_reg_Kyiv,81.0
+2019,Tuberculosis,up to 1 year,Kyiv,85.0
+2019,Poliomyelitis,up to 1 year,Kyiv,85.7
+2019,Poliomyelitis,18 months,Kyiv,87.4
+2019,Poliomyelitis,6 years,Kyiv,88.1
+2019,Poliomyelitis,14 years,Kyiv,90.2
+2019,"Diphtheria, tetanus",up to 1 year,Kyiv,83.1
+2019,Pertussis,18 months,Kyiv,84.2
+2019,"Diphtheria, tetanus",6 years,Kyiv,38.8
+2019,"Diphtheria, tetanus",16 years,Kyiv,94.5
+2019,"Diphtheria, tetanus",adults,Kyiv,89.9
+2019,Haemophilus infection,up to 1 year,Kyiv,78.4
+2019,Haemophilus infection,1 year,Kyiv,83.8
+2019,"Measles, mumps, rubella",1 year,Kyiv,93.9
+2019,"Measles, mumps, rubella",6 years,Kyiv,94.6
+2019,Hepatitis B,up to 1 year,Kyiv,81.0
 2019,Tuberculosis,up to 1 year,Kirovohrad,93.3
 2019,Poliomyelitis,up to 1 year,Kirovohrad,87.6
 2019,Poliomyelitis,18 months,Kirovohrad,91.0
@@ -2255,21 +2255,21 @@ Year,Infectious diseases,Age,Region,Value
 2020,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,74.8
 2020,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,72.2
 2020,Hepatitis B,up to 1 year,Ivano-Frankivsk,63.7
-2020,Tuberculosis,up to 1 year,18_reg_Kyiv,84.6
-2020,Poliomyelitis,up to 1 year,18_reg_Kyiv,90.1
-2020,Poliomyelitis,18 months,18_reg_Kyiv,89.7
-2020,Poliomyelitis,6 years,18_reg_Kyiv,93.2
-2020,Poliomyelitis,14 years,18_reg_Kyiv,91.0
-2020,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,79.7
-2020,Pertussis,18 months,18_reg_Kyiv,78.3
-2020,"Diphtheria, tetanus",6 years,18_reg_Kyiv,44.5
-2020,"Diphtheria, tetanus",16 years,18_reg_Kyiv,83.5
-2020,"Diphtheria, tetanus",adults,18_reg_Kyiv,53.4
-2020,Haemophilus infection,up to 1 year,18_reg_Kyiv,90.2
-2020,Haemophilus infection,1 year,18_reg_Kyiv,89.0
-2020,"Measles, mumps, rubella",1 year,18_reg_Kyiv,84.9
-2020,"Measles, mumps, rubella",6 years,18_reg_Kyiv,83.1
-2020,Hepatitis B,up to 1 year,18_reg_Kyiv,87.1
+2020,Tuberculosis,up to 1 year,Kyiv,84.6
+2020,Poliomyelitis,up to 1 year,Kyiv,90.1
+2020,Poliomyelitis,18 months,Kyiv,89.7
+2020,Poliomyelitis,6 years,Kyiv,93.2
+2020,Poliomyelitis,14 years,Kyiv,91.0
+2020,"Diphtheria, tetanus",up to 1 year,Kyiv,79.7
+2020,Pertussis,18 months,Kyiv,78.3
+2020,"Diphtheria, tetanus",6 years,Kyiv,44.5
+2020,"Diphtheria, tetanus",16 years,Kyiv,83.5
+2020,"Diphtheria, tetanus",adults,Kyiv,53.4
+2020,Haemophilus infection,up to 1 year,Kyiv,90.2
+2020,Haemophilus infection,1 year,Kyiv,89.0
+2020,"Measles, mumps, rubella",1 year,Kyiv,84.9
+2020,"Measles, mumps, rubella",6 years,Kyiv,83.1
+2020,Hepatitis B,up to 1 year,Kyiv,87.1
 2020,Tuberculosis,up to 1 year,Kirovohrad,92.3
 2020,Poliomyelitis,up to 1 year,Kirovohrad,93.5
 2020,Poliomyelitis,18 months,Kirovohrad,97.9
@@ -2676,21 +2676,21 @@ Year,Infectious diseases,Age,Region,Value
 2021,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,79.9
 2021,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,85.3
 2021,Hepatitis B,up to 1 year,Ivano-Frankivsk,79.7
-2021,Tuberculosis,up to 1 year,18_reg_Kyiv,83.7
-2021,Poliomyelitis,up to 1 year,18_reg_Kyiv,82.2
-2021,Poliomyelitis,18 months,18_reg_Kyiv,87.3
-2021,Poliomyelitis,6 years,18_reg_Kyiv,79.9
-2021,Poliomyelitis,14 years,18_reg_Kyiv,79.4
-2021,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,82.1
-2021,Pertussis,18 months,18_reg_Kyiv,84.3
-2021,"Diphtheria, tetanus",6 years,18_reg_Kyiv,58.3
-2021,"Diphtheria, tetanus",16 years,18_reg_Kyiv,80.9
-2021,"Diphtheria, tetanus",adults,18_reg_Kyiv,57.7
-2021,Haemophilus infection,up to 1 year,18_reg_Kyiv,93.5
-2021,Haemophilus infection,1 year,18_reg_Kyiv,91.7
-2021,"Measles, mumps, rubella",1 year,18_reg_Kyiv,90.9
-2021,"Measles, mumps, rubella",6 years,18_reg_Kyiv,84.1
-2021,Hepatitis B,up to 1 year,18_reg_Kyiv,83.7
+2021,Tuberculosis,up to 1 year,Kyiv,83.7
+2021,Poliomyelitis,up to 1 year,Kyiv,82.2
+2021,Poliomyelitis,18 months,Kyiv,87.3
+2021,Poliomyelitis,6 years,Kyiv,79.9
+2021,Poliomyelitis,14 years,Kyiv,79.4
+2021,"Diphtheria, tetanus",up to 1 year,Kyiv,82.1
+2021,Pertussis,18 months,Kyiv,84.3
+2021,"Diphtheria, tetanus",6 years,Kyiv,58.3
+2021,"Diphtheria, tetanus",16 years,Kyiv,80.9
+2021,"Diphtheria, tetanus",adults,Kyiv,57.7
+2021,Haemophilus infection,up to 1 year,Kyiv,93.5
+2021,Haemophilus infection,1 year,Kyiv,91.7
+2021,"Measles, mumps, rubella",1 year,Kyiv,90.9
+2021,"Measles, mumps, rubella",6 years,Kyiv,84.1
+2021,Hepatitis B,up to 1 year,Kyiv,83.7
 2021,Tuberculosis,up to 1 year,Kirovohrad,92.6
 2021,Poliomyelitis,up to 1 year,Kirovohrad,93.6
 2021,Poliomyelitis,18 months,Kirovohrad,92.1
@@ -3097,21 +3097,21 @@ Year,Infectious diseases,Age,Region,Value
 2022,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,70.8
 2022,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,60.4
 2022,Hepatitis B,up to 1 year,Ivano-Frankivsk,63.2
-2022,Tuberculosis,up to 1 year,18_reg_Kyiv,72.8
-2022,Poliomyelitis,up to 1 year,18_reg_Kyiv,86.3
-2022,Poliomyelitis,18 months,18_reg_Kyiv,82.7
-2022,Poliomyelitis,6 years,18_reg_Kyiv,76.9
-2022,Poliomyelitis,14 years,18_reg_Kyiv,74.4
-2022,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,83.5
-2022,Pertussis,18 months,18_reg_Kyiv,81.9
-2022,"Diphtheria, tetanus",6 years,18_reg_Kyiv,85.0
-2022,"Diphtheria, tetanus",16 years,18_reg_Kyiv,77.4
-2022,"Diphtheria, tetanus",adults,18_reg_Kyiv,40.6
-2022,Haemophilus infection,up to 1 year,18_reg_Kyiv,85.2
-2022,Haemophilus infection,1 year,18_reg_Kyiv,83.1
-2022,"Measles, mumps, rubella",1 year,18_reg_Kyiv,85.3
-2022,"Measles, mumps, rubella",6 years,18_reg_Kyiv,74.1
-2022,Hepatitis B,up to 1 year,18_reg_Kyiv,78.4
+2022,Tuberculosis,up to 1 year,Kyiv,72.8
+2022,Poliomyelitis,up to 1 year,Kyiv,86.3
+2022,Poliomyelitis,18 months,Kyiv,82.7
+2022,Poliomyelitis,6 years,Kyiv,76.9
+2022,Poliomyelitis,14 years,Kyiv,74.4
+2022,"Diphtheria, tetanus",up to 1 year,Kyiv,83.5
+2022,Pertussis,18 months,Kyiv,81.9
+2022,"Diphtheria, tetanus",6 years,Kyiv,85.0
+2022,"Diphtheria, tetanus",16 years,Kyiv,77.4
+2022,"Diphtheria, tetanus",adults,Kyiv,40.6
+2022,Haemophilus infection,up to 1 year,Kyiv,85.2
+2022,Haemophilus infection,1 year,Kyiv,83.1
+2022,"Measles, mumps, rubella",1 year,Kyiv,85.3
+2022,"Measles, mumps, rubella",6 years,Kyiv,74.1
+2022,Hepatitis B,up to 1 year,Kyiv,78.4
 2022,Tuberculosis,up to 1 year,Kirovohrad,82.8
 2022,Poliomyelitis,up to 1 year,Kirovohrad,90.9
 2022,Poliomyelitis,18 months,Kirovohrad,87.0
@@ -3518,21 +3518,21 @@ Year,Infectious diseases,Age,Region,Value
 2023,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,94.5
 2023,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,83.2
 2023,Hepatitis B,up to 1 year,Ivano-Frankivsk,69.2
-2023,Tuberculosis,up to 1 year,18_reg_Kyiv,76.7
-2023,Poliomyelitis,up to 1 year,18_reg_Kyiv,85.8
-2023,Poliomyelitis,18 months,18_reg_Kyiv,87.7
-2023,Poliomyelitis,6 years,18_reg_Kyiv,85.9
-2023,Poliomyelitis,14 years,18_reg_Kyiv,82.3
-2023,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,85.7
-2023,Pertussis,18 months,18_reg_Kyiv,89.4
-2023,"Diphtheria, tetanus",6 years,18_reg_Kyiv,81.4
-2023,"Diphtheria, tetanus",16 years,18_reg_Kyiv,82.0
-2023,"Diphtheria, tetanus",adults,18_reg_Kyiv,44.0
-2023,Haemophilus infection,up to 1 year,18_reg_Kyiv,87.3
-2023,Haemophilus infection,1 year,18_reg_Kyiv,82.6
-2023,"Measles, mumps, rubella",1 year,18_reg_Kyiv,92.6
-2023,"Measles, mumps, rubella",6 years,18_reg_Kyiv,84.3
-2023,Hepatitis B,up to 1 year,18_reg_Kyiv,78.9
+2023,Tuberculosis,up to 1 year,Kyiv,76.7
+2023,Poliomyelitis,up to 1 year,Kyiv,85.8
+2023,Poliomyelitis,18 months,Kyiv,87.7
+2023,Poliomyelitis,6 years,Kyiv,85.9
+2023,Poliomyelitis,14 years,Kyiv,82.3
+2023,"Diphtheria, tetanus",up to 1 year,Kyiv,85.7
+2023,Pertussis,18 months,Kyiv,89.4
+2023,"Diphtheria, tetanus",6 years,Kyiv,81.4
+2023,"Diphtheria, tetanus",16 years,Kyiv,82.0
+2023,"Diphtheria, tetanus",adults,Kyiv,44.0
+2023,Haemophilus infection,up to 1 year,Kyiv,87.3
+2023,Haemophilus infection,1 year,Kyiv,82.6
+2023,"Measles, mumps, rubella",1 year,Kyiv,92.6
+2023,"Measles, mumps, rubella",6 years,Kyiv,84.3
+2023,Hepatitis B,up to 1 year,Kyiv,78.9
 2023,Tuberculosis,up to 1 year,Kirovohrad,87.9
 2023,Poliomyelitis,up to 1 year,Kirovohrad,90.8
 2023,Poliomyelitis,18 months,Kirovohrad,94.1
@@ -3939,21 +3939,21 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,91.6
 2024,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,82.5
 2024,Hepatitis B,up to 1 year,Ivano-Frankivsk,85.0
-2024,Tuberculosis,up to 1 year,18_reg_Kyiv,93.2
-2024,Poliomyelitis,up to 1 year,18_reg_Kyiv,83.5
-2024,Poliomyelitis,18 months,18_reg_Kyiv,86.4
-2024,Poliomyelitis,6 years,18_reg_Kyiv,83.0
-2024,Poliomyelitis,14 years,18_reg_Kyiv,81.1
-2024,"Diphtheria, tetanus",up to 1 year,18_reg_Kyiv,84.4
-2024,Pertussis,18 months,18_reg_Kyiv,86.5
-2024,"Diphtheria, tetanus",6 years,18_reg_Kyiv,75.3
-2024,"Diphtheria, tetanus",16 years,18_reg_Kyiv,77.7
-2024,"Diphtheria, tetanus",adults,18_reg_Kyiv,63.9
-2024,Haemophilus infection,up to 1 year,18_reg_Kyiv,90.9
-2024,Haemophilus infection,1 year,18_reg_Kyiv,91.8
-2024,"Measles, mumps, rubella",1 year,18_reg_Kyiv,83.7
-2024,"Measles, mumps, rubella",6 years,18_reg_Kyiv,78.0
-2024,Hepatitis B,up to 1 year,18_reg_Kyiv,84.9
+2024,Tuberculosis,up to 1 year,Kyiv,93.2
+2024,Poliomyelitis,up to 1 year,Kyiv,83.5
+2024,Poliomyelitis,18 months,Kyiv,86.4
+2024,Poliomyelitis,6 years,Kyiv,83.0
+2024,Poliomyelitis,14 years,Kyiv,81.1
+2024,"Diphtheria, tetanus",up to 1 year,Kyiv,84.4
+2024,Pertussis,18 months,Kyiv,86.5
+2024,"Diphtheria, tetanus",6 years,Kyiv,75.3
+2024,"Diphtheria, tetanus",16 years,Kyiv,77.7
+2024,"Diphtheria, tetanus",adults,Kyiv,63.9
+2024,Haemophilus infection,up to 1 year,Kyiv,90.9
+2024,Haemophilus infection,1 year,Kyiv,91.8
+2024,"Measles, mumps, rubella",1 year,Kyiv,83.7
+2024,"Measles, mumps, rubella",6 years,Kyiv,78.0
+2024,Hepatitis B,up to 1 year,Kyiv,84.9
 2024,Tuberculosis,up to 1 year,Kirovohrad,96.5
 2024,Poliomyelitis,up to 1 year,Kirovohrad,98.1
 2024,Poliomyelitis,18 months,Kirovohrad,93.3

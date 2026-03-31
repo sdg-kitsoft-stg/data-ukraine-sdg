@@ -32,8 +32,6 @@
               "enum": [
                 "females_1",
                 "males_1",
-                "males",
-                "females",
                 ""
               ]
             }
