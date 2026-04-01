@@ -2825,13 +2825,13 @@ dual_use_structures: dual-use structures
 simplest_shelters: simplest shelters
 of_which_by_regions: of which by regions
 by_local_automated_centralized_warning_systems: by local automated centralized warning systems
-By form of discrimination: form of discrimination
+By form of discrimination: Forms of discrimination
 direct_discrimination: direct discrimination
 indirect_discrimination: indirect discrimination
 incitement_to_discrimination: incitement to discrimination
 complicity_in_discrimination: complicity in discrimination
 oppression: oppression
-By spheres of public relations: by spheres of public relations
+By spheres of public relations: Spheres of public relations
 freedom_from_discrimination_in_the_field_of_social_protection: freedom from discrimination in the field of social protection
 freedom_from_discrimination_in_the_field_of_education: freedom from discrimination in the field of education
 freedom_from_discrimination_in_the_field_of_service_provision: freedom from discrimination in the field of service provision
@@ -2844,7 +2844,7 @@ freedom_from_discrimination_in_the_field_of_advertising: freedom from discrimina
 freedom_from_discrimination_in_the_field_of_advertising_for_vacancies: freedom from discrimination in the field of advertising for vacancies (recruitment)
 internally_displaced_persons: internally displaced persons
 by_migration_status: by migration status(refugee, citizen of another state - labor migrant, foreigner, illegal migrant, stateless person, person granted subsidiary protection, person granted temporary protection, asylum seeker)
-Wage replacement rate by pensions: Wage replacement rate by pensions
+Wage replacement rate by pensions: Categories of the wage replacement rate by pensions
 relative_to_0_5_average_wage: relative to 0.5 average wage
 relative_to_full_average_wage: relative to full average wage
 relative_to_1_5_average_wage: relative to 1.5 average wage
@@ -3088,4 +3088,10 @@ females_3: women, 15–34 years
 males_3: men, 15–34 years
 urban_2: urban, 15–34 years
 rural_2: rural, 15–34 years
-hide_data: 'С'
+hide_data: С
+age: age
+Category: Category
+of which internally displaced persons: internally displaced persons
+By age of the housing provided to the participants: age of the housing provided to the participants
+by age: age
+By type of shelters: Types of shelters

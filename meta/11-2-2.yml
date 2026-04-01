@@ -1,9 +1,8 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.2 Ensuring sustainable, reliable, fast, safe and inclusive urban mobility
-SDG_INDICATOR: 11.2.2 Reducing in the number of persons killed or injured as a result of traffic accidents on public vehicles, compared to 2024, percent (SDG indicator 11.2.2)
-CONTACT_ORGANISATION: "State Service of Ukraine for Transport Safety"
-UNIT_MEASURE: "Percent (%)"
-REC_USE_LIM: "Data will be provided additionally."
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: '30'
+SDG_INDICATOR: 11.2.2 Reducing in the number of persons killed or injured as a result of traffic accidents on public vehicles, compared to 2024, percent
+CONTACT_ORGANISATION: State Service of Ukraine for Transport Safety
+UNIT_MEASURE: Percent (%)
+REC_USE_LIM: Data will be provided additionally.
+reference_title: Target value of the indicator for 2030
+footer_reference: 30

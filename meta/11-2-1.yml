@@ -1,8 +1,8 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.2 Ensuring sustainable, reliable, fast, safe and inclusive urban mobility
 SDG_INDICATOR: 11.2.1 Average speed of public transport in regional centers, kilometers per hour
-CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
-UNIT_MEASURE: "Kilometers per hour"
-REC_USE_LIM: "Data will be provided additionally."
-reference_title: "Target values of the indicator for 2030"
+CONTACT_ORGANISATION: Ministry for Development of Communities and Territories of Ukraine
+UNIT_MEASURE: Kilometers per hour
+REC_USE_LIM: Data will be provided additionally.
+reference_title: Target value of the indicator for 2030
 footer_reference: 20

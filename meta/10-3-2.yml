@@ -1,6 +1,6 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.3 Ensuring the availability of social services
 SDG_INDICATOR: 10.3.2 Share of rural households that suffer from the lack of regular daily transport links with another settlement with developed infrastructure, percent
-CONTACT_ORGANISATION: State Statistics Service of Ukraine – data are developed once every two years
-UNIT_MEASURE: "Percent (%)"
-REC_USE_LIM: "2023: n accordance with the norms of the Law of Ukraine 'On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War', in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct sample survey of the population (households), as a result of which they do not have the opportunity to receive information based on their results."
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
+REC_USE_LIM: 'Data are developed once every two years. <br> 2023: In accordance with the norms of the Law of Ukraine "On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War", in connection with russia''s armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct sample survey of the population (households), as a result of which they do not have the opportunity to receive information based on their results. '

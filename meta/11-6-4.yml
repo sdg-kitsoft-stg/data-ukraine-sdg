@@ -1,6 +1,6 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.6 Ensuring the preservation and sustainable use of cultural and natural heritage
-SDG_INDICATOR: 11.6.4 Number of cultural heritage monuments of national importance for which protection agreements have been concluded, units (SDG indicator 11.6.4)
-UNIT_MEASURE: "Units"
-CONTACT_ORGANISATION: "Ministry of Culture and Strategic Communications of Ukraine"
-REC_USE_LIM: "Number of cultural heritage monuments of national importance for which protection agreements have been concluded, units: Data have been developed since 2022."
+SDG_INDICATOR: 11.6.4 Number of cultural heritage monuments of national importance for which protection agreements have been concluded, units
+UNIT_MEASURE: Units
+CONTACT_ORGANISATION: Ministry of Culture and Strategic Communications of Ukraine (MCSC)
+REC_USE_LIM: Data have been developed since 2022.

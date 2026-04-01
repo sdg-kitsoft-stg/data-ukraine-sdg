@@ -1,6 +1,6 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.1 Promoting the reduce of difference in the level of income of the population
 SDG_INDICATOR: 10.1.2 Ratio of the average monthly wage (income) of the 10th and 1st decile groups of employees (decile coefficient), times
-UNIT_MEASURE: "Times"
-CONTACT_ORGANISATION: Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine
-REC_USE_LIM: Regional data are not available. 2 Data are calculated for partially occupied regions and have atypical values.
+UNIT_MEASURE: Times
+CONTACT_ORGANISATION: Mykhailo Ptoukha Institute for Demography and Life Quality Research of the National Academy of Scienses of Ukraine (Institute for Demography of the NAS of Ukraine)
+REC_USE_LIM: 'By sex, by age: Data are not being developed. <br> 2015: Regional data are not available. <br> 2022–2024: Data are calculated for partially occupied regions and have atypical values.'

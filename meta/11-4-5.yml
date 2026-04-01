@@ -1,6 +1,6 @@
 SDG_GOAL: 11 Sustainable development of cities and communities
 SDG_TARGET: 11.4 Increasing the resilience of settlements and territorial communities to the consequences of the armed aggression of the Russian Federation against Ukraine, natural disasters, extraordinary situations and climate change
 SDG_INDICATOR: 11.4.5 Share of territorial communities with emergency response plans developed in accordance with the established procedure, percent
-UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "State Emergency Service of Ukraine"
-REC_USE_LIM: "2015-2021: Data have been developed since 2022. The Law of Ukraine 'On Amendments to Certain Legislative Acts of Ukraine on Improving Civil Protection Legislation' entered force on April 3, 2022. <br> Luhansk 2022-2024: Data are lacking. <br> Kherson: 2022-2023: Data are lacking."
+UNIT_MEASURE: Percent (%)
+CONTACT_ORGANISATION: State Emergency Service of Ukraine (SESU)
+REC_USE_LIM: '2015–2021: Data have been developed since 2022. The Law of Ukraine ''On Amendments to Certain Legislative Acts of Ukraine on Improving Civil Protection Legislation'' entered force on April 3, 2022. <br> Luhansk region (2022–2024): Data are lacking. <br> Kherson region (2022–2023): Data are lacking.'

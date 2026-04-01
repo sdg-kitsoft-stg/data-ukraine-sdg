@@ -1,4 +1,4 @@
-﻿Year,Region,Value
+Year,Region,Value
 2015,,
 2015,autonomous_Republic_of_Crimea,
 2015,11_reg_Vinnytsya,
@@ -25,7 +25,7 @@
 2015,32_reg_Cherkasy,
 2015,33_reg_Chernivtsi,
 2015,34_reg_Chernihiv,
-2015,35_reg_Kyiv_city,
+2015,Kyiv_city,
 2015,city_Sevastopol,
 2016,,
 2016,autonomous_Republic_of_Crimea,
@@ -53,7 +53,7 @@
 2016,32_reg_Cherkasy,
 2016,33_reg_Chernivtsi,
 2016,34_reg_Chernihiv,
-2016,35_reg_Kyiv_city,
+2016,Kyiv_city,
 2016,city_Sevastopol,
 2017,,
 2017,autonomous_Republic_of_Crimea,
@@ -81,7 +81,7 @@
 2017,32_reg_Cherkasy,
 2017,33_reg_Chernivtsi,
 2017,34_reg_Chernihiv,
-2017,35_reg_Kyiv_city,
+2017,Kyiv_city,
 2017,city_Sevastopol,
 2018,,
 2018,autonomous_Republic_of_Crimea,
@@ -109,7 +109,7 @@
 2018,32_reg_Cherkasy,
 2018,33_reg_Chernivtsi,
 2018,34_reg_Chernihiv,
-2018,35_reg_Kyiv_city,
+2018,Kyiv_city,
 2018,city_Sevastopol,
 2019,,
 2019,autonomous_Republic_of_Crimea,
@@ -137,7 +137,7 @@
 2019,32_reg_Cherkasy,
 2019,33_reg_Chernivtsi,
 2019,34_reg_Chernihiv,
-2019,35_reg_Kyiv_city,
+2019,Kyiv_city,
 2019,city_Sevastopol,
 2020,,
 2020,autonomous_Republic_of_Crimea,
@@ -165,7 +165,7 @@
 2020,32_reg_Cherkasy,
 2020,33_reg_Chernivtsi,
 2020,34_reg_Chernihiv,
-2020,35_reg_Kyiv_city,
+2020,Kyiv_city,
 2020,city_Sevastopol,
 2021,,
 2021,autonomous_Republic_of_Crimea,
@@ -193,7 +193,7 @@
 2021,32_reg_Cherkasy,
 2021,33_reg_Chernivtsi,
 2021,34_reg_Chernihiv,
-2021,35_reg_Kyiv_city,
+2021,Kyiv_city,
 2021,city_Sevastopol,
 2022,,33.23
 2022,autonomous_Republic_of_Crimea,
@@ -221,7 +221,7 @@
 2022,32_reg_Cherkasy,7.58
 2022,33_reg_Chernivtsi,5.77
 2022,34_reg_Chernihiv,8.77
-2022,35_reg_Kyiv_city,100.00
+2022,Kyiv_city,100.00
 2022,city_Sevastopol,
 2023,,49.47
 2023,autonomous_Republic_of_Crimea,
@@ -249,7 +249,7 @@
 2023,32_reg_Cherkasy,24.24
 2023,33_reg_Chernivtsi,11.54
 2023,34_reg_Chernihiv,10.53
-2023,35_reg_Kyiv_city,100.00
+2023,Kyiv_city,100.00
 2023,city_Sevastopol,
 2024,,71.80
 2024,autonomous_Republic_of_Crimea,
@@ -277,5 +277,5 @@
 2024,32_reg_Cherkasy,40.91
 2024,33_reg_Chernivtsi,53.85
 2024,34_reg_Chernihiv,29.82
-2024,35_reg_Kyiv_city,100.00
+2024,Kyiv_city,100.00
 2024,city_Sevastopol,
