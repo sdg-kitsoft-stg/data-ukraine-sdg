@@ -42,9 +42,9 @@ Year,Еconomic activity,Value
 2015,"Manufacture of food products, beverages and tobacco products",
 2016,"Manufacture of food products, beverages and tobacco products",
 2017,"Manufacture of food products, beverages and tobacco products",
-2018,"Manufacture of food products, beverages and tobacco products",С
+2018,"Manufacture of food products, beverages and tobacco products",c
 2019,"Manufacture of food products, beverages and tobacco products",
-2020,"Manufacture of food products, beverages and tobacco products",С
+2020,"Manufacture of food products, beverages and tobacco products",c
 2021,"Manufacture of food products, beverages and tobacco products",
 2022,"Manufacture of food products, beverages and tobacco products",0.9
 2023,"Manufacture of food products, beverages and tobacco products",
@@ -74,7 +74,7 @@ Year,Еconomic activity,Value
 2017,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
 2018,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",0.9
 2019,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
-2020,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",С
+2020,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",c
 2021,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
 2022,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",0.9
 2023,"Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
@@ -134,9 +134,9 @@ Year,Еconomic activity,Value
 2017,"Electricity, gas, steam and air conditioning supply",
 2018,"Electricity, gas, steam and air conditioning supply",0.02
 2019,"Electricity, gas, steam and air conditioning supply",
-2020,"Electricity, gas, steam and air conditioning supply",С
+2020,"Electricity, gas, steam and air conditioning supply",c
 2021,"Electricity, gas, steam and air conditioning supply",
-2022,"Electricity, gas, steam and air conditioning supply",С
+2022,"Electricity, gas, steam and air conditioning supply",c
 2023,"Electricity, gas, steam and air conditioning supply",
 2024,"Electricity, gas, steam and air conditioning supply",0.1
 2015,"Water supply; sewerage, waste management and remediation activities",
@@ -144,9 +144,9 @@ Year,Еconomic activity,Value
 2017,"Water supply; sewerage, waste management and remediation activities",
 2018,"Water supply; sewerage, waste management and remediation activities",0.1
 2019,"Water supply; sewerage, waste management and remediation activities",
-2020,"Water supply; sewerage, waste management and remediation activities",С
+2020,"Water supply; sewerage, waste management and remediation activities",c
 2021,"Water supply; sewerage, waste management and remediation activities",
-2022,"Water supply; sewerage, waste management and remediation activities",С
+2022,"Water supply; sewerage, waste management and remediation activities",c
 2023,"Water supply; sewerage, waste management and remediation activities",
 2024,"Water supply; sewerage, waste management and remediation activities",0.4
 2015,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",
@@ -154,9 +154,9 @@ Year,Еconomic activity,Value
 2017,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",
 2018,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",0.02
 2019,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",
-2020,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",С
+2020,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",c
 2021,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",
-2022,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",С
+2022,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",c
 2023,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",
 2024,"Water collection, treatment and supply, sewerage, wastewater collection and treatment",0.6
 2015,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
@@ -164,9 +164,9 @@ Year,Еconomic activity,Value
 2017,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
 2018,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",0.1
 2019,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
-2020,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",С
+2020,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",c
 2021,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
-2022,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",С
+2022,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",c
 2023,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
 2024,"Waste collection, treatment and disposal activities; materials recovery and other waste management activities",0.0
 2015,"Wholesale trade, except of motor vehicles and motorcycles, transport, storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
@@ -202,21 +202,21 @@ Year,Еconomic activity,Value
 2015,"Land and pipeline transport, water transport, air transport",
 2016,"Land and pipeline transport, water transport, air transport",
 2017,"Land and pipeline transport, water transport, air transport",
-2018,"Land and pipeline transport, water transport, air transport",С
+2018,"Land and pipeline transport, water transport, air transport",c
 2019,"Land and pipeline transport, water transport, air transport",
-2020,"Land and pipeline transport, water transport, air transport",С
+2020,"Land and pipeline transport, water transport, air transport",c
 2021,"Land and pipeline transport, water transport, air transport",
-2022,"Land and pipeline transport, water transport, air transport",С
+2022,"Land and pipeline transport, water transport, air transport",c
 2023,"Land and pipeline transport, water transport, air transport",
 2024,"Land and pipeline transport, water transport, air transport",0.3
 2015,"Warehousing and support activities for transportation, postal and courier activities",
 2016,"Warehousing and support activities for transportation, postal and courier activities",
 2017,"Warehousing and support activities for transportation, postal and courier activities",
-2018,"Warehousing and support activities for transportation, postal and courier activities",С
+2018,"Warehousing and support activities for transportation, postal and courier activities",c
 2019,"Warehousing and support activities for transportation, postal and courier activities",
-2020,"Warehousing and support activities for transportation, postal and courier activities",С
+2020,"Warehousing and support activities for transportation, postal and courier activities",c
 2021,"Warehousing and support activities for transportation, postal and courier activities",
-2022,"Warehousing and support activities for transportation, postal and courier activities",С
+2022,"Warehousing and support activities for transportation, postal and courier activities",c
 2023,"Warehousing and support activities for transportation, postal and courier activities",
 2024,"Warehousing and support activities for transportation, postal and courier activities",3.3
 2015,Information and telecommunications,
@@ -234,7 +234,7 @@ Year,Еconomic activity,Value
 2017,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
 2018,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",0.2
 2019,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
-2020,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",С
+2020,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",c
 2021,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
 2022,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",2.6
 2023,"Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
@@ -254,7 +254,7 @@ Year,Еconomic activity,Value
 2017,Financial and insurance activities,
 2018,Financial and insurance activities,4.2
 2019,Financial and insurance activities,
-2020,Financial and insurance activities,С
+2020,Financial and insurance activities,c
 2021,Financial and insurance activities,
 2022,Financial and insurance activities,2.8
 2023,Financial and insurance activities,
@@ -276,9 +276,9 @@ Year,Еconomic activity,Value
 2019,Architectural and engineering activities; technical testing and analysis,
 2020,Architectural and engineering activities; technical testing and analysis,0.7
 2021,Architectural and engineering activities; technical testing and analysis,
-2022,Architectural and engineering activities; technical testing and analysis,С
+2022,Architectural and engineering activities; technical testing and analysis,c
 2023,Architectural and engineering activities; technical testing and analysis,
-2024,Architectural and engineering activities; technical testing and analysis,С
+2024,Architectural and engineering activities; technical testing and analysis,c
 2015,Scientific research and development,
 2016,Scientific research and development,
 2017,Scientific research and development,
@@ -296,6 +296,6 @@ Year,Еconomic activity,Value
 2019,Advertising and market research,
 2020,Advertising and market research,0.4
 2021,Advertising and market research,
-2022,Advertising and market research,С
+2022,Advertising and market research,c
 2023,Advertising and market research,
-2024,Advertising and market research,С
+2024,Advertising and market research,c
