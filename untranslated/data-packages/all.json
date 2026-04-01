@@ -62,6 +62,37 @@
       "title": "global_indicators.16-4-2-title"
     },
     {
+      "path": "10-3-3-a/data.csv",
+      "name": "10-3-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10-3-3-a"
+    },
+    {
       "path": "6-5-2/data.csv",
       "name": "6-5-2",
       "profile": "tabular-data-resource",
@@ -444,6 +475,39 @@
       "title": "global_indicators.15-3-6-a-title"
     },
     {
+      "path": "11-3-1-a/data.csv",
+      "name": "11-3-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "inherit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cultural",
+                "natural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "11-3-1-a"
+    },
+    {
       "path": "10-2-2/data.csv",
       "name": "10-2-2",
       "profile": "tabular-data-resource",
@@ -815,6 +879,37 @@
         ]
       },
       "title": "global_indicators.15-1-2-title"
+    },
+    {
+      "path": "10-2-1-a/data.csv",
+      "name": "10-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10-2-1-a"
     },
     {
       "path": "5-6-2-a/data.csv",
@@ -3433,6 +3528,37 @@
       "title": "global_indicators.15-1-1-a-title"
     },
     {
+      "path": "12-4-2-a/data.csv",
+      "name": "12-4-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "12-4-2-a"
+    },
+    {
       "path": "3-4-3-a/data.csv",
       "name": "3-4-3-a",
       "profile": "tabular-data-resource",
@@ -3783,6 +3909,62 @@
         ]
       },
       "title": "4-4-4-a"
+    },
+    {
+      "path": "9-7-1-a/data.csv",
+      "name": "9-7-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "35_reg_Kyiv_city",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-7-1-a"
     },
     {
       "path": "4-2-1-a/data.csv",
@@ -4388,6 +4570,37 @@
         ]
       },
       "title": "global_indicators.5-7-6-title"
+    },
+    {
+      "path": "11-3-3-a/data.csv",
+      "name": "11-3-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "11-3-3-a"
     },
     {
       "path": "16-7-1/data.csv",
@@ -5830,6 +6043,37 @@
       "title": "global_indicators.3-4-3-title"
     },
     {
+      "path": "10-5-1-a/data.csv",
+      "name": "10-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10-5-1-a"
+    },
+    {
       "path": "11-4-2/data.csv",
       "name": "11-4-2",
       "profile": "tabular-data-resource",
@@ -6485,6 +6729,37 @@
         ]
       },
       "title": "global_indicators.3-4-1-title"
+    },
+    {
+      "path": "11-3-2-a/data.csv",
+      "name": "11-3-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "11-3-2-a"
     },
     {
       "path": "9-2-4/data.csv",
@@ -8121,6 +8396,39 @@
         ]
       },
       "title": "5-2-7-a"
+    },
+    {
+      "path": "10-1-2-a/data.csv",
+      "name": "10-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10-1-2-a"
     },
     {
       "path": "11-6-3/data.csv",
@@ -10673,6 +10981,37 @@
         ]
       },
       "title": "global_indicators.15-1-1-title"
+    },
+    {
+      "path": "9-4-3-a/data.csv",
+      "name": "9-4-3-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-4-3-a"
     },
     {
       "path": "9-1-4-a/data.csv",
@@ -14354,6 +14693,37 @@
       "title": "global_indicators.9-6-1-a-title"
     },
     {
+      "path": "9-5-1-a/data.csv",
+      "name": "9-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-5-1-a"
+    },
+    {
       "path": "5-7-4/data.csv",
       "name": "5-7-4",
       "profile": "tabular-data-resource",
@@ -15832,6 +16202,37 @@
         ]
       },
       "title": "global_indicators.4-4-5-title"
+    },
+    {
+      "path": "11-1-2-a/data.csv",
+      "name": "11-1-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "11-1-2-a"
     },
     {
       "path": "3-1-1/data.csv",
@@ -17849,6 +18250,51 @@
       "title": "12-4-1-a"
     },
     {
+      "path": "11-2-1-a/data.csv",
+      "name": "11-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "strategy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10_phase",
+                "11_phase",
+                "12_phase",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per",
+                "number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "11-2-1-a"
+    },
+    {
       "path": "16-1-2-a/data.csv",
       "name": "16-1-2-a",
       "profile": "tabular-data-resource",
@@ -19509,28 +19955,6 @@
       "title": "9-7-2"
     },
     {
-      "path": "10-1-2-a/data.csv",
-      "name": "10-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "10-1-2-a"
-    },
-    {
       "path": "9-3-3/data.csv",
       "name": "9-3-3",
       "profile": "tabular-data-resource",
@@ -19861,28 +20285,6 @@
       "title": "11-2-2"
     },
     {
-      "path": "11-3-2-a/data.csv",
-      "name": "11-3-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-3-2-a"
-    },
-    {
       "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
@@ -20081,28 +20483,6 @@
       "title": "7-3-4"
     },
     {
-      "path": "10-5-1-a/data.csv",
-      "name": "10-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "10-5-1-a"
-    },
-    {
       "path": "9-3-7/data.csv",
       "name": "9-3-7",
       "profile": "tabular-data-resource",
@@ -20213,50 +20593,6 @@
       "title": "5-4-4"
     },
     {
-      "path": "11-3-3-a/data.csv",
-      "name": "11-3-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-3-3-a"
-    },
-    {
-      "path": "9-5-1-a/data.csv",
-      "name": "9-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "9-5-1-a"
-    },
-    {
       "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
@@ -20299,28 +20635,6 @@
         ]
       },
       "title": "5-3-2"
-    },
-    {
-      "path": "10-3-3-a/data.csv",
-      "name": "10-3-3-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "10-3-3-a"
     },
     {
       "path": "14-1-2/data.csv",
@@ -20587,28 +20901,6 @@
       "title": "15-6-1"
     },
     {
-      "path": "11-3-1-a/data.csv",
-      "name": "11-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-3-1-a"
-    },
-    {
       "path": "16-10-4/data.csv",
       "name": "16-10-4",
       "profile": "tabular-data-resource",
@@ -20675,28 +20967,6 @@
       "title": "11-3-1"
     },
     {
-      "path": "9-7-1-a/data.csv",
-      "name": "9-7-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "9-7-1-a"
-    },
-    {
       "path": "11-2-7/data.csv",
       "name": "11-2-7",
       "profile": "tabular-data-resource",
@@ -20717,28 +20987,6 @@
         ]
       },
       "title": "11-2-7"
-    },
-    {
-      "path": "10-2-1-a/data.csv",
-      "name": "10-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "10-2-1-a"
     },
     {
       "path": "5-2-1/data.csv",
@@ -20783,28 +21031,6 @@
         ]
       },
       "title": "5-2-3"
-    },
-    {
-      "path": "11-2-1-a/data.csv",
-      "name": "11-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-2-1-a"
     },
     {
       "path": "9-7-1/data.csv",
@@ -21003,28 +21229,6 @@
         ]
       },
       "title": "9-3-6"
-    },
-    {
-      "path": "11-1-2-a/data.csv",
-      "name": "11-1-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "11-1-2-a"
     },
     {
       "path": "11-5-3/data.csv",

@@ -11,5 +11,6 @@ Value,Disaggregation combinations using this value,Number of indicators
 3_railways,3,1
 kWh,6,1
 min_day,6,1
-per,4,1
+number,3,1
+per,7,2
 Percentage,3,1

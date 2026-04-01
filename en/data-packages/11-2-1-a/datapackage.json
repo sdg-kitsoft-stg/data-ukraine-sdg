@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "strategy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Regional strategy",
+                "Regional strategy and action plan for the implementation of the regional strategy (first phase)",
+                "Regional strategy and action plan for the implementation of the regional strategy (second phase)",
+                ""
+              ]
+            },
+            "title": "Сomponents of regional strategy"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "percentage",
+                "number of regions",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

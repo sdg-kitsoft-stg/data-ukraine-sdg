@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "strategy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10_phase",
+                "11_phase",
+                "12_phase",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "per",
+                "number",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
