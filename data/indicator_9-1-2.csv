@@ -46,9 +46,9 @@ Year,Ec_activ,Value
 2015,48_products,
 2016,48_products,
 2017,48_products,
-2018,48_products,
+2018,48_products,hide_data
 2019,48_products,
-2020,48_products,
+2020,48_products,hide_data
 2021,48_products,
 2022,48_products,0.9
 2023,48_products,
@@ -81,7 +81,7 @@ Year,Ec_activ,Value
 2017,51_chemicals,
 2018,51_chemicals,0.9
 2019,51_chemicals,
-2020,51_chemicals,
+2020,51_chemicals,hide_data
 2021,51_chemicals,
 2022,51_chemicals,0.9
 2023,51_chemicals,
@@ -147,9 +147,9 @@ Year,Ec_activ,Value
 2017,57_energy,
 2018,57_energy,0.02
 2019,57_energy,
-2020,57_energy,
+2020,57_energy,hide_data
 2021,57_energy,
-2022,57_energy,
+2022,57_energy,hide_data
 2023,57_energy,
 2024,57_energy,0.1
 
@@ -158,9 +158,9 @@ Year,Ec_activ,Value
 2017,58_water_supply,
 2018,58_water_supply,0.1
 2019,58_water_supply,
-2020,58_water_supply,
+2020,58_water_supply,hide_data
 2021,58_water_supply,
-2022,58_water_supply,
+2022,58_water_supply,hide_data
 2023,58_water_supply,
 2024,58_water_supply,0.4
 
@@ -169,9 +169,9 @@ Year,Ec_activ,Value
 2017,59_water_collection,
 2018,59_water_collection,0.02
 2019,59_water_collection,
-2020,59_water_collection,
+2020,59_water_collection,hide_data
 2021,59_water_collection,
-2022,59_water_collection,
+2022,59_water_collection,hide_data
 2023,59_water_collection,
 2024,59_water_collection,0.6
 
@@ -180,9 +180,9 @@ Year,Ec_activ,Value
 2017,60_waste_management,
 2018,60_waste_management,0.1
 2019,60_waste_management,
-2020,60_waste_management,
+2020,60_waste_management,hide_data
 2021,60_waste_management,
-2022,60_waste_management,
+2022,60_waste_management,hide_data
 2023,60_waste_management,
 2024,60_waste_management,0.0
 
@@ -222,22 +222,22 @@ Year,Ec_activ,Value
 2015,64_transport_types,
 2016,64_transport_types,
 2017,64_transport_types,
-2018,64_transport_types,
+2018,64_transport_types,hide_data
 2019,64_transport_types,
-2020,64_transport_types,
+2020,64_transport_types,hide_data
 2021,64_transport_types,
-2022,64_transport_types,
+2022,64_transport_types,hide_data
 2023,64_transport_types,
 2024,64_transport_types,0.3
 
 2015,65_transport_support,
 2016,65_transport_support,
 2017,65_transport_support,
-2018,65_transport_support,
+2018,65_transport_support,hide_data
 2019,65_transport_support,
-2020,65_transport_support,
+2020,65_transport_support,hide_data
 2021,65_transport_support,
-2022,65_transport_support,
+2022,65_transport_support,hide_data
 2023,65_transport_support,
 2024,65_transport_support,3.3
 
@@ -257,7 +257,7 @@ Year,Ec_activ,Value
 2017,67_media,
 2018,67_media,0.2
 2019,67_media,
-2020,67_media,
+2020,67_media,hide_data
 2021,67_media,
 2022,67_media,2.6
 2023,67_media,
@@ -279,7 +279,7 @@ Year,Ec_activ,Value
 2017,69_finance,
 2018,69_finance,4.2
 2019,69_finance,
-2020,69_finance,
+2020,69_finance,hide_data
 2021,69_finance,
 2022,69_finance,2.8
 2023,69_finance,
@@ -303,9 +303,9 @@ Year,Ec_activ,Value
 2019,71_architecture_testing,
 2020,71_architecture_testing,0.7
 2021,71_architecture_testing,
-2022,71_architecture_testing,
+2022,71_architecture_testing,hide_data
 2023,71_architecture_testing,
-2024,71_architecture_testing,
+2024,71_architecture_testing,hide_data
 
 2015,72_research,
 2016,72_research,
@@ -325,6 +325,6 @@ Year,Ec_activ,Value
 2019,73_advertising,
 2020,73_advertising,0.4
 2021,73_advertising,
-2022,73_advertising,
+2022,73_advertising,hide_data
 2023,73_advertising,
-2024,73_advertising,
+2024,73_advertising,hide_data
