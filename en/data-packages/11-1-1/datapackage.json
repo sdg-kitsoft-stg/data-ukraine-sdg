@@ -16,15 +16,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "of which internally displaced persons",
+                "internally displaced persons",
+                "age of the housing provided to the participants",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Category"
           },
           {
             "name": "Type of residence",
@@ -40,9 +41,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "age",
                 ""
               ]
             },
@@ -59,16 +61,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "By age of the housing provided to the participants",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "By age of the housing provided to the participants"
           },
           {
             "name": "Value",

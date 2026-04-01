@@ -16,15 +16,16 @@
             "title": "Рік"
           },
           {
-            "name": "Group",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "з них внутрішньо переміщені особи",
+                "внутрішньо переміщені особи",
+                "вік житла, яким забезпечено учасників",
                 ""
               ]
             },
-            "title": "Група"
+            "title": "Категорія"
           },
           {
             "name": "Type of residence",
@@ -40,9 +41,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "вік",
                 ""
               ]
             },
@@ -53,22 +55,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
-                "Чоловіча",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
             "title": "Стать"
-          },
-          {
-            "name": "By age of the housing provided to the participants",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "за віком житла, яким забезпечено учасників"
           },
           {
             "name": "Value",

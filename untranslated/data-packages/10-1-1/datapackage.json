@@ -51,7 +51,7 @@
             }
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1,6 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 15-24 years,19,2
 25-64 years,19,2
+age,1,1
 age_0_17,1,1
 age_0_5,1,1
 age_14_30,1,1
@@ -63,6 +64,7 @@ aged_6,1,1
 aged_7,1,1
 aged_8,1,1
 aged_9,1,1
+by age,1,1
 females,1,1
 group_label_168,1,1
 group_label_169,1,1

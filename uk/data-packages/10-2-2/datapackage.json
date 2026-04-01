@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "за формою дискримінації"
+            "title": "Форми дискримінації"
           },
           {
             "name": "By spheres of public relations",
@@ -48,7 +48,7 @@
                 ""
               ]
             },
-            "title": "за сферами суспільних відносин"
+            "title": "Сфери суспільних відносин"
           },
           {
             "name": "Sex",
@@ -56,14 +56,14 @@
             "constraints": {
               "enum": [
                 "жінки",
-                "Чоловіча",
+                "чоловіки",
                 ""
               ]
             },
             "title": "Стать"
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

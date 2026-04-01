@@ -506,7 +506,7 @@
                 ""
               ]
             },
-            "title": "form of discrimination"
+            "title": "Forms of discrimination"
           },
           {
             "name": "By spheres of public relations",
@@ -526,22 +526,22 @@
                 ""
               ]
             },
-            "title": "by spheres of public relations"
+            "title": "Spheres of public relations"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -550,7 +550,7 @@
                 ""
               ]
             },
-            "title": "by type of residence"
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -974,7 +974,7 @@
                 ""
               ]
             },
-            "title": "Wage replacement rate by pensions"
+            "title": "Categories of the wage replacement rate by pensions"
           },
           {
             "name": "Value",
@@ -6214,7 +6214,7 @@
                 ""
               ]
             },
-            "title": "By type of shelters"
+            "title": "Types of shelters"
           },
           {
             "name": "Value",
@@ -8834,7 +8834,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11816,7 +11816,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -11842,7 +11841,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -11863,9 +11862,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "age",
                 ""
               ]
             },
@@ -14933,7 +14933,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -16270,7 +16270,7 @@
                 ""
               ]
             },
-            "title": "By type of shelters"
+            "title": "Types of shelters"
           },
           {
             "name": "Value",
@@ -18029,15 +18029,16 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "of which internally displaced persons",
+                "internally displaced persons",
+                "age of the housing provided to the participants",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Category"
           },
           {
             "name": "Type of residence",
@@ -18053,9 +18054,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "age",
                 ""
               ]
             },
@@ -18072,16 +18074,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "By age of the housing provided to the participants",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "By age of the housing provided to the participants"
           },
           {
             "name": "Value",
@@ -19288,7 +19280,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -19728,8 +19720,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -20407,7 +20399,7 @@
             "title": "Region"
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -20416,7 +20408,7 @@
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Type of residence"
           },
           {
             "name": "Value",

@@ -15,11 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
                 "of which internally displaced persons",
+                "By age of the housing provided to the participants",
                 ""
               ]
             }
@@ -37,9 +38,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "by age",
                 ""
               ]
             }
@@ -49,17 +51,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "By age of the housing provided to the participants",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "females_1",
+                "males_1",
                 ""
               ]
             }

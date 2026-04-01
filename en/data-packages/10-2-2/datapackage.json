@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "form of discrimination"
+            "title": "Forms of discrimination"
           },
           {
             "name": "By spheres of public relations",
@@ -48,22 +48,22 @@
                 ""
               ]
             },
-            "title": "by spheres of public relations"
+            "title": "Spheres of public relations"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -72,7 +72,7 @@
                 ""
               ]
             },
-            "title": "by type of residence"
+            "title": "Type of residence"
           },
           {
             "name": "Value",

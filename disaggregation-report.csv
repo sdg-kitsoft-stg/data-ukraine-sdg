@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 23_educ,2,4
-Age,34,90
+Age,36,92
 Ammunition,1,4
 Article,3,13
 Average monthly electricity consumption,1,2
@@ -18,12 +18,12 @@ By special aggregations,2,5
 By spheres of public relations,1,10
 By type of area,1,2
 by type of place of registration of service providers,1,2
-by type of residence,2,2
+by type of residence,1,2
 By type of shelters,2,4
 By types of producers,1,2
 By types of renewable energy generation,1,7
 Cat,1,3
-Category,7,26
+Category,7,28
 Category_type,1,2
 Cause of death,1,2
 Coastal regions,1,1
@@ -41,7 +41,7 @@ Fund,1,1
 Gender,9,5
 Generation,1,7
 GHG_ratio,1,2
-Group,10,50
+Group,9,49
 group_1,1,89
 group_10,1,3
 group_11,2,4
@@ -119,7 +119,7 @@ Type of economic activity,4,1242
 Type of educational institution,3,8
 Type of energy resources,1,6
 Type of place of registration of service providers,1,2
-Type of residence,56,2
+Type of residence,58,2
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,8,14

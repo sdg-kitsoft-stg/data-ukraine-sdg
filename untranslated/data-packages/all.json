@@ -495,14 +495,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -8274,7 +8274,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -11046,7 +11046,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -11072,7 +11071,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -11083,17 +11082,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "age",
                 ""
               ]
             }
@@ -13947,7 +13947,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -16882,11 +16882,12 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
                 "of which internally displaced persons",
+                "By age of the housing provided to the participants",
                 ""
               ]
             }
@@ -16904,9 +16905,10 @@
           },
           {
             "name": "Age",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "by age",
                 ""
               ]
             }
@@ -16916,17 +16918,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "By age of the housing provided to the participants",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -18047,7 +18040,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -18453,8 +18446,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -19077,7 +19070,7 @@
             }
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

@@ -52,14 +52,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
