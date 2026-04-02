@@ -16,7 +16,7 @@
             "title": "Рік"
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

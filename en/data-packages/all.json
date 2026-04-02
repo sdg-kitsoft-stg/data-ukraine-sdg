@@ -15346,7 +15346,7 @@
             "title": "Year"
           },
           {
-            "name": "by type of residence",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -15355,7 +15355,7 @@
                 ""
               ]
             },
-            "title": "by type of residence"
+            "title": "Type of residence"
           },
           {
             "name": "Value",

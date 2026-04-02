@@ -18,7 +18,6 @@ By special aggregations,2,5
 By spheres of public relations,1,10
 By type of area,1,2
 by type of place of registration of service providers,1,2
-by type of residence,1,2
 By type of shelters,2,4
 By types of producers,1,2
 By types of renewable energy generation,1,7
@@ -121,7 +120,7 @@ Type of economic activity,4,1242
 Type of educational institution,3,8
 Type of energy resources,1,6
 Type of place of registration of service providers,1,2
-Type of residence,59,2
+Type of residence,60,2
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,9,15
