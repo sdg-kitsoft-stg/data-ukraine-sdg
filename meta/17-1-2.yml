@@ -3,7 +3,7 @@ SDG_TARGET: 17.1 Attracting additional financial resources for recovery from the
 SDG_INDICATOR: 17.1.2 Volume of foreign direct investment (according to the balance of payments), percent of the gross domestic product
 UNIT_MEASURE: "Percent of the gross domestic product"
 CONTACT_ORGANISATION: "National Bank of Ukraine"
-REC_USE_LIM: 2024 - Data for 2024 − 31.01.2026.
+REC_USE_LIM: '2024: Data for 2024 – 31.01.2026.'
 footer_fields:
   - label: "Target value of the indicator for 2030"
-    value: 'increase by 3 percent every 3 years'
+    value: 'increase by 3 percent'

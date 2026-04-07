@@ -1,6 +1,6 @@
 SDG_GOAL: 3 Healthy lives and well-being
 SDG_TARGET: 3.5 Reducing premature mortality from non-communicable diseases
 SDG_INDICATOR: 3.5.5 Mortality rate for women from malignant cervical neoplasms aged 30–59 years, per 100,000 women of the corresponding age
-UNIT_MEASURE: per 100,000 women of the corresponding age
-CONTACT_ORGANISATION: State Statistics Service of Ukraine (SSSU)
-REC_USE_LIM: '2015–2021: Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories in Donetsk and Luhansk regions. <br> 2022–2024: Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on mortality and birth rates has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information.'
+UNIT_MEASURE: "per 100,000 women of the corresponding age"
+CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
+REC_USE_LIM: '2015–2021: Excluding the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories in Donetsk and Luhansk regions. <br> 2022–2024: Given the situation that has developed due to the military aggression of the russian federation against Ukraine, the formation of official state statistical information on mortality has been suspended starting from 2022 due to the impossibility of obtaining full administrative data, which are the source of the formation of relevant statistical information.'
