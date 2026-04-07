@@ -859,7 +859,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -8900,7 +8899,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -11646,7 +11645,7 @@
           }
         ]
       },
-      "title": "Number of seekers for professional (vocational and technical) education by level of education 1, thousand persons"
+      "title": "Number of seekers for professional (vocational and technical) education by level of education, thousand persons"
     },
     {
       "path": "5-4-2/data.csv",
@@ -16373,7 +16372,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
