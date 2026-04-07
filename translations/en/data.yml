@@ -64,7 +64,7 @@ weap_5_cold: cold weapons
 2_vict_all: Victims of criminal offenses (total)
 1_total: Total criminal offenses (number)
 2_per_100: Per 100 thousand population
-1_all: all
+1_all: number of pupils, persons
 2_females: females
 3_adolescents: adolescents
 4_young: young (under 14)
@@ -239,7 +239,7 @@ age_2_61_64: 61-64 years
 age_2_65_70: 65-70 years
 under_35: under 35 years
 age_3_61: 61 years and older
-age_16_17: 16-17 years
+age_16_17: 16–17 years
 age_18_34: 18–34 years
 age_35_59: 35–59 years
 age_60: 60 years and older
@@ -252,19 +252,19 @@ group_label_185: 25–35 years
 group_label_186: 36–59 years
 group_label_187: 60–74 years
 group_label_188: 75 years and older
-age_14_30: 14-30 years
+age_14_30: 14–30 years
 age_15_17: 15-17 years
-age_18_24: 18-24 years
+age_18_24: 18–24 years
 age_18_29: 18-29 years
 age_18_39: 18–39 years
-age_25_35: 25-35 years
+age_25_35: 25–35 years
 age_30_59: 30-59 years
-age_36_59: 36-59 years
+age_36_59: 36–59 years
 age_40_64: 40–64 years
-age_60_74: 60-74 years
-age_15_64: 15-64 years
-age_15_24: 15-24 years
-age_25_64: 25-64 years
+age_60_74: 60–74 years
+age_15_64: 15–64 years
+age_15_24: 15–24 years
+age_25_64: 25–64 years
 age_30_plus: 30 years and older
 age_75: 75 years and older
 aged_6: 6 years
@@ -461,7 +461,7 @@ age_vac_3_18_months: 18 months
 age_vac_4_6_years: 6 years
 age_vac_5_14_years: 14 years
 age_vac_6_16_years: 16 years
-Subject: Subject
+Subject: Academic subjects
 reading: reading
 math: mathematics
 science: natural sciences
@@ -469,7 +469,7 @@ math_grade6: mathematics 6th grade
 math_grade8: mathematics 8th grade
 ukr_grade6: Ukrainian language 6th grade
 ukr_grade8: Ukrainian language 8th grade
-School type: by type of educational institution
+School type: Type of educational institution
 lyceum_gymnasium_specialized: lyceum / gymnasium / specialized school
 general_school_complex: secondary school / educational complex
 college_technical_vocational: college / technical secondary school / vocational and technical educational institution
@@ -477,16 +477,16 @@ lyceum: lyceum
 gymnasium: gymnasium
 other_institution: others
 specialized_school: specialized school
-SES: by socioeconomic status
+SES: Socioeconomic status
 low_ses: pupils with low socioeconomic status (25% of pupils with the lowest scores on the PISA Economic Socioeconomic Status Index (ESCS))
 high_ses: pupils with high socioeconomic status (25% of pupils with the highest scores on the PISA Economic Socioeconomic Status Index (ESCS))
 Type of educational institution: by type of educational institution
 gsei: general secondary educational institutions (GSEI)
 pvtei: professional (vocational and technical) educational institutions (P(VT)EI)
 ippte: institutions of professional pre-tertiary education (IPPTE)
-other_2: other institutions 2
+other_2: other institutions
 For reference: 'For reference: the legally established minimum subsistence level per month on average per person, UAH'
-Sources of funding: by sources of funding
+Sources of funding: Sources of funding
 state_source: from the state budget
 individuals_legal: funds of individuals and legal entities
 direct_obstetric_causes: directly related to obstetric causes
@@ -497,76 +497,76 @@ outpatient: outpatient
 stationary: stationary
 books_and_materials: participants who have printed books and other materials needed for learning
 own_room: having your own space (room or workspace)
-Specialty: null
-spec_101: Ecology
-spec_102: Chemistry
-spec_103: Earth sciences
-spec_104: Physics and astronomy
-spec_105: Applied physics and nanomaterials
-spec_106: Geography
-spec_111: Mathematics
-spec_112: Statistics
-spec_113: Applied mathematics
-spec_121: Software engineering
-spec_122: Computer science and information technologies
-spec_123: Computer science
-spec_124: Computer engineering
-spec_125: Systems analysis
-spec_126: Cybersecurity
-spec_131: Applied mechanics
-spec_132: Materials science and engineering
-spec_133: Industrial engineering
-spec_134: Aviation and space engineering
-spec_135: Shipbuilding
-spec_136: Metallurgy
-spec_141: Electric power engineering, electrical engineering and electromechanics
-spec_142: Power engineering (energy) machinery
-spec_143: Nuclear power engineering
-spec_144: Thermal power engineering
-spec_151: Automation and computer-integrated technologies
-spec_152: Metrology and information-measuring technology
-spec_153: Micro- and nanosystems engineering
-spec_161: Chemical technology and engineering
-spec_162: Biotechnology and bioengineering
-spec_163: Biomedical engineering
-spec_171: Electronics
-spec_172: Electronic communications and radio engineering
-spec_173: Telecommunications and radio engineering
-spec_174: Avionics
-spec_181: Food technologies
-spec_182: Light industry technologies
-spec_183: Environmental protection technologies
-spec_184: Mining
-spec_185: Oil and gas engineering and technologies
-spec_186: Publishing and printing
-spec_191: Architecture and urban planning
-spec_192: Construction and civil engineering
-spec_193: Geodesy and land management
-spec_201: Agronomy
-spec_202: Plant protection and quarantine
-spec_203: Horticulture and viticulture
-spec_204: Technology of production and processing of livestock products
-spec_205: Forestry
-spec_206: Landscape gardening (park management)
-spec_207: Aquatic bioresources and aquaculture
-spec_208: Agricultural engineering
-spec_261: Fire safety
-spec_262: Law enforcement
-spec_263: Civil safety
-spec_271: Maritime and inland water transport
-spec_272: River and sea transport
-spec_273: Air transport
-spec_274: Railway transport
-spec_275: Road transport
+Specialty: Specialties of fields of knowledge
+spec_101: 101 Ecology
+spec_102: 102 Chemistry
+spec_103: 103 Earth sciences
+spec_104: 104 Physics and astronomy
+spec_105: 105 Applied physics and nanomaterials
+spec_106: 106 Geography
+spec_111: 111 Mathematics
+spec_112: 112 Statistics
+spec_113: 113 Applied mathematics
+spec_121: 121 Software engineering
+spec_122: 122 Computer science and information technologies
+spec_123: 123 Computer engineering
+spec_124: 124 Systems analysis
+spec_125: 126 Cyber security
+spec_126: 126 Information systems and technologies
+spec_131: 131 Applied mechanics
+spec_132: 132 Materials science
+spec_133: 133 Industrial mechanical engineering
+spec_134: 134 Aviation and rocket and space engineering
+spec_135: 135 Shipbuilding
+spec_136: 136 Metallurgy
+spec_141: 141 Electric power engineering, electrical engineering and electromechanics
+spec_142: 142 Energy mechanical engineering
+spec_143: 143 Nuclear power engineering
+spec_144: 144 Thermal power engineering
+spec_151: 151 Automation and computer-integrated technologies
+spec_152: 152 Metrology and information and measurement technology
+spec_153: 153 Micro- and nanosystem engineering
+spec_161: 161 Chemical technology and engineering
+spec_162: 162 Biotechnology and bioengineering
+spec_163: 163 Biomedical engineering
+spec_171: 171 Electronics
+spec_172: 172 Electronic communications and radio engineering
+spec_173: 173 Avionics
+spec_174: 174 Automation, computer-integrated technologies and robotics
+spec_181: 181 Food technology
+spec_182: 182 Technologies of light industry
+spec_183: 183 Environmental protection technology
+spec_184: 184 Mining
+spec_185: 185 Oil and gas engineering and technologies
+spec_186: 186 Publishing and printing
+spec_191: 191 Architecture and urban planning
+spec_192: 192 Building and civil engineering
+spec_193: 193 Geodesy and land management
+spec_201: 201 Agronomy
+spec_202: 202 Plant protection and quarantine
+spec_203: 203 Horticulture and viticulture
+spec_204: 204 Technology of production and processing of livestock products
+spec_205: 205 Forestry
+spec_206: 206 Horticulture
+spec_207: 207 Aquatic bioresources and aquaculture
+spec_208: 208 Agroengineering
+spec_261: 261 Fire safety
+spec_262: 262 Law enforcement activity
+spec_263: 263 Civil security
+spec_271: 271 Maritime and inland water transport
+spec_272: 272 Aviation transport
+spec_273: 273 Rail transport
+spec_274: 274 Motor transport
+spec_275: 275 Transportation technologies
 spec_276: Transport technologies
-EducationInternetType: by type of educational institution
-preschool_wired_gt30: Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access
-preschool_wireless_gt30: Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access
-preschool_wired_or_wireless_gt30: Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access
-secondary_internet_any_speed: General secondary educational institutions with Internet access (without specifying the speed)
-secondary_wired_gt30: General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access
-secondary_wireless_gt30: General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access
-secondary_wired_or_wireless_gt30: General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access
+EducationInternetType: Type of educational institution
+preschool_wired_gt30: pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet
+preschool_wireless_gt30: pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet
+preschool_wired_or_wireless_gt30: pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet
+secondary_internet_any_speed: general secondary educational institutions with access to the Internet (without specifying the speed)
+secondary_wired_gt30: general secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet
+secondary_wireless_gt30: general secondary educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet
+secondary_wired_or_wireless_gt30: general secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet
 Category_type: Type
 status: by status
 sphere: by sphere
@@ -576,7 +576,7 @@ teacher_professional_pre_tertiary: pedagogical workers of institution of profess
 academic_staff_tertiary: scientific-pedagogical workers of tertiary educational institution
 professional_pre_tertiary_education: professional pre-tertiary education
 tertiary_education: tertiary education
-Education Level: by levels (degrees) of education
+Education Level: Level (degree) of education
 edu_fakhovyy_junior_bachelor: professional junior bachelor
 edu_junior: junior specialist
 edu_junior_bachelor: junior bachelor
@@ -2958,17 +2958,17 @@ real_estate: Real estate activities
 transportation_and_storage_post_and_courier_services: Transportation and storage, post and courier services
 water_supply_sewerage_waste_management_remediation: Water supply; sewerage, waste management and remediation activities
 wholesale_retail_trade_repair_motor_vehicles_motorcycles: Wholesale and retail trade; repair of motor vehicles and motorcycles
-By special aggregations: special aggregations
+By special aggregations: Special aggregations (production using technologies of)
 production_using_technologies_of: production using technologies of
 high_level: high level
 medium_high_level: medium-high level
 medium_low_level: medium-low level
 low_level: low level
-By frequency of use: by frequency of use
+By frequency of use: Frequency of use
 at_least_once_a_day: at least once a day
 at_least_onc_a_week_but_not_every_day: at least once a week, but not every day
 less_than_once_a_week: less than once a week
-By purpose of use: purpose of use
+By purpose of use: Purpose of use
 sending e-mail: sending (receiving) e-mail
 for interaction with government bodies including obtaining information: for interaction with government bodies (e-government system), including obtaining information
 banking: banking
@@ -3095,3 +3095,98 @@ of which internally displaced persons: internally displaced persons
 By age of the housing provided to the participants: age of the housing provided to the participants
 by age: age
 By type of shelters: Types of shelters
+science_1: natural science disciplines
+gsei_1: general secondary educational institution
+gymnasium_1: gymnasium
+Status: Status of participants in the educational process
+Sphere: Sphere of participants in the educational process
+spec_122_1: 122 Computer science
+spec_125_1: 125 Cyber security and information protection
+spec_145: 145 Renewable energy sources and hydropower
+spec_145_1: 145 Hydropower engineering
+spec_172_1: 172 Telecommunications and radio engineering
+spec_175: 175 Information and measurement technologies
+spec_176: 176 Micro- and nanosystem technology
+spec_187: 187 Woodworking and furniture technologies
+spec_194: 194 Hydrotechnical construction, water engineering and water technologies
+spec_203_1: 203 Horticulture, fruit growing and viticulture
+spec_251: 251 State security
+spec_252: 252 State border security
+spec_253: 253 Military management
+spec_255: 255 Arms and military equipment
+spec_256: 256 National security
+spec_257: 257 Information security management
+spec_271_1: 271 River and maritime transport
+Decile groups_1: Decile groups according to the level of average per capita equivalent total income
+decile group: decile groups
+extracurricular_institutions: extracurricular educational institutions
+girls_1: girls (number)
+boys_1: boys (number)
+Ec_activ_1: Types of economic activity
+s_11_indu_1: Industry (Code NACE Rev.2 – B+C+D+E)
+3_mining_1: Mining and quarrying (Code NACE Rev.2 – B)
+4_proc_ind_1: Manufacturing (Code NACE Rev.2 – C)
+48_products_1: Manufacture of food products, beverages and tobacco products (Code NACE Rev.2 – 10+11+12)
+49_leather_1: Manufacture of textiles, apparel, leather and related products (Code NACE Rev.2 – 13+14+15)
+50_wood_1: Manufacture of wood and paper products, and printing (Code NACE Rev.2 – 16+17+18)
+51_chemicals_1: Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 19+20+21)
+52_rubber_1: Manufacture of rubber and plastics products, and other non-metallic mineral products (Code NACE Rev.2 – 22+23)
+53_metallurgy_1: Manufacture of basic metals and fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 24+25)
+54_computers_1: Manufacture of computer, electronic and optical products, electrical equipment, machinery and equipment n.e.c. (Code NACE Rev.2 – 26+27+28)
+55_transport_equipment_1: Manufacture of transport equipment, trailers and semi-trailers and other transport vehicles (Code NACE Rev.2 – 29+30)
+56_furniture_1: Manufacture of furniture, other manufacturing, and repair and installation of machinery and equipment (Code NACE Rev.2 – 31+32+33)
+57_energy_1: Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – D)
+58_water_supply_1: Water supply; sewerage, waste management and remediation activities (Code NACE Rev.2 – E)
+59_water_collection_1: Water collection, treatment and supply; sewerage (Code NACE Rev.2 – 36+37)
+60_waste_management_1: Waste collection, treatment and disposal activities; materials recovery, other waste management activities (Code NACE Rev.2 – 38+39)
+61_trade_transport_info_1: Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)
+62_wholesale_trade_1: Wholesale trade, except of motor vehicles and motorcycles (Code NACE Rev.2 – 46)
+63_transport_storage_1: Transportation and storage, postal and courier activities (Code NACE Rev.2 – H)
+64_transport_types_1: Land transport and transport via pipelines, water transport, air transport (Code NACE Rev.2 – 49+50+51)
+65_transport_support_1: Warehousing and support activities for transport, postal and courier activities (Code NACE Rev.2 – 52+53)
+66_information_1: Information and telecommunications (Code NACE Rev.2 – J)
+67_media_1: Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, programming and broadcasting activities (Code NACE Rev.2 – 58+59+60)
+68_telecom_it_1: Telecommunications, computer programming, consultancy and related activities, information service activities (Code NACE Rev.2 – 61+62+63)
+69_finance_1: Financial and insurance activities (Code NACE Rev.2 – K)
+70_architecture_engineering_1: Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 71+72+73)
+71_architecture_testing_1: Architectural and engineering activities; technical testing and analysis (Code NACE Rev.2 – 71)
+72_research_1: Scientific research and development (Code NACE Rev.2 – 72)
+73_advertising_1: Advertising and market research (Code NACE Rev.2 – 73)
+12_ext_coal_1: Mining of coal and lignite (Code NACE Rev.2 – 05)
+13_ext_oil_1: Extraction of crude petroleum and natural gas (Code NACE Rev.2 – 06)
+14_ext_ores_1: Mining of metal ores (Code NACE Rev.2 – 07)
+15_ext_miner_1: Other mining and quarrying (Code NACE Rev.2 – 08)
+16_serv_1: Mining support service activities (Code NACE Rev.2 – 09)
+17_proc_ind_1: Manufacturing (Code NACE Rev.2 – C)
+18_man_food_1: Manufacture of food products (Code NACE Rev.2 – 10)
+19_man_bev_1: Manufacture of beverages (Code NACE Rev.2 – 11)
+20_man_tobac_1: Manufacture of tobacco products (Code NACE Rev.2 – 12)
+21_man_text_1: Manufacture of textiles (Code NACE Rev.2 – 13)
+22_man_cloth_1: Manufacture of wearing apparel (Code NACE Rev.2 – 14)
+23_man_leather_1: Manufacture of leather and related products (Code NACE Rev.2 – 15)
+24_man_wood_1: Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (Code NACE Rev.2 – 16)
+25_man_paper_1: Manufacture of paper and paper products (Code NACE Rev.2 – 17)
+26_print_1: Printing, reproduction of recorded media (Code NACE Rev.2 – 18)
+27_man_coke_1: Manufacture of coke and refined petroleum products (Code NACE Rev.2 – 19)
+28_man_chemic_1: Manufacture of chemicals and chemical products (Code NACE Rev.2 – 20)
+29_man_pharmac_1: Manufacture of basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 21)
+30_man_rubber_1: Manufacture of rubber and plastic products (Code NACE Rev.2 – 22)
+31_man_non_met_1: Manufacture of other non-metallic mineral products (Code NACE Rev.2 – 23)
+32_man_met_1: Manufacture of basic metals (Code NACE Rev.2 – 24)
+33_man_equip_1: Manufacture of fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 25)
+34_man_pc_1: Manufacture of computer, electronic and optical products (Code NACE Rev.2 – 26)
+35_man_el_equip_1: Manufacture of electrical equipment (Code NACE Rev.2 – 27)
+36_not_class_1: Manufacture of machinery and equipment n.e.c. (Code NACE Rev.2 – 28)
+37_man_motor_1: Manufacture of motor vehicles, trailers and semi-trailers (Code NACE Rev.2 – 29)
+38_man_oth_veh_1: Manufacture of other transport equipment (Code NACE Rev.2 – 30)
+39_man_furn_1: Manufacture of furniture (Code NACE Rev.2 – 31)
+40_man_oth_prod_1: Other manufacturing (Code NACE Rev.2 – 32)
+41_repair_1: Repair and installation of machinery and equipment (Code NACE Rev.2 – 33)
+42_suppl_elec_1: Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – D)
+42_suppl_elec_2: Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – 35)
+43_suppl_wat_1: Water supply; sewage, waste management and remediation activities (Code NACE Rev.2 – E)
+44_collec_wat_1: Water collection, treatment and supply (Code NACE Rev.2 – 36)
+45_waste_wat_1: Sewerage (Code NACE Rev.2 – 37)
+46_restor_1: Waste collection, treatment and disposal activities; materials recovery (Code NACE Rev.2 – 38)
+47_waste_act_1: Remediation activities and other waste management services (Code NACE Rev.2 – 39)
+3_tr_urban_1: сity electric transport

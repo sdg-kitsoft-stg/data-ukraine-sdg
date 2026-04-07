@@ -3,45 +3,4 @@ SDG_TARGET: 9.1 Promoting opportunities for scientists (researchers) and entrepr
 SDG_INDICATOR: 9.1.3 Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: "The indicator was not calculated in 2016.<br> Symbol (с) – data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality.<br>Data are provided for legal entities with an average number of employees of 50 or more."
-footer_reference: "
-Share of the volume of sold innovative industrial products (goods, services) in the total volume of sold products (goods, services) of industrial enterprises, percent - Code NACE Rev.2: B+C+D+E;
-Mining and quarrying - Code NACE Rev.2: B;
-Mining of coal and lignite - Code NACE Rev.2: 05;
-Extraction of crude petroleum and natural gas - Code NACE Rev.2: 06;
-Mining of metal ores - Code NACE Rev.2: 07;
-Other mining and quarrying - Code NACE Rev.2: 08;
-Mining support service activities - Code NACE Rev.2: 09;
-Manufacturing - Code NACE Rev.2: C;
-Manufacture of food products - Code NACE Rev.2: 10;
-Manufacture of beverages - Code NACE Rev.2: 11;
-Manufacture of tobacco products - Code NACE Rev.2: 12;
-Manufacture of textiles - Code NACE Rev.2: 13;
-Manufacture of wearing apparel - Code NACE Rev.2: 14;
-Manufacture of leather and related products - Code NACE Rev.2: 15;
-Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials - Code NACE Rev.2: 16; 
-Manufacture of paper and paper products - Code NACE Rev.2: 17;
-Printing and reproduction of recorded media - Code NACE Rev.2: 18;
-Manufacture of coke and refined petroleum products - Code NACE Rev.2: 19;
-Manufacture of chemicals and chemical products - Code NACE Rev.2: 20;
-Manufacture of basic pharmaceutical products and pharmaceutical preparations - Code NACE Rev.2: 21;
-Manufacture of rubber and plastic products - Code NACE Rev.2: 22;
-Manufacture of other non-metallic mineral products - Code NACE Rev.2: 23;
-Manufacture of basic metals - Code NACE Rev.2: 24;
-Manufacture of fabricated metal products, except machinery and equipment - Code NACE Rev.2: 25;
-Manufacture of computer, electronic and optical products - Code NACE Rev.2: 26;
-Manufacture of electrical equipment - Code NACE Rev.2: 27;
-Manufacture of machinery and equipment n.e.c. - Code NACE Rev.2: 28;
-Manufacture of motor vehicles, trailers and semi-trailers - Code NACE Rev.2: 29;
-Manufacture of other transport equipment - Code NACE Rev.2: 30;
-Manufacture of furniture - Code NACE Rev.2: 31;
-Other manufacturing - Code NACE Rev.2: 32;
-Repair and installation of machinery and equipment - Code NACE Rev.2: 33;
-Electricity, gas, steam and air conditioning supply - Code NACE Rev.2: D;
-Electricity, gas, steam and air conditioning supply - Code NACE Rev.2: 35;
-Water supply; sewerage, waste management and remediation activities - Code NACE Rev.2: E;
-Water collection, treatment and supply - Code NACE Rev.2: 36;
-Sewerage - Code NACE Rev.2: 37;
-Waste collection, treatment and disposal activities; materials recovery - Code NACE Rev.2: 38;
-Remediation activities and other waste management services - Code NACE Rev.2: 39;
-"
+REC_USE_LIM: 'Data are provided for legal entities with an average number of employees of 50 or more. <br> 2016: The indicator was not calculated in 2016.<br> 2017–2024: Symbol (с) – data are not released in order to comply with the requirements of Ukraine`s law on official statistics regarding the provision of guarantees of the state statistics bodies on statistical confidentiality.'

@@ -2,5 +2,5 @@ SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.5 Ensuring an increase in the level of use of electric transport and the development of appropriate infrastructure
 SDG_INDICATOR: 9.5.2 Indicator of charging stations for electric vehicles (number of charging stations per 200 kilometers of international and national roads of public importance), units
 UNIT_MEASURE: "Units"
-CONTACT_ORGANISATION: "State Agency for Restoration and Development of Infrastructure of Ukraine"
-REC_USE_LIM: "Indicator of charging stations for electric vehicles (number of charging stations per 200 kilometers of international and national roads of public importance), units: Data have been developed since 2024."
+CONTACT_ORGANISATION: "State Agency for Restoration and Development of Infrastructure of Ukraine (Agency for Restoration)"
+REC_USE_LIM: "Data have been developed since 2024."

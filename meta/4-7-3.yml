@@ -3,4 +3,4 @@ SDG_TARGET: 4.7 Ensuring children’s access to extracurricular education
 SDG_INDICATOR: 4.7.3 Share of children attending specialized extracurricular sports educational institutions and structural divisions of legal entities under public and private law in the total population aged 6–18, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Youth and Sports of Ukraine"
-REC_USE_LIM: Share of number of pupils of children's and youth sports schools in the total number of pupil youth (persons aged 6–18). By sex - Data are not developed due to the lack of data on the number of pupil youth by sex.
+REC_USE_LIM: "Share of number of pupils of children's and youth sports schools in the total number of pupil youth (persons aged 6–18). <br> Share of number of pupils by sex: Data are not developed due to the lack of data on the number of pupil youth by sex."

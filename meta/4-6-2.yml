@@ -1,6 +1,6 @@
 SDG_GOAL: 4 Quality education
 SDG_TARGET: 4.6 Creating a modern inclusive educational environment in educational institutions
 SDG_INDICATOR: 4.6.2 Share of full-time general secondary educational institutions where inclusive education is organized, percent
-UNIT_MEASURE: "Percent (%)"
+UNIT_MEASURE: "Percent (%)" 
 CONTACT_ORGANISATION: "State Scientific Institution \"Institute of Educational Analytics\" (SSI \"IEA\")"
-REC_USE_LIM: Data have been developed since 2016. <br>2 Data are calculated for the beginning of the academic year for general secondary educational institutions (without special secondary educational institutions) in which inclusive education is organized. <br>3 Data have been developed since 2019.
+REC_USE_LIM: "Data are calculated for the beginning of the academic year for general secondary educational institutions (without special secondary educational institutions) in which inclusive education is organized. <br> 2015: Data have been developed since 2016. <br> Type of residence: Data have been developed since 2019."
