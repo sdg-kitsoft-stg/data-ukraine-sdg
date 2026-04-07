@@ -270,8 +270,8 @@ Year,Type of residence,Region,Value
 2023,,city Kyiv,
 2023,,city Sevastopol,
 2024,,,51.8
-2024,,urban,56.1
-2024,,rural,41.5
+2024,urban,,56.1
+2024,rural,,41.5
 2024,,Autonomous Republic of Crimea,
 2024,,Vinnytsya,43.9
 2024,,Volyn,46.6
