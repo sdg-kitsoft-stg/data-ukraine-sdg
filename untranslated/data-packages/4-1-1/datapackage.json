@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "girls",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -47,6 +46,7 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
+                "girls",
                 ""
               ]
             }
@@ -56,8 +56,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "boys",
                 "girls",
+                "boys",
                 ""
               ]
             }

@@ -1334,7 +1334,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "girls",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -1362,6 +1361,7 @@
                 "Chernihiv",
                 "city Kyiv",
                 "city Sevastopol",
+                "girls",
                 ""
               ]
             },
@@ -1372,8 +1372,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "boys",
                 "girls",
+                "boys",
                 ""
               ]
             },
