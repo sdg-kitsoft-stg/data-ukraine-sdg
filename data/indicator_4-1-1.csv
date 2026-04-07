@@ -32,7 +32,7 @@ Year,Sex,Type of residence,Region,Value
 2015,,,Kyiv_city,86.5
 2015,,,city_Sevastopol,
 2016,,,,69.8
-2016,,,girls,
+2016,girls,,,
 2016,boys,,,
 2016,,urban,,76.8
 2016,,rural,,56.0
@@ -64,7 +64,7 @@ Year,Sex,Type of residence,Region,Value
 2016,,,Kyiv_city,89.1
 2016,,,city_Sevastopol,
 2017,,,,69.5
-2017,,,girls,
+2017,girls,,,
 2017,boys,,,
 2017,,urban,,76.4
 2017,,rural,,56.1
