@@ -28,7 +28,7 @@
             "title": "Місцевість проживання"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -39,7 +39,7 @@
                 ""
               ]
             },
-            "title": "За типом закладу освіти"
+            "title": "Тип закладу освіти"
           },
           {
             "name": "Value",

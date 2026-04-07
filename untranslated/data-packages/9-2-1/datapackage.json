@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
                 "high_level",
                 "medium_high_level",
                 "medium_low_level",

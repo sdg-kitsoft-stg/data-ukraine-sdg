@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "girls",
+                "boys",
                 ""
               ]
             }
@@ -37,13 +37,14 @@
             }
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
                 "lyceum",
-                "gymnasium",
+                "gymnasium_1",
                 "gsei",
+                "gsei_1",
                 "other_institution",
                 ""
               ]

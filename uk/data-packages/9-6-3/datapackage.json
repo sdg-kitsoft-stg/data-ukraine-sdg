@@ -53,7 +53,7 @@
             "title": "Область"
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -62,7 +62,7 @@
                 ""
               ]
             },
-            "title": "Категорія"
+            "title": "Місцевість проживання"
           },
           {
             "name": "Value",

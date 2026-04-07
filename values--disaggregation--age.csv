@@ -4,7 +4,6 @@ Value,Disaggregation combinations using this value,Number of indicators
 age,1,1
 age_0_17,1,1
 age_0_5,1,1
-age_14_30,1,1
 age_15,2,2
 age_15_17,29,2
 age_15_24,3,1
@@ -25,7 +24,6 @@ age_2_36_60,90,5
 age_2_61_64,2,1
 age_2_65_70,2,1
 age_30_59,2,2
-age_30_plus,1,1
 age_35_59,6,6
 age_36_59,87,3
 age_3_61,89,5

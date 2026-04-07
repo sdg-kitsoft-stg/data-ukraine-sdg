@@ -1,8 +1,9 @@
 Value,Disaggregation combinations using this value,Number of indicators
+extracurricular_institutions,1,1
 preschool_wired_gt30,28,1
-preschool_wired_or_wireless_gt30,26,1
-preschool_wireless_gt30,26,1
-secondary_internet_any_speed,26,1
-secondary_wired_gt30,26,1
-secondary_wired_or_wireless_gt30,26,1
-secondary_wireless_gt30,26,1
+preschool_wired_or_wireless_gt30,28,1
+preschool_wireless_gt30,28,1
+secondary_internet_any_speed,28,1
+secondary_wired_gt30,28,1
+secondary_wired_or_wireless_gt30,28,1
+secondary_wireless_gt30,28,1

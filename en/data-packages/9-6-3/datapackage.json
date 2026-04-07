@@ -45,7 +45,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -53,7 +53,7 @@
             "title": "Region"
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -62,7 +62,7 @@
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Type of residence"
           },
           {
             "name": "Value",

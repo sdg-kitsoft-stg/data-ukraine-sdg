@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 23_educ,2,4
-Age,36,92
+Age,35,90
 Ammunition,1,4
 Article,3,13
 Average monthly electricity consumption,1,2
@@ -14,7 +14,7 @@ By purpose of use,1,21
 By river basins,2,9
 By safety,1,2
 By sectors of the fuel and energy sector,1,5
-By special aggregations,2,5
+By special aggregations,2,4
 By spheres of public relations,1,10
 By type of area,1,2
 by type of place of registration of service providers,1,2
@@ -22,18 +22,18 @@ By type of shelters,2,4
 By types of producers,1,2
 By types of renewable energy generation,1,7
 Cat,1,3
-Category,7,28
-Category_type,1,2
+Category,5,20
 Cause of death,1,2
 Coastal regions,1,1
 Component,1,17
 Cost_train,1,4
 CouncilLevel,1,6
 CourtLevel,1,4
-Decile groups,2,10
-Ec_activ,8,100
+Decile groups,3,11
+Ec_activ,6,74
+Ec_activ_1,2,67
 Education Level,1,7
-EducationInternetType,1,7
+EducationInternetType,1,8
 Farm caregory,1,3
 Form of rehabilitation assistance,1,2
 Fund,1,1
@@ -58,7 +58,7 @@ group_24,1,2
 group_25,1,19
 group_26,1,3
 group_27,1,2
-group_28,3,8
+group_28,5,10
 group_29,1,2
 group_3,1,11
 group_30,3,34
@@ -88,7 +88,7 @@ inherit,1,2
 Land purpose,1,1
 Level,1,4
 Level_ed,1,6
-m_trans,5,15
+m_trans,5,16
 Mode of transport,1,2
 Number of employees,1,4
 Object,1,10
@@ -99,32 +99,32 @@ PopulationGroup,1,2
 Products,1,3
 Reason of disability,1,2
 reasons_ land,1,1
-Region,77,33
+Region,78,36
 Res_inten,1,5
 Resource,1,3
-School type,1,3
+School type,4,13
 SES,2,4
 Settlement,1,3
 Sex of the head of household,1,2
-Sex,52,13
+Sex,52,15
 Sou_en,1,3
 Sources of funding,1,2
-Specialty,1,61
+Specialty,1,78
+Sphere,1,2
 Spheres,1,6
+Status,1,4
 Status_1,1,3
 strategy,1,3
-Subject,3,7
+Subject,3,8
 SupplyType,1,4
 SupplyType_1,1,2
 Type of economic activity,4,1242
-Type of educational institution,3,8
 Type of energy resources,1,6
 Type of place of registration of service providers,1,2
-Type of residence,60,2
+Type of residence,62,2
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,9,15
-Unnamed: 1,1,1
 Wage replacement rate by pensions,1,3
 WaterType,1,3
 Zone,1,3

@@ -28,18 +28,18 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
                 "general secondary educational institutions (GSEI)",
                 "professional (vocational and technical) educational institutions (P(VT)EI)",
                 "institutions of professional pre-tertiary education (IPPTE)",
-                "other institutions 2",
+                "other institutions",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Value",

@@ -35,7 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all",
+                "number of pupils, persons",
                 "females",
                 "adolescents",
                 "young (under 14)",

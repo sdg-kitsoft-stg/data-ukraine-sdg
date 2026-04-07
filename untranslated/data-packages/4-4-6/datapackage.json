@@ -15,18 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Category_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "status",
-                "sphere",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -34,6 +23,15 @@
                 "student_tertiary",
                 "teacher_professional_pre_tertiary",
                 "academic_staff_tertiary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sphere",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "professional_pre_tertiary_education",
                 "tertiary_education",
                 ""
@@ -42,7 +40,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

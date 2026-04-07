@@ -20,12 +20,23 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
-                "Чоловіча",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
             "title": "Стать"
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "вікові групи",
+                ""
+              ]
+            },
+            "title": "Вікові групи"
           },
           {
             "name": "Type of residence",
@@ -38,6 +49,17 @@
               ]
             },
             "title": "Місцевість проживання"
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "децильні групи",
+                ""
+              ]
+            },
+            "title": "Децильні групи за доходами"
           },
           {
             "name": "Value",

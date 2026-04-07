@@ -21,7 +21,7 @@
               "enum": [
                 "reading",
                 "math",
-                "science",
+                "science_1",
                 ""
               ]
             }
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -49,11 +49,11 @@
             }
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
-                "gsei",
+                "gsei_1",
                 "gymnasium",
                 "specialized_school",
                 ""

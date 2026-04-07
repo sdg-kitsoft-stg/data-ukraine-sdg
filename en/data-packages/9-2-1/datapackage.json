@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production using technologies of",
                 "high level",
                 "medium-high level",
                 "medium-low level",
@@ -28,7 +27,7 @@
                 ""
               ]
             },
-            "title": "special aggregations"
+            "title": "Special aggregations (production using technologies of)"
           },
           {
             "name": "Value",

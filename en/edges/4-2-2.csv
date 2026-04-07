@@ -1,5 +1,5 @@
 From,To
-Subject,Sex
-Subject,Type of residence
-Subject,by type of educational institution
-Subject,by socioeconomic status
+Academic subjects,Sex
+Academic subjects,Type of residence
+Academic subjects,Type of educational institution
+Academic subjects,Socioeconomic status

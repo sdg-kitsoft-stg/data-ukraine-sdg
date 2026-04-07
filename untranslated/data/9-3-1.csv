@@ -56,8 +56,8 @@ Year,m_trans,Value
 2019,tr_5_pipeline,112.7
 2020,tr_5_pipeline,97.4
 2021,tr_5_pipeline,77.6
-2022,tr_5_pipeline,hide_data
-2023,tr_5_pipeline,hide_data
+2022,tr_5_pipeline,c
+2023,tr_5_pipeline,c
 2024,tr_5_pipeline,
 2015,tr_6_air,0.1
 2016,tr_6_air,0.1
@@ -66,6 +66,6 @@ Year,m_trans,Value
 2019,tr_6_air,0.1
 2020,tr_6_air,0.1
 2021,tr_6_air,0.1
-2022,tr_6_air,hide_data
-2023,tr_6_air,hide_data
+2022,tr_6_air,c
+2023,tr_6_air,c
 2024,tr_6_air,

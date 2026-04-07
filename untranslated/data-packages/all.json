@@ -381,8 +381,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "girls",
+                "boys",
                 ""
               ]
             }
@@ -399,13 +399,14 @@
             }
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
                 "lyceum",
-                "gymnasium",
+                "gymnasium_1",
                 "gsei",
+                "gsei_1",
                 "other_institution",
                 ""
               ]
@@ -605,7 +606,7 @@
               "enum": [
                 "reading",
                 "math",
-                "science",
+                "science_1",
                 ""
               ]
             }
@@ -615,8 +616,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -633,11 +634,11 @@
             }
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
-                "gsei",
+                "gsei_1",
                 "gymnasium",
                 "specialized_school",
                 ""
@@ -1234,6 +1235,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "girls",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -1259,7 +1261,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -1270,8 +1272,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "boys",
+                "girls",
                 ""
               ]
             }
@@ -1289,7 +1291,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -1411,8 +1413,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -1998,18 +2000,7 @@
             "type": "integer"
           },
           {
-            "name": "Category_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "status",
-                "sphere",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Category",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2017,6 +2008,15 @@
                 "student_tertiary",
                 "teacher_professional_pre_tertiary",
                 "academic_staff_tertiary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sphere",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "professional_pre_tertiary_education",
                 "tertiary_education",
                 ""
@@ -2025,7 +2025,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -2099,39 +2099,39 @@
             "type": "integer"
           },
           {
-            "name": "Ec_activ",
+            "name": "Ec_activ_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "s_11_indu",
-                "3_mining",
-                "4_proc_ind",
-                "48_products",
-                "49_leather",
-                "50_wood",
-                "51_chemicals",
-                "52_rubber",
-                "53_metallurgy",
-                "54_computers",
-                "55_transport_equipment",
-                "56_furniture",
-                "57_energy",
-                "58_water_supply",
-                "59_water_collection",
-                "60_waste_management",
-                "61_trade_transport_info",
-                "62_wholesale_trade",
-                "63_transport_storage",
-                "64_transport_types",
-                "65_transport_support",
-                "66_information",
-                "67_media",
-                "68_telecom_it",
-                "69_finance",
-                "70_architecture_engineering",
-                "71_architecture_testing",
-                "72_research",
-                "73_advertising",
+                "s_11_indu_1",
+                "3_mining_1",
+                "4_proc_ind_1",
+                "48_products_1",
+                "49_leather_1",
+                "50_wood_1",
+                "51_chemicals_1",
+                "52_rubber_1",
+                "53_metallurgy_1",
+                "54_computers_1",
+                "55_transport_equipment_1",
+                "56_furniture_1",
+                "57_energy_1",
+                "58_water_supply_1",
+                "59_water_collection_1",
+                "60_waste_management_1",
+                "61_trade_transport_info_1",
+                "62_wholesale_trade_1",
+                "63_transport_storage_1",
+                "64_transport_types_1",
+                "65_transport_support_1",
+                "66_information_1",
+                "67_media_1",
+                "68_telecom_it_1",
+                "69_finance_1",
+                "70_architecture_engineering_1",
+                "71_architecture_testing_1",
+                "72_research_1",
+                "73_advertising_1",
                 ""
               ]
             }
@@ -4253,7 +4253,7 @@
             }
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
@@ -7280,7 +7280,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
                 "high_level",
                 "medium_high_level",
                 "medium_low_level",
@@ -7415,6 +7414,8 @@
                 "girls",
                 "boys",
                 "1_all",
+                "girls_1",
+                "boys_1",
                 ""
               ]
             }
@@ -7819,6 +7820,77 @@
       "title": "global_indicators.3-6-2-a-title"
     },
     {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "Kyiv_city",
+                "city_Sevastopol",
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.9-6-2-title"
+    },
+    {
       "path": "3-1-5/data.csv",
       "name": "3-1-5",
       "profile": "tabular-data-resource",
@@ -8005,6 +8077,7 @@
                 "secondary_wired_gt30",
                 "secondary_wireless_gt30",
                 "secondary_wired_or_wireless_gt30",
+                "extracurricular_institutions",
                 ""
               ]
             }
@@ -8040,7 +8113,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -8950,8 +9023,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -9039,7 +9112,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -9812,14 +9885,14 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
             }
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10263,7 +10336,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -10557,7 +10630,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production_using_technologies_of",
                 "high_level",
                 "medium_high_level",
                 "medium_low_level",
@@ -10589,47 +10661,49 @@
             "type": "integer"
           },
           {
-            "name": "Ec_activ",
+            "name": "Ec_activ_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "3_mining",
-                "12_ext_coal",
-                "13_ext_oil",
-                "14_ext_ores",
-                "15_ext_miner",
-                "16_serv",
-                "17_proc_ind",
-                "18_man_food",
-                "19_man_bev",
-                "20_man_tobac",
-                "21_man_text",
-                "22_man_cloth",
-                "23_man_leather",
-                "24_man_wood",
-                "25_man_paper",
-                "26_print",
-                "27_man_coke",
-                "28_man_chemic",
-                "29_man_pharmac",
-                "30_man_rubber",
-                "31_man_non_met",
-                "32_man_met",
-                "33_man_equip",
-                "34_man_pc",
-                "35_man_el_equip",
-                "36_not_class",
-                "37_man_motor",
-                "38_man_oth_veh",
-                "39_man_furn",
-                "40_man_oth_prod",
-                "41_repair",
-                "42_suppl_elec",
-                "43_suppl_wat",
-                "44_collec_wat",
-                "45_waste_wat",
-                "46_restor",
-                "47_waste_act",
+                "3_mining_1",
+                "12_ext_coal_1",
+                "13_ext_oil_1",
+                "14_ext_ores_1",
+                "15_ext_miner_1",
+                "16_serv_1",
+                "17_proc_ind_1",
+                "18_man_food_1",
+                "19_man_bev_1",
+                "20_man_tobac_1",
+                "21_man_text_1",
+                "22_man_cloth_1",
+                "23_man_leather_1",
+                "24_man_wood_1",
+                "25_man_paper_1",
+                "26_print_1",
+                "27_man_coke_1",
+                "28_man_chemic_1",
+                "29_man_pharmac_1",
+                "30_man_rubber_1",
+                "31_man_non_me_1t",
+                "31_man_non_met_1",
+                "32_man_met_1",
+                "33_man_equip_1",
+                "34_man_pc_1",
+                "35_man_el_equip_1",
+                "36_not_class_1",
+                "37_man_motor_1",
+                "38_man_oth_veh_1",
+                "39_man_furn_1",
+                "40_man_oth_prod_1",
+                "41_repair_1",
+                "42_suppl_elec_1",
+                "42_suppl_elec_2",
+                "43_suppl_wat_1",
+                "44_collec_wat_1",
+                "45_waste_wat_1",
+                "46_restor_1",
+                "47_waste_act_1",
                 ""
               ]
             }
@@ -10784,14 +10858,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "group_28",
             "type": "string",
             "constraints": {
               "enum": [
@@ -11215,7 +11289,7 @@
                 "tr_3_sea",
                 "tr_4_river",
                 "tr_6_air",
-                "3_tr_urban",
+                "3_tr_urban_1",
                 "tr_7_tram",
                 "tr_8_trolley",
                 "tr_9_subway",
@@ -13078,18 +13152,8 @@
             "type": "integer"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -13170,8 +13234,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -13512,8 +13576,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -13622,9 +13686,11 @@
                 "spec_113",
                 "spec_121",
                 "spec_122",
+                "spec_122_1",
                 "spec_123",
                 "spec_124",
                 "spec_125",
+                "spec_125_1",
                 "spec_126",
                 "spec_131",
                 "spec_132",
@@ -13636,6 +13702,8 @@
                 "spec_142",
                 "spec_143",
                 "spec_144",
+                "spec_145",
+                "spec_145_1",
                 "spec_151",
                 "spec_152",
                 "spec_153",
@@ -13644,34 +13712,47 @@
                 "spec_163",
                 "spec_171",
                 "spec_172",
+                "spec_172_1",
                 "spec_173",
                 "spec_174",
+                "spec_175",
+                "spec_176",
                 "spec_181",
                 "spec_182",
                 "spec_183",
                 "spec_184",
                 "spec_185",
                 "spec_186",
+                "spec_187",
                 "spec_191",
                 "spec_192",
                 "spec_193",
+                "spec_194",
                 "spec_201",
                 "spec_202",
                 "spec_203",
+                "spec_203_1",
                 "spec_204",
                 "spec_205",
                 "spec_206",
                 "spec_207",
                 "spec_208",
+                "spec_251",
+                "spec_51",
+                "spec_252",
+                "spec_253",
+                "spec_255",
+                "spec_256",
+                "spec_257",
                 "spec_261",
                 "spec_262",
                 "spec_263",
                 "spec_271",
+                "spec_271_1",
                 "spec_272",
                 "spec_273",
                 "spec_274",
                 "spec_275",
-                "spec_276",
                 ""
               ]
             }
@@ -16189,8 +16270,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -16330,8 +16411,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_groups",
                 ""
               ]
             }
@@ -16343,6 +16434,16 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "decile group",
                 ""
               ]
             }
@@ -17687,7 +17788,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -17698,8 +17799,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "girls",
+                "boys",
                 ""
               ]
             }
@@ -19652,8 +19753,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -19777,28 +19878,6 @@
         ]
       },
       "title": "global_indicators.15-3-3-a-title"
-    },
-    {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.9-6-2-title"
     },
     {
       "path": "9-1-8/data.csv",

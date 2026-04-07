@@ -9,33 +9,53 @@ Year,Sex,Value
 2022,,7.2
 2023,,7.9
 2024,,8.0
-2015,girls,128592.0
-2016,girls,129947.0
-2017,girls,129689.0
-2018,girls,123514.0
-2019,girls,121630.0
-2020,girls,118690.0
-2021,girls,117317.0
-2022,girls,89228.0
-2023,girls,94951.0
-2024,girls,98724.0
-2015,boys,367118.0
-2016,boys,363299.0
-2017,boys,362499.0
-2018,boys,346911.0
-2019,boys,338545.0
-2020,boys,333494.0
-2021,boys,316951.0
-2022,boys,239928.0
-2023,boys,245020.0
-2024,boys,243341.0
-2015,all,495710.0
-2016,all,493246.0
-2017,all,492188.0
-2018,all,470425.0
-2019,all,460175.0
-2020,all,452184.0
-2021,all,434268.0
-2022,all,329156.0
-2023,all,339971.0
-2024,all,342065.0
+2015,girls,
+2016,girls,
+2017,girls,
+2018,girls,
+2019,girls,
+2020,girls,
+2021,girls,
+2022,girls,
+2023,girls,
+2024,girls,
+2015,boys,
+2016,boys,
+2017,boys,
+2018,boys,
+2019,boys,
+2020,boys,
+2021,boys,
+2022,boys,
+2023,boys,
+2024,boys,
+2015,"number of pupils, persons",495710.0
+2016,"number of pupils, persons",493246.0
+2017,"number of pupils, persons",492188.0
+2018,"number of pupils, persons",470425.0
+2019,"number of pupils, persons",460175.0
+2020,"number of pupils, persons",452184.0
+2021,"number of pupils, persons",434268.0
+2022,"number of pupils, persons",329156.0
+2023,"number of pupils, persons",339971.0
+2024,"number of pupils, persons",342065.0
+2015,girls (number),128592.0
+2016,girls (number),129947.0
+2017,girls (number),129689.0
+2018,girls (number),123514.0
+2019,girls (number),121630.0
+2020,girls (number),118690.0
+2021,girls (number),117317.0
+2022,girls (number),89228.0
+2023,girls (number),94951.0
+2024,girls (number),98724.0
+2015,boys (number),367118.0
+2016,boys (number),363299.0
+2017,boys (number),362499.0
+2018,boys (number),346911.0
+2019,boys (number),338545.0
+2020,boys (number),333494.0
+2021,boys (number),316951.0
+2022,boys (number),239928.0
+2023,boys (number),245020.0
+2024,boys (number),243341.0

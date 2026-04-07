@@ -19,8 +19,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
-                "males",
+                "females_1",
+                "males_1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age_groups",
                 ""
               ]
             }
@@ -32,6 +42,16 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "decile group",
                 ""
               ]
             }

@@ -410,8 +410,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "girls",
+                "boys",
                 ""
               ]
             },
@@ -430,18 +430,19 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
                 "lyceum",
                 "gymnasium",
                 "general secondary educational institutions (GSEI)",
+                "general secondary educational institution",
                 "others",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "SES",
@@ -453,7 +454,7 @@
                 ""
               ]
             },
-            "title": "by socioeconomic status"
+            "title": "Socioeconomic status"
           },
           {
             "name": "Subject",
@@ -467,7 +468,7 @@
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Academic subjects"
           },
           {
             "name": "Value",
@@ -653,11 +654,11 @@
               "enum": [
                 "reading",
                 "mathematics",
-                "natural sciences",
+                "natural science disciplines",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Academic subjects"
           },
           {
             "name": "Sex",
@@ -684,17 +685,17 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
-                "general secondary educational institutions (GSEI)",
+                "general secondary educational institution",
                 "gymnasium",
                 "specialized school",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Value",
@@ -1334,6 +1335,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "girls",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -1359,7 +1361,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -1371,8 +1373,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "boys",
+                "girls",
                 ""
               ]
             },
@@ -1392,7 +1394,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -1830,7 +1832,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all",
+                "number of pupils, persons",
                 "females",
                 "adolescents",
                 "young (under 14)",
@@ -2160,19 +2162,7 @@
             "title": "Year"
           },
           {
-            "name": "Category_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "by status",
-                "by sphere",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Category",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2180,16 +2170,26 @@
                 "seeker for tertiary education",
                 "pedagogical workers of institution of professional pre-tertiary education",
                 "scientific-pedagogical workers of tertiary educational institution",
+                ""
+              ]
+            },
+            "title": "Status of participants in the educational process"
+          },
+          {
+            "name": "Sphere",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "professional pre-tertiary education",
                 "tertiary education",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Sphere of participants in the educational process"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2270,43 +2270,43 @@
             "title": "Year"
           },
           {
-            "name": "Ec_activ",
+            "name": "Ec_activ_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "industry",
-                "Mining and quarrying",
-                "Processing industry",
-                "Manufacture of food products, beverages and tobacco products",
-                "Manufacture of textiles, apparel, leather and related products",
-                "Manufacture of wood and paper products, and printing",
-                "Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations",
-                "Manufacture of rubber and plastic products and other non-metallic mineral products",
-                "Metallurgical production and manufacture of fabricated metal products, except machinery and equipment",
-                "Manufacture of computers, electronic and optical products, electrical equipment, machinery and equipment n.e.c.",
-                "Manufacture of motor vehicles, trailers and semi-trailers and other transport equipment",
-                "Manufacture of furniture, other products, repair and installation of machinery and equipment",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Water collection, treatment and supply, sewerage, wastewater collection and treatment",
-                "Waste collection, treatment and disposal activities; materials recovery and other waste management activities",
-                "Wholesale trade, except of motor vehicles and motorcycles, transport, storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
-                "Wholesale trade, except of motor vehicles and motorcycles",
-                "Transport, storage, postal and courier activities",
-                "Land and pipeline transport, water transport, air transport",
-                "Warehousing and support activities for transportation, postal and courier activities",
-                "Information and telecommunications",
-                "Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, radio and television broadcasting",
-                "Telecommunications, computer programming, consultancy and related activities, information service activities",
-                "Financial and insurance activities",
-                "Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research",
-                "Architectural and engineering activities; technical testing and analysis",
-                "Scientific research and development",
-                "Advertising and market research",
+                "Industry (Code NACE Rev.2 – B+C+D+E)",
+                "Mining and quarrying (Code NACE Rev.2 – B)",
+                "Manufacturing (Code NACE Rev.2 – C)",
+                "Manufacture of food products, beverages and tobacco products (Code NACE Rev.2 – 10+11+12)",
+                "Manufacture of textiles, apparel, leather and related products (Code NACE Rev.2 – 13+14+15)",
+                "Manufacture of wood and paper products, and printing (Code NACE Rev.2 – 16+17+18)",
+                "Manufacture of coke and refined petroleum products, chemicals and chemical products, basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 19+20+21)",
+                "Manufacture of rubber and plastics products, and other non-metallic mineral products (Code NACE Rev.2 – 22+23)",
+                "Manufacture of basic metals and fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 24+25)",
+                "Manufacture of computer, electronic and optical products, electrical equipment, machinery and equipment n.e.c. (Code NACE Rev.2 – 26+27+28)",
+                "Manufacture of transport equipment, trailers and semi-trailers and other transport vehicles (Code NACE Rev.2 – 29+30)",
+                "Manufacture of furniture, other manufacturing, and repair and installation of machinery and equipment (Code NACE Rev.2 – 31+32+33)",
+                "Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – D)",
+                "Water supply; sewerage, waste management and remediation activities (Code NACE Rev.2 – E)",
+                "Water collection, treatment and supply; sewerage (Code NACE Rev.2 – 36+37)",
+                "Waste collection, treatment and disposal activities; materials recovery, other waste management activities (Code NACE Rev.2 – 38+39)",
+                "Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)",
+                "Wholesale trade, except of motor vehicles and motorcycles (Code NACE Rev.2 – 46)",
+                "Transportation and storage, postal and courier activities (Code NACE Rev.2 – H)",
+                "Land transport and transport via pipelines, water transport, air transport (Code NACE Rev.2 – 49+50+51)",
+                "Warehousing and support activities for transport, postal and courier activities (Code NACE Rev.2 – 52+53)",
+                "Information and telecommunications (Code NACE Rev.2 – J)",
+                "Publishing activities, motion picture, video and television programme production, sound recording and music publishing activities, programming and broadcasting activities (Code NACE Rev.2 – 58+59+60)",
+                "Telecommunications, computer programming, consultancy and related activities, information service activities (Code NACE Rev.2 – 61+62+63)",
+                "Financial and insurance activities (Code NACE Rev.2 – K)",
+                "Architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 71+72+73)",
+                "Architectural and engineering activities; technical testing and analysis (Code NACE Rev.2 – 71)",
+                "Scientific research and development (Code NACE Rev.2 – 72)",
+                "Advertising and market research (Code NACE Rev.2 – 73)",
                 ""
               ]
             },
-            "title": "Еconomic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",
@@ -4542,18 +4542,18 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
                 "general secondary educational institutions (GSEI)",
                 "professional (vocational and technical) educational institutions (P(VT)EI)",
                 "institutions of professional pre-tertiary education (IPPTE)",
-                "other institutions 2",
+                "other institutions",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Value",
@@ -6536,10 +6536,10 @@
               "enum": [
                 "up to 15 years",
                 "15-17 years",
-                "18-24 years",
-                "25-35 years",
-                "36-59 years",
-                "60-74 years",
+                "18–24 years",
+                "25–35 years",
+                "36–59 years",
+                "60–74 years",
                 "75 years and older",
                 ""
               ]
@@ -7757,7 +7757,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production using technologies of",
                 "high level",
                 "medium-high level",
                 "medium-low level",
@@ -7765,7 +7764,7 @@
                 ""
               ]
             },
-            "title": "special aggregations"
+            "title": "Special aggregations (production using technologies of)"
           },
           {
             "name": "Value",
@@ -7902,7 +7901,9 @@
               "enum": [
                 "girls",
                 "boys",
-                "all",
+                "number of pupils, persons",
+                "girls (number)",
+                "boys (number)",
                 ""
               ]
             },
@@ -8168,7 +8169,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all",
+                "number of pupils, persons",
                 "females",
                 "adolescents",
                 "young (under 14)",
@@ -8341,6 +8342,81 @@
         ]
       },
       "title": "Number of persons injured in road accidents, per 100,000 persons"
+    },
+    {
+      "path": "9-6-2/data.csv",
+      "name": "9-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "city Kyiv",
+                "city Sevastopol",
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Share of households with fixed broadband Internet access at a speed of at least 100 Mbps, percent"
     },
     {
       "path": "3-1-5/data.csv",
@@ -8538,17 +8614,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
-                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
-                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
-                "General secondary educational institutions with Internet access (without specifying the speed)",
-                "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
-                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
-                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
+                "pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
+                "pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
+                "pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
+                "general secondary educational institutions with access to the Internet (without specifying the speed)",
+                "general secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
+                "general secondary educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
+                "general secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
+                "extracurricular educational institutions",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Region",
@@ -8581,7 +8658,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -9555,11 +9632,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16-17 years",
-                "18-24 years",
-                "25-35 years",
-                "36-59 years",
-                "60-74 years",
+                "16–17 years",
+                "18–24 years",
+                "25–35 years",
+                "36–59 years",
+                "60–74 years",
                 ""
               ]
             },
@@ -9570,8 +9647,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -9600,7 +9677,7 @@
                 ""
               ]
             },
-            "title": "by frequency of use"
+            "title": "Frequency of use"
           },
           {
             "name": "By purpose of use",
@@ -9631,7 +9708,7 @@
                 ""
               ]
             },
-            "title": "purpose of use"
+            "title": "Purpose of use"
           },
           {
             "name": "Region",
@@ -9663,7 +9740,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -10498,7 +10575,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -10506,7 +10583,7 @@
             "title": "Region"
           },
           {
-            "name": "Category",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10515,7 +10592,7 @@
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -10984,7 +11061,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -11300,7 +11377,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production using technologies of",
                 "high level",
                 "medium-high level",
                 "medium-low level",
@@ -11308,7 +11384,7 @@
                 ""
               ]
             },
-            "title": "special aggregations"
+            "title": "Special aggregations (production using technologies of)"
           },
           {
             "name": "Value",
@@ -11335,51 +11411,53 @@
             "title": "Year"
           },
           {
-            "name": "Ec_activ",
+            "name": "Ec_activ_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mining and quarrying",
-                "extraction of hard coal and brown coal",
-                "extraction of crude oil and natural gas",
-                "extraction of metal ores",
-                "extraction of other minerals and quarrying",
-                "provision of ancillary services in the field of mining and quarrying",
-                "processing industry",
-                "manufacture of food products",
-                "manufacture of beverages",
-                "manufacture of tobacco products",
-                "textile manufacturing",
-                "manufacture of clothing",
-                "manufacture of leather, leather goods and other materials",
-                "manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
-                "manufacture of paper and paper products",
-                "printing, reproduction of recorded information",
-                "manufacture of coke and refined petroleum products",
-                "manufacture of chemicals and chemical products",
-                "manufacture of main pharmaceutical products and preparations",
-                "manufacture of rubber and plastic products",
-                "manufacture of other non-metallic mineral products",
-                "metallurgical manufacturing",
-                "manufacture of fabricated metal products, except machinery and equipment",
-                "manufacture of computers, electronic and optical products",
-                "manufacture of electrical equipment",
-                "manufacture of machinery and equipment, not elsewhere classified",
-                "manufacture of motor vehicles, trailers and semi-trailers",
-                "manufacture of other vehicles",
-                "manufacture of furniture",
-                "manufacture of other products",
-                "repair and installation of machinery and equipment",
-                "supply of electricity, gas, steam and air conditioning",
-                "water supply; sewage, waste management",
-                "water collection, treatment and supply",
-                "sewage, wastewater collection and treatment",
-                "collection, treatment and disposal of waste; restoration of materials",
-                "other waste management activities",
+                "Mining and quarrying (Code NACE Rev.2 – B)",
+                "Mining of coal and lignite (Code NACE Rev.2 – 05)",
+                "Extraction of crude petroleum and natural gas (Code NACE Rev.2 – 06)",
+                "Mining of metal ores (Code NACE Rev.2 – 07)",
+                "Other mining and quarrying (Code NACE Rev.2 – 08)",
+                "Mining support service activities (Code NACE Rev.2 – 09)",
+                "Manufacturing (Code NACE Rev.2 – C)",
+                "Manufacture of food products (Code NACE Rev.2 – 10)",
+                "Manufacture of beverages (Code NACE Rev.2 – 11)",
+                "Manufacture of tobacco products (Code NACE Rev.2 – 12)",
+                "Manufacture of textiles (Code NACE Rev.2 – 13)",
+                "Manufacture of wearing apparel (Code NACE Rev.2 – 14)",
+                "Manufacture of leather and related products (Code NACE Rev.2 – 15)",
+                "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials (Code NACE Rev.2 – 16)",
+                "Manufacture of paper and paper products (Code NACE Rev.2 – 17)",
+                "Printing, reproduction of recorded media (Code NACE Rev.2 – 18)",
+                "Manufacture of coke and refined petroleum products (Code NACE Rev.2 – 19)",
+                "Manufacture of chemicals and chemical products (Code NACE Rev.2 – 20)",
+                "Manufacture of basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 21)",
+                "Manufacture of rubber and plastic products (Code NACE Rev.2 – 22)",
+                "31_man_non_me_1t",
+                "Manufacture of other non-metallic mineral products (Code NACE Rev.2 – 23)",
+                "Manufacture of basic metals (Code NACE Rev.2 – 24)",
+                "Manufacture of fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 25)",
+                "Manufacture of computer, electronic and optical products (Code NACE Rev.2 – 26)",
+                "Manufacture of electrical equipment (Code NACE Rev.2 – 27)",
+                "Manufacture of machinery and equipment n.e.c. (Code NACE Rev.2 – 28)",
+                "Manufacture of motor vehicles, trailers and semi-trailers (Code NACE Rev.2 – 29)",
+                "Manufacture of other transport equipment (Code NACE Rev.2 – 30)",
+                "Manufacture of furniture (Code NACE Rev.2 – 31)",
+                "Other manufacturing (Code NACE Rev.2 – 32)",
+                "Repair and installation of machinery and equipment (Code NACE Rev.2 – 33)",
+                "Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – D)",
+                "Electricity, gas, steam and air conditioning supply (Code NACE Rev.2 – 35)",
+                "Water supply; sewage, waste management and remediation activities (Code NACE Rev.2 – E)",
+                "Water collection, treatment and supply (Code NACE Rev.2 – 36)",
+                "Sewerage (Code NACE Rev.2 – 37)",
+                "Waste collection, treatment and disposal activities; materials recovery (Code NACE Rev.2 – 38)",
+                "Remediation activities and other waste management services (Code NACE Rev.2 – 39)",
                 ""
               ]
             },
-            "title": "Еconomic activity"
+            "title": "Types of economic activity"
           },
           {
             "name": "Value",
@@ -11550,16 +11628,16 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "group_28",
             "type": "string",
             "constraints": {
               "enum": [
-                "14-30 years",
+                "14–30 years",
                 "30 years and older",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Age groups"
           },
           {
             "name": "Value",
@@ -12004,7 +12082,7 @@
                 "sea",
                 "river",
                 "air",
-                "City electric transport",
+                "сity electric transport",
                 "by trams",
                 "by trolleybuses",
                 "by subway trains",
@@ -12794,7 +12872,7 @@
               "enum": [
                 "18-35 years",
                 "36-60 years",
-                "36-59 years",
+                "36–59 years",
                 "61 years and older",
                 "60 years and older",
                 ""
@@ -14007,19 +14085,8 @@
             "title": "Year"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100",
-                ""
-              ]
-            },
-            "title": "Unnamed: 1"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -14100,7 +14167,7 @@
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Academic subjects"
           },
           {
             "name": "Sex",
@@ -14137,7 +14204,7 @@
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "SES",
@@ -14149,7 +14216,7 @@
                 ""
               ]
             },
-            "title": "by socioeconomic status"
+            "title": "Socioeconomic status"
           },
           {
             "name": "Value",
@@ -14584,71 +14651,88 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ecology",
-                "Chemistry",
-                "Earth sciences",
-                "Physics and astronomy",
-                "Applied physics and nanomaterials",
-                "Geography",
-                "Mathematics",
-                "Statistics",
-                "Applied mathematics",
-                "Software engineering",
-                "Computer science and information technologies",
-                "Computer science",
-                "Computer engineering",
-                "Systems analysis",
-                "Cybersecurity",
-                "Applied mechanics",
-                "Materials science and engineering",
-                "Industrial engineering",
-                "Aviation and space engineering",
-                "Shipbuilding",
-                "Metallurgy",
-                "Electric power engineering, electrical engineering and electromechanics",
-                "Power engineering (energy) machinery",
-                "Nuclear power engineering",
-                "Thermal power engineering",
-                "Automation and computer-integrated technologies",
-                "Metrology and information-measuring technology",
-                "Micro- and nanosystems engineering",
-                "Chemical technology and engineering",
-                "Biotechnology and bioengineering",
-                "Biomedical engineering",
-                "Electronics",
-                "Electronic communications and radio engineering",
-                "Telecommunications and radio engineering",
-                "Avionics",
-                "Food technologies",
-                "Light industry technologies",
-                "Environmental protection technologies",
-                "Mining",
-                "Oil and gas engineering and technologies",
-                "Publishing and printing",
-                "Architecture and urban planning",
-                "Construction and civil engineering",
-                "Geodesy and land management",
-                "Agronomy",
-                "Plant protection and quarantine",
-                "Horticulture and viticulture",
-                "Technology of production and processing of livestock products",
-                "Forestry",
-                "Landscape gardening (park management)",
-                "Aquatic bioresources and aquaculture",
-                "Agricultural engineering",
-                "Fire safety",
-                "Law enforcement",
-                "Civil safety",
-                "Maritime and inland water transport",
-                "River and sea transport",
-                "Air transport",
-                "Railway transport",
-                "Road transport",
-                "Transport technologies",
+                "101 Ecology",
+                "102 Chemistry",
+                "103 Earth sciences",
+                "104 Physics and astronomy",
+                "105 Applied physics and nanomaterials",
+                "106 Geography",
+                "111 Mathematics",
+                "112 Statistics",
+                "113 Applied mathematics",
+                "121 Software engineering",
+                "122 Computer science and information technologies",
+                "122 Computer science",
+                "123 Computer engineering",
+                "124 Systems analysis",
+                "126 Cyber security",
+                "125 Cyber security and information protection",
+                "126 Information systems and technologies",
+                "131 Applied mechanics",
+                "132 Materials science",
+                "133 Industrial mechanical engineering",
+                "134 Aviation and rocket and space engineering",
+                "135 Shipbuilding",
+                "136 Metallurgy",
+                "141 Electric power engineering, electrical engineering and electromechanics",
+                "142 Energy mechanical engineering",
+                "143 Nuclear power engineering",
+                "144 Thermal power engineering",
+                "145 Renewable energy sources and hydropower",
+                "145 Hydropower engineering",
+                "151 Automation and computer-integrated technologies",
+                "152 Metrology and information and measurement technology",
+                "153 Micro- and nanosystem engineering",
+                "161 Chemical technology and engineering",
+                "162 Biotechnology and bioengineering",
+                "163 Biomedical engineering",
+                "171 Electronics",
+                "172 Electronic communications and radio engineering",
+                "172 Telecommunications and radio engineering",
+                "173 Avionics",
+                "174 Automation, computer-integrated technologies and robotics",
+                "175 Information and measurement technologies",
+                "176 Micro- and nanosystem technology",
+                "181 Food technology",
+                "182 Technologies of light industry",
+                "183 Environmental protection technology",
+                "184 Mining",
+                "185 Oil and gas engineering and technologies",
+                "186 Publishing and printing",
+                "187 Woodworking and furniture technologies",
+                "191 Architecture and urban planning",
+                "192 Building and civil engineering",
+                "193 Geodesy and land management",
+                "194 Hydrotechnical construction, water engineering and water technologies",
+                "201 Agronomy",
+                "202 Plant protection and quarantine",
+                "203 Horticulture and viticulture",
+                "203 Horticulture, fruit growing and viticulture",
+                "204 Technology of production and processing of livestock products",
+                "205 Forestry",
+                "206 Horticulture",
+                "207 Aquatic bioresources and aquaculture",
+                "208 Agroengineering",
+                "251 State security",
+                "spec_51",
+                "252 State border security",
+                "253 Military management",
+                "255 Arms and military equipment",
+                "256 National security",
+                "257 Information security management",
+                "261 Fire safety",
+                "262 Law enforcement activity",
+                "263 Civil security",
+                "271 Maritime and inland water transport",
+                "271 River and maritime transport",
+                "272 Aviation transport",
+                "273 Rail transport",
+                "274 Motor transport",
+                "275 Transportation technologies",
                 ""
               ]
             },
-            "title": null
+            "title": "Specialties of fields of knowledge"
           },
           {
             "name": "Education Level",
@@ -14665,7 +14749,7 @@
                 ""
               ]
             },
-            "title": "by levels (degrees) of education"
+            "title": "Level (degree) of education"
           },
           {
             "name": "Value",
@@ -17328,9 +17412,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-64 years",
-                "15-24 years",
-                "25-64 years",
+                "15–64 years",
+                "15–24 years",
+                "25–64 years",
                 ""
               ]
             },
@@ -17503,6 +17587,17 @@
             "title": "Sex"
           },
           {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age groups",
+                ""
+              ]
+            },
+            "title": "Age groups"
+          },
+          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
@@ -17513,6 +17608,17 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "decile groups",
+                ""
+              ]
+            },
+            "title": "Decile groups of income"
           },
           {
             "name": "Value",
@@ -18902,7 +19008,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -18914,8 +19020,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "women",
-                "men",
+                "girls",
+                "boys",
                 ""
               ]
             },
@@ -19247,7 +19353,7 @@
                 ""
               ]
             },
-            "title": "by sources of funding"
+            "title": "Sources of funding"
           },
           {
             "name": "Value",
@@ -19595,7 +19701,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "all",
+                "number of pupils, persons",
                 "females",
                 "adolescents",
                 "young (under 14)",
@@ -21165,30 +21271,6 @@
         ]
       },
       "title": "Share of arable land in total area of the country, %"
-    },
-    {
-      "path": "9-6-2/data.csv",
-      "name": "9-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Share of households with fixed broadband Internet access at a speed of at least 100 Mbps, percent"
     },
     {
       "path": "9-1-8/data.csv",

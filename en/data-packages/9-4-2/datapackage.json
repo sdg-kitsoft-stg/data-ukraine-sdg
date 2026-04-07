@@ -16,19 +16,8 @@
             "title": "Year"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100",
-                ""
-              ]
-            },
-            "title": "Unnamed: 1"
-          },
-          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

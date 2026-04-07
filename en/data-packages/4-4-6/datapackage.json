@@ -16,19 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Category_type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "by status",
-                "by sphere",
-                ""
-              ]
-            },
-            "title": "Type"
-          },
-          {
-            "name": "Category",
+            "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
@@ -36,16 +24,26 @@
                 "seeker for tertiary education",
                 "pedagogical workers of institution of professional pre-tertiary education",
                 "scientific-pedagogical workers of tertiary educational institution",
+                ""
+              ]
+            },
+            "title": "Status of participants in the educational process"
+          },
+          {
+            "name": "Sphere",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "professional pre-tertiary education",
                 "tertiary education",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Sphere of participants in the educational process"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

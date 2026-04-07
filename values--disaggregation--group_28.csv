@@ -1,5 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
-age_groups,2,1
+age_14_30,1,1
+age_30_plus,1,1
+age_groups,3,2
 group_label_272,2,2
 group_label_273,2,2
 group_label_274,2,2

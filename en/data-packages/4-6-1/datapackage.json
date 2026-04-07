@@ -20,17 +20,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
-                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
-                "Pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
-                "General secondary educational institutions with Internet access (without specifying the speed)",
-                "General secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) Internet access",
-                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wireless Internet access",
-                "General secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless Internet access",
+                "pre-school educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
+                "pre-school educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
+                "pre-school educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
+                "general secondary educational institutions with access to the Internet (without specifying the speed)",
+                "general secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
+                "general secondary educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
+                "general secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
+                "extracurricular educational institutions",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Region",
@@ -63,7 +64,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]

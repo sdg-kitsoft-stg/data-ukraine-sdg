@@ -20,11 +20,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16-17 years",
-                "18-24 years",
-                "25-35 years",
-                "36-59 years",
-                "60-74 years",
+                "16–17 years",
+                "18–24 years",
+                "25–35 years",
+                "36–59 years",
+                "60–74 years",
                 ""
               ]
             },
@@ -35,8 +35,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -65,7 +65,7 @@
                 ""
               ]
             },
-            "title": "by frequency of use"
+            "title": "Frequency of use"
           },
           {
             "name": "By purpose of use",
@@ -96,7 +96,7 @@
                 ""
               ]
             },
-            "title": "purpose of use"
+            "title": "Purpose of use"
           },
           {
             "name": "Region",
@@ -128,7 +128,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]

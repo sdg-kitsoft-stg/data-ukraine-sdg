@@ -1,12 +1,12 @@
-Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
+Year,Age,Sex,Type of residence,Frequency of use,Purpose of use,Region,Value
 2015,,,,,,,
-2015,16-17 years,,,,,,
-2015,18-24 years,,,,,,
-2015,25-35 years,,,,,,
-2015,36-59 years,,,,,,
-2015,60-74 years,,,,,,
-2015,,male,,,,,
-2015,,female,,,,,
+2015,16–17 years,,,,,,
+2015,18–24 years,,,,,,
+2015,25–35 years,,,,,,
+2015,36–59 years,,,,,,
+2015,60–74 years,,,,,,
+2015,,women,,,,,
+2015,,men,,,,,
 2015,,,urban,,,,
 2015,,,rural,,,,
 2015,,,,at least once a day,,,
@@ -33,7 +33,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2015,,,,,using services related to travel or hotel accommodation while traveling,,
 2015,,,,,looking for work or sending a job application,,
 2015,,,,,searching for information about goods and services not previously mentioned,,
-2015,,,,,,,
 2015,,,,,,Autonomous Republic of Crimea,
 2015,,,,,,Vinnytsya,
 2015,,,,,,Volyn,
@@ -59,16 +58,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2015,,,,,,Cherkasy,
 2015,,,,,,Chernivtsi,
 2015,,,,,,Chernihiv,
-2015,,,,,,the city of Kyiv,
+2015,,,,,,city Kyiv,
 2015,,,,,,city Sevastopol,
 2016,,,,,,,
-2016,16-17 years,,,,,,
-2016,18-24 years,,,,,,
-2016,25-35 years,,,,,,
-2016,36-59 years,,,,,,
-2016,60-74 years,,,,,,
-2016,,male,,,,,
-2016,,female,,,,,
+2016,16–17 years,,,,,,
+2016,18–24 years,,,,,,
+2016,25–35 years,,,,,,
+2016,36–59 years,,,,,,
+2016,60–74 years,,,,,,
+2016,,women,,,,,
+2016,,men,,,,,
 2016,,,urban,,,,
 2016,,,rural,,,,
 2016,,,,at least once a day,,,
@@ -95,7 +94,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2016,,,,,using services related to travel or hotel accommodation while traveling,,
 2016,,,,,looking for work or sending a job application,,
 2016,,,,,searching for information about goods and services not previously mentioned,,
-2016,,,,,,,
 2016,,,,,,Autonomous Republic of Crimea,
 2016,,,,,,Vinnytsya,
 2016,,,,,,Volyn,
@@ -121,16 +119,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2016,,,,,,Cherkasy,
 2016,,,,,,Chernivtsi,
 2016,,,,,,Chernihiv,
-2016,,,,,,the city of Kyiv,
+2016,,,,,,city Kyiv,
 2016,,,,,,city Sevastopol,
 2017,,,,,,,
-2017,16-17 years,,,,,,
-2017,18-24 years,,,,,,
-2017,25-35 years,,,,,,
-2017,36-59 years,,,,,,
-2017,60-74 years,,,,,,
-2017,,male,,,,,
-2017,,female,,,,,
+2017,16–17 years,,,,,,
+2017,18–24 years,,,,,,
+2017,25–35 years,,,,,,
+2017,36–59 years,,,,,,
+2017,60–74 years,,,,,,
+2017,,women,,,,,
+2017,,men,,,,,
 2017,,,urban,,,,
 2017,,,rural,,,,
 2017,,,,at least once a day,,,
@@ -157,7 +155,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2017,,,,,using services related to travel or hotel accommodation while traveling,,
 2017,,,,,looking for work or sending a job application,,
 2017,,,,,searching for information about goods and services not previously mentioned,,
-2017,,,,,,,
 2017,,,,,,Autonomous Republic of Crimea,
 2017,,,,,,Vinnytsya,
 2017,,,,,,Volyn,
@@ -183,16 +180,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2017,,,,,,Cherkasy,
 2017,,,,,,Chernivtsi,
 2017,,,,,,Chernihiv,
-2017,,,,,,the city of Kyiv,
+2017,,,,,,city Kyiv,
 2017,,,,,,city Sevastopol,
 2018,,,,,,,
-2018,16-17 years,,,,,,
-2018,18-24 years,,,,,,
-2018,25-35 years,,,,,,
-2018,36-59 years,,,,,,
-2018,60-74 years,,,,,,
-2018,,male,,,,,
-2018,,female,,,,,
+2018,16–17 years,,,,,,
+2018,18–24 years,,,,,,
+2018,25–35 years,,,,,,
+2018,36–59 years,,,,,,
+2018,60–74 years,,,,,,
+2018,,women,,,,,
+2018,,men,,,,,
 2018,,,urban,,,,
 2018,,,rural,,,,
 2018,,,,at least once a day,,,
@@ -219,7 +216,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2018,,,,,using services related to travel or hotel accommodation while traveling,,
 2018,,,,,looking for work or sending a job application,,
 2018,,,,,searching for information about goods and services not previously mentioned,,
-2018,,,,,,,
 2018,,,,,,Autonomous Republic of Crimea,
 2018,,,,,,Vinnytsya,
 2018,,,,,,Volyn,
@@ -245,16 +241,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2018,,,,,,Cherkasy,
 2018,,,,,,Chernivtsi,
 2018,,,,,,Chernihiv,
-2018,,,,,,the city of Kyiv,
+2018,,,,,,city Kyiv,
 2018,,,,,,city Sevastopol,
 2019,,,,,,,
-2019,16-17 years,,,,,,
-2019,18-24 years,,,,,,
-2019,25-35 years,,,,,,
-2019,36-59 years,,,,,,
-2019,60-74 years,,,,,,
-2019,,male,,,,,
-2019,,female,,,,,
+2019,16–17 years,,,,,,
+2019,18–24 years,,,,,,
+2019,25–35 years,,,,,,
+2019,36–59 years,,,,,,
+2019,60–74 years,,,,,,
+2019,,women,,,,,
+2019,,men,,,,,
 2019,,,urban,,,,
 2019,,,rural,,,,
 2019,,,,at least once a day,,,
@@ -281,7 +277,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2019,,,,,using services related to travel or hotel accommodation while traveling,,
 2019,,,,,looking for work or sending a job application,,
 2019,,,,,searching for information about goods and services not previously mentioned,,
-2019,,,,,,,
 2019,,,,,,Autonomous Republic of Crimea,
 2019,,,,,,Vinnytsya,
 2019,,,,,,Volyn,
@@ -307,16 +302,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2019,,,,,,Cherkasy,
 2019,,,,,,Chernivtsi,
 2019,,,,,,Chernihiv,
-2019,,,,,,the city of Kyiv,
+2019,,,,,,city Kyiv,
 2019,,,,,,city Sevastopol,
 2020,,,,,,,81.0
-2020,16-17 years,,,,,,99.2
-2020,18-24 years,,,,,,99.1
-2020,25-35 years,,,,,,97.7
-2020,36-59 years,,,,,,86.7
-2020,60-74 years,,,,,,47.0
-2020,,male,,,,,82.6
-2020,,female,,,,,79.5
+2020,16–17 years,,,,,,99.2
+2020,18–24 years,,,,,,99.1
+2020,25–35 years,,,,,,97.7
+2020,36–59 years,,,,,,86.7
+2020,60–74 years,,,,,,47.0
+2020,,women,,,,,79.5
+2020,,men,,,,,82.6
 2020,,,urban,,,,86.7
 2020,,,rural,,,,69.6
 2020,,,,at least once a day,,,85.5
@@ -343,7 +338,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2020,,,,,using services related to travel or hotel accommodation while traveling,,0.3
 2020,,,,,looking for work or sending a job application,,3.3
 2020,,,,,searching for information about goods and services not previously mentioned,,5.3
-2020,,,,,,,81.0
 2020,,,,,,Autonomous Republic of Crimea,
 2020,,,,,,Vinnytsya,77.1
 2020,,,,,,Volyn,77.6
@@ -369,16 +363,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2020,,,,,,Cherkasy,81.4
 2020,,,,,,Chernivtsi,77.6
 2020,,,,,,Chernihiv,73.1
-2020,,,,,,the city of Kyiv,90.6
+2020,,,,,,city Kyiv,90.6
 2020,,,,,,city Sevastopol,
 2021,,,,,,,85.1
-2021,16-17 years,,,,,,100.0
-2021,18-24 years,,,,,,99.2
-2021,25-35 years,,,,,,98.8
-2021,36-59 years,,,,,,90.9
-2021,60-74 years,,,,,,55.8
-2021,,male,,,,,86.5
-2021,,female,,,,,93.8
+2021,16–17 years,,,,,,100.0
+2021,18–24 years,,,,,,99.2
+2021,25–35 years,,,,,,98.8
+2021,36–59 years,,,,,,90.9
+2021,60–74 years,,,,,,55.8
+2021,,women,,,,,83.8
+2021,,men,,,,,86.5
 2021,,,urban,,,,89.8
 2021,,,rural,,,,75.9
 2021,,,,at least once a day,,,87.2
@@ -405,7 +399,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2021,,,,,using services related to travel or hotel accommodation while traveling,,0.4
 2021,,,,,looking for work or sending a job application,,2.3
 2021,,,,,searching for information about goods and services not previously mentioned,,5.2
-2021,,,,,,,85.1
 2021,,,,,,Autonomous Republic of Crimea,
 2021,,,,,,Vinnytsya,79.9
 2021,,,,,,Volyn,80.9
@@ -431,16 +424,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2021,,,,,,Cherkasy,87.3
 2021,,,,,,Chernivtsi,85.8
 2021,,,,,,Chernihiv,78.8
-2021,,,,,,the city of Kyiv,89.6
+2021,,,,,,city Kyiv,89.6
 2021,,,,,,city Sevastopol,
 2022,,,,,,,
-2022,16-17 years,,,,,,
-2022,18-24 years,,,,,,
-2022,25-35 years,,,,,,
-2022,36-59 years,,,,,,
-2022,60-74 years,,,,,,
-2022,,male,,,,,
-2022,,female,,,,,
+2022,16–17 years,,,,,,
+2022,18–24 years,,,,,,
+2022,25–35 years,,,,,,
+2022,36–59 years,,,,,,
+2022,60–74 years,,,,,,
+2022,,women,,,,,
+2022,,men,,,,,
 2022,,,urban,,,,
 2022,,,rural,,,,
 2022,,,,at least once a day,,,
@@ -467,7 +460,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2022,,,,,using services related to travel or hotel accommodation while traveling,,
 2022,,,,,looking for work or sending a job application,,
 2022,,,,,searching for information about goods and services not previously mentioned,,
-2022,,,,,,,
 2022,,,,,,Autonomous Republic of Crimea,
 2022,,,,,,Vinnytsya,
 2022,,,,,,Volyn,
@@ -493,16 +485,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2022,,,,,,Cherkasy,
 2022,,,,,,Chernivtsi,
 2022,,,,,,Chernihiv,
-2022,,,,,,the city of Kyiv,
+2022,,,,,,city Kyiv,
 2022,,,,,,city Sevastopol,
 2023,,,,,,,
-2023,16-17 years,,,,,,
-2023,18-24 years,,,,,,
-2023,25-35 years,,,,,,
-2023,36-59 years,,,,,,
-2023,60-74 years,,,,,,
-2023,,male,,,,,
-2023,,female,,,,,
+2023,16–17 years,,,,,,
+2023,18–24 years,,,,,,
+2023,25–35 years,,,,,,
+2023,36–59 years,,,,,,
+2023,60–74 years,,,,,,
+2023,,women,,,,,
+2023,,men,,,,,
 2023,,,urban,,,,
 2023,,,rural,,,,
 2023,,,,at least once a day,,,
@@ -529,7 +521,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2023,,,,,using services related to travel or hotel accommodation while traveling,,
 2023,,,,,looking for work or sending a job application,,
 2023,,,,,searching for information about goods and services not previously mentioned,,
-2023,,,,,,,
 2023,,,,,,Autonomous Republic of Crimea,
 2023,,,,,,Vinnytsya,
 2023,,,,,,Volyn,
@@ -555,16 +546,16 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2023,,,,,,Cherkasy,
 2023,,,,,,Chernivtsi,
 2023,,,,,,Chernihiv,
-2023,,,,,,the city of Kyiv,
+2023,,,,,,city Kyiv,
 2023,,,,,,city Sevastopol,
 2024,,,,,,,
-2024,16-17 years,,,,,,
-2024,18-24 years,,,,,,
-2024,25-35 years,,,,,,
-2024,36-59 years,,,,,,
-2024,60-74 years,,,,,,
-2024,,male,,,,,
-2024,,female,,,,,
+2024,16–17 years,,,,,,
+2024,18–24 years,,,,,,
+2024,25–35 years,,,,,,
+2024,36–59 years,,,,,,
+2024,60–74 years,,,,,,
+2024,,women,,,,,
+2024,,men,,,,,
 2024,,,urban,,,,
 2024,,,rural,,,,
 2024,,,,at least once a day,,,
@@ -591,7 +582,6 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2024,,,,,using services related to travel or hotel accommodation while traveling,,
 2024,,,,,looking for work or sending a job application,,
 2024,,,,,searching for information about goods and services not previously mentioned,,
-2024,,,,,,,
 2024,,,,,,Autonomous Republic of Crimea,
 2024,,,,,,Vinnytsya,
 2024,,,,,,Volyn,
@@ -617,5 +607,5 @@ Year,Age,Sex,Type of residence,by frequency of use,purpose of use,Region,Value
 2024,,,,,,Cherkasy,
 2024,,,,,,Chernivtsi,
 2024,,,,,,Chernihiv,
-2024,,,,,,the city of Kyiv,
+2024,,,,,,city Kyiv,
 2024,,,,,,city Sevastopol,

@@ -28,16 +28,16 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "group_28",
             "type": "string",
             "constraints": {
               "enum": [
-                "14-30 years",
+                "14–30 years",
                 "30 years and older",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Age groups"
           },
           {
             "name": "Value",

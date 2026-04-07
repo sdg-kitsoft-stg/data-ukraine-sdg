@@ -20,24 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Жіноча",
-                "Чоловіча",
+                "жінки",
+                "чоловіки",
                 ""
               ]
             },
             "title": "Стать"
           },
           {
-            "name": "Age",
+            "name": "group_28",
             "type": "string",
             "constraints": {
               "enum": [
-                "14 - 30 років",
+                "14–30 років",
                 "30 років і старше",
                 ""
               ]
             },
-            "title": "Вік"
+            "title": "Вікові групи"
           },
           {
             "name": "Value",

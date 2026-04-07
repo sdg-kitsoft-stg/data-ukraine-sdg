@@ -28,6 +28,17 @@
             "title": "Sex"
           },
           {
+            "name": "group_28",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "age groups",
+                ""
+              ]
+            },
+            "title": "Age groups"
+          },
+          {
             "name": "Type of residence",
             "type": "string",
             "constraints": {
@@ -38,6 +49,17 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Decile groups",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "decile groups",
+                ""
+              ]
+            },
+            "title": "Decile groups of income"
           },
           {
             "name": "Value",

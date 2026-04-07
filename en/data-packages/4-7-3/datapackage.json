@@ -22,7 +22,9 @@
               "enum": [
                 "girls",
                 "boys",
-                "all",
+                "number of pupils, persons",
+                "girls (number)",
+                "boys (number)",
                 ""
               ]
             },

@@ -15,18 +15,8 @@
             "type": "integer"
           },
           {
-            "name": "Unnamed: 1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "100",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

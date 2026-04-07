@@ -46,10 +46,10 @@
               "enum": [
                 "up to 15 years",
                 "15-17 years",
-                "18-24 years",
-                "25-35 years",
-                "36-59 years",
-                "60-74 years",
+                "18–24 years",
+                "25–35 years",
+                "36–59 years",
+                "60–74 years",
                 "75 years and older",
                 ""
               ]

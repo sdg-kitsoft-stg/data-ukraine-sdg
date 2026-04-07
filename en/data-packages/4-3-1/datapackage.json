@@ -22,11 +22,11 @@
               "enum": [
                 "reading",
                 "mathematics",
-                "natural sciences",
+                "natural science disciplines",
                 ""
               ]
             },
-            "title": "Subject"
+            "title": "Academic subjects"
           },
           {
             "name": "Sex",
@@ -53,17 +53,17 @@
             "title": "Type of residence"
           },
           {
-            "name": "Type of educational institution",
+            "name": "School type",
             "type": "string",
             "constraints": {
               "enum": [
-                "general secondary educational institutions (GSEI)",
+                "general secondary educational institution",
                 "gymnasium",
                 "specialized school",
                 ""
               ]
             },
-            "title": "by type of educational institution"
+            "title": "Type of educational institution"
           },
           {
             "name": "Value",
