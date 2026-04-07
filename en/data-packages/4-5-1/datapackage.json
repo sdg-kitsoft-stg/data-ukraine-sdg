@@ -51,7 +51,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "Decile groups_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -59,7 +59,7 @@
                 ""
               ]
             },
-            "title": "Decile groups of income"
+            "title": "Decile groups according to the level of average per capita equivalent total income"
           },
           {
             "name": "Value",

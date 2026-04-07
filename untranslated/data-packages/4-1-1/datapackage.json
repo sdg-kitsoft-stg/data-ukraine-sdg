@@ -15,6 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "girls",
+                "boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -47,28 +69,6 @@
                 "Kyiv_city",
                 "city_Sevastopol",
                 "girls",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "girls",
-                "boys",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
                 ""
               ]
             }

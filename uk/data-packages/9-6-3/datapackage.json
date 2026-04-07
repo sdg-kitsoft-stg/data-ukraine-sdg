@@ -16,6 +16,18 @@
             "title": "Рік"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "міська",
+                "сільська",
+                ""
+              ]
+            },
+            "title": "Місцевість проживання"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -51,18 +63,6 @@
               ]
             },
             "title": "Область"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "міська",
-                "сільська",
-                ""
-              ]
-            },
-            "title": "Місцевість проживання"
           },
           {
             "name": "Value",

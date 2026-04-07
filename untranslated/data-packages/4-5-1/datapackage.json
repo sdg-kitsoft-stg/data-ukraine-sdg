@@ -47,7 +47,7 @@
             }
           },
           {
-            "name": "Decile groups",
+            "name": "Decile groups_1",
             "type": "string",
             "constraints": {
               "enum": [

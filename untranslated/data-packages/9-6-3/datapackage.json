@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -46,17 +57,6 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
                 ""
               ]
             }

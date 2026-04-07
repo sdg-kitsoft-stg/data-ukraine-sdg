@@ -16,43 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "city Kyiv",
-                "city Sevastopol",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -97,6 +60,43 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "city Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",

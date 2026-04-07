@@ -135,7 +135,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-4-5,"Sex, Age",2
 #4-4-6,"Status, Sphere",2
 #4-4-7,"Specialty, Education Level",2
-#4-5-1,"Sex, Type of residence, Decile groups, group_28",4
+#4-5-1,"Sex, Type of residence, group_28, Decile groups_1",4
 #4-5-1-a,"Sex, Age",2
 #4-5-2-a,"Sex, Type of residence, Age",3
 #4-6-1,"Region, EducationInternetType",2

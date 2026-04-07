@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -51,18 +63,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
           },
           {
             "name": "Value",

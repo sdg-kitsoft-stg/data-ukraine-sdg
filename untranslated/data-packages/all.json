@@ -406,7 +406,6 @@
                 "lyceum",
                 "gymnasium_1",
                 "gsei",
-                "gsei_1",
                 "other_institution",
                 ""
               ]
@@ -1230,6 +1229,28 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "girls",
+                "boys",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -1262,28 +1283,6 @@
                 "Kyiv_city",
                 "city_Sevastopol",
                 "girls",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "girls",
-                "boys",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
                 ""
               ]
             }
@@ -9853,6 +9852,17 @@
             "type": "integer"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -9884,17 +9894,6 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
                 ""
               ]
             }
@@ -10683,7 +10682,6 @@
                 "29_man_pharmac_1",
                 "30_man_rubber_1",
                 "31_man_non_me_1t",
-                "31_man_non_met_1",
                 "32_man_met_1",
                 "33_man_equip_1",
                 "34_man_pc_1",
@@ -13735,7 +13733,6 @@
                 "spec_207",
                 "spec_208",
                 "spec_251",
-                "spec_51",
                 "spec_252",
                 "spec_253",
                 "spec_255",
@@ -16436,7 +16433,7 @@
             }
           },
           {
-            "name": "Decile groups",
+            "name": "Decile groups_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17756,42 +17753,6 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "autonomous_Republic_of_Crimea",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhzhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "Kyiv_city",
-                "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -17830,6 +17791,42 @@
               "enum": [
                 "urban",
                 "rural",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }

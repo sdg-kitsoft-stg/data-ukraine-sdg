@@ -437,7 +437,6 @@
                 "lyceum",
                 "gymnasium",
                 "general secondary educational institutions (GSEI)",
-                "general secondary educational institution",
                 "others",
                 ""
               ]
@@ -1330,6 +1329,30 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "girls",
+                "boys",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -1366,30 +1389,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "girls",
-                "boys",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -10543,6 +10542,18 @@
             "title": "Year"
           },
           {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -10578,18 +10589,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -11433,7 +11432,6 @@
                 "Manufacture of basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 21)",
                 "Manufacture of rubber and plastic products (Code NACE Rev.2 – 22)",
                 "31_man_non_me_1t",
-                "Manufacture of other non-metallic mineral products (Code NACE Rev.2 – 23)",
                 "Manufacture of basic metals (Code NACE Rev.2 – 24)",
                 "Manufacture of fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 25)",
                 "Manufacture of computer, electronic and optical products (Code NACE Rev.2 – 26)",
@@ -14711,7 +14709,6 @@
                 "207 Aquatic bioresources and aquaculture",
                 "208 Agroengineering",
                 "251 State security",
-                "spec_51",
                 "252 State border security",
                 "253 Military management",
                 "255 Arms and military equipment",
@@ -17607,7 +17604,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "Decile groups_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17615,7 +17612,7 @@
                 ""
               ]
             },
-            "title": "Decile groups of income"
+            "title": "Decile groups according to the level of average per capita equivalent total income"
           },
           {
             "name": "Value",
@@ -18976,43 +18973,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "city Kyiv",
-                "city Sevastopol",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -19057,6 +19017,43 @@
               ]
             },
             "title": "Type of residence"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Autonomous Republic of Crimea",
+                "Vinnytsya",
+                "Volyn",
+                "Dnipropetrovsk",
+                "Donetsk",
+                "Zhytomyr",
+                "Zakarpattya",
+                "Zaporizhzhya",
+                "Ivano-Frankivsk",
+                "Kyiv",
+                "Kirovohrad",
+                "Luhansk",
+                "Lviv",
+                "Mykolayiv",
+                "Odesa",
+                "Poltava",
+                "Rivne",
+                "Sumy",
+                "Ternopil",
+                "Kharkiv",
+                "Kherson",
+                "Khmelnytskiy",
+                "Cherkasy",
+                "Chernivtsi",
+                "Chernihiv",
+                "city Kyiv",
+                "city Sevastopol",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",
