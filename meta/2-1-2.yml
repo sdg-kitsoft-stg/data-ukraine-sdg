@@ -4,5 +4,6 @@ SDG_INDICATOR: 2.1.2 Share of the population undernourished, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: 'The indicator was not formed in 2015–2024. The indicator will be published after the resumption of the modular survey on self-assessment of household income as part of the state statistical observation "Survey of Household Budgets " (until 2024 – "Survey of Living Conditions Households").'
-reference_title: "Target value of the indicator for 2030"
-footer_reference: 'up to 0.5'
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: 'up to 0.5'
