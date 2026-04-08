@@ -4,5 +4,6 @@ SDG_INDICATOR: '2.4.1 Ukraine’s share in the volume of world exports of the ma
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Agrarian Policy and Food of Ukraine"
 REC_USE_LIM: '2024: Data are preliminary. '
-reference_title: "Target value of the indicator for 2030"
-footer_reference: 'sugar – 1.5, sunflower oil – 45, corn – 18, barley – 9.5, wheat – 10'
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: 'sugar – 1.5, sunflower oil – 45, corn – 18, barley – 9.5, wheat – 10'
