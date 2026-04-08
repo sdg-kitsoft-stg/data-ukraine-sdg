@@ -4,5 +4,6 @@ SDG_INDICATOR: '6.1.1 Drinking water that meets state sanitary standards and reg
 UNIT_MEASURE: "Percent of non-standard samples"
 CONTACT_ORGANISATION: "Ministry of Health of Ukraine (MоH)"
 REC_USE_LIM:
-reference_title: "Target values of the indicator for 2030"
-footer_reference: 'for microbiological indicators: urban water supply – 1.5, rural water supply – 2.5, non-centralized water supply – 15.5; <br> for sanitary-chemical indicators: urban water supply – 6.5, rural water supply – 14.5, non-centralized water supply – 29.5; <br> for radiation indicators: urban water supply – 0.5, rural water supply – 1.5, non-centralized water supply – 3'
+footer_fields:
+  - label: "Target values of the indicator for 2030"
+    value: 'for microbiological indicators: urban water supply – 1.5, rural water supply – 2.5, non-centralized water supply – 15.5; <br> for sanitary-chemical indicators: urban water supply – 6.5, rural water supply – 14.5, non-centralized water supply – 29.5; <br> for radiation indicators: urban water supply – 0.5, rural water supply – 1.5, non-centralized water supply – 3'
