@@ -4,6 +4,6 @@ SDG_INDICATOR: '7.3.5 Indicators of production and technological costs in natura
 UNIT_MEASURE: "Million cubic meters"
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
 footer_fields:
-    - label: "Target value of the indicator for 2030"
+    - label: "Target values of the indicator for 2030"
       value: 'production and technological costs during natural gas transportation, million cubic metres – no more than 850, 
 production and technological costs during natural gas distribution, million cubic metres – no more than 1,700'

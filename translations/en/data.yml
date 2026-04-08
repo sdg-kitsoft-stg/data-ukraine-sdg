@@ -255,10 +255,10 @@ group_label_188: 75 years and older
 age_14_30: 14–30 years
 age_15_17: 15-17 years
 age_18_24: 18–24 years
-age_18_29: 18-29 years
+age_18_29: 18–29 years
 age_18_39: 18–39 years
 age_25_35: 25–35 years
-age_30_59: 30-59 years
+age_30_59: 30–59 years
 age_36_59: 36–59 years
 age_40_64: 40–64 years
 age_60_74: 60–74 years
@@ -2879,7 +2879,7 @@ micro_mini_small_hydroelectric_plants: micro, mini and small hydroelectric power
 biomass: biomass
 biogas: biogas
 geothermal_power_plants: geothermal power plants (GPP)
-other_res: other_res
+other_res: others
 Indicators of energy consumption by households: Indicators of energy consumption by households
 indicator_of_energy_1: share of energy consumption by the household sector in total final energy consumption, percent
 indicator_of_energy_2: specific energy consumption of residential buildings, kilowatt-hours per square meter
@@ -2913,7 +2913,7 @@ group_label_294: Agro-industrial complex
 group_label_295: Woodworking industry
 group_label_296: Light and textile industry
 group_label_297: Socio-cultural sphere and trade
-Average monthly electricity consumption: Average monthly electricity consumption per household consumer, kilowatt–hours
+Average monthly electricity consumption: Average monthly electricity consumption per household consumer
 without_electric_heating: without electric heating
 with_electric_heating: with electric heating
 By consumer categories: Consumer categories
@@ -2923,7 +2923,7 @@ Resource: Type of equipment
 heat_energy: heat energy
 hot_water: hot water
 drinking_water: drinking water
-By sectors of the fuel and energy sector: Fuel and energy sector
+By sectors of the fuel and energy sector: Fuel and energy sectors
 electric_energy: electric energy
 natural_gas_2: natural gas
 oil_and_liquid_fuels: oil and liquid fuels
@@ -2932,7 +2932,7 @@ thermal_energy: thermal energy
 authorities: Authorities
 balances: Balances
 consumption: Consumption
-natural_monopolies: Natural Monopolies
+natural_monopolies: Natural monopolies
 policy: Policy
 reliability_and_safety: Reliability and safety
 reporting: Reporting
@@ -3189,3 +3189,12 @@ s_11_indu_1: Industry (Code NACE Rev.2 – B+C+D+E)
 46_restor_1: Waste collection, treatment and disposal activities; materials recovery (Code NACE Rev.2 – 38)
 47_waste_act_1: Remediation activities and other waste management services (Code NACE Rev.2 – 39)
 3_tr_urban_1: сity electric transport
+Technological costs: Indicators of technological costs in power grids
+power grids: share of technological costs of electricity in power grids (from the selection volume)
+distribution power grids: share of technological costs of electricity in distribution power grids (from the selection volume)
+Production and technological costs: Indicators of production and technological costs in natural gas supply grids
+natural_gas_transportation: production and technological costs during natural gas transportation
+natural_gas_distribution: production and technological costs during natural gas distribution
+Building_type: Types of buildings
+residential: in residential buildings
+non_residential: in non-residential buildings

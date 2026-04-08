@@ -3,7 +3,7 @@ SDG_TARGET: 7.5 Promoting the rationalization of energy consumption, stimulating
 SDG_INDICATOR: '7.5.2 Indicators of energy consumption by households: share of energy consumption by the household sector in total final energy consumption, percent; specific energy consumption of residential buildings, kilowatt-hours per square metre'
 UNIT_MEASURE: "Percent (%)/kilowatt-hours per square meter"
 CONTACT_ORGANISATION: "State Agency on Energy Efficiency and Energy Saving of Ukraine (SAEE)"
-REC_USE_LIM: '2021-2024: Data are lacking due to the introduction of the legal regime of martial law.'
+REC_USE_LIM: '2021–2024: Data are lacking due to the introduction of the legal regime of martial law.'
 footer_fields:
     - label: "Target values of the indicator for 2030"
       value: "share of energy consumption by the household sector in total final energy consumption, percent – decrease to 23, 

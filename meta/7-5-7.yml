@@ -3,4 +3,7 @@ SDG_TARGET: 7.5 Promoting the rationalization of energy consumption, stimulating
 SDG_INDICATOR: 7.5.7 Level of equipping consumers with commercial natural gas metering units equipped with remote data transmission capabilities, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
-REC_USE_LIM: 'Household: Data have been developed since 2021. <br>Non-household : Data have been developed since 2018.'
+REC_USE_LIM: 'Household consumer: Data have been developed since 2021. <br>Non-household consumer: Data have been developed since 2018.'
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase to 1.9'

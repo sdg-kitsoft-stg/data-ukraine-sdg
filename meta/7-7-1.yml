@@ -3,4 +3,7 @@ SDG_TARGET: 7.7 Ensuring the protection of vulnerable consumers of energy resour
 SDG_INDICATOR: 7.7.1 Share of households receiving subsidies for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Pension Fund of Ukraine"
-REC_USE_LIM: '2023: Information is provided on the number of households receiving subsidies for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management). <br>Data have been developed since 2023.'
+REC_USE_LIM: 'Data have been developed since 2023. <br> 2023: Information is provided on the number of households receiving subsidies for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management).'
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'decrease to 25'

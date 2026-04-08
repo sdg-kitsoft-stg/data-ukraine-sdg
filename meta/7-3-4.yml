@@ -4,3 +4,6 @@ SDG_INDICATOR: 7.3.4 Share of the length of pre-insulated pipelines in trunk and
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
 REC_USE_LIM: "Data will be provided additionally."
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase to 24'

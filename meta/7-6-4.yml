@@ -3,4 +3,7 @@ SDG_TARGET: 7.6 Promoting to reducing the level of energy poverty of the populat
 SDG_INDICATOR: 7.6.4 Average monthly share of the total expenditures of an average household for housing and communal services (apartment building management service, natural gas supply and distribution services, electricity supply and distribution services, heat supply, hot water supply, centralized water supply, centralized water drainage, household waste management), which is covered by benefits and subsidies, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
-REC_USE_LIM: "2022 - 2024: In accordance with the norms of the Law of Ukraine 'On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War', in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct sample survey of the population (households), as a result of which they do not have the opportunity to receive information based on their results."
+REC_USE_LIM: "2022–2024: In accordance with the norms of the Law of Ukraine \"On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War\", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct sample survey of the population (households), as a result of which they do not have the opportunity to receive information based on their results."
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'decrease to 0.5'

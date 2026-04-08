@@ -4,3 +4,6 @@ SDG_INDICATOR: 7.4.4 Share of renewable electricity facilities in the installed 
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
 REC_USE_LIM: Data have been developed since 2019.
+footer_fields:
+    - label: "Target values of the indicator for 2030"
+      value: 'increase to 25'

@@ -3,4 +3,7 @@ SDG_TARGET: 7.5 Promoting the rationalization of energy consumption, stimulating
 SDG_INDICATOR: 7.5.5 Specific natural gas consumption by household consumers for comprehensive use, including for heating, cubic meters/square meter
 UNIT_MEASURE: "Cubic meters/square meter"
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
-REC_USE_LIM: 'Data have been developed since 2016. <br>2021-2024: Data are closed for the period of martial law in accordance with paragraph 5 of the Resolution of the National Energy and Utilities Regulatory Commission dated 30.03.2017 No. 464 "On the Annual Provision of Consumers with Key Information about Services in the Energy and Utilities Sectors." Data  will be available after the end or lifting of martial law.'
+REC_USE_LIM: 'Data have been developed since 2016. <br>2021–2024: Data are closed for the period of martial law in accordance with paragraph 5 of the Resolution of the National Energy and Utilities Regulatory Commission dated 30.03.2017 No. 464 "On the Annual Provision of Consumers with Key Information about Services in the Energy and Utilities Sectors." Data will be available after the end or lifting of martial law.'
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'decrease to 11'

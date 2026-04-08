@@ -3,9 +3,7 @@ SDG_TARGET: 7.5 Promoting the rationalization of energy consumption, stimulating
 SDG_INDICATOR: '7.5.9 Level of equipping buildings with commercial metering units by types, percent: heat energy (in residential buildings; in non-residential buildings); hot water (in residential buildings; in non-residential buildings); drinking water (in residential buildings; in non-residential buildings) '
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Agency on Energy Efficiency and Energy Saving of Ukraine (SAEE)"
-REC_USE_LIM: 'Residential buildings: Data have been developed since 2016. <br>Non-residential buildings: Data have been developed since 2018.'
+REC_USE_LIM: 'Residential buildings equipped with heat energy: Data have been developed since 2016. <br> Non-residential buildings equipped with heat energy; residential and non-residential buildings equipped with hot water and drinking water: Data have been developed since 2018.'
 footer_fields:
     - label: "Target values of the indicator for 2030"
-      value: "heat energy: in residential buildings – increase to 98, in non-residential buildings – increase to 100; 
-hot water: in residential buildings – increase to 35, in non-residential buildings – increase to 70; 
-drinking water: in residential buildings – increase to 95, in non-residential buildings – increase to 100"
+      value: "heat energy: in residential buildings – increase to 98, in non-residential buildings – increase to 100; <br> hot water: in residential buildings – increase to 35, in non-residential buildings – increase to 70; <br> drinking water: in residential buildings – increase to 95, in non-residential buildings – increase to 100"

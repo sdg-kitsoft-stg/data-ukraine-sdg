@@ -4,3 +4,6 @@ SDG_INDICATOR: 7.5.10 Energy transparency index, points
 UNIT_MEASURE: "Points"
 CONTACT_ORGANISATION: "Ministry of Energy of Ukraine"
 REC_USE_LIM: Data have been developed since 2018.
+footer_fields:
+    - label: "Target value of the indicator for 2030"
+      value: 'increase to 80'
