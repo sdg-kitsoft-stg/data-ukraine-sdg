@@ -4,5 +4,6 @@ SDG_INDICATOR: 2.1.4 Share of households that were unable to secure sufficient f
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: "2022–2024: In accordance with the norms of the Law of Ukraine \"On the Protection of the Interests of Subjects of Submission of Reports and Other Documents During the Period of Martial Law or State of War\", in connection with russia's armed aggression against Ukraine, starting from February 2022, the State Statistics Authorities do not conduct sample survey of the population (households), as a result of which they do not have the opportunity to receive information based on their results."
-reference_title: "Target value of the indicator for 2030"
-footer_reference: 'up to 0.5'
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: 'up to 0.5'
