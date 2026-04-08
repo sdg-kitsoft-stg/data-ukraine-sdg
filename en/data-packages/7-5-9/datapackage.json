@@ -33,12 +33,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non_residential",
-                "residential",
+                "in non-residential buildings",
+                "in residential buildings",
                 ""
               ]
             },
-            "title": "Building_type"
+            "title": "Types of buildings"
           },
           {
             "name": "Value",

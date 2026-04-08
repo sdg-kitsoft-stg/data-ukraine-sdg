@@ -1,31 +1,21 @@
 Year,Indicators of production and technological costs in natural gas supply grids,Value
-2015,,
-2016,,
-2017,,
-2018,,
-2019,,
-2020,,
-2021,,
-2022,,
-2023,,
-2024,,
-2015,natural_gas_transportation,1466.0
-2016,natural_gas_transportation,1610.0
-2017,natural_gas_transportation,2116.0
-2018,natural_gas_transportation,1760.0
-2019,natural_gas_transportation,1809.0
-2020,natural_gas_transportation,807.0
-2021,natural_gas_transportation,659.0
-2022,natural_gas_transportation,447.0
-2023,natural_gas_transportation,302.0
-2024,natural_gas_transportation,170.0
-2015,natural_gas_distribution,1041.0
-2016,natural_gas_distribution,978.0
-2017,natural_gas_distribution,973.0
-2018,natural_gas_distribution,1026.0
-2019,natural_gas_distribution,1377.0
-2020,natural_gas_distribution,1342.0
-2021,natural_gas_distribution,1713.0
-2022,natural_gas_distribution,1244.0
-2023,natural_gas_distribution,1047.0
-2024,natural_gas_distribution,950.0
+2015,production and technological costs during natural gas transportation,1466.0
+2016,production and technological costs during natural gas transportation,1610.0
+2017,production and technological costs during natural gas transportation,2116.0
+2018,production and technological costs during natural gas transportation,1760.0
+2019,production and technological costs during natural gas transportation,1809.0
+2020,production and technological costs during natural gas transportation,807.0
+2021,production and technological costs during natural gas transportation,659.0
+2022,production and technological costs during natural gas transportation,447.0
+2023,production and technological costs during natural gas transportation,302.0
+2024,production and technological costs during natural gas transportation,170.0
+2015,production and technological costs during natural gas distribution,1041.0
+2016,production and technological costs during natural gas distribution,978.0
+2017,production and technological costs during natural gas distribution,973.0
+2018,production and technological costs during natural gas distribution,1026.0
+2019,production and technological costs during natural gas distribution,1377.0
+2020,production and technological costs during natural gas distribution,1342.0
+2021,production and technological costs during natural gas distribution,1713.0
+2022,production and technological costs during natural gas distribution,1244.0
+2023,production and technological costs during natural gas distribution,1047.0
+2024,production and technological costs during natural gas distribution,950.0

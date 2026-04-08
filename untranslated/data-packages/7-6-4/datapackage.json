@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_v2",
-                "hh_ch_0_v2",
+                "hh_ch_1",
+                "hh_ch_01",
                 ""
               ]
             }

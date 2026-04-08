@@ -28,12 +28,12 @@
             "title": "Type of residence"
           },
           {
-            "name": "Households",
+            "name": "Households_1",
             "type": "string",
             "constraints": {
               "enum": [
-                "hh_ch_v2",
-                "hh_ch_0_v2",
+                "households with children",
+                "households without children",
                 ""
               ]
             },

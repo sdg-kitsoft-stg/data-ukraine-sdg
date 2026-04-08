@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Indicators of production and technological costs in natural gas supply grids",
+            "name": "Production and technological costs",
             "type": "string",
             "constraints": {
               "enum": [

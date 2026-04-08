@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Technological costs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "share of technological costs of electricity in power grids (from the selection volume)",
+                "share of technological costs of electricity in distribution power grids (from the selection volume)",
+                ""
+              ]
+            },
+            "title": "Indicators of technological costs in power grids"
           },
           {
             "name": "Value",

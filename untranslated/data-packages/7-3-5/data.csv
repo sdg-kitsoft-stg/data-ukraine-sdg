@@ -1,14 +1,4 @@
-Year,Indicators of production and technological costs in natural gas supply grids,Value
-2015,,
-2016,,
-2017,,
-2018,,
-2019,,
-2020,,
-2021,,
-2022,,
-2023,,
-2024,,
+Year,Production and technological costs,Value
 2015,natural_gas_transportation,1466.0
 2016,natural_gas_transportation,1610.0
 2017,natural_gas_transportation,2116.0

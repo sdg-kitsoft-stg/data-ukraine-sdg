@@ -1,1 +1,21 @@
-Year,Value
+Year,Technological costs,Value
+2015,power grids,11.5
+2016,power grids,11.74
+2017,power grids,11.77
+2018,power grids,11.6
+2019,power grids,11.63
+2020,power grids,11.34
+2021,power grids,11.28
+2022,power grids,12.85
+2023,power grids,12.92
+2024,power grids,12.95
+2015,distribution power grids,9.79
+2016,distribution power grids,9.9
+2017,distribution power grids,9.89
+2018,distribution power grids,9.84
+2019,distribution power grids,10.35
+2020,distribution power grids,10.13
+2021,distribution power grids,9.86
+2022,distribution power grids,11.11
+2023,distribution power grids,10.99
+2024,distribution power grids,10.39

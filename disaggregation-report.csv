@@ -79,11 +79,10 @@ group_label_229,1,1
 group_label_230,1,2
 group_label_90,1,20
 group_label_91,1,23
-Households,4,4
-Households_1,6,4
+Households,2,2
+Households_1,8,4
 including,2,16
 Indicators of energy consumption by households,1,2
-Indicators of production and technological costs in natural gas supply grids,1,2
 Infectious diseases,2,8
 inherit,1,2
 Land purpose,1,1
@@ -97,6 +96,7 @@ Organisation and legal forms,2,85
 Organization,1,4
 Pollutants,1,10
 PopulationGroup,1,2
+Production and technological costs,1,2
 Products,1,3
 Reason of disability,1,2
 reasons_ land,1,1
@@ -119,6 +119,7 @@ strategy,1,3
 Subject,3,8
 SupplyType,1,4
 SupplyType_1,1,2
+Technological costs,1,2
 Type of economic activity,4,1242
 Type of energy resources,1,6
 Type of place of registration of service providers,1,2

@@ -1,98 +1,141 @@
-Year,Category,Fuel and energy sector,Value
-2018,,,43
-2018,,natural gas,52
-2018,,electric energy,41
-2018,,oil and liquid fuels,31
-2018,,thermal energy,47
-2018,Authorities,,36
-2018,Balances,,50
-2018,Consumption,,47
-2018,Natural Monopolies,,43
-2018,Policy,,20
-2018,Reliability and safety,,47
-2018,Reporting,,53
-2018,Supply,,38
-2019,,,48
-2019,,natural gas,54
-2019,,electric energy,49
-2019,,oil and liquid fuels,27
-2019,,thermal coal,48
-2019,,thermal energy,48
-2019,Authorities,,50
-2019,Balances,,58
-2019,Consumption,,53
-2019,Natural Monopolies,,46
-2019,Policy,,56
-2019,Reliability and safety,,50
-2019,Reporting,,27
-2019,Supply,,49
-2020,,,58
-2020,,natural gas,64
-2020,,electric energy,66
-2020,,oil and liquid fuels,22
-2020,,thermal coal,48
-2020,,thermal energy,74
-2020,Authorities,,56
-2020,Balances,,58
-2020,Consumption,,68
-2020,Natural Monopolies,,59
-2020,Policy,,59
-2020,Reliability and safety,,53
-2020,Reporting,,35
-2020,Supply,,58
-2021,,,63
-2021,,natural gas,72
-2021,,electric energy,73
-2021,,oil and liquid fuels,23
-2021,,thermal coal,60
-2021,,thermal energy,69
-2021,Authorities,,57
-2021,Balances,,58
-2021,Consumption,,70
-2021,Natural Monopolies,,70
-2021,Policy,,54
-2021,Reliability and safety,,54
-2021,Reporting,,53
-2021,Supply,,63
-2022,,,39
-2022,,natural gas,47
-2022,,electric energy,41
-2022,,oil and liquid fuels,14
-2022,,thermal coal,26
-2022,,thermal energy,43
-2022,Authorities,,32
-2022,Balances,,21
-2022,Consumption,,49
-2022,Natural Monopolies,,44
-2022,Policy,,44
-2022,Reliability and safety,,25
-2022,Reporting,,33
-2022,Supply,,37
-2023,,,41
-2023,,natural gas,48
-2023,,electric energy,37
-2023,,oil and liquid fuels,14
-2023,,thermal coal,25
-2023,,thermal energy,42
-2023,Authorities,,50
-2023,Balances,,17
-2023,Consumption,,49
-2023,Natural Monopolies,,39
-2023,Policy,,43
-2023,Reliability and safety,,25
-2023,Reporting,,30
-2023,Supply,,43
-2024,,,44
-2024,,natural gas,54
-2024,,electric energy,40
-2024,,oil and liquid fuels,19
-2024,,thermal coal,25
-2024,,thermal energy,43
-2024,Authorities,,55
-2024,Balances,,16
-2024,Consumption,,55
-2024,Natural Monopolies,,42
-2024,Policy,,51
-2024,Reliability and safety,,37
-2024,Reporting,,18
-2024,Supply,,46
+Year,Category,Fuel and energy sectors,Value
+2015,,,
+2015,,natural gas,
+2015,,electric energy,
+2015,,oil and liquid fuels,
+2015,,thermal coal,
+2015,,thermal energy,
+2015,Authorities,,
+2015,Balances,,
+2015,Consumption,,
+2015,Natural monopolies,,
+2015,Policy,,
+2015,Reliability and safety,,
+2015,Reporting,,
+2015,Supply,,
+2016,,,
+2016,,natural gas,
+2016,,electric energy,
+2016,,oil and liquid fuels,
+2016,,thermal coal,
+2016,,thermal energy,
+2016,Authorities,,
+2016,Balances,,
+2016,Consumption,,
+2016,Natural monopolies,,
+2016,Policy,,
+2016,Reliability and safety,,
+2016,Reporting,,
+2016,Supply,,
+2017,,,
+2017,,natural gas,
+2017,,electric energy,
+2017,,oil and liquid fuels,
+2017,,thermal coal,
+2017,,thermal energy,
+2017,Authorities,,
+2017,Balances,,
+2017,Consumption,,
+2017,Natural monopolies,,
+2017,Policy,,
+2017,Reliability and safety,,
+2017,Reporting,,
+2017,Supply,,
+2018,,,43.0
+2018,,natural gas,52.0
+2018,,electric energy,41.0
+2018,,oil and liquid fuels,31.0
+2018,,thermal coal,
+2018,,thermal energy,47.0
+2018,Authorities,,36.0
+2018,Balances,,50.0
+2018,Consumption,,47.0
+2018,Natural monopolies,,43.0
+2018,Policy,,20.0
+2018,Reliability and safety,,47.0
+2018,Reporting,,53.0
+2018,Supply,,38.0
+2019,,,48.0
+2019,,natural gas,54.0
+2019,,electric energy,49.0
+2019,,oil and liquid fuels,27.0
+2019,,thermal coal,48.0
+2019,,thermal energy,48.0
+2019,Authorities,,50.0
+2019,Balances,,58.0
+2019,Consumption,,53.0
+2019,Natural monopolies,,46.0
+2019,Policy,,56.0
+2019,Reliability and safety,,50.0
+2019,Reporting,,27.0
+2019,Supply,,49.0
+2020,,,58.0
+2020,,natural gas,64.0
+2020,,electric energy,66.0
+2020,,oil and liquid fuels,22.0
+2020,,thermal coal,48.0
+2020,,thermal energy,74.0
+2020,Authorities,,56.0
+2020,Balances,,58.0
+2020,Consumption,,68.0
+2020,Natural monopolies,,59.0
+2020,Policy,,59.0
+2020,Reliability and safety,,53.0
+2020,Reporting,,35.0
+2020,Supply,,58.0
+2021,,,63.0
+2021,,natural gas,72.0
+2021,,electric energy,73.0
+2021,,oil and liquid fuels,23.0
+2021,,thermal coal,60.0
+2021,,thermal energy,69.0
+2021,Authorities,,57.0
+2021,Balances,,58.0
+2021,Consumption,,70.0
+2021,Natural monopolies,,70.0
+2021,Policy,,54.0
+2021,Reliability and safety,,54.0
+2021,Reporting,,53.0
+2021,Supply,,63.0
+2022,,,39.0
+2022,,natural gas,47.0
+2022,,electric energy,41.0
+2022,,oil and liquid fuels,14.0
+2022,,thermal coal,26.0
+2022,,thermal energy,43.0
+2022,Authorities,,32.0
+2022,Balances,,21.0
+2022,Consumption,,49.0
+2022,Natural monopolies,,44.0
+2022,Policy,,44.0
+2022,Reliability and safety,,25.0
+2022,Reporting,,33.0
+2022,Supply,,37.0
+2023,,,41.0
+2023,,natural gas,48.0
+2023,,electric energy,37.0
+2023,,oil and liquid fuels,14.0
+2023,,thermal coal,25.0
+2023,,thermal energy,42.0
+2023,Authorities,,50.0
+2023,Balances,,17.0
+2023,Consumption,,49.0
+2023,Natural monopolies,,39.0
+2023,Policy,,43.0
+2023,Reliability and safety,,25.0
+2023,Reporting,,30.0
+2023,Supply,,43.0
+2024,,,44.0
+2024,,natural gas,54.0
+2024,,electric energy,40.0
+2024,,oil and liquid fuels,19.0
+2024,,thermal coal,25.0
+2024,,thermal energy,43.0
+2024,Authorities,,55.0
+2024,Balances,,16.0
+2024,Consumption,,55.0
+2024,Natural monopolies,,42.0
+2024,Policy,,51.0
+2024,Reliability and safety,,37.0
+2024,Reporting,,18.0
+2024,Supply,,46.0

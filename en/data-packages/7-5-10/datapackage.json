@@ -23,7 +23,7 @@
                 "Authorities",
                 "Balances",
                 "Consumption",
-                "Natural Monopolies",
+                "Natural monopolies",
                 "Policy",
                 "Reliability and safety",
                 "Reporting",
@@ -41,16 +41,16 @@
                 "natural gas",
                 "electric energy",
                 "oil and liquid fuels",
-                "thermal energy",
                 "thermal coal",
+                "thermal energy",
                 ""
               ]
             },
-            "title": "Fuel and energy sector"
+            "title": "Fuel and energy sectors"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

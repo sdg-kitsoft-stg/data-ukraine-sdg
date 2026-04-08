@@ -39,15 +39,15 @@
                 "natural_gas_2",
                 "electric_energy",
                 "oil_and_liquid_fuels",
-                "thermal_energy",
                 "thermal_coal",
+                "thermal_energy",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

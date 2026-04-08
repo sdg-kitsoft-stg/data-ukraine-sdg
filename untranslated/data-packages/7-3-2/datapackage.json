@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Technological costs",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "power grids",
+                "distribution power grids",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

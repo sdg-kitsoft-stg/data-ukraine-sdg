@@ -1,7 +1,7 @@
 Year,Type of residence,Household type,Region,Value
 2015,,,,10.2
-2015,,households/families with children,,9.5
-2015,,households/families without children,,10.8
+2015,,households with children,,9.5
+2015,,households without children,,10.8
 2015,rural,,,7.4
 2015,urban,,,11.4
 2015,,,Autonomous Republic of Crimea,
@@ -17,7 +17,7 @@ Year,Type of residence,Household type,Region,Value
 2015,,,Kirovohrad,7.4
 2015,,,Luhansk,11.9
 2015,,,Lviv,8.5
-2015,,,Mykolayiv,
+2015,,,Mykolayiv,9.9
 2015,,,Odesa,11.4
 2015,,,Poltava,11.0
 2015,,,Rivne,8.6
@@ -25,17 +25,15 @@ Year,Type of residence,Household type,Region,Value
 2015,,,Ternopil,9.5
 2015,,,Kharkiv,13.0
 2015,,,Kherson,10.0
-2015,,,Khmelnytskiy,
-2015,,,Cherkasy,9.2
-2015,,,Chernivtsi,
-2015,,,Chernihiv,8.4
-2015,,,the city of Kyiv,12.4
-2015,,,city Sevastopol,
-2015,,,Mykolayiv,9.9
 2015,,,Khmelnytskiy,10.4
+2015,,,Cherkasy,9.2
+2015,,,Chernivtsi,8.2
+2015,,,Chernihiv,8.4
+2015,,,city Kyiv,12.4
+2015,,,city Sevastopol,
 2016,,,,14.7
-2016,,households/families with children,,13.8
-2016,,households/families without children,,15.4
+2016,,households with children,,13.8
+2016,,households without children,,15.4
 2016,rural,,,12.5
 2016,urban,,,15.7
 2016,,,Autonomous Republic of Crimea,
@@ -51,7 +49,7 @@ Year,Type of residence,Household type,Region,Value
 2016,,,Kirovohrad,11.1
 2016,,,Luhansk,17.2
 2016,,,Lviv,10.8
-2016,,,Mykolayiv,
+2016,,,Mykolayiv,12.2
 2016,,,Odesa,14.4
 2016,,,Poltava,18.8
 2016,,,Rivne,12.7
@@ -59,17 +57,15 @@ Year,Type of residence,Household type,Region,Value
 2016,,,Ternopil,15.3
 2016,,,Kharkiv,17.7
 2016,,,Kherson,12.6
-2016,,,Khmelnytskiy,
-2016,,,Cherkasy,16.4
-2016,,,Chernivtsi,
-2016,,,Chernihiv,13.0
-2016,,,the city of Kyiv,16.2
-2016,,,city Sevastopol,
-2016,,,Mykolayiv,12.2
 2016,,,Khmelnytskiy,17.8
+2016,,,Cherkasy,16.4
+2016,,,Chernivtsi,11.7
+2016,,,Chernihiv,13.0
+2016,,,city Kyiv,16.2
+2016,,,city Sevastopol,
 2017,,,,15.4
-2017,,households/families with children,,14.6
-2017,,households/families without children,,16.2
+2017,,households with children,,14.6
+2017,,households without children,,16.2
 2017,rural,,,12.8
 2017,urban,,,16.6
 2017,,,Autonomous Republic of Crimea,
@@ -85,7 +81,7 @@ Year,Type of residence,Household type,Region,Value
 2017,,,Kirovohrad,11.6
 2017,,,Luhansk,17.4
 2017,,,Lviv,13.1
-2017,,,Mykolayiv,
+2017,,,Mykolayiv,13.6
 2017,,,Odesa,17.2
 2017,,,Poltava,17.0
 2017,,,Rivne,13.9
@@ -93,17 +89,15 @@ Year,Type of residence,Household type,Region,Value
 2017,,,Ternopil,13.2
 2017,,,Kharkiv,19.0
 2017,,,Kherson,15.2
-2017,,,Khmelnytskiy,
-2017,,,Cherkasy,16.7
-2017,,,Chernivtsi,
-2017,,,Chernihiv,14.1
-2017,,,the city of Kyiv,18.0
-2017,,,city Sevastopol,
-2017,,,Mykolayiv,13.6
 2017,,,Khmelnytskiy,17.6
+2017,,,Cherkasy,16.7
+2017,,,Chernivtsi,14.5
+2017,,,Chernihiv,14.1
+2017,,,city Kyiv,18.0
+2017,,,city Sevastopol,
 2018,,,,13.9
-2018,,households/families with children,,12.8
-2018,,households/families without children,,14.9
+2018,,households with children,,12.8
+2018,,households without children,,14.9
 2018,rural,,,11.4
 2018,urban,,,15.0
 2018,,,Autonomous Republic of Crimea,
@@ -119,7 +113,7 @@ Year,Type of residence,Household type,Region,Value
 2018,,,Kirovohrad,10.9
 2018,,,Luhansk,14.7
 2018,,,Lviv,11.7
-2018,,,Mykolayiv,
+2018,,,Mykolayiv,11.7
 2018,,,Odesa,16.6
 2018,,,Poltava,16.5
 2018,,,Rivne,13.4
@@ -127,17 +121,15 @@ Year,Type of residence,Household type,Region,Value
 2018,,,Ternopil,13.2
 2018,,,Kharkiv,16.9
 2018,,,Kherson,13.8
-2018,,,Khmelnytskiy,
-2018,,,Cherkasy,13.6
-2018,,,Chernivtsi,
-2018,,,Chernihiv,12.5
-2018,,,the city of Kyiv,16.1
-2018,,,city Sevastopol,
-2018,,,Mykolayiv,11.7
 2018,,,Khmelnytskiy,14.0
+2018,,,Cherkasy,13.6
+2018,,,Chernivtsi,11.7
+2018,,,Chernihiv,12.5
+2018,,,city Kyiv,16.1
+2018,,,city Sevastopol,
 2019,,,,13.0
-2019,,households/families with children,,12.0
-2019,,households/families without children,,13.8
+2019,,households with children,,12.0
+2019,,households without children,,13.8
 2019,rural,,,9.7
 2019,urban,,,14.4
 2019,,,Autonomous Republic of Crimea,
@@ -153,7 +145,7 @@ Year,Type of residence,Household type,Region,Value
 2019,,,Kirovohrad,9.6
 2019,,,Luhansk,14.4
 2019,,,Lviv,10.1
-2019,,,Mykolayiv,
+2019,,,Mykolayiv,10.8
 2019,,,Odesa,16.2
 2019,,,Poltava,15.7
 2019,,,Rivne,12.1
@@ -161,17 +153,15 @@ Year,Type of residence,Household type,Region,Value
 2019,,,Ternopil,10.8
 2019,,,Kharkiv,17.4
 2019,,,Kherson,13.3
-2019,,,Khmelnytskiy,
-2019,,,Cherkasy,13.0
-2019,,,Chernivtsi,
-2019,,,Chernihiv,11.0
-2019,,,the city of Kyiv,15.7
-2019,,,city Sevastopol,
-2019,,,Mykolayiv,10.8
 2019,,,Khmelnytskiy,11.0
+2019,,,Cherkasy,13.0
+2019,,,Chernivtsi,8.2
+2019,,,Chernihiv,11.0
+2019,,,city Kyiv,15.7
+2019,,,city Sevastopol,
 2020,,,,12.9
-2020,,households/families with children,,12.4
-2020,,households/families without children,,13.3
+2020,,households with children,,12.4
+2020,,households without children,,13.3
 2020,rural,,,9.0
 2020,urban,,,14.6
 2020,,,Autonomous Republic of Crimea,
@@ -187,7 +177,7 @@ Year,Type of residence,Household type,Region,Value
 2020,,,Kirovohrad,10.3
 2020,,,Luhansk,12.1
 2020,,,Lviv,11.0
-2020,,,Mykolayiv,
+2020,,,Mykolayiv,11.7
 2020,,,Odesa,15.6
 2020,,,Poltava,14.8
 2020,,,Rivne,13.8
@@ -195,17 +185,15 @@ Year,Type of residence,Household type,Region,Value
 2020,,,Ternopil,10.5
 2020,,,Kharkiv,16.9
 2020,,,Kherson,12.6
-2020,,,Khmelnytskiy,
-2020,,,Cherkasy,11.8
-2020,,,Chernivtsi,
-2020,,,Chernihiv,10.1
-2020,,,the city of Kyiv,18.0
-2020,,,city Sevastopol,
-2020,,,Mykolayiv,11.7
 2020,,,Khmelnytskiy,10.3
+2020,,,Cherkasy,11.8
+2020,,,Chernivtsi,10.8
+2020,,,Chernihiv,10.1
+2020,,,city Kyiv,18.0
+2020,,,city Sevastopol,
 2021,,,,13.8
-2021,,households/families with children,,12.7
-2021,,households/families without children,,14.8
+2021,,households with children,,12.7
+2021,,households without children,,14.8
 2021,rural,,,10.1
 2021,urban,,,15.4
 2021,,,Autonomous Republic of Crimea,
@@ -221,7 +209,7 @@ Year,Type of residence,Household type,Region,Value
 2021,,,Kirovohrad,12.7
 2021,,,Luhansk,12.2
 2021,,,Lviv,11.4
-2021,,,Mykolayiv,
+2021,,,Mykolayiv,13.4
 2021,,,Odesa,18.3
 2021,,,Poltava,17.7
 2021,,,Rivne,13.2
@@ -229,11 +217,105 @@ Year,Type of residence,Household type,Region,Value
 2021,,,Ternopil,12.3
 2021,,,Kharkiv,17.3
 2021,,,Kherson,13.0
-2021,,,Khmelnytskiy,
-2021,,,Cherkasy,12.4
-2021,,,Chernivtsi,
-2021,,,Chernihiv,11.0
-2021,,,the city of Kyiv,17.3
-2021,,,city Sevastopol,
-2021,,,Mykolayiv,13.4
 2021,,,Khmelnytskiy,12.5
+2021,,,Cherkasy,12.4
+2021,,,Chernivtsi,8.4
+2021,,,Chernihiv,11.0
+2021,,,city Kyiv,17.3
+2021,,,city Sevastopol,
+2022,,,,
+2022,,households with children,,
+2022,,households without children,,
+2022,rural,,,
+2022,urban,,,
+2022,,,Autonomous Republic of Crimea,
+2022,,,Vinnytsya,
+2022,,,Volyn,
+2022,,,Dnipropetrovsk,
+2022,,,Donetsk,
+2022,,,Zhytomyr,
+2022,,,Zakarpattya,
+2022,,,Zaporizhzhya,
+2022,,,Ivano-Frankivsk,
+2022,,,Kyiv,
+2022,,,Kirovohrad,
+2022,,,Luhansk,
+2022,,,Lviv,
+2022,,,Mykolayiv,
+2022,,,Odesa,
+2022,,,Poltava,
+2022,,,Rivne,
+2022,,,Sumy,
+2022,,,Ternopil,
+2022,,,Kharkiv,
+2022,,,Kherson,
+2022,,,Khmelnytskiy,
+2022,,,Cherkasy,
+2022,,,Chernivtsi,
+2022,,,Chernihiv,
+2022,,,city Kyiv,
+2022,,,city Sevastopol,
+2023,,,,
+2023,,households with children,,
+2023,,households without children,,
+2023,rural,,,
+2023,urban,,,
+2023,,,Autonomous Republic of Crimea,
+2023,,,Vinnytsya,
+2023,,,Volyn,
+2023,,,Dnipropetrovsk,
+2023,,,Donetsk,
+2023,,,Zhytomyr,
+2023,,,Zakarpattya,
+2023,,,Zaporizhzhya,
+2023,,,Ivano-Frankivsk,
+2023,,,Kyiv,
+2023,,,Kirovohrad,
+2023,,,Luhansk,
+2023,,,Lviv,
+2023,,,Mykolayiv,
+2023,,,Odesa,
+2023,,,Poltava,
+2023,,,Rivne,
+2023,,,Sumy,
+2023,,,Ternopil,
+2023,,,Kharkiv,
+2023,,,Kherson,
+2023,,,Khmelnytskiy,
+2023,,,Cherkasy,
+2023,,,Chernivtsi,
+2023,,,Chernihiv,
+2023,,,city Kyiv,
+2023,,,city Sevastopol,
+2024,,,,
+2024,,households with children,,
+2024,,households without children,,
+2024,rural,,,
+2024,urban,,,
+2024,,,Autonomous Republic of Crimea,
+2024,,,Vinnytsya,
+2024,,,Volyn,
+2024,,,Dnipropetrovsk,
+2024,,,Donetsk,
+2024,,,Zhytomyr,
+2024,,,Zakarpattya,
+2024,,,Zaporizhzhya,
+2024,,,Ivano-Frankivsk,
+2024,,,Kyiv,
+2024,,,Kirovohrad,
+2024,,,Luhansk,
+2024,,,Lviv,
+2024,,,Mykolayiv,
+2024,,,Odesa,
+2024,,,Poltava,
+2024,,,Rivne,
+2024,,,Sumy,
+2024,,,Ternopil,
+2024,,,Kharkiv,
+2024,,,Kherson,
+2024,,,Khmelnytskiy,
+2024,,,Cherkasy,
+2024,,,Chernivtsi,
+2024,,,Chernihiv,
+2024,,,city Kyiv,
+2024,,,city Sevastopol,

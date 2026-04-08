@@ -5,12 +5,12 @@ boys,6,6
 boys_1,1,1
 children,1,1
 female,7,7
-females,21,7
-females_1,30,23
+females,19,5
+females_1,32,25
 girls,6,6
 girls_1,1,1
 male,7,7
-males,21,7
-males_1,30,23
+males,19,5
+males_1,32,25
 men,49,8
 women,49,8

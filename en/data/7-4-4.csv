@@ -1,49 +1,101 @@
 Year,Types of producers,Types of renewable energy generation (RES),Value
+2015,,,
+2016,,,
+2017,,,
+2018,,,
+2019,,,9.11
+2020,,,13.32
+2021,,,17.14
+2022,,,17.73
+2023,,,17.79
+2024,,,17.75
+2015,electricity producers,,
+2016,electricity producers,,
+2017,electricity producers,,
+2018,electricity producers,,
 2019,electricity producers,,9.11
 2020,electricity producers,,13.32
 2021,electricity producers,,14.12
 2022,electricity producers,,14.7
 2023,electricity producers,,14.61
 2024,electricity producers,,14.09
+2015,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
+2016,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
+2017,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
+2018,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
+2019,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
+2020,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,
 2021,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.02
 2022,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.03
 2023,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.18
 2024,"consumers/users with their own electrical installations for the production of electricity, which are connected to the networks of the distribution system operator",,3.66
+2015,,solar power plants (SPP),
+2016,,solar power plants (SPP),
+2017,,solar power plants (SPP),
+2018,,solar power plants (SPP),
 2019,,solar power plants (SPP),6.5
 2020,,solar power plants (SPP),10.67
 2021,,solar power plants (SPP),13.64
 2022,,solar power plants (SPP),14.26
 2023,,solar power plants (SPP),13.77
 2024,,solar power plants (SPP),13.96
+2015,,wind power plants (WPP),
+2016,,wind power plants (WPP),
+2017,,wind power plants (WPP),
+2017,,wind power plants (WPP),
 2019,,wind power plants (WPP),2.26
 2020,,wind power plants (WPP),2.21
 2021,,wind power plants (WPP),2.97
 2022,,wind power plants (WPP),2.9
 2023,,wind power plants (WPP),3.42
 2024,,wind power plants (WPP),2.87
+2015,,"micro, mini and small hydroelectric power plants (mHPP)",
+2016,,"micro, mini and small hydroelectric power plants (mHPP)",
+2017,,"micro, mini and small hydroelectric power plants (mHPP)",
+2018,,"micro, mini and small hydroelectric power plants (mHPP)",
 2019,,"micro, mini and small hydroelectric power plants (mHPP)",0.11
 2020,,"micro, mini and small hydroelectric power plants (mHPP)",0.13
 2021,,"micro, mini and small hydroelectric power plants (mHPP)",0.13
 2022,,"micro, mini and small hydroelectric power plants (mHPP)",0.14
 2023,,"micro, mini and small hydroelectric power plants (mHPP)",0.13
 2024,,"micro, mini and small hydroelectric power plants (mHPP)",0.12
+2015,,biomass,
+2016,,biomass,
+2017,,biomass,
+2018,,biomass,
 2019,,biomass,0.13
 2020,,biomass,0.14
 2021,,biomass,0.21
 2022,,biomass,0.22
 2023,,biomass,0.27
 2024,,biomass,0.32
+2015,,biogas,
+2016,,biogas,
+2017,,biogas,
+2018,,biogas,
 2019,,biogas,0.11
 2020,,biogas,0.17
 2021,,biogas,0.19
 2022,,biogas,0.21
 2023,,biogas,0.2
 2024,,biogas,0.22
+2015,,geothermal power plants (GPP),
+2016,,geothermal power plants (GPP),
+2017,,geothermal power plants (GPP),
+2018,,geothermal power plants (GPP),
 2019,,geothermal power plants (GPP),0.0
 2020,,geothermal power plants (GPP),0.0
 2021,,geothermal power plants (GPP),0.0
 2022,,geothermal power plants (GPP),0.0
 2023,,geothermal power plants (GPP),0.0
 2024,,geothermal power plants (GPP),0.0
-2023,,other_res,0.0
-2024,,other_res,0.26
+2015,,others,
+2016,,others,
+2017,,others,
+2018,,others,
+2019,,others,
+2020,,others,
+2021,,others,
+2022,,others,
+2023,,others,0.0
+2024,,others,0.26

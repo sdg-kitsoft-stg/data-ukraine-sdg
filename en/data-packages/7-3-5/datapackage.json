@@ -16,12 +16,12 @@
             "title": "Year"
           },
           {
-            "name": "Indicators of production and technological costs in natural gas supply grids",
+            "name": "Production and technological costs",
             "type": "string",
             "constraints": {
               "enum": [
-                "natural_gas_transportation",
-                "natural_gas_distribution",
+                "production and technological costs during natural gas transportation",
+                "production and technological costs during natural gas distribution",
                 ""
               ]
             },
