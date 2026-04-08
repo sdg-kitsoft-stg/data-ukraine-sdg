@@ -1,12 +1,12 @@
 SDG_GOAL: 10 Reduce inequality
 SDG_TARGET: 10.2 Preventing of discrimination in society
 SDG_INDICATOR: 10.2.2 Share of reports of discrimination in the total number of reports received by the Commissioner for Human Rights of the Verkhovna Rada of Ukraine during the reporting period, percent (SDG indicator 10.2.2)
-UNIT_MEASURE: Percent (%)
-CONTACT_ORGANISATION: Commissioner for Human Rights of the Verkhovna Rada of Ukraine (Ombudsman of Ukraine)
-REC_USE_LIM: 'Forms of discrimination: Data collection from 2015 to 2022 was not carried out on all forms of discrimination. <br> Direct discrimination, indirect discrimination, incitement to discrimination, complicity in discrimination, oppression; freedom from discrimination in the field of social protection, freedom from discrimination in the field of education, freedom from discrimination in the field of service provision, freedom from discrimination in the field of access to justice, freedom from discrimination in the field of health care, freedom from discrimination in the field of labor, employment, freedom from discrimination in the field of sports, freedom from discrimination in the media, freedom from discrimination in the field of advertising, freedom from discrimination in the field of advertising for vacancies (recruitment): Number of messages. <br> Spheres of public relations: Data collection from 2015 to 2022 was not carried out in all spheres of public relations. <br> Age,
-  type of residence: Data are not being developed.'
+UNIT_MEASURE: "Percent (%)"
+CONTACT_ORGANISATION: "Commissioner for Human Rights of the Verkhovna Rada of Ukraine (Ombudsman of Ukraine)"
+REC_USE_LIM: "Forms of discrimination: Data collection from 2015 to 2022 was not carried out on all forms of discrimination. <br> Direct discrimination, indirect discrimination, incitement to discrimination, complicity in discrimination, oppression; freedom from discrimination in the field of social protection, freedom from discrimination in the field of education, freedom from discrimination in the field of service provision, freedom from discrimination in the field of access to justice, freedom from discrimination in the field of health care, freedom from discrimination in the field of labor, employment, freedom from discrimination in the field of sports, freedom from discrimination in the media, freedom from discrimination in the field of advertising, freedom from discrimination in the field of advertising for vacancies (recruitment): Number of messages. <br> Spheres of public relations: Data collection from 2015 to 2022 was not carried out in all spheres of public relations. <br> Age, type of residence: Data are not being developed."
 footer_fields:
-- label: Target value of the indicator for 2030
-  value: decrease by 1 percent annually
+  - label: "Target value of the indicator for 2030"
+    value: 'decrease by 1 percent annually'
+
 reference_title: 'For reference:'
 footer_reference: 'forms of discrimination: 2015–2022 — "–"; 2023 — 0.03; 2024 — 0.01; <br> spheres of public relations: 2015–2018 — "–"; 2019 — 0.03; 2020 — 0.09; 2021 — 0.12; 2022 — 0.06; 2023 — 0.03; 2024 — 0.18 <br> age: 2015–2024 — "–"; internally displaced persons: 2015 — 0.02; 2016 — 0.05; 2017 — 0.01; 2018 — 0.00; 2019 — 0.03; 2020 — 0.01; 2021 — 0.01; 2022 — 0.02; 2023 — 0.03; 2024 — 0.03 <br> migration status (refugee, citizen of another state – labor migrant, foreigner, illegal migrant, stateless person, person granted subsidiary protection, person granted temporary protection, asylum seeker): 2015 — 0.04; 2016 — 0.03; 2017 — 0.03; 2018 — 0.02; 2019 — 0.01; 2020 — 0.00; 2021 — 0.01; 2022 — 0.01; 2023 — 0.03; 2024 — 0.01.'
