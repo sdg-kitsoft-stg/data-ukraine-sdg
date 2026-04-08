@@ -15,33 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Spheres",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "energy_water_utilities",
-                "transport_infrastructure",
-                "healthcare",
-                "tourism_recreation_culture_sport",
-                "waste_management_excl_collection_transport",
-                "other_institution",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Status_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "implemented",
-                "not_implemented",
-                "suspended_due_to_war",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -74,6 +47,33 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Spheres",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "energy_water_utilities",
+                "transport_infrastructure",
+                "healthcare",
+                "tourism_recreation_culture_sport",
+                "waste_management_excl_collection_transport",
+                "other_institution",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Status_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "implemented",
+                "not_implemented",
+                "suspended_due_to_war",
                 ""
               ]
             }

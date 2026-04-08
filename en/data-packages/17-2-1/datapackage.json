@@ -16,35 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Spheres",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
-                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
-                "health care",
-                "tourism, leisure, recreation, culture and sport",
-                "waste management, except collection and transportation",
-                "others",
-                ""
-              ]
-            },
-            "title": "Spheres"
-          },
-          {
-            "name": "Status_1",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "implemented",
-                "not implemented",
-                "suspended due to the armed aggression of the russian federation",
-                ""
-              ]
-            },
-            "title": "Status of execution"
-          },
-          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -81,6 +52,35 @@
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Spheres",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
+                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
+                "health care",
+                "tourism, leisure, recreation, culture and sport",
+                "waste management, except collection and transportation",
+                "others",
+                ""
+              ]
+            },
+            "title": "Spheres"
+          },
+          {
+            "name": "Status_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "implemented",
+                "not implemented",
+                "suspended due to the armed aggression of the russian federation",
+                ""
+              ]
+            },
+            "title": "Status of execution"
           },
           {
             "name": "Value",
