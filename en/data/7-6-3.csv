@@ -2,8 +2,8 @@ Year,Type of residence,Household type,Region,Value
 2015,,,,10.2
 2015,,households with children,,9.5
 2015,,households without children,,10.8
-2015,rural,,,7.4
 2015,urban,,,11.4
+2015,rural,,,7.4
 2015,,,Autonomous Republic of Crimea,
 2015,,,Vinnytsya,8.5
 2015,,,Volyn,8.7
@@ -34,8 +34,8 @@ Year,Type of residence,Household type,Region,Value
 2016,,,,14.7
 2016,,households with children,,13.8
 2016,,households without children,,15.4
-2016,rural,,,12.5
 2016,urban,,,15.7
+2016,rural,,,12.5
 2016,,,Autonomous Republic of Crimea,
 2016,,,Vinnytsya,13.9
 2016,,,Volyn,14.6
@@ -66,8 +66,8 @@ Year,Type of residence,Household type,Region,Value
 2017,,,,15.4
 2017,,households with children,,14.6
 2017,,households without children,,16.2
-2017,rural,,,12.8
 2017,urban,,,16.6
+2017,rural,,,12.8
 2017,,,Autonomous Republic of Crimea,
 2017,,,Vinnytsya,13.5
 2017,,,Volyn,13.7
@@ -98,8 +98,8 @@ Year,Type of residence,Household type,Region,Value
 2018,,,,13.9
 2018,,households with children,,12.8
 2018,,households without children,,14.9
-2018,rural,,,11.4
 2018,urban,,,15.0
+2018,rural,,,11.4
 2018,,,Autonomous Republic of Crimea,
 2018,,,Vinnytsya,12.4
 2018,,,Volyn,12.5
@@ -130,8 +130,8 @@ Year,Type of residence,Household type,Region,Value
 2019,,,,13.0
 2019,,households with children,,12.0
 2019,,households without children,,13.8
-2019,rural,,,9.7
 2019,urban,,,14.4
+2019,rural,,,9.7
 2019,,,Autonomous Republic of Crimea,
 2019,,,Vinnytsya,11.4
 2019,,,Volyn,9.3
@@ -162,8 +162,8 @@ Year,Type of residence,Household type,Region,Value
 2020,,,,12.9
 2020,,households with children,,12.4
 2020,,households without children,,13.3
-2020,rural,,,9.0
 2020,urban,,,14.6
+2020,rural,,,9.0
 2020,,,Autonomous Republic of Crimea,
 2020,,,Vinnytsya,11.3
 2020,,,Volyn,9.2
@@ -194,8 +194,8 @@ Year,Type of residence,Household type,Region,Value
 2021,,,,13.8
 2021,,households with children,,12.7
 2021,,households without children,,14.8
-2021,rural,,,10.1
 2021,urban,,,15.4
+2021,rural,,,10.1
 2021,,,Autonomous Republic of Crimea,
 2021,,,Vinnytsya,12.3
 2021,,,Volyn,10.5
@@ -226,8 +226,8 @@ Year,Type of residence,Household type,Region,Value
 2022,,,,
 2022,,households with children,,
 2022,,households without children,,
-2022,rural,,,
 2022,urban,,,
+2022,rural,,,
 2022,,,Autonomous Republic of Crimea,
 2022,,,Vinnytsya,
 2022,,,Volyn,
@@ -258,8 +258,8 @@ Year,Type of residence,Household type,Region,Value
 2023,,,,
 2023,,households with children,,
 2023,,households without children,,
-2023,rural,,,
 2023,urban,,,
+2023,rural,,,
 2023,,,Autonomous Republic of Crimea,
 2023,,,Vinnytsya,
 2023,,,Volyn,
@@ -290,8 +290,8 @@ Year,Type of residence,Household type,Region,Value
 2024,,,,
 2024,,households with children,,
 2024,,households without children,,
-2024,rural,,,
 2024,urban,,,
+2024,rural,,,
 2024,,,Autonomous Republic of Crimea,
 2024,,,Vinnytsya,
 2024,,,Volyn,

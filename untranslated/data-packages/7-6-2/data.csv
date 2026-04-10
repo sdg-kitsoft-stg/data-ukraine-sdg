@@ -6,8 +6,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2015,,age_18_29,,,21.5
 2015,,age_30_59,,,23.8
 2015,,age_60,,,27.6
-2015,rural,,,,32.3
 2015,urban,,,,20.1
+2015,rural,,,,32.3
 2015,,,,autonomous_Republic_of_Crimea,
 2015,,,,11_reg_Vinnytsya,18.9
 2015,,,,12_reg_Volyn,19.9
@@ -42,8 +42,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2016,,age_18_29,,,
 2016,,age_30_59,,,
 2016,,age_60,,,
-2016,rural,,,,
 2016,urban,,,,
+2016,rural,,,,
 2016,,,,autonomous_Republic_of_Crimea,
 2016,,,,11_reg_Vinnytsya,
 2016,,,,12_reg_Volyn,
@@ -78,8 +78,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2017,,age_18_29,,,24.6
 2017,,age_30_59,,,23.9
 2017,,age_60,,,30.9
-2017,rural,,,,33.3
 2017,urban,,,,21.7
+2017,rural,,,,33.3
 2017,,,,autonomous_Republic_of_Crimea,
 2017,,,,11_reg_Vinnytsya,32.0
 2017,,,,12_reg_Volyn,8.5
@@ -114,8 +114,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2018,,age_18_29,,,
 2018,,age_30_59,,,
 2018,,age_60,,,
-2018,rural,,,,
 2018,urban,,,,
+2018,rural,,,,
 2018,,,,autonomous_Republic_of_Crimea,
 2018,,,,11_reg_Vinnytsya,
 2018,,,,12_reg_Volyn,
@@ -150,8 +150,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2019,,age_18_29,,,17.8
 2019,,age_30_59,,,20.5
 2019,,age_60,,,27.3
-2019,rural,,,,30.5
 2019,urban,,,,17.3
+2019,rural,,,,30.5
 2019,,,,autonomous_Republic_of_Crimea,
 2019,,,,11_reg_Vinnytsya,29.3
 2019,,,,12_reg_Volyn,4.0
@@ -186,8 +186,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2020,,age_18_29,,,
 2020,,age_30_59,,,
 2020,,age_60,,,
-2020,rural,,,,
 2020,urban,,,,
+2020,rural,,,,
 2020,,,,autonomous_Republic_of_Crimea,
 2020,,,,11_reg_Vinnytsya,
 2020,,,,12_reg_Volyn,
@@ -222,8 +222,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2021,,age_18_29,,,16.5
 2021,,age_30_59,,,15.8
 2021,,age_60,,,22.5
-2021,rural,,,,26.4
 2021,urban,,,,12.6
+2021,rural,,,,26.4
 2021,,,,autonomous_Republic_of_Crimea,
 2021,,,,11_reg_Vinnytsya,27.5
 2021,,,,12_reg_Volyn,1.9
@@ -258,8 +258,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2022,,age_18_29,,,
 2022,,age_30_59,,,
 2022,,age_60,,,
-2022,rural,,,,
 2022,urban,,,,
+2022,rural,,,,
 2022,,,,autonomous_Republic_of_Crimea,
 2022,,,,11_reg_Vinnytsya,
 2022,,,,12_reg_Volyn,
@@ -294,8 +294,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2023,,age_18_29,,,
 2023,,age_30_59,,,
 2023,,age_60,,,
-2023,rural,,,,
 2023,urban,,,,
+2023,rural,,,,
 2023,,,,autonomous_Republic_of_Crimea,
 2023,,,,11_reg_Vinnytsya,
 2023,,,,12_reg_Volyn,
@@ -330,8 +330,8 @@ Year,Type of residence,Age,Sex,Region,Value
 2024,,age_18_29,,,
 2024,,age_30_59,,,
 2024,,age_60,,,
-2024,rural,,,,
 2024,urban,,,,
+2024,rural,,,,
 2024,,,,autonomous_Republic_of_Crimea,
 2024,,,,11_reg_Vinnytsya,
 2024,,,,12_reg_Volyn,

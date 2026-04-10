@@ -13169,8 +13169,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
                 "urban",
+                "rural",
                 ""
               ]
             },
@@ -18557,8 +18557,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
                 "urban",
+                "rural",
                 ""
               ]
             },
@@ -19229,8 +19229,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
                 "urban",
+                "rural",
                 ""
               ]
             },
@@ -20364,8 +20364,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "rural",
                 "urban",
+                "rural",
                 ""
               ]
             },
