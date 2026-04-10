@@ -7390,7 +7390,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -12595,7 +12595,7 @@
           }
         ]
       },
-      "title": "7-5-3"
+      "title": "Average monthly electricity consumption per household consumer, kilowatt–hours: without electric heating, with electric heating "
     },
     {
       "path": "11-5-2/data.csv",
@@ -18569,7 +18569,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–29 years",
                 "30–59 years",
                 "60 years and older",
@@ -20376,7 +20376,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–29 years",
                 "30–59 years",
                 "60 years and older",

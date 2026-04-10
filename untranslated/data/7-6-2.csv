@@ -2,7 +2,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2015,,,,,24.2
 2015,,,females_1,,25.6
 2015,,,males_1,,23.0
-2015,,age_18,,,23.3
+2015,,age_18_new,,,23.3
 2015,,age_18_29,,,21.5
 2015,,age_30_59,,,23.8
 2015,,age_60,,,27.6
@@ -38,7 +38,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2016,,,,,
 2016,,,females_1,,
 2016,,,males_1,,
-2016,,age_18,,,
+2016,,age_18_new,,,
 2016,,age_18_29,,,
 2016,,age_30_59,,,
 2016,,age_60,,,
@@ -74,7 +74,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2017,,,,,25.6
 2017,,,females_1,,26.3
 2017,,,males_1,,24.8
-2017,,age_18,,,23.9
+2017,,age_18_new,,,23.9
 2017,,age_18_29,,,24.6
 2017,,age_30_59,,,23.9
 2017,,age_60,,,30.9
@@ -110,7 +110,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2018,,,,,
 2018,,,females_1,,
 2018,,,males_1,,
-2018,,age_18,,,
+2018,,age_18_new,,,
 2018,,age_18_29,,,
 2018,,age_30_59,,,
 2018,,age_60,,,
@@ -146,7 +146,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2019,,,,,21.8
 2019,,,females_1,,22.1
 2019,,,males_1,,21.3
-2019,,age_18,,,20.3
+2019,,age_18_new,,,20.3
 2019,,age_18_29,,,17.8
 2019,,age_30_59,,,20.5
 2019,,age_60,,,27.3
@@ -182,7 +182,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2020,,,,,
 2020,,,females_1,,
 2020,,,males_1,,
-2020,,age_18,,,
+2020,,age_18_new,,,
 2020,,age_18_29,,,
 2020,,age_30_59,,,
 2020,,age_60,,,
@@ -218,7 +218,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2021,,,,,17.2
 2021,,,females_1,,17.9
 2021,,,males_1,,16.3
-2021,,age_18,,,14.0
+2021,,age_18_new,,,14.0
 2021,,age_18_29,,,16.5
 2021,,age_30_59,,,15.8
 2021,,age_60,,,22.5
@@ -254,7 +254,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2022,,,,,
 2022,,,females_1,,
 2022,,,males_1,,
-2022,,age_18,,,
+2022,,age_18_new,,,
 2022,,age_18_29,,,
 2022,,age_30_59,,,
 2022,,age_60,,,
@@ -290,7 +290,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2023,,,,,
 2023,,,females_1,,
 2023,,,males_1,,
-2023,,age_18,,,
+2023,,age_18_new,,,
 2023,,age_18_29,,,
 2023,,age_30_59,,,
 2023,,age_60,,,
@@ -326,7 +326,7 @@ Year,Type of residence,Age,Sex,Region,Value
 2024,,,,,
 2024,,,females_1,,
 2024,,,males_1,,
-2024,,age_18,,,
+2024,,age_18_new,,,
 2024,,age_18_29,,,
 2024,,age_30_59,,,
 2024,,age_60,,,

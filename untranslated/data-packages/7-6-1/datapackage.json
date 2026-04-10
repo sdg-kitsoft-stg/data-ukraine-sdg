@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_18",
+                "age_18_new",
                 "age_18_29",
                 "age_30_59",
                 "age_60",
