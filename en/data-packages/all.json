@@ -16138,14 +16138,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Authorities",
                 "Balances",
-                "Consumption",
                 "Natural monopolies",
-                "Policy",
-                "Reliability and safety",
-                "Reporting",
                 "Supply",
+                "Reliability and safety",
+                "Consumption",
+                "Reporting",
+                "Policy",
+                "Authorities",
                 ""
               ]
             },

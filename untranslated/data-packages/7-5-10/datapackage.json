@@ -19,14 +19,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "authorities",
                 "balances",
-                "consumption",
                 "natural_monopolies",
-                "policy",
-                "reliability_and_safety",
-                "reporting",
                 "supply",
+                "reliability_and_safety",
+                "consumption",
+                "reporting",
+                "policy",
+                "authorities",
                 ""
               ]
             }
