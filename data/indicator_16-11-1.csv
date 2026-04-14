@@ -1,4 +1,4 @@
-﻿Year,Region,Age,Gender,group_16,group_17,Value
+Year,Region,Age,Sex,Type of residence,group_17,Value
 2015,,age_15,,,,
 2015,,group_label_183,,,,0.6
 2015,,group_label_184,,,,1.1
@@ -6,8 +6,8 @@
 2015,,group_label_186,,,,2.9
 2015,,group_label_187,,,,2.6
 2015,,group_label_188,,,,4.5
-2015,,,2_females,,,2.4
-2015,,,males,,,1.8
+2015,,,females_1,,,2.4
+2015,,,males_1,,,1.8
 2015,,,,urban,,2.2
 2015,,,,rural,,1.6
 2015,,,,,dg_01,0.6
@@ -20,7 +20,7 @@
 2015,,,,,dg_08,2.6
 2015,,,,,dg_09,2.4
 2015,,,,,dg_10,4.4
-2015,Ukraine,,,,,2.1
+2015,,,,,,2.1
 2015,autonomous_Republic_of_Crimea,,,,,
 2015,11_reg_Vinnytsya,,,,,1.9
 2015,12_reg_Volyn,,,,,0.0
@@ -46,7 +46,7 @@
 2015,32_reg_Cherkasy,,,,,1.6
 2015,33_reg_Chernivtsi,,,,,5.1
 2015,34_reg_Chernihiv,,,,,1.8
-2015,35_reg_Kyiv_city,,,,,4.7
+2015,Kyiv_city,,,,,4.7
 2015,city_Sevastopol,,,,,
 2016,,age_15,,,,
 2016,,group_label_183,,,,0.2
@@ -55,8 +55,8 @@
 2016,,group_label_186,,,,2.3
 2016,,group_label_187,,,,1.6
 2016,,group_label_188,,,,2.5
-2016,,,2_females,,,2.0
-2016,,,males,,,1.3
+2016,,,females_1,,,2.0
+2016,,,males_1,,,1.3
 2016,,,,urban,,1.8
 2016,,,,rural,,1.3
 2016,,,,,dg_01,1.1
@@ -69,7 +69,7 @@
 2016,,,,,dg_08,2.1
 2016,,,,,dg_09,1.6
 2016,,,,,dg_10,3.8
-2016,Ukraine,,,,,1.7
+2016,,,,,,1.7
 2016,autonomous_Republic_of_Crimea,,,,,
 2016,11_reg_Vinnytsya,,,,,1.5
 2016,12_reg_Volyn,,,,,1.3
@@ -95,7 +95,7 @@
 2016,32_reg_Cherkasy,,,,,2.1
 2016,33_reg_Chernivtsi,,,,,4.4
 2016,34_reg_Chernihiv,,,,,1.2
-2016,35_reg_Kyiv_city,,,,,2.4
+2016,Kyiv_city,,,,,2.4
 2016,city_Sevastopol,,,,,
 2017,,age_15,,,,0.1
 2017,,group_label_183,,,,0.1
@@ -104,8 +104,8 @@
 2017,,group_label_186,,,,3.1
 2017,,group_label_187,,,,1.1
 2017,,group_label_188,,,,4.2
-2017,,,2_females,,,2.3
-2017,,,males,,,1.5
+2017,,,females_1,,,2.3
+2017,,,males_1,,,1.5
 2017,,,,urban,,2.0
 2017,,,,rural,,1.5
 2017,,,,,dg_01,0.1
@@ -118,7 +118,7 @@
 2017,,,,,dg_08,2.9
 2017,,,,,dg_09,2.9
 2017,,,,,dg_10,3.9
-2017,Ukraine,,,,,1.9
+2017,,,,,,1.9
 2017,autonomous_Republic_of_Crimea,,,,,
 2017,11_reg_Vinnytsya,,,,,3.5
 2017,12_reg_Volyn,,,,,0.4
@@ -144,7 +144,7 @@
 2017,32_reg_Cherkasy,,,,,3.6
 2017,33_reg_Chernivtsi,,,,,2.6
 2017,34_reg_Chernihiv,,,,,2.8
-2017,35_reg_Kyiv_city,,,,,3.8
+2017,Kyiv_city,,,,,3.8
 2017,city_Sevastopol,,,,,
 2018,,age_15,,,,0.2
 2018,,group_label_183,,,,0.1
@@ -153,8 +153,8 @@
 2018,,group_label_186,,,,3.4
 2018,,group_label_187,,,,1.4
 2018,,group_label_188,,,,0.2
-2018,,,2_females,,,2.4
-2018,,,males,,,1.4
+2018,,,females_1,,,2.4
+2018,,,males_1,,,1.4
 2018,,,,urban,,2.1
 2018,,,,rural,,1.5
 2018,,,,,dg_01,1.1
@@ -167,7 +167,7 @@
 2018,,,,,dg_08,1.8
 2018,,,,,dg_09,3.3
 2018,,,,,dg_10,4.6
-2018,Ukraine,,,,,1.9
+2018,,,,,,1.9
 2018,autonomous_Republic_of_Crimea,,,,,
 2018,11_reg_Vinnytsya,,,,,3.1
 2018,12_reg_Volyn,,,,,0.7
@@ -193,7 +193,7 @@
 2018,32_reg_Cherkasy,,,,,1.2
 2018,33_reg_Chernivtsi,,,,,4.7
 2018,34_reg_Chernihiv,,,,,6.9
-2018,35_reg_Kyiv_city,,,,,3.8
+2018,Kyiv_city,,,,,3.8
 2018,city_Sevastopol,,,,,
 2019,,age_15,,,,0.0
 2019,,group_label_183,,,,0.0
@@ -202,8 +202,8 @@
 2019,,group_label_186,,,,3.9
 2019,,group_label_187,,,,2.1
 2019,,group_label_188,,,,1.4
-2019,,,2_females,,,2.9
-2019,,,males,,,2.0
+2019,,,females_1,,,2.9
+2019,,,males_1,,,2.0
 2019,,,,urban,,2.7
 2019,,,,rural,,1.7
 2019,,,,,dg_01,0.6
@@ -216,7 +216,7 @@
 2019,,,,,dg_08,3.1
 2019,,,,,dg_09,4.2
 2019,,,,,dg_10,6.9
-2019,Ukraine,,,,,2.5
+2019,,,,,,2.5
 2019,autonomous_Republic_of_Crimea,,,,,
 2019,11_reg_Vinnytsya,,,,,1.7
 2019,12_reg_Volyn,,,,,1.5
@@ -242,7 +242,7 @@
 2019,32_reg_Cherkasy,,,,,2.0
 2019,33_reg_Chernivtsi,,,,,4.7
 2019,34_reg_Chernihiv,,,,,4.1
-2019,35_reg_Kyiv_city,,,,,4.5
+2019,Kyiv_city,,,,,4.5
 2019,city_Sevastopol,,,,,
 2020,,age_15,,,,0.0
 2020,,group_label_183,,,,0.7
@@ -251,8 +251,8 @@
 2020,,group_label_186,,,,4.6
 2020,,group_label_187,,,,3.2
 2020,,group_label_188,,,,5.8
-2020,,,2_females,,,3.6
-2020,,,males,,,3.1
+2020,,,females_1,,,3.6
+2020,,,males_1,,,3.1
 2020,,,,urban,,3.7
 2020,,,,rural,,2.4
 2020,,,,,dg_01,0.7
@@ -265,7 +265,7 @@
 2020,,,,,dg_08,4.3
 2020,,,,,dg_09,2.9
 2020,,,,,dg_10,7.5
-2020,Ukraine,,,,,3.3
+2020,,,,,,3.3
 2020,autonomous_Republic_of_Crimea,,,,,
 2020,11_reg_Vinnytsya,,,,,4.4
 2020,12_reg_Volyn,,,,,1.5
@@ -291,7 +291,7 @@
 2020,32_reg_Cherkasy,,,,,3.9
 2020,33_reg_Chernivtsi,,,,,4.6
 2020,34_reg_Chernihiv,,,,,1.5
-2020,35_reg_Kyiv_city,,,,,5.8
+2020,Kyiv_city,,,,,5.8
 2020,city_Sevastopol,,,,,
 2021,,age_15,,,,0.0
 2021,,group_label_183,,,,0.7
@@ -300,8 +300,8 @@
 2021,,group_label_186,,,,5.7
 2021,,group_label_187,,,,2.6
 2021,,group_label_188,,,,0.0
-2021,,,2_females,,,4.7
-2021,,,males,,,4.0
+2021,,,females_1,,,4.7
+2021,,,males_1,,,4.0
 2021,,,,urban,,5.3
 2021,,,,rural,,2.2
 2021,,,,,dg_01,1.3
@@ -314,7 +314,7 @@
 2021,,,,,dg_08,4.6
 2021,,,,,dg_09,7.7
 2021,,,,,dg_10,10.5
-2021,Ukraine,,,,,4.3
+2021,,,,,,4.3
 2021,autonomous_Republic_of_Crimea,,,,,
 2021,11_reg_Vinnytsya,,,,,4.2
 2021,12_reg_Volyn,,,,,3.2
@@ -340,7 +340,7 @@
 2021,32_reg_Cherkasy,,,,,3.0
 2021,33_reg_Chernivtsi,,,,,5.4
 2021,34_reg_Chernihiv,,,,,0.8
-2021,35_reg_Kyiv_city,,,,,9.6
+2021,Kyiv_city,,,,,9.6
 2021,city_Sevastopol,,,,,
 2022,,age_15,,,,
 2022,,group_label_183,,,,
@@ -349,8 +349,8 @@
 2022,,group_label_186,,,,
 2022,,group_label_187,,,,
 2022,,group_label_188,,,,
-2022,,,2_females,,,
-2022,,,males,,,
+2022,,,females_1,,,
+2022,,,males_1,,,
 2022,,,,urban,,
 2022,,,,rural,,
 2022,,,,,dg_01,
@@ -363,7 +363,7 @@
 2022,,,,,dg_08,
 2022,,,,,dg_09,
 2022,,,,,dg_10,
-2022,Ukraine,,,,,
+2022,,,,,,
 2022,autonomous_Republic_of_Crimea,,,,,
 2022,11_reg_Vinnytsya,,,,,
 2022,12_reg_Volyn,,,,,
@@ -389,7 +389,7 @@
 2022,32_reg_Cherkasy,,,,,
 2022,33_reg_Chernivtsi,,,,,
 2022,34_reg_Chernihiv,,,,,
-2022,35_reg_Kyiv_city,,,,,
+2022,Kyiv_city,,,,,
 2022,city_Sevastopol,,,,,
 2023,,age_15,,,,
 2023,,group_label_183,,,,
@@ -398,8 +398,8 @@
 2023,,group_label_186,,,,
 2023,,group_label_187,,,,
 2023,,group_label_188,,,,
-2023,,,2_females,,,
-2023,,,males,,,
+2023,,,females_1,,,
+2023,,,males_1,,,
 2023,,,,urban,,
 2023,,,,rural,,
 2023,,,,,dg_01,
@@ -412,7 +412,7 @@
 2023,,,,,dg_08,
 2023,,,,,dg_09,
 2023,,,,,dg_10,
-2023,Ukraine,,,,,
+2023,,,,,,
 2023,autonomous_Republic_of_Crimea,,,,,
 2023,11_reg_Vinnytsya,,,,,
 2023,12_reg_Volyn,,,,,
@@ -438,7 +438,7 @@
 2023,32_reg_Cherkasy,,,,,
 2023,33_reg_Chernivtsi,,,,,
 2023,34_reg_Chernihiv,,,,,
-2023,35_reg_Kyiv_city,,,,,
+2023,Kyiv_city,,,,,
 2023,city_Sevastopol,,,,,
 2024,,age_15,,,,
 2024,,group_label_183,,,,
@@ -447,8 +447,8 @@
 2024,,group_label_186,,,,
 2024,,group_label_187,,,,
 2024,,group_label_188,,,,
-2024,,,2_females,,,
-2024,,,males,,,
+2024,,,females_1,,,
+2024,,,males_1,,,
 2024,,,,urban,,
 2024,,,,rural,,
 2024,,,,,dg_01,
@@ -461,7 +461,7 @@
 2024,,,,,dg_08,
 2024,,,,,dg_09,
 2024,,,,,dg_10,
-2024,Ukraine,,,,,
+2024,,,,,,
 2024,autonomous_Republic_of_Crimea,,,,,
 2024,11_reg_Vinnytsya,,,,,
 2024,12_reg_Volyn,,,,,
@@ -487,5 +487,5 @@
 2024,32_reg_Cherkasy,,,,,
 2024,33_reg_Chernivtsi,,,,,
 2024,34_reg_Chernihiv,,,,,
-2024,35_reg_Kyiv_city,,,,,
+2024,Kyiv_city,,,,,
 2024,city_Sevastopol,,,,,

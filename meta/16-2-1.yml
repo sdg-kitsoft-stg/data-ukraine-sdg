@@ -1,6 +1,6 @@
 SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.2 Clearing the territory of explosive objects that appeared as a result of the armed aggression of the Russian Federation against Ukraine through demining (humanitarian demining)
 SDG_INDICATOR: 16.2.1 Area of the allegedly contaminated area identified by the results of a non-technical survey, square kilometers (hectares)
-UNIT_MEASURE: "Square kilometers (hectares)"
+UNIT_MEASURE: "Square kilometers"
 CONTACT_ORGANISATION: "Ministry of Defence of Ukraine (MOD)"
-REC_USE_LIM: 2015-2021 - Data have been developed since 2022.<br>2022-2024 - Lacking data indicates that the indicated territories were not contaminated with explosive objects, with the exception of the territories of Donetsk and Luhansk regions, since at the time of providing the data these territories are occupied or located in zones of active hostilities.
+REC_USE_LIM: '2015–2021: Data have been developed since 2022. <br> 2022–2024: Lacking data indicates that the indicated territories were not contaminated with explosive objects, with the exception of the territories of Donetsk and Luhansk regions, since at the time of providing the data these territories are occupied or located in zones of active hostilities.'

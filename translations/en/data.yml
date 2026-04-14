@@ -232,8 +232,8 @@ age_0_17: 0–17 years old inclusive
 age_18_plus: 18 years and older
 age_18: under 18 years old
 age_18_new: up to 18 years
-age_18_35: from 18 years to 35 years inclusive
-age_36_60: from 36 years to 60 years inclusive
+age_18_35: 18–35 years
+age_36_60: 36–60 years
 age_1_18_35: 18-35 years
 age_2_36_60: 36-60 years
 age_2_61_64: 61-64 years
@@ -318,9 +318,9 @@ Level_ed: Level of education
 6_bas_ed: Basic, elementary general or no education
 urban_settl: urban settlement
 village_: settlement, village
-Households: Household type
-hh_ch: households/families with children
-hh_ch_0: households/families without children
+Households: Households
+hh_ch: households with children
+hh_ch_0: households without children
 Decile groups: Decile groups of income
 dg_01: 1st group (low income)
 dg_02: 2nd group
@@ -2095,18 +2095,18 @@ group_label_169: 19–25 years
 group_label_170: 26–35 years
 group_label_171: 36–45 years
 group_label_172: 46–60 years
-group_label_173: Over 60 years
+group_label_173: over 60 years
 group_13: Sex
 group_label_174: women
 group_label_175: men
 group_14: Status of the subject of the appeal
-group_label_176: Individual
-group_label_177: Sole proprietor (individual entrepreneur)
-group_label_178: Legal entity
-group_15: Type of authority that established the ASC
-group_label_179: City council
-group_label_180: Settlement council
-group_label_181: Village council
+group_label_176: individual
+group_label_177: individual entrepreneur
+group_label_178: legal entitie
+group_15: Type of authority that formed the Center for the provision of administrative services
+group_label_179: city council
+group_label_180: settlement council
+group_label_181: village council
 group_16: Type of residence
 group_label_189: urban
 group_label_190: rural
@@ -2121,9 +2121,9 @@ group_label_197: Seventh
 group_label_198: Eighth
 group_label_199: Ninth
 group_label_200: Tenth (highest)
-group_18: Conducted by
-group_label_201: By ministries and other central executive bodies
-group_label_202: By regional, Kyiv city state administrations (military administrations)
+group_18: Public consultations have been held
+group_label_201: by ministries, other central executive authorities
+group_label_202: by regional, Kyiv city state administrations (military administrations)
 group_label_203: men 18–35 years
 group_label_204: men 36–59 years
 group_label_205: men 60 years and older
@@ -2135,55 +2135,55 @@ group_label_210: cities (population 50,000–500,000)
 group_label_211: small cities (population less than 50,000)
 group_label_212: rural areas
 group_19: Education level
-group_label_213: Primary education
-group_label_214: Secondary education
-group_label_215: Secondary vocational education
+group_label_213: primary education
+group_label_214: secondary education
+group_label_215: secondary vocational education
 group_label_216: Higher education
 group_20: Employment status
-group_label_217: Full/part-time employment
-group_label_218: Housekeeping or maternity leave
-group_label_219: Pensioners
-group_label_220: Students
-group_label_221: Unemployed
+group_label_217: full/part-time
+group_label_218: housekeeping or maternity leave
+group_label_219: pensioners
+group_label_220: students
+group_label_221: unemployed
 group_21: Income level
-group_label_222: Not enough money for food
-group_label_223: Enough for food, but not enough for clothing
-group_label_224: Enough for clothing, but not enough for expensive goods
-group_label_225: Enough money for expensive goods
+group_label_222: not enough money for food
+group_label_223: enough for food, but not enough for clothes
+group_label_224: enough for clothes, but not enough for expensive goods
+group_label_225: enough money for expensive goods
 group_22: Displacement status
-group_label_226: Internally displaced persons (IDPs)
-group_label_227: Returnees
-group_label_228: People who did not leave
-group_label_229: By disability criterion
-group_label_230: including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
+group_label_226: internally displaced persons (IDPs)
+group_label_227: persons who returned
+group_label_228: persons who did not leave
+group_label_229: by disability criterion
+group_label_230: Including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
 group_label_231: up to 18 years
 group_label_232: 18–35 years
 group_label_233: 36–60 years
 group_label_234: 61 years and older
 group_23: Type of place of residence
 group_24: Type of legal aid
-group_label_235: Primary legal aid
-group_label_236: Secondary legal aid
-group_25: Category of issues
-group_label_237: Social security
-group_label_238: Inheritance law
-group_label_239: Family law
-group_label_240: Medical law
-group_label_241: Labor law
-group_label_242: Administrative law and administrative procedure
-group_label_243: Land law
-group_label_244: Contract law
-group_label_245: Housing law
-group_label_246: Civil law and civil procedure
-group_label_247: Enforcement of court decisions
-group_label_248: Non-legal issue
-group_label_249: Other
-group_label_250: Criminal law and criminal procedure
-group_label_251: Pension law
-group_label_252: Tax law
-group_label_253: Electoral law
-group_label_254: Commercial law
-group_label_255: Issues related to armed aggression
+group_label_235: primary legal aid
+group_label_236: secondary legal aid
+group_25: Category of questions for which the person is applying
+group_label_237: social security
+group_label_238: inheritance law
+group_label_239: family law
+group_label_240: medical law
+group_label_241: labor law
+group_label_242: administrative law and administrative process
+group_label_243: land law
+group_label_244: contract law
+group_label_245: housing law
+group_label_246: civil law and civil process
+group_label_247: enforcement of court decisions
+group_label_248: non-legal issue
+group_label_249: other
+group_label_250: criminal law and criminal process
+group_label_251: pension law
+group_label_252: tax law
+group_label_253: election law
+group_label_254: economic law
+group_label_255: issues related to armed aggression
 group_label_256: up to 30 years
 group_label_257: 30–54 years
 group_label_258: 55 years and older
@@ -2196,9 +2196,9 @@ group_label_264: highest and above average
 group_26: Risk level
 group_label_265: low
 group_label_266: high
-group_27: Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent
-group_label_267: Share of population
-group_label_268: Share of business representatives
+group_27: Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention
+group_label_267: share of population
+group_label_268: share of business representatives
 B01: growing of cereals (except rice), leguminous crops and oil seeds
 B02: growing of rice
 B03: growing of vegetables and melons, roots and tubers
@@ -3019,7 +3019,7 @@ group_32: Age groups of youth who are not in employment, education or training
 group_label_320: aged 15–24
 group_label_321: aged 15–34
 group_label_322: Number of registered client requests for free legal assistance
-group_label_323: including who have applied to a single contact number of the free legal aid system 0-800-213-103 2
+group_label_323: Number of registered client requests for free legal assistance by regions
 group_label_324: medium
 group_33: Sex (age 15–24)
 group_34: Type of residence (age 15–24)
@@ -3140,7 +3140,7 @@ s_11_indu_1: Industry (Code NACE Rev.2 – B+C+D+E)
 58_water_supply_1: Water supply; sewerage, waste management and remediation activities (Code NACE Rev.2 – E)
 59_water_collection_1: Water collection, treatment and supply; sewerage (Code NACE Rev.2 – 36+37)
 60_waste_management_1: Waste collection, treatment and disposal activities; materials recovery, other waste management activities (Code NACE Rev.2 – 38+39)
-61_trade_transport_info_1: Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)
+61_trade_transport_info_1: Wholesale trade, except of motor vehicles and motorcycles, transportation and storage, postal and courier activities, information and and telecommunications, financial and insurance activities, architectural and engineering activities; technical testing and analysis, scientific research and development, advertising and market research (Code NACE Rev.2 – 46+H+J+K+71+72+73)
 62_wholesale_trade_1: Wholesale trade, except of motor vehicles and motorcycles (Code NACE Rev.2 – 46)
 63_transport_storage_1: Transportation and storage, postal and courier activities (Code NACE Rev.2 – H)
 64_transport_types_1: Land transport and transport via pipelines, water transport, air transport (Code NACE Rev.2 – 49+50+51)
@@ -3200,3 +3200,18 @@ natural_gas_distribution: production and technological costs during natural gas 
 Building_type: Types of buildings
 residential: in residential buildings
 non_residential: in non-residential buildings
+Decile groups_2: Decile groups
+group_18_1: Public consultations held by regional, Kyiv city state administrations (military administrations), Ukraine
+23_educ_1: Level of education
+group_20_1: Employment status
+disability: Disability criterion
+age_61: 61 years and older
+Center: Center
+East: East
+South: South
+West: West
+by main product groups_1: Main product groups
+Gender: Sex
+Mode of transport: Mode of transport
+Settlement: Settlement
+city: city
