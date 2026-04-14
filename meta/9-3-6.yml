@@ -2,7 +2,7 @@ SDG_GOAL: 9 Industry, innovation and infrastructure
 SDG_TARGET: 9.3 Ensuring the development of a qualitative, persistent, sustainable and affordable transport system
 SDG_INDICATOR: 9.3.6 Share of railway transport in the total volume of the unified transport system, percent
 UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraineu"
+CONTACT_ORGANISATION: "Ministry for Development of Communities and Territories of Ukraine"
 REC_USE_LIM: 'Data will be provided additionally.'
 reference_title: "Target value of the indicator for 2030"
 footer_reference: '60'

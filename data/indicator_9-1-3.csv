@@ -16,18 +16,18 @@ Year,Ec_activ_1,Value
 2018,3_mining_1,0.1
 2019,3_mining_1,0.2
 2020,3_mining_1,1.8
-2021,3_mining_1,c
-2022,3_mining_1,c
-2023,3_mining_1,c
-2024,3_mining_1,c
+2021,3_mining_1,hide_data
+2022,3_mining_1,hide_data
+2023,3_mining_1,hide_data
+2024,3_mining_1,hide_data
 
 2015,12_ext_coal_1,
 2016,12_ext_coal_1,
-2017,12_ext_coal_1,c
+2017,12_ext_coal_1,hide_data
 2018,12_ext_coal_1,
 2019,12_ext_coal_1,
 2020,12_ext_coal_1,
-2021,12_ext_coal_1,c
+2021,12_ext_coal_1,hide_data
 2022,12_ext_coal_1,
 2023,12_ext_coal_1,
 2024,12_ext_coal_1,
@@ -37,8 +37,8 @@ Year,Ec_activ_1,Value
 2017,13_ext_oil_1,
 2018,13_ext_oil_1,0.0
 2019,13_ext_oil_1,
-2020,13_ext_oil_1,c
-2021,13_ext_oil_1,c
+2020,13_ext_oil_1,hide_data
+2021,13_ext_oil_1,hide_data
 2022,13_ext_oil_1,
 2023,13_ext_oil_1,
 2024,13_ext_oil_1,
@@ -48,33 +48,33 @@ Year,Ec_activ_1,Value
 2017,14_ext_ores_1,
 2018,14_ext_ores_1,0.2
 2019,14_ext_ores_1,0.3
-2020,14_ext_ores_1,c
-2021,14_ext_ores_1,c
-2022,14_ext_ores_1,c
+2020,14_ext_ores_1,hide_data
+2021,14_ext_ores_1,hide_data
+2022,14_ext_ores_1,hide_data
 2023,14_ext_ores_1,
-2024,14_ext_ores_1,c
+2024,14_ext_ores_1,hide_data
 
 2015,15_ext_miner_1,0.5
 2016,15_ext_miner_1,
 2017,15_ext_miner_1,0.3
 2018,15_ext_miner_1,0.1
 2019,15_ext_miner_1,0.4
-2020,15_ext_miner_1,c
-2021,15_ext_miner_1,c
-2022,15_ext_miner_1,c
-2023,15_ext_miner_1,c
-2024,15_ext_miner_1,c
+2020,15_ext_miner_1,hide_data
+2021,15_ext_miner_1,hide_data
+2022,15_ext_miner_1,hide_data
+2023,15_ext_miner_1,hide_data
+2024,15_ext_miner_1,hide_data
 
 2015,16_serv_1,0.0
 2016,16_serv_1,
 2017,16_serv_1,0.6
 2018,16_serv_1,0.0
 2019,16_serv_1,1.1
-2020,16_serv_1,c
-2021,16_serv_1,c
+2020,16_serv_1,hide_data
+2021,16_serv_1,hide_data
 2022,16_serv_1,
 2023,16_serv_1,
-2024,16_serv_1,c
+2024,16_serv_1,hide_data
 
 2015,17_proc_ind_1,2.1
 2016,17_proc_ind_1,
@@ -113,8 +113,8 @@ Year,Ec_activ_1,Value
 2016,20_man_tobac_1,
 2017,20_man_tobac_1,0.8
 2018,20_man_tobac_1,0.2
-2019,20_man_tobac_1,c
-2020,20_man_tobac_1,c
+2019,20_man_tobac_1,hide_data
+2020,20_man_tobac_1,hide_data
 2021,20_man_tobac_1,
 2022,20_man_tobac_1,
 2023,20_man_tobac_1,
@@ -126,9 +126,9 @@ Year,Ec_activ_1,Value
 2018,21_man_text_1,1.1
 2019,21_man_text_1,0.4
 2020,21_man_text_1,1.3
-2021,21_man_text_1,c
-2022,21_man_text_1,c
-2023,21_man_text_1,c
+2021,21_man_text_1,hide_data
+2022,21_man_text_1,hide_data
+2023,21_man_text_1,hide_data
 2024,21_man_text_1,2.2
 
 2015,22_man_cloth_1,0.6
@@ -136,22 +136,22 @@ Year,Ec_activ_1,Value
 2017,22_man_cloth_1,0.4
 2018,22_man_cloth_1,0.7
 2019,22_man_cloth_1,0.2
-2020,22_man_cloth_1,c
-2021,22_man_cloth_1,c
-2022,22_man_cloth_1,c
-2023,22_man_cloth_1,c
+2020,22_man_cloth_1,hide_data
+2021,22_man_cloth_1,hide_data
+2022,22_man_cloth_1,hide_data
+2023,22_man_cloth_1,hide_data
 2024,22_man_cloth_1,2.1
 
 2015,23_man_leather_1,0.1
 2016,23_man_leather_1,
 2017,23_man_leather_1,0.2
 2018,23_man_leather_1,3.6
-2019,23_man_leather_1,c
+2019,23_man_leather_1,hide_data
 2020,23_man_leather_1,0.1
 2021,23_man_leather_1,
 2022,23_man_leather_1,
 2023,23_man_leather_1,
-2024,23_man_leather_1,c
+2024,23_man_leather_1,hide_data
 
 2015,24_man_wood_1,0.3
 2016,24_man_wood_1,
@@ -159,9 +159,9 @@ Year,Ec_activ_1,Value
 2018,24_man_wood_1,0.5
 2019,24_man_wood_1,0.1
 2020,24_man_wood_1,1.5
-2021,24_man_wood_1,c
+2021,24_man_wood_1,hide_data
 2022,24_man_wood_1,2.7
-2023,24_man_wood_1,c
+2023,24_man_wood_1,hide_data
 2024,24_man_wood_1,0.9
 
 2015,25_man_paper_1,1.5
@@ -170,7 +170,7 @@ Year,Ec_activ_1,Value
 2018,25_man_paper_1,0.3
 2019,25_man_paper_1,0.1
 2020,25_man_paper_1,0.4
-2021,25_man_paper_1,c
+2021,25_man_paper_1,hide_data
 2022,25_man_paper_1,0.5
 2023,25_man_paper_1,0.6
 2024,25_man_paper_1,
@@ -180,20 +180,20 @@ Year,Ec_activ_1,Value
 2017,26_print_1,3.1
 2018,26_print_1,7.7
 2019,26_print_1,6.3
-2020,26_print_1,c
-2021,26_print_1,c
-2022,26_print_1,c
-2023,26_print_1,c
+2020,26_print_1,hide_data
+2021,26_print_1,hide_data
+2022,26_print_1,hide_data
+2023,26_print_1,hide_data
 2024,26_print_1,
 
 2015,27_man_coke_1,0.4
 2016,27_man_coke_1,
-2017,27_man_coke_1,c
-2018,27_man_coke_1,c
-2019,27_man_coke_1,c
-2020,27_man_coke_1,c
-2021,27_man_coke_1,c
-2022,27_man_coke_1,c
+2017,27_man_coke_1,hide_data
+2018,27_man_coke_1,hide_data
+2019,27_man_coke_1,hide_data
+2020,27_man_coke_1,hide_data
+2021,27_man_coke_1,hide_data
+2022,27_man_coke_1,hide_data
 2023,27_man_coke_1,
 2024,27_man_coke_1,
 
@@ -206,7 +206,7 @@ Year,Ec_activ_1,Value
 2021,28_man_chemic_1,0.2
 2022,28_man_chemic_1,0.3
 2023,28_man_chemic_1,0.3
-2024,28_man_chemic_1,c
+2024,28_man_chemic_1,hide_data
 
 2015,29_man_pharmac_1,3.0
 2016,29_man_pharmac_1,
@@ -225,12 +225,12 @@ Year,Ec_activ_1,Value
 2018,30_man_rubber_1,2.0
 2019,30_man_rubber_1,1.8
 2020,30_man_rubber_1,0.9
-2021,30_man_rubber_1,c
+2021,30_man_rubber_1,hide_data
 2022,30_man_rubber_1,0.2
 2023,30_man_rubber_1,0.2
 2024,30_man_rubber_1,0.3
 
-2015,31_man_non_met_1,0.3
+2015,31_man_non_me_1t,0.3
 2016,31_man_non_met_1,
 2017,31_man_non_met_1,0.9
 2018,31_man_non_met_1,1.0
@@ -246,11 +246,11 @@ Year,Ec_activ_1,Value
 2017,32_man_met_1,0.9
 2018,32_man_met_1,0.5
 2019,32_man_met_1,3.2
-2020,32_man_met_1,c
-2021,32_man_met_1,c
-2022,32_man_met_1,c
-2023,32_man_met_1,c
-2024,32_man_met_1,c
+2020,32_man_met_1,hide_data
+2021,32_man_met_1,hide_data
+2022,32_man_met_1,hide_data
+2023,32_man_met_1,hide_data
+2024,32_man_met_1,hide_data
 
 2015,33_man_equip_1,1.4
 2016,33_man_equip_1,
@@ -260,7 +260,7 @@ Year,Ec_activ_1,Value
 2020,33_man_equip_1,1.5
 2021,33_man_equip_1,1.0
 2022,33_man_equip_1,3.3
-2023,33_man_equip_1,c
+2023,33_man_equip_1,hide_data
 2024,33_man_equip_1,19.7
 
 2015,34_man_pc_1,6.4
@@ -337,8 +337,8 @@ Year,Ec_activ_1,Value
 2020,40_man_oth_prod_1,3.1
 2021,40_man_oth_prod_1,0.4
 2022,40_man_oth_prod_1,0.5
-2023,40_man_oth_prod_1,c
-2024,40_man_oth_prod_1,c
+2023,40_man_oth_prod_1,hide_data
+2024,40_man_oth_prod_1,hide_data
 
 2015,41_repair_1,0.9
 2016,41_repair_1,
@@ -346,42 +346,42 @@ Year,Ec_activ_1,Value
 2018,41_repair_1,0.7
 2019,41_repair_1,0.4
 2020,41_repair_1,0.2
-2021,41_repair_1,c
+2021,41_repair_1,hide_data
 2022,41_repair_1,1.0
-2023,41_repair_1,c
+2023,41_repair_1,hide_data
 2024,41_repair_1,0.3
 
 2015,42_suppl_elec_1,0.0
 2016,42_suppl_elec_1,
-2017,42_suppl_elec_1,c
-2018,42_suppl_elec_1,c
-2019,42_suppl_elec_1,c
-2020,42_suppl_elec_1,c
-2021,42_suppl_elec_1,c
+2017,42_suppl_elec_1,hide_data
+2018,42_suppl_elec_1,hide_data
+2019,42_suppl_elec_1,hide_data
+2020,42_suppl_elec_1,hide_data
+2021,42_suppl_elec_1,hide_data
 2022,42_suppl_elec_1,
-2023,42_suppl_elec_1,c
-2024,42_suppl_elec_1,c
+2023,42_suppl_elec_1,hide_data
+2024,42_suppl_elec_1,hide_data
 
 2015,42_suppl_elec_2,0.0
 2016,42_suppl_elec_2,
-2017,42_suppl_elec_2,c
-2018,42_suppl_elec_2,c
-2019,42_suppl_elec_2,c
-2020,42_suppl_elec_2,c
-2021,42_suppl_elec_2,c
+2017,42_suppl_elec_2,hide_data
+2018,42_suppl_elec_2,hide_data
+2019,42_suppl_elec_2,hide_data
+2020,42_suppl_elec_2,hide_data
+2021,42_suppl_elec_2,hide_data
 2022,42_suppl_elec_2,
-2023,42_suppl_elec_2,c
-2024,42_suppl_elec_2,c
+2023,42_suppl_elec_2,hide_data
+2024,42_suppl_elec_2,hide_data
 
 2015,43_suppl_wat_1,0.0
 2016,43_suppl_wat_1,
-2017,43_suppl_wat_1,c
-2018,43_suppl_wat_1,c
-2019,43_suppl_wat_1,c
-2020,43_suppl_wat_1,c
+2017,43_suppl_wat_1,hide_data
+2018,43_suppl_wat_1,hide_data
+2019,43_suppl_wat_1,hide_data
+2020,43_suppl_wat_1,hide_data
 2021,43_suppl_wat_1,
-2022,43_suppl_wat_1,c
-2023,43_suppl_wat_1,c
+2022,43_suppl_wat_1,hide_data
+2023,43_suppl_wat_1,hide_data
 2024,43_suppl_wat_1,0.4
 
 2015,44_collec_wat_1,0.0
@@ -389,33 +389,33 @@ Year,Ec_activ_1,Value
 2017,44_collec_wat_1,
 2018,44_collec_wat_1,
 2019,44_collec_wat_1,
-2020,44_collec_wat_1,c
+2020,44_collec_wat_1,hide_data
 2021,44_collec_wat_1,
 2022,44_collec_wat_1,c
-2023,44_collec_wat_1,c
+2023,44_collec_wat_1,hide_data
 2024,44_collec_wat_1,0.7
 
 2015,45_waste_wat_1,
 2016,45_waste_wat_1,
 2017,45_waste_wat_1,
 2018,45_waste_wat_1,
-2019,45_waste_wat_1,c
+2019,45_waste_wat_1,hide_data
 2020,45_waste_wat_1,
-2021,45_waste_wat_1,c
+2021,45_waste_wat_1,hide_data
 2022,45_waste_wat_1,
 2023,45_waste_wat_1,
 2024,45_waste_wat_1,
 
 2015,46_restor_1,0.0
 2016,46_restor_1,
-2017,46_restor_1,c
-2018,46_restor_1,c
+2017,46_restor_1,hide_data
+2018,46_restor_1,hide_data
 2019,46_restor_1,
 2020,46_restor_1,
-2021,46_restor_1,c
-2022,46_restor_1,c
-2023,46_restor_1,c
-2024,46_restor_1,c
+2021,46_restor_1,hide_data
+2022,46_restor_1,hide_data
+2023,46_restor_1,hide_data
+2024,46_restor_1,hide_data
 
 2015,47_waste_act_1,
 2016,47_waste_act_1,

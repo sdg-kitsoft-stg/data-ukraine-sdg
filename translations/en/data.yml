@@ -476,6 +476,7 @@ general_school_complex: secondary school / educational complex
 college_technical_vocational: college / technical secondary school / vocational and technical educational institution
 lyceum: lyceum
 gymnasium: gymnasium
+gymnasium_2: gymnasium / lyceum
 other_institution: others
 specialized_school: specialized school
 SES: Socioeconomic status
