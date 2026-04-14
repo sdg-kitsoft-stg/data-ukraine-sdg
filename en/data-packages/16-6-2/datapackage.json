@@ -16,48 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "Autonomous Republic of Crimea",
-                "Vinnytsya",
-                "Volyn",
-                "Dnipropetrovsk",
-                "Donetsk",
-                "Zhytomyr",
-                "Zakarpattya",
-                "Zaporizhzhya",
-                "Ivano-Frankivsk",
-                "Kyiv",
-                "Kirovohrad",
-                "Luhansk",
-                "Lviv",
-                "Mykolayiv",
-                "Odesa",
-                "Poltava",
-                "Rivne",
-                "Sumy",
-                "Ternopil",
-                "Kharkiv",
-                "Kherson",
-                "Khmelnytskiy",
-                "Cherkasy",
-                "Chernivtsi",
-                "Chernihiv",
-                "the city of Kyiv",
-                "city Sevastopol",
-                "Center",
-                "East",
-                "South",
-                "West",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -71,19 +29,19 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "men",
-                "females",
+                "women",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -107,6 +65,21 @@
               ]
             },
             "title": "Income level"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "West",
+                "Center",
+                "South",
+                "East",
+                "city Kyiv",
+                ""
+              ]
+            },
+            "title": "Region"
           },
           {
             "name": "Value",

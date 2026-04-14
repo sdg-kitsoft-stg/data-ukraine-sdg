@@ -10,11 +10,12 @@ age_15_24,3,1
 age_15_64,3,1
 age_16_17,1,1
 age_16_years,28,1
-age_18,4,4
-age_18_1,4,4
+age_18,3,3
+age_18_1,5,5
 age_18_24,2,2
 age_18_29,2,2
 age_18_34,6,6
+age_18_35,1,1
 age_18_39,1,1
 age_18_new,2,2
 age_18_plus,1,1
@@ -27,10 +28,12 @@ age_2_65_70,2,1
 age_30_59,2,2
 age_35_59,6,6
 age_36_59,87,3
-age_3_61,89,5
+age_36_60,1,1
+age_3_61,88,4
 age_40_64,6,2
 age_60,92,9
 age_60_74,2,2
+age_61,1,1
 age_65_plus,6,2
 age_6_17,1,1
 age_75,1,1
@@ -83,8 +86,6 @@ group_label_205,2,2
 group_label_206,2,2
 group_label_207,2,2
 group_label_208,2,2
-group_label_232,1,1
-group_label_233,1,1
 group_label_256,1,1
 group_label_257,1,1
 group_label_258,1,1

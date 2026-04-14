@@ -20,12 +20,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Share of population",
-                "Share of business representatives",
+                "share of population",
+                "share of business representatives",
                 ""
               ]
             },
-            "title": "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention, percent"
+            "title": "Share of the population/business representatives who had personal experience with corruption, based on a standard survey on corruption in Ukraine conducted under the methodology approved by the National Agency on Corruption Prevention"
           },
           {
             "name": "Value",

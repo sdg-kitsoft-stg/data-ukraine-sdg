@@ -16,11 +16,108 @@
             "title": "Year"
           },
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men 18–35 years",
+                "men 36–59 years",
+                "men 60 years and older",
+                "women 18–35 years",
+                "women 36–59 years",
+                "women 60 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "women",
+                "men",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "large cities (population 500,000 or more)",
+                "cities (population 50,000–500,000)",
+                "small cities (population less than 50,000)",
+                "rural areas",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "23_educ_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary education",
+                "secondary education",
+                "secondary vocational education",
+                "tertiary education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
+            "name": "group_20_1",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "full/part-time",
+                "housekeeping or maternity leave",
+                "pensioners",
+                "students",
+                "unemployed",
+                ""
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
+            "name": "group_21",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "not enough money for food",
+                "enough for food, but not enough for clothes",
+                "enough for clothes, but not enough for expensive goods",
+                "enough money for expensive goods",
+                ""
+              ]
+            },
+            "title": "Income level"
+          },
+          {
+            "name": "group_22",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "internally displaced persons (IDPs)",
+                "persons who returned",
+                "persons who did not leave",
+                ""
+              ]
+            },
+            "title": "Displacement status"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,110 +143,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men 18–35 years",
-                "men 36–59 years",
-                "men 60 years and older",
-                "women 18–35 years",
-                "women 36–59 years",
-                "women 60 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "females",
-                "men",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "large cities (population 500,000 or more)",
-                "cities (population 50,000–500,000)",
-                "small cities (population less than 50,000)",
-                "rural areas",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "23_educ",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary education",
-                "Secondary education",
-                "Secondary vocational education",
-                "tertiary education",
-                ""
-              ]
-            },
-            "title": "education"
-          },
-          {
-            "name": "group_20",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Full/part-time employment",
-                "Housekeeping or maternity leave",
-                "Pensioners",
-                "Students",
-                "Unemployed",
-                ""
-              ]
-            },
-            "title": "Employment status"
-          },
-          {
-            "name": "group_21",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Not enough money for food",
-                "Enough for food, but not enough for clothing",
-                "Enough for clothing, but not enough for expensive goods",
-                "Enough money for expensive goods",
-                ""
-              ]
-            },
-            "title": "Income level"
-          },
-          {
-            "name": "group_22",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Internally displaced persons (IDPs)",
-                "Returnees",
-                "People who did not leave",
-                ""
-              ]
-            },
-            "title": "Displacement status"
           },
           {
             "name": "Value",

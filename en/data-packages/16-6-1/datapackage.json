@@ -16,7 +16,108 @@
             "title": "Year"
           },
           {
-            "name": "Region",
+            "name": "group_label_230",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
+                ""
+              ]
+            },
+            "title": "Including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 18 years",
+                "18–35 years",
+                "36–60 years",
+                "61 years and older",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
+            "name": "group_label_322",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of registered client requests for free legal assistance",
+                ""
+              ]
+            },
+            "title": "Number of registered client requests for free legal assistance"
+          },
+          {
+            "name": "group_24",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "primary legal aid",
+                "secondary legal aid",
+                ""
+              ]
+            },
+            "title": "Type of legal aid"
+          },
+          {
+            "name": "group_25",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "social security",
+                "inheritance law",
+                "family law",
+                "medical law",
+                "labor law",
+                "administrative law and administrative process",
+                "land law",
+                "contract law",
+                "housing law",
+                "civil law and civil process",
+                "enforcement of court decisions",
+                "non-legal issue",
+                "other",
+                "criminal law and criminal process",
+                "pension law",
+                "tax law",
+                "election law",
+                "economic law",
+                "issues related to armed aggression",
+                ""
+              ]
+            },
+            "title": "Category of questions for which the person is applying"
+          },
+          {
+            "name": "group_label_323",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,103 +146,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
-            "title": "Region"
-          },
-          {
-            "name": "group_label_230",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of registered client requests for free legal assistance",
-                "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2",
-                ""
-              ]
-            },
-            "title": "including who have applied to a single contact number of the free legal aid system 0-800-213-103 2"
-          },
-          {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "under 18 years old",
-                "18–35 years",
-                "36–60 years",
-                "61 years and older",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "men",
-                "females",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
-            "name": "group_16",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
-          },
-          {
-            "name": "group_24",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Primary legal aid",
-                "Secondary legal aid",
-                ""
-              ]
-            },
-            "title": "Type of legal aid"
-          },
-          {
-            "name": "group_25",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Social security",
-                "Inheritance law",
-                "Family law",
-                "Medical law",
-                "Labor law",
-                "Administrative law and administrative procedure",
-                "Land law",
-                "Contract law",
-                "Housing law",
-                "Civil law and civil procedure",
-                "Enforcement of court decisions",
-                "Non-legal issue",
-                "Other",
-                "Criminal law and criminal procedure",
-                "Pension law",
-                "Tax law",
-                "Electoral law",
-                "Commercial law",
-                "Issues related to armed aggression",
-                ""
-              ]
-            },
-            "title": "Category of issues"
+            "title": "Number of registered client requests for free legal assistance by regions"
           },
           {
             "name": "Value",

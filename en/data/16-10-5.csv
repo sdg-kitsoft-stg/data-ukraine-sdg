@@ -1,19 +1,19 @@
-Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority that established the ASC,Value
+Year,Region,Age,Sex,Status of the subject of the appeal,Type of authority that formed the Center for the provision of administrative services,Value
 2015,,14–18 years,,,,
 2015,,19–25 years,,,,
 2015,,26–35 years,,,,
 2015,,36–45 years,,,,
 2015,,46–60 years,,,,
-2015,,Over 60 years,,,,
-2015,,,females,,,
+2015,,over 60 years,,,,
+2015,,,women,,,
 2015,,,men,,,
-2015,,,,Individual,,
-2015,,,,Sole proprietor (individual entrepreneur),,
-2015,,,,Legal entity,,
-2015,,,,,City council,
-2015,,,,,Settlement council,
-2015,,,,,Village council,
-2015,Ukraine,,,,,
+2015,,,,individual,,
+2015,,,,individual entrepreneur,,
+2015,,,,legal entitie,,
+2015,,,,,city council,
+2015,,,,,settlement council,
+2015,,,,,village council,
+2015,,,,,,
 2015,Autonomous Republic of Crimea,,,,,
 2015,Vinnytsya,,,,,
 2015,Volyn,,,,,
@@ -39,23 +39,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2015,Cherkasy,,,,,
 2015,Chernivtsi,,,,,
 2015,Chernihiv,,,,,
-2015,the city of Kyiv,,,,,
+2015,city Kyiv,,,,,
 2015,city Sevastopol,,,,,
 2016,,14–18 years,,,,
 2016,,19–25 years,,,,
 2016,,26–35 years,,,,
 2016,,36–45 years,,,,
 2016,,46–60 years,,,,
-2016,,Over 60 years,,,,
-2016,,,females,,,
+2016,,over 60 years,,,,
+2016,,,women,,,
 2016,,,men,,,
-2016,,,,Individual,,
-2016,,,,Sole proprietor (individual entrepreneur),,
-2016,,,,Legal entity,,
-2016,,,,,City council,
-2016,,,,,Settlement council,
-2016,,,,,Village council,
-2016,Ukraine,,,,,
+2016,,,,individual,,
+2016,,,,individual entrepreneur,,
+2016,,,,legal entitie,,
+2016,,,,,city council,
+2016,,,,,settlement council,
+2016,,,,,village council,
+2016,,,,,,
 2016,Autonomous Republic of Crimea,,,,,
 2016,Vinnytsya,,,,,
 2016,Volyn,,,,,
@@ -81,23 +81,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2016,Cherkasy,,,,,
 2016,Chernivtsi,,,,,
 2016,Chernihiv,,,,,
-2016,the city of Kyiv,,,,,
+2016,city Kyiv,,,,,
 2016,city Sevastopol,,,,,
 2017,,14–18 years,,,,
 2017,,19–25 years,,,,
 2017,,26–35 years,,,,
 2017,,36–45 years,,,,
 2017,,46–60 years,,,,
-2017,,Over 60 years,,,,
-2017,,,females,,,
+2017,,over 60 years,,,,
+2017,,,women,,,
 2017,,,men,,,
-2017,,,,Individual,,
-2017,,,,Sole proprietor (individual entrepreneur),,
-2017,,,,Legal entity,,
-2017,,,,,City council,
-2017,,,,,Settlement council,
-2017,,,,,Village council,
-2017,Ukraine,,,,,
+2017,,,,individual,,
+2017,,,,individual entrepreneur,,
+2017,,,,legal entitie,,
+2017,,,,,city council,
+2017,,,,,settlement council,
+2017,,,,,village council,
+2017,,,,,,
 2017,Autonomous Republic of Crimea,,,,,
 2017,Vinnytsya,,,,,
 2017,Volyn,,,,,
@@ -123,23 +123,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2017,Cherkasy,,,,,
 2017,Chernivtsi,,,,,
 2017,Chernihiv,,,,,
-2017,the city of Kyiv,,,,,
+2017,city Kyiv,,,,,
 2017,city Sevastopol,,,,,
 2018,,14–18 years,,,,
 2018,,19–25 years,,,,
 2018,,26–35 years,,,,
 2018,,36–45 years,,,,
 2018,,46–60 years,,,,
-2018,,Over 60 years,,,,
-2018,,,females,,,
+2018,,over 60 years,,,,
+2018,,,women,,,
 2018,,,men,,,
-2018,,,,Individual,,
-2018,,,,Sole proprietor (individual entrepreneur),,
-2018,,,,Legal entity,,
-2018,,,,,City council,
-2018,,,,,Settlement council,
-2018,,,,,Village council,
-2018,Ukraine,,,,,
+2018,,,,individual,,
+2018,,,,individual entrepreneur,,
+2018,,,,legal entitie,,
+2018,,,,,city council,
+2018,,,,,settlement council,
+2018,,,,,village council,
+2018,,,,,,
 2018,Autonomous Republic of Crimea,,,,,
 2018,Vinnytsya,,,,,
 2018,Volyn,,,,,
@@ -165,23 +165,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2018,Cherkasy,,,,,
 2018,Chernivtsi,,,,,
 2018,Chernihiv,,,,,
-2018,the city of Kyiv,,,,,
+2018,city Kyiv,,,,,
 2018,city Sevastopol,,,,,
 2019,,14–18 years,,,,
 2019,,19–25 years,,,,
 2019,,26–35 years,,,,
 2019,,36–45 years,,,,
 2019,,46–60 years,,,,
-2019,,Over 60 years,,,,
-2019,,,females,,,
+2019,,over 60 years,,,,
+2019,,,women,,,
 2019,,,men,,,
-2019,,,,Individual,,
-2019,,,,Sole proprietor (individual entrepreneur),,
-2019,,,,Legal entity,,
-2019,,,,,City council,
-2019,,,,,Settlement council,
-2019,,,,,Village council,
-2019,Ukraine,,,,,
+2019,,,,individual,,
+2019,,,,individual entrepreneur,,
+2019,,,,legal entitie,,
+2019,,,,,city council,
+2019,,,,,settlement council,
+2019,,,,,village council,
+2019,,,,,,
 2019,Autonomous Republic of Crimea,,,,,
 2019,Vinnytsya,,,,,
 2019,Volyn,,,,,
@@ -207,23 +207,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2019,Cherkasy,,,,,
 2019,Chernivtsi,,,,,
 2019,Chernihiv,,,,,
-2019,the city of Kyiv,,,,,
+2019,city Kyiv,,,,,
 2019,city Sevastopol,,,,,
 2020,,14–18 years,,,,
 2020,,19–25 years,,,,
 2020,,26–35 years,,,,
 2020,,36–45 years,,,,
 2020,,46–60 years,,,,
-2020,,Over 60 years,,,,
-2020,,,females,,,
+2020,,over 60 years,,,,
+2020,,,women,,,
 2020,,,men,,,
-2020,,,,Individual,,
-2020,,,,Sole proprietor (individual entrepreneur),,
-2020,,,,Legal entity,,
-2020,,,,,City council,
-2020,,,,,Settlement council,
-2020,,,,,Village council,
-2020,Ukraine,,,,,
+2020,,,,individual,,
+2020,,,,individual entrepreneur,,
+2020,,,,legal entitie,,
+2020,,,,,city council,
+2020,,,,,settlement council,
+2020,,,,,village council,
+2020,,,,,,
 2020,Autonomous Republic of Crimea,,,,,
 2020,Vinnytsya,,,,,
 2020,Volyn,,,,,
@@ -249,23 +249,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2020,Cherkasy,,,,,
 2020,Chernivtsi,,,,,
 2020,Chernihiv,,,,,
-2020,the city of Kyiv,,,,,
+2020,city Kyiv,,,,,
 2020,city Sevastopol,,,,,
 2021,,14–18 years,,,,95.9
 2021,,19–25 years,,,,92.3
 2021,,26–35 years,,,,94.2
 2021,,36–45 years,,,,94.1
 2021,,46–60 years,,,,94.9
-2021,,Over 60 years,,,,93.8
-2021,,,females,,,94.2
+2021,,over 60 years,,,,93.8
+2021,,,women,,,94.2
 2021,,,men,,,93.8
-2021,,,,Individual,,94.2
-2021,,,,Sole proprietor (individual entrepreneur),,91.5
-2021,,,,Legal entity,,95.4
-2021,,,,,City council,
-2021,,,,,Settlement council,
-2021,,,,,Village council,
-2021,Ukraine,,,,,93.2
+2021,,,,individual,,94.2
+2021,,,,individual entrepreneur,,91.5
+2021,,,,legal entitie,,95.4
+2021,,,,,city council,
+2021,,,,,settlement council,
+2021,,,,,village council,
+2021,,,,,,93.2
 2021,Autonomous Republic of Crimea,,,,,
 2021,Vinnytsya,,,,,94.5
 2021,Volyn,,,,,94.6
@@ -291,23 +291,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2021,Cherkasy,,,,,92.9
 2021,Chernivtsi,,,,,94.5
 2021,Chernihiv,,,,,96.1
-2021,the city of Kyiv,,,,,85.3
+2021,city Kyiv,,,,,85.3
 2021,city Sevastopol,,,,,
 2022,,14–18 years,,,,89.0
 2022,,19–25 years,,,,82.6
 2022,,26–35 years,,,,86.1
 2022,,36–45 years,,,,88.4
 2022,,46–60 years,,,,92.8
-2022,,Over 60 years,,,,93.5
-2022,,,females,,,87.1
+2022,,over 60 years,,,,93.5
+2022,,,women,,,87.1
 2022,,,men,,,88.9
-2022,,,,Individual,,88.1
-2022,,,,Sole proprietor (individual entrepreneur),,82.0
-2022,,,,Legal entity,,92.0
-2022,,,,,City council,86.2
-2022,,,,,Settlement council,79.8
-2022,,,,,Village council,91.0
-2022,Ukraine,,,,,87.7
+2022,,,,individual,,88.1
+2022,,,,individual entrepreneur,,82.0
+2022,,,,legal entitie,,92.0
+2022,,,,,city council,86.2
+2022,,,,,settlement council,79.8
+2022,,,,,village council,91.0
+2022,,,,,,87.7
 2022,Autonomous Republic of Crimea,,,,,
 2022,Vinnytsya,,,,,76.1
 2022,Volyn,,,,,90.6
@@ -333,23 +333,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2022,Cherkasy,,,,,91.9
 2022,Chernivtsi,,,,,73.2
 2022,Chernihiv,,,,,97.8
-2022,the city of Kyiv,,,,,65.1
+2022,city Kyiv,,,,,65.1
 2022,city Sevastopol,,,,,
 2023,,14–18 years,,,,89.0
 2023,,19–25 years,,,,82.6
 2023,,26–35 years,,,,86.1
 2023,,36–45 years,,,,88.4
 2023,,46–60 years,,,,92.8
-2023,,Over 60 years,,,,93.5
-2023,,,females,,,96.5
+2023,,over 60 years,,,,93.5
+2023,,,women,,,96.5
 2023,,,men,,,95.9
-2023,,,,Individual,,96.4
-2023,,,,Sole proprietor (individual entrepreneur),,94.2
-2023,,,,Legal entity,,96.4
-2023,,,,,City council,95.8
-2023,,,,,Settlement council,95.9
-2023,,,,,Village council,97.5
-2023,Ukraine,,,,,96.1
+2023,,,,individual,,96.4
+2023,,,,individual entrepreneur,,94.2
+2023,,,,legal entitie,,96.4
+2023,,,,,city council,95.8
+2023,,,,,settlement council,95.9
+2023,,,,,village council,97.5
+2023,,,,,,96.1
 2023,Autonomous Republic of Crimea,,,,,
 2023,Vinnytsya,,,,,96.8
 2023,Volyn,,,,,94.5
@@ -375,23 +375,23 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2023,Cherkasy,,,,,98.8
 2023,Chernivtsi,,,,,84.4
 2023,Chernihiv,,,,,98.1
-2023,the city of Kyiv,,,,,77.2
+2023,city Kyiv,,,,,77.2
 2023,city Sevastopol,,,,,
 2024,,14–18 years,,,,94.9
 2024,,19–25 years,,,,92.9
 2024,,26–35 years,,,,93.7
 2024,,36–45 years,,,,95.4
 2024,,46–60 years,,,,96.7
-2024,,Over 60 years,,,,96.5
-2024,,,females,,,95.3
+2024,,over 60 years,,,,96.5
+2024,,,women,,,95.3
 2024,,,men,,,94.5
-2024,,,,Individual,,94.8
-2024,,,,Sole proprietor (individual entrepreneur),,96.1
-2024,,,,Legal entity,,96.2
-2024,,,,,City council,94.6
-2024,,,,,Settlement council,95.0
-2024,,,,,Village council,96.2
-2024,Ukraine,,,,,94.8
+2024,,,,individual,,94.8
+2024,,,,individual entrepreneur,,96.1
+2024,,,,legal entitie,,96.2
+2024,,,,,city council,94.6
+2024,,,,,settlement council,95.0
+2024,,,,,village council,96.2
+2024,,,,,,94.8
 2024,Autonomous Republic of Crimea,,,,,
 2024,Vinnytsya,,,,,93.9
 2024,Volyn,,,,,94.8
@@ -417,5 +417,5 @@ Year,Region,Age,Gender,Status of the subject of the appeal,Type of authority tha
 2024,Cherkasy,,,,,97.8
 2024,Chernivtsi,,,,,86.5
 2024,Chernihiv,,,,,99.2
-2024,the city of Kyiv,,,,,61.5
+2024,city Kyiv,,,,,61.5
 2024,city Sevastopol,,,,,

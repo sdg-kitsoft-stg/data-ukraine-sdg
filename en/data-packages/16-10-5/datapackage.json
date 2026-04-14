@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,7 +45,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -63,32 +62,32 @@
                 "26–35 years",
                 "36–45 years",
                 "46–60 years",
-                "Over 60 years",
+                "over 60 years",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
+                "women",
                 "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
             "name": "group_14",
             "type": "string",
             "constraints": {
               "enum": [
-                "Individual",
-                "Sole proprietor (individual entrepreneur)",
-                "Legal entity",
+                "individual",
+                "individual entrepreneur",
+                "legal entitie",
                 ""
               ]
             },
@@ -99,13 +98,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "City council",
-                "Settlement council",
-                "Village council",
+                "city council",
+                "settlement council",
+                "village council",
                 ""
               ]
             },
-            "title": "Type of authority that established the ASC"
+            "title": "Type of authority that formed the Center for the provision of administrative services"
           },
           {
             "name": "Value",

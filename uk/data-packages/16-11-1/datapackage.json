@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Україна",
                 "Автономна Республіка Крим",
                 "Вінницька",
                 "Волинська",
@@ -71,19 +70,19 @@
             "title": "Вік"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
                 "жінки",
-                "Чоловіча",
+                "чоловіки",
                 ""
               ]
             },
             "title": "Стать"
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

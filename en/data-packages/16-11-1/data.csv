@@ -1,4 +1,4 @@
-Year,Region,Age,Gender,Type of residence,Decile groups by level of average per capita equivalent total income,Value
+Year,Region,Age,Sex,Type of residence,Decile groups by level of average per capita equivalent total income,Value
 2015,,up to 15 years,,,,
 2015,,15–17 years,,,,0.6
 2015,,18–24 years,,,,1.1
@@ -6,7 +6,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2015,,36–59 years,,,,2.9
 2015,,60–74 years,,,,2.6
 2015,,75 years and older,,,,4.5
-2015,,,females,,,2.4
+2015,,,women,,,2.4
 2015,,,men,,,1.8
 2015,,,,urban,,2.2
 2015,,,,rural,,1.6
@@ -20,7 +20,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2015,,,,,8th group,2.6
 2015,,,,,9th group,2.4
 2015,,,,,10th group (high income),4.4
-2015,Ukraine,,,,,2.1
+2015,,,,,,2.1
 2015,Autonomous Republic of Crimea,,,,,
 2015,Vinnytsya,,,,,1.9
 2015,Volyn,,,,,0.0
@@ -46,7 +46,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2015,Cherkasy,,,,,1.6
 2015,Chernivtsi,,,,,5.1
 2015,Chernihiv,,,,,1.8
-2015,the city of Kyiv,,,,,4.7
+2015,city Kyiv,,,,,4.7
 2015,city Sevastopol,,,,,
 2016,,up to 15 years,,,,
 2016,,15–17 years,,,,0.2
@@ -55,7 +55,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2016,,36–59 years,,,,2.3
 2016,,60–74 years,,,,1.6
 2016,,75 years and older,,,,2.5
-2016,,,females,,,2.0
+2016,,,women,,,2.0
 2016,,,men,,,1.3
 2016,,,,urban,,1.8
 2016,,,,rural,,1.3
@@ -69,7 +69,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2016,,,,,8th group,2.1
 2016,,,,,9th group,1.6
 2016,,,,,10th group (high income),3.8
-2016,Ukraine,,,,,1.7
+2016,,,,,,1.7
 2016,Autonomous Republic of Crimea,,,,,
 2016,Vinnytsya,,,,,1.5
 2016,Volyn,,,,,1.3
@@ -95,7 +95,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2016,Cherkasy,,,,,2.1
 2016,Chernivtsi,,,,,4.4
 2016,Chernihiv,,,,,1.2
-2016,the city of Kyiv,,,,,2.4
+2016,city Kyiv,,,,,2.4
 2016,city Sevastopol,,,,,
 2017,,up to 15 years,,,,0.1
 2017,,15–17 years,,,,0.1
@@ -104,7 +104,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2017,,36–59 years,,,,3.1
 2017,,60–74 years,,,,1.1
 2017,,75 years and older,,,,4.2
-2017,,,females,,,2.3
+2017,,,women,,,2.3
 2017,,,men,,,1.5
 2017,,,,urban,,2.0
 2017,,,,rural,,1.5
@@ -118,7 +118,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2017,,,,,8th group,2.9
 2017,,,,,9th group,2.9
 2017,,,,,10th group (high income),3.9
-2017,Ukraine,,,,,1.9
+2017,,,,,,1.9
 2017,Autonomous Republic of Crimea,,,,,
 2017,Vinnytsya,,,,,3.5
 2017,Volyn,,,,,0.4
@@ -144,7 +144,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2017,Cherkasy,,,,,3.6
 2017,Chernivtsi,,,,,2.6
 2017,Chernihiv,,,,,2.8
-2017,the city of Kyiv,,,,,3.8
+2017,city Kyiv,,,,,3.8
 2017,city Sevastopol,,,,,
 2018,,up to 15 years,,,,0.2
 2018,,15–17 years,,,,0.1
@@ -153,7 +153,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2018,,36–59 years,,,,3.4
 2018,,60–74 years,,,,1.4
 2018,,75 years and older,,,,0.2
-2018,,,females,,,2.4
+2018,,,women,,,2.4
 2018,,,men,,,1.4
 2018,,,,urban,,2.1
 2018,,,,rural,,1.5
@@ -167,7 +167,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2018,,,,,8th group,1.8
 2018,,,,,9th group,3.3
 2018,,,,,10th group (high income),4.6
-2018,Ukraine,,,,,1.9
+2018,,,,,,1.9
 2018,Autonomous Republic of Crimea,,,,,
 2018,Vinnytsya,,,,,3.1
 2018,Volyn,,,,,0.7
@@ -193,7 +193,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2018,Cherkasy,,,,,1.2
 2018,Chernivtsi,,,,,4.7
 2018,Chernihiv,,,,,6.9
-2018,the city of Kyiv,,,,,3.8
+2018,city Kyiv,,,,,3.8
 2018,city Sevastopol,,,,,
 2019,,up to 15 years,,,,0.0
 2019,,15–17 years,,,,0.0
@@ -202,7 +202,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2019,,36–59 years,,,,3.9
 2019,,60–74 years,,,,2.1
 2019,,75 years and older,,,,1.4
-2019,,,females,,,2.9
+2019,,,women,,,2.9
 2019,,,men,,,2.0
 2019,,,,urban,,2.7
 2019,,,,rural,,1.7
@@ -216,7 +216,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2019,,,,,8th group,3.1
 2019,,,,,9th group,4.2
 2019,,,,,10th group (high income),6.9
-2019,Ukraine,,,,,2.5
+2019,,,,,,2.5
 2019,Autonomous Republic of Crimea,,,,,
 2019,Vinnytsya,,,,,1.7
 2019,Volyn,,,,,1.5
@@ -242,7 +242,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2019,Cherkasy,,,,,2.0
 2019,Chernivtsi,,,,,4.7
 2019,Chernihiv,,,,,4.1
-2019,the city of Kyiv,,,,,4.5
+2019,city Kyiv,,,,,4.5
 2019,city Sevastopol,,,,,
 2020,,up to 15 years,,,,0.0
 2020,,15–17 years,,,,0.7
@@ -251,7 +251,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2020,,36–59 years,,,,4.6
 2020,,60–74 years,,,,3.2
 2020,,75 years and older,,,,5.8
-2020,,,females,,,3.6
+2020,,,women,,,3.6
 2020,,,men,,,3.1
 2020,,,,urban,,3.7
 2020,,,,rural,,2.4
@@ -265,7 +265,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2020,,,,,8th group,4.3
 2020,,,,,9th group,2.9
 2020,,,,,10th group (high income),7.5
-2020,Ukraine,,,,,3.3
+2020,,,,,,3.3
 2020,Autonomous Republic of Crimea,,,,,
 2020,Vinnytsya,,,,,4.4
 2020,Volyn,,,,,1.5
@@ -291,7 +291,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2020,Cherkasy,,,,,3.9
 2020,Chernivtsi,,,,,4.6
 2020,Chernihiv,,,,,1.5
-2020,the city of Kyiv,,,,,5.8
+2020,city Kyiv,,,,,5.8
 2020,city Sevastopol,,,,,
 2021,,up to 15 years,,,,0.0
 2021,,15–17 years,,,,0.7
@@ -300,7 +300,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2021,,36–59 years,,,,5.7
 2021,,60–74 years,,,,2.6
 2021,,75 years and older,,,,0.0
-2021,,,females,,,4.7
+2021,,,women,,,4.7
 2021,,,men,,,4.0
 2021,,,,urban,,5.3
 2021,,,,rural,,2.2
@@ -314,7 +314,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2021,,,,,8th group,4.6
 2021,,,,,9th group,7.7
 2021,,,,,10th group (high income),10.5
-2021,Ukraine,,,,,4.3
+2021,,,,,,4.3
 2021,Autonomous Republic of Crimea,,,,,
 2021,Vinnytsya,,,,,4.2
 2021,Volyn,,,,,3.2
@@ -340,7 +340,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2021,Cherkasy,,,,,3.0
 2021,Chernivtsi,,,,,5.4
 2021,Chernihiv,,,,,0.8
-2021,the city of Kyiv,,,,,9.6
+2021,city Kyiv,,,,,9.6
 2021,city Sevastopol,,,,,
 2022,,up to 15 years,,,,
 2022,,15–17 years,,,,
@@ -349,7 +349,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2022,,36–59 years,,,,
 2022,,60–74 years,,,,
 2022,,75 years and older,,,,
-2022,,,females,,,
+2022,,,women,,,
 2022,,,men,,,
 2022,,,,urban,,
 2022,,,,rural,,
@@ -363,7 +363,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2022,,,,,8th group,
 2022,,,,,9th group,
 2022,,,,,10th group (high income),
-2022,Ukraine,,,,,
+2022,,,,,,
 2022,Autonomous Republic of Crimea,,,,,
 2022,Vinnytsya,,,,,
 2022,Volyn,,,,,
@@ -389,7 +389,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2022,Cherkasy,,,,,
 2022,Chernivtsi,,,,,
 2022,Chernihiv,,,,,
-2022,the city of Kyiv,,,,,
+2022,city Kyiv,,,,,
 2022,city Sevastopol,,,,,
 2023,,up to 15 years,,,,
 2023,,15–17 years,,,,
@@ -398,7 +398,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2023,,36–59 years,,,,
 2023,,60–74 years,,,,
 2023,,75 years and older,,,,
-2023,,,females,,,
+2023,,,women,,,
 2023,,,men,,,
 2023,,,,urban,,
 2023,,,,rural,,
@@ -412,7 +412,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2023,,,,,8th group,
 2023,,,,,9th group,
 2023,,,,,10th group (high income),
-2023,Ukraine,,,,,
+2023,,,,,,
 2023,Autonomous Republic of Crimea,,,,,
 2023,Vinnytsya,,,,,
 2023,Volyn,,,,,
@@ -438,7 +438,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2023,Cherkasy,,,,,
 2023,Chernivtsi,,,,,
 2023,Chernihiv,,,,,
-2023,the city of Kyiv,,,,,
+2023,city Kyiv,,,,,
 2023,city Sevastopol,,,,,
 2024,,up to 15 years,,,,
 2024,,15–17 years,,,,
@@ -447,7 +447,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2024,,36–59 years,,,,
 2024,,60–74 years,,,,
 2024,,75 years and older,,,,
-2024,,,females,,,
+2024,,,women,,,
 2024,,,men,,,
 2024,,,,urban,,
 2024,,,,rural,,
@@ -461,7 +461,7 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2024,,,,,8th group,
 2024,,,,,9th group,
 2024,,,,,10th group (high income),
-2024,Ukraine,,,,,
+2024,,,,,,
 2024,Autonomous Republic of Crimea,,,,,
 2024,Vinnytsya,,,,,
 2024,Volyn,,,,,
@@ -487,5 +487,5 @@ Year,Region,Age,Gender,Type of residence,Decile groups by level of average per c
 2024,Cherkasy,,,,,
 2024,Chernivtsi,,,,,
 2024,Chernihiv,,,,,
-2024,the city of Kyiv,,,,,
+2024,city Kyiv,,,,,
 2024,city Sevastopol,,,,,

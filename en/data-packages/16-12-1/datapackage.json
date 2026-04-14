@@ -16,11 +16,23 @@
             "title": "Year"
           },
           {
+            "name": "group_18",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "by ministries, other central executive authorities",
+                "by regional, Kyiv city state administrations (military administrations)",
+                ""
+              ]
+            },
+            "title": "Public consultations have been held"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
+                "Public consultations held by regional, Kyiv city state administrations (military administrations), Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,24 +58,12 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "group_18",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "By ministries and other central executive bodies",
-                "By regional, Kyiv city state administrations (military administrations)",
-                ""
-              ]
-            },
-            "title": "Conducted by"
           },
           {
             "name": "Value",

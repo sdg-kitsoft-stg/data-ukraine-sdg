@@ -15,43 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ukraine",
-                "autonomous_Republic_of_Crimea",
-                "11_reg_Vinnytsya",
-                "12_reg_Volyn",
-                "13_reg_Dnipropetrovsk",
-                "14_reg_Donetsk",
-                "15_reg_Zhytomyr",
-                "16_reg_Zakarpattya",
-                "17_reg_Zaporizhzhya",
-                "18_reg_Ivano-Frankivsk",
-                "19_reg_Kyiv",
-                "20_reg_Kirovohrad",
-                "21_reg_Luhansk",
-                "22_reg_Lviv",
-                "23_reg_Mykolayiv",
-                "24_reg_Odesa",
-                "25_reg_Poltava",
-                "26_reg_Rivne",
-                "27_reg_Sumy",
-                "28_reg_Ternopil",
-                "29_reg_Kharkiv",
-                "30_reg_Kherson",
-                "31_reg_Khmelnytskiy",
-                "32_reg_Cherkasy",
-                "33_reg_Chernivtsi",
-                "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
-                "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Age",
             "type": "string",
             "constraints": {
@@ -67,18 +30,18 @@
             }
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "2_females",
-                "males",
+                "females_1",
+                "males_1",
                 ""
               ]
             }
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [
@@ -91,7 +54,7 @@
             }
           },
           {
-            "name": "23_educ",
+            "name": "23_educ_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -104,7 +67,7 @@
             }
           },
           {
-            "name": "group_20",
+            "name": "group_20_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -138,6 +101,42 @@
                 "group_label_226",
                 "group_label_227",
                 "group_label_228",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "autonomous_Republic_of_Crimea",
+                "11_reg_Vinnytsya",
+                "12_reg_Volyn",
+                "13_reg_Dnipropetrovsk",
+                "14_reg_Donetsk",
+                "15_reg_Zhytomyr",
+                "16_reg_Zakarpattya",
+                "17_reg_Zaporizhzhya",
+                "18_reg_Ivano-Frankivsk",
+                "19_reg_Kyiv",
+                "20_reg_Kirovohrad",
+                "21_reg_Luhansk",
+                "22_reg_Lviv",
+                "23_reg_Mykolayiv",
+                "24_reg_Odesa",
+                "25_reg_Poltava",
+                "26_reg_Rivne",
+                "27_reg_Sumy",
+                "28_reg_Ternopil",
+                "29_reg_Kharkiv",
+                "30_reg_Kherson",
+                "31_reg_Khmelnytskiy",
+                "32_reg_Cherkasy",
+                "33_reg_Chernivtsi",
+                "34_reg_Chernihiv",
+                "Kyiv_city",
+                "city_Sevastopol",
                 ""
               ]
             }

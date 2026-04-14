@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
                 "Autonomous Republic of Crimea",
                 "Vinnytsya",
                 "Volyn",
@@ -46,7 +45,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -71,19 +70,19 @@
             "title": "Age"
           },
           {
-            "name": "Gender",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "females",
+                "women",
                 "men",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Sex"
           },
           {
-            "name": "group_16",
+            "name": "Type of residence",
             "type": "string",
             "constraints": {
               "enum": [

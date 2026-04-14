@@ -15,11 +15,22 @@
             "type": "integer"
           },
           {
+            "name": "group_18",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_label_201",
+                "group_label_202",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
+                "group_18_1",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",
@@ -45,19 +56,8 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "group_18",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "group_label_201",
-                "group_label_202",
                 ""
               ]
             }

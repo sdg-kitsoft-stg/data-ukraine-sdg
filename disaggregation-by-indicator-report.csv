@@ -49,11 +49,11 @@ Indicator,Disaggregations,Number of disaggregations
 #16-1-1-a,"Unit, Article",2
 #16-1-2-a,"Group, Unit, Article",3
 #16-1-3-a,"Group, Unit",2
-#16-10-5,"Region, Age, Gender, group_14, group_15",5
-#16-11-1,"Region, Age, Gender, group_16, group_17",5
+#16-10-5,"Sex, Region, Age, group_14, group_15",5
+#16-11-1,"Sex, Type of residence, Region, Age, group_17",5
 #16-12-1,"Region, group_18",2
-#16-13-1,"Region, Age, Gender, group_16, 23_educ, group_20, group_21, group_22",8
-#16-13-2,"Region, Age, Gender, group_16, 23_educ, group_20, group_21, group_22",8
+#16-13-1,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21, group_22",8
+#16-13-2,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21, group_22",8
 #16-2-1,Region,1
 #16-2-1-a,"Group, Unit",2
 #16-2-2,Region,1
@@ -61,15 +61,15 @@ Indicator,Disaggregations,Number of disaggregations
 #16-2-4,Region,1
 #16-3-1,Region,1
 #16-3-1-a,Group,1
-#16-3-2,"Region, group_label_229",2
+#16-3-2,"Region, disability",2
 #16-3-2-a,"Sex, Age",2
 #16-3-3,Region,1
 #16-4-2,Region,1
 #16-5-1-a,Type_weapon,1
 #16-5-2-a,"Region, Ammunition",2
 #16-5-3-a,"Unit, Article",2
-#16-6-1,"Region, Age, Gender, group_16, group_label_230, group_24, group_25",7
-#16-6-2,"Region, Age, Gender, group_16, group_21",5
+#16-6-1,"Sex, Type of residence, Age, group_label_230, group_label_322, group_24, group_25, group_label_323",8
+#16-6-2,"Sex, Type of residence, Region, Age, group_21",5
 #16-7-1,group_26,1
 #16-8-1-a,"Sex, Age",2
 #16-8-2-a,"Sex, Type of residence, Age",3
