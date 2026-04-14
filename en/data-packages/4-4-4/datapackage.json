@@ -16,6 +16,17 @@
             "title": "Year"
           },
           {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Level of education",
+                ""
+              ]
+            },
+            "title": "Level of education"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

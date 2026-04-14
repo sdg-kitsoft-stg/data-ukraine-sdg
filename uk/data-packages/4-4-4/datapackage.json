@@ -16,6 +16,17 @@
             "title": "Рік"
           },
           {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Рівень освіти",
+                ""
+              ]
+            },
+            "title": "Рівень освіти"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {

@@ -54,7 +54,7 @@
             "constraints": {
               "enum": [
                 "gsei_1",
-                "gymnasium",
+                "gymnasium_2",
                 "specialized_school",
                 ""
               ]

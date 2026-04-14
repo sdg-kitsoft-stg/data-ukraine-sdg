@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "group_31",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "group_31",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
