@@ -16205,6 +16205,30 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "girls",
+                "boys",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "urban",
+                "rural",
+                ""
+              ]
+            },
+            "title": "Type of residence"
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
@@ -16240,30 +16264,6 @@
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "girls",
-                "boys",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Type of residence",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "urban",
-                "rural",
-                ""
-              ]
-            },
-            "title": "Type of residence"
           },
           {
             "name": "Value",
@@ -19973,7 +19973,6 @@
                 "Manufacture of chemicals and chemical products (Code NACE Rev.2 – 20)",
                 "Manufacture of basic pharmaceutical products and pharmaceutical preparations (Code NACE Rev.2 – 21)",
                 "Manufacture of rubber and plastic products (Code NACE Rev.2 – 22)",
-                "31_man_non_me_1t",
                 "Manufacture of other non-metallic mineral products (Code NACE Rev.2 – 23)",
                 "Manufacture of basic metals (Code NACE Rev.2 – 24)",
                 "Manufacture of fabricated metal products, except machinery and equipment (Code NACE Rev.2 – 25)",
