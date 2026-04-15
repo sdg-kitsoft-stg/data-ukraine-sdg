@@ -4,9 +4,6 @@ SDG_INDICATOR: 9.1.8 Share of innovatively active enterprises in the total numbe
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "State Statistics Service of Ukraine (SSSU)"
 REC_USE_LIM: "Data are developed once every two years (for a three-year period). <br> Data are provided for legal entities with an average number of employees of 10 or more."
-footer_fields:
-  - label: "Target value of the indicator for 2030"
-    value: '15'
 footer_reference: "
 2016-2018: Share of innovatively active enterprises in the total number of enterprises, percent - 28.1; Code NACE Rev.2: B+C+D+E+46+H+J+K+71+72+73;<br>
 2018-2020: Share of innovatively active enterprises in the total number of enterprises, percent - 8.5; Code NACE Rev.2: B+C+D+E+46+H+J+K+71+72+73;<br>
@@ -127,4 +124,5 @@ footer_reference: "
 2016-2018: Advertising and market research - 34.0; Code NACE Rev.2: 73;<br>
 2018-2020: Advertising and market research - 4.4; Code NACE Rev.2: 73;<br>
 2020-2022: Advertising and market research - 18.9; Code NACE Rev.2: 73;<br>
+Target value of the indicator for 2030: 15<br>
 "
