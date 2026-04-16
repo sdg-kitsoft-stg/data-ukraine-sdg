@@ -19,15 +19,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_6_air",
+                "tr_1_rail_a",
+                "tr_2_motor_a",
+                "tr_3_sea_a",
+                "tr_4_river_a",
+                "tr_6_air_a",
                 "3_tr_urban",
-                "tr_7_tram",
-                "tr_8_trolley",
-                "tr_9_subway",
+                "tr_7_tram_a",
+                "tr_8_trolley_a",
+                "tr_9_subway_a",
                 ""
               ]
             }

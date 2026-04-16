@@ -53,9 +53,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aged_15",
-                "aged_16",
-                "aged_17",
+                "aged_15_a",
+                "aged_16_a",
+                "aged_17_a",
                 "aged_18",
                 "aged_19",
                 "aged_20_under",

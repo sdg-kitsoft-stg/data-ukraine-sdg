@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban_a",
+                "rural_a",
                 ""
               ]
             }
@@ -30,16 +30,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "dg_01",
-                "dg_02",
-                "dg_03",
-                "dg_04",
-                "dg_05",
-                "dg_06",
-                "dg_07",
-                "dg_08",
-                "dg_09",
-                "dg_10",
+                "dg_01_a",
+                "dg_02_a",
+                "dg_03_a",
+                "dg_04_a",
+                "dg_05_a",
+                "dg_06_a",
+                "dg_07_a",
+                "dg_08_a",
+                "dg_09_a",
+                "dg_10_a",
                 ""
               ]
             }

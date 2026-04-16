@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "tr_1_rail",
-                "tr_2_motor",
-                "tr_3_sea",
-                "tr_4_river",
-                "tr_5_pipeline",
-                "tr_6_air",
+                "tr_1_rail_a",
+                "tr_2_motor_a",
+                "tr_3_sea_a",
+                "tr_4_river_a",
+                "tr_5_pipeline_a",
+                "tr_6_air_a",
                 ""
               ]
             }

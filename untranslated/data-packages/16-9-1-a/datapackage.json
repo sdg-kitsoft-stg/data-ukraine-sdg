@@ -60,10 +60,10 @@
             "constraints": {
               "enum": [
                 "age_1_18_35",
-                "age_2_36_60",
-                "age_36_59",
+                "age_2_36_60_a",
+                "age_36_59_a",
                 "age_3_61",
-                "age_60",
+                "age_60_a",
                 ""
               ]
             }
@@ -73,8 +73,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "males_a",
+                "females_a",
                 ""
               ]
             }

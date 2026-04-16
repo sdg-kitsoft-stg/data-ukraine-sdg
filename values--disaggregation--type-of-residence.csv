@@ -6,5 +6,7 @@ group_label_212,2,2
 group_label_259,1,1
 group_label_260,1,1
 group_label_261,1,1
-rural,97,64
-urban,97,64
+rural,50,44
+rural_a,47,20
+urban,50,44
+urban_a,47,20

@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban_a",
+                "rural_a",
                 ""
               ]
             }
@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized",
+                "centralized_a",
                 "decentralized",
                 ""
               ]

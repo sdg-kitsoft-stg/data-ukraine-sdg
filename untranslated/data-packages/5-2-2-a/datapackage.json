@@ -21,7 +21,7 @@
               "enum": [
                 "male",
                 "female",
-                "children",
+                "children_a",
                 ""
               ]
             }

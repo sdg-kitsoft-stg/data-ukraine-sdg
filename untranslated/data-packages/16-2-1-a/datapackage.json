@@ -30,7 +30,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1_all",
+                "1_all_a",
                 "2_females",
                 "3_adolescents",
                 "4_young",

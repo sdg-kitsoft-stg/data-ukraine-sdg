@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "urban",
-                "rural",
+                "urban_a",
+                "rural_a",
                 ""
               ]
             }
@@ -41,12 +41,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_15",
-                "age_15_17",
-                "age_18_24",
-                "age_25_35",
-                "age_36_59",
-                "age_60_74",
+                "age_15_a",
+                "age_15_17_a",
+                "age_18_24_a",
+                "age_25_35_a",
+                "age_36_59_a",
+                "age_60_74_a",
                 "age_75",
                 ""
               ]

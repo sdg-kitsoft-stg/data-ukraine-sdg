@@ -19,12 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ill_1_tub",
-                "ill_2_hep",
-                "ill_3_m_m_r",
-                "ill_4_diph",
-                "ill_5_pert",
-                "ill_6_polio",
+                "ill_1_tub_a",
+                "ill_2_hep_a",
+                "ill_3_m_m_r_a",
+                "ill_4_diph_a",
+                "ill_5_pert_a",
+                "ill_6_polio_a",
                 "ill_7_hib",
                 ""
               ]
@@ -40,7 +40,7 @@
                 "age_vac_4_6 years",
                 "age_vac_3_18 months",
                 "age_vac_6_16 years",
-                "age_vac_7_adult",
+                "age_vac_7_adult_a",
                 "age_vac_5_14 years",
                 ""
               ]

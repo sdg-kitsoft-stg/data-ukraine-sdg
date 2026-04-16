@@ -1,6 +1,6 @@
 Disaggregation,Number of indicators,Number of values
 23_educ_1,2,4
-Age,35,92
+Age,35,106
 Ammunition,1,4
 Article,3,13
 Average monthly electricity consumption,1,2
@@ -9,7 +9,7 @@ By consumer categories,2,2
 By form of discrimination,1,5
 By frequency of use,1,3
 By level of education,1,3
-by main product groups,2,13
+by main product groups,2,14
 By purpose of use,1,21
 By river basins,2,9
 By safety,1,2
@@ -29,7 +29,7 @@ Component,1,17
 Cost_train,1,4
 CouncilLevel,1,6
 CourtLevel,1,4
-Decile groups,2,10
+Decile groups,2,20
 Decile groups_1,1,1
 disability,1,1
 Ec_activ,6,74
@@ -85,12 +85,12 @@ Households,2,2
 Households_1,8,4
 including,2,16
 Indicators of energy consumption by households,1,2
-Infectious diseases,2,8
+Infectious diseases,2,14
 inherit,1,2
 Land purpose,1,1
 Level,1,4
 Level_ed,1,6
-m_trans,5,16
+m_trans,5,25
 Mode of transport,1,2
 Number of employees,1,4
 Object,1,10
@@ -109,7 +109,7 @@ School type,4,13
 SES,2,4
 Settlement,1,3
 Sex of the head of household,1,2
-Sex,58,15
+Sex,58,17
 Sou_en,1,3
 Sources of funding,1,2
 Specialty,1,77
@@ -125,7 +125,7 @@ Technological costs,1,2
 Type of economic activity,4,1242
 Type of energy resources,1,6
 Type of place of registration of service providers,1,2
-Type of residence,67,9
+Type of residence,67,11
 Type of water supply,3,2
 Type_weapon,1,5
 Unit,9,15

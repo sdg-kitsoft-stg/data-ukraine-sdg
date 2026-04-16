@@ -9,7 +9,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 17_telecom,2,2
 18_insurance,2,2
 19_estate,2,2
-1_all,14,3
+1_all_a,14,3
 1_pop,1,1
 20_scientific,2,2
 21_support,2,2
@@ -25,7 +25,7 @@ Value,Disaggregation combinations using this value,Number of indicators
 3_exper,1,1
 4_young,7,3
 carbon_intensity_of_the_gross_domestic_product,1,1
-children,1,1
+children_a,1,1
 energy_intensity_of_the_gross_domestic_product,1,1
 female,1,1
 male,1,1
