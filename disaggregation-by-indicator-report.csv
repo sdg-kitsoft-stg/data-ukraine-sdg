@@ -52,8 +52,8 @@ Indicator,Disaggregations,Number of disaggregations
 #16-10-5,"Sex, Region, Age, group_14, group_15",5
 #16-11-1,"Sex, Type of residence, Region, Age, group_17",5
 #16-12-1,"Region, group_18",2
-#16-13-1,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21, group_22",8
-#16-13-2,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21, group_22",8
+#16-13-1,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21_1, group_22",8
+#16-13-2,"Sex, Type of residence, Region, Age, 23_educ_1, group_20_1, group_21_1, group_22",8
 #16-2-1,Region,1
 #16-2-1-a,"Group, Unit",2
 #16-2-2,Region,1

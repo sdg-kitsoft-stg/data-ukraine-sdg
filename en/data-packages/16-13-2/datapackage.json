@@ -87,7 +87,7 @@
             "title": "Employment status"
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 ""
               ]
             },
-            "title": "Income level"
+            "title": "Level of income"
           },
           {
             "name": "group_22",

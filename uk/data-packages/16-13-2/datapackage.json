@@ -87,7 +87,7 @@
             "title": "Ознака працевлаштованості"
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [

@@ -15857,7 +15857,7 @@
             "title": "Employment status"
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -15868,7 +15868,7 @@
                 ""
               ]
             },
-            "title": "Income level"
+            "title": "Level of income"
           },
           {
             "name": "group_22",
@@ -16876,7 +16876,6 @@
                 "Chernihiv",
                 "city Kyiv",
                 "city Sevastopol",
-                "the city of Kyiv",
                 ""
               ]
             },
@@ -17600,7 +17599,7 @@
             "title": "Employment status"
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17611,7 +17610,7 @@
                 ""
               ]
             },
-            "title": "Income level"
+            "title": "Level of income"
           },
           {
             "name": "group_22",
@@ -19704,7 +19703,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–34 years",
                 "35–59 years",
                 "60 years and older",
@@ -20425,7 +20424,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18–34 years",
                 "35–59 years",
                 "60 years and older",
@@ -20487,7 +20486,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18-35 years",
                 "36-60 years",
                 "61 years and older",

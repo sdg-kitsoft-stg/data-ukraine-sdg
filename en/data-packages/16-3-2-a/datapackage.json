@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "under 18 years old",
+                "up to 18 years",
                 "18-35 years",
                 "36-60 years",
                 "61 years and older",

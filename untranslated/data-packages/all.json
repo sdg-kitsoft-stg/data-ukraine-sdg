@@ -14859,7 +14859,7 @@
             }
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
@@ -15807,7 +15807,6 @@
                 "34_reg_Chernihiv",
                 "Kyiv_city",
                 "city_Sevastopol",
-                "35_reg_Kyiv_city",
                 ""
               ]
             }
@@ -16474,7 +16473,7 @@
             }
           },
           {
-            "name": "group_21",
+            "name": "group_21_1",
             "type": "string",
             "constraints": {
               "enum": [
