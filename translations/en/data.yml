@@ -230,7 +230,7 @@ age_0_5: 0–5 years
 age_6_17: 6–17 years
 age_0_17: 0–17 years old inclusive
 age_18_plus: 18 years and older
-age_18: under 18 years old
+age_18: up to 18 years
 age_18_new: up to 18 years
 age_18_35: 18–35 years
 age_36_60: 36–60 years
@@ -2146,6 +2146,7 @@ group_label_219: pensioners
 group_label_220: students
 group_label_221: unemployed
 group_21: Income level
+group_21_1: Level of income
 group_label_222: not enough money for food
 group_label_223: enough for food, but not enough for clothes
 group_label_224: enough for clothes, but not enough for expensive goods
@@ -3215,3 +3216,53 @@ Gender: Sex
 Mode of transport: Mode of transport
 Settlement: Settlement
 city: city
+
+17_sugar_a: sugar
+1_all_a: number of pupils, persons
+age_15_a: up to 15 years
+age_15_17_a: 15-17 years
+age_18_24_a: 18–24 years
+age_18_34_a: 18–34 years
+age_25_35_a: 25–35 years
+age_2_36_60_a: 36-60 years
+age_35_59_a: 35–59 years
+age_36_59_a: 36–59 years
+age_60_a: 60 years and older
+age_60_74_a: 60–74 years
+age_vac_7_adult_a: adults
+aged_15_a: 15 years
+aged_16_a: 16 years
+aged_17_a: 17 years
+centralized_a: centralized water supply
+dg_01_a: 1st group (low income)
+dg_02_a: 2nd group
+dg_03_a: 3rd group
+dg_04_a: 4th group
+dg_05_a: 5th group
+dg_06_a: 6th group
+dg_07_a: 7th group
+dg_08_a: 8th group
+dg_09_a: 9th group
+dg_10_a: 10th group (high income)
+females_a: women
+ill_1_tub_a: Tuberculosis
+ill_2_hep_a: Hepatitis B
+ill_3_m_m_r_a: Measles, mumps, rubella
+ill_4_diph_a: Diphtheria, tetanus
+ill_5_pert_a: Pertussis
+ill_6_polio_a: Poliomyelitis
+males_a: men
+rural_a: rural
+tr_1_rail_a: rail
+tr_2_motor_a: motor
+tr_3_sea_a: sea
+tr_4_river_a: river
+tr_5_pipeline_a: pipeline
+tr_6_air_a: air
+tr_7_tram_a: by trams
+tr_8_trolley_a: by trolleybuses
+tr_9_subway_a: by subway trains
+urban_a: urban
+zone_1_polis_a: Polissya
+zone_2_fores_st_a: Forest-steppe
+zone_3_st_a: Steppe
