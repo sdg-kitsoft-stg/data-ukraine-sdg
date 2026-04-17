@@ -2817,6 +2817,7 @@ employees_10_49: 10-49 persons
 employees_50_249: 50-249 persons
 employees_250_plus: 250 persons or more
 by main product groups: Type of product
+by_main_product_groups_a: Main product groups
 by_territorial_communities: territorial communities
 working_population: working population
 non_working_population: non-working population
@@ -3120,6 +3121,7 @@ spec_256: 256 National security
 spec_257: 257 Information security management
 spec_271_1: 271 River and maritime transport
 Decile groups_1: Decile groups according to the level of average per capita equivalent total income
+decile_groups_a: Decile groups
 decile group: decile groups
 extracurricular_institutions: extracurricular educational institutions
 girls_1: girls (number)
