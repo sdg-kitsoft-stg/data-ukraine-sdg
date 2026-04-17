@@ -30,8 +30,8 @@ Component,1,17
 Cost_train,1,4
 CouncilLevel,1,6
 CourtLevel,1,4
-Decile groups,1,10
 Decile groups_1,1,1
+decile_groups,1,10
 decile_groups_a,1,10
 disability,1,1
 Ec_activ,6,74

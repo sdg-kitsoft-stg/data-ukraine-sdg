@@ -19770,7 +19770,7 @@
             }
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups",
             "type": "string",
             "constraints": {
               "enum": [

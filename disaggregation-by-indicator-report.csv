@@ -7,7 +7,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-1-a,"Sex, Age, Households",3
 #1-3-1-a,"Type of residence, Sex of the head of household",2
 #1-3-2-a,"Type of residence, decile_groups_a",2
-#1-3-3,"Type of residence, Households_1, Decile groups",3
+#1-3-3,"Type of residence, Households_1, decile_groups",3
 #1-3-4,"Sex, Type of residence, Age, Households_1, Reason of disability",5
 #10-1-1,"Type of residence, Region",2
 #10-1-1-a,Type of residence,1
