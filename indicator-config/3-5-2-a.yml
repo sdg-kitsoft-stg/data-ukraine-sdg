@@ -26,7 +26,11 @@ indicator_number: '3.5.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 5
+    search:
+      arg: context
+      value: table cell
 reporting_status: complete
 sort: ''
 standalone: false
@@ -36,4 +40,4 @@ graph_target_lines:
   - series: ''
     unit: ''
     label_content: indicator.annotation_2020_target
-    value: 0.15000
+    value: 0.15
