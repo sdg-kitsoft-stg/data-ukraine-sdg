@@ -1178,8 +1178,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females_a",
+                "males_a",
                 ""
               ]
             }
@@ -3261,7 +3261,7 @@
             }
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -16224,7 +16224,7 @@
             }
           },
           {
-            "name": "by main product groups",
+            "name": "by_main_product_groups_a",
             "type": "string",
             "constraints": {
               "enum": [

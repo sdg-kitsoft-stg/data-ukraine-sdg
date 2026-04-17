@@ -1268,8 +1268,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -3512,7 +3512,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3529,7 +3529,7 @@
                 ""
               ]
             },
-            "title": "Decile groups of income"
+            "title": "Decile groups"
           },
           {
             "name": "Value",
@@ -17329,7 +17329,7 @@
             "title": "The consumer price index for food. %"
           },
           {
-            "name": "by main product groups",
+            "name": "by_main_product_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17345,7 +17345,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Main product groups"
           },
           {
             "name": "Value",

@@ -28,7 +28,7 @@
             "title": "Type of residence"
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -45,7 +45,7 @@
                 ""
               ]
             },
-            "title": "Decile groups of income"
+            "title": "Decile groups"
           },
           {
             "name": "Value",

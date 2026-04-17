@@ -26,7 +26,7 @@
             "title": "The consumer price index for food. %"
           },
           {
-            "name": "by main product groups",
+            "name": "by_main_product_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Type of product"
+            "title": "Main product groups"
           },
           {
             "name": "Value",

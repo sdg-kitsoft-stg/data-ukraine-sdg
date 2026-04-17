@@ -62,8 +62,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "females_a",
+                "males_a",
                 ""
               ]
             }

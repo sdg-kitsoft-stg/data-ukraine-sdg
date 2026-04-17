@@ -3512,7 +3512,7 @@
             "title": "Місцевість проживання"
           },
           {
-            "name": "Decile groups",
+            "name": "decile_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3529,7 +3529,7 @@
                 ""
               ]
             },
-            "title": "Децильні групи за доходами"
+            "title": "Децильні (10%-ві) групи за рівнем середньодушових еквівалентних загальних доходів у місяць"
           },
           {
             "name": "Value",
@@ -17329,7 +17329,7 @@
             "title": "Індекс споживчих цін на продукти харчування, %"
           },
           {
-            "name": "by main product groups",
+            "name": "by_main_product_groups_a",
             "type": "string",
             "constraints": {
               "enum": [
@@ -17345,7 +17345,7 @@
                 ""
               ]
             },
-            "title": "Тип продукції"
+            "title": "Основні групи продуктів"
           },
           {
             "name": "Value",
