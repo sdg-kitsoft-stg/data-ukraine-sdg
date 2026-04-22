@@ -1,4 +1,4 @@
-Year,Types of economic activity,by the organisational and legal forms,Region,Number of employees,Value
+Year,Types of economic activity,Organisational and legal forms,Region,Number of employees,Value
 2015,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2015,growing of rice,,,,
 2015,"growing of vegetables and melons, roots and tubers",,,,
@@ -652,10 +652,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2015,,Buthority_of_state_power,,,
 2015,,Courts,,,
 2015,,Buthority_of_municipality_power,,,
-2015,,State-run organisation (establishment institution),,,
-2015,,Communal (establishment institution),,,
-2015,,Private (establishment institution),,,
-2015,,Organisation (establishment institution) public association,,,
+2015,,"State-run organisation (establishment, institution)",,,
+2015,,"Communal (establishment, institution)",,,
+2015,,"Private (establishment, institution)",,,
+2015,,"Organisation (establishment, institution) public association",,,
 2015,,Organization of tenants,,,
 2015,,Organization of customers,,,
 2015,,Bssociation,,,
@@ -1365,10 +1365,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2016,,Buthority_of_state_power,,,
 2016,,Courts,,,
 2016,,Buthority_of_municipality_power,,,
-2016,,State-run organisation (establishment institution),,,
-2016,,Communal (establishment institution),,,
-2016,,Private (establishment institution),,,
-2016,,Organisation (establishment institution) public association,,,
+2016,,"State-run organisation (establishment, institution)",,,
+2016,,"Communal (establishment, institution)",,,
+2016,,"Private (establishment, institution)",,,
+2016,,"Organisation (establishment, institution) public association",,,
 2016,,Organization of tenants,,,
 2016,,Organization of customers,,,
 2016,,Bssociation,,,
@@ -2078,10 +2078,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2017,,Buthority_of_state_power,,,
 2017,,Courts,,,
 2017,,Buthority_of_municipality_power,,,
-2017,,State-run organisation (establishment institution),,,
-2017,,Communal (establishment institution),,,
-2017,,Private (establishment institution),,,
-2017,,Organisation (establishment institution) public association,,,
+2017,,"State-run organisation (establishment, institution)",,,
+2017,,"Communal (establishment, institution)",,,
+2017,,"Private (establishment, institution)",,,
+2017,,"Organisation (establishment, institution) public association",,,
 2017,,Organization of tenants,,,
 2017,,Organization of customers,,,
 2017,,Bssociation,,,
@@ -2791,10 +2791,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2018,,Buthority_of_state_power,,,
 2018,,Courts,,,
 2018,,Buthority_of_municipality_power,,,
-2018,,State-run organisation (establishment institution),,,
-2018,,Communal (establishment institution),,,
-2018,,Private (establishment institution),,,
-2018,,Organisation (establishment institution) public association,,,
+2018,,"State-run organisation (establishment, institution)",,,
+2018,,"Communal (establishment, institution)",,,
+2018,,"Private (establishment, institution)",,,
+2018,,"Organisation (establishment, institution) public association",,,
 2018,,Organization of tenants,,,
 2018,,Organization of customers,,,
 2018,,Bssociation,,,
@@ -3505,10 +3505,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2019,,Buthority_of_state_power,,,
 2019,,Courts,,,
 2019,,Buthority_of_municipality_power,,,
-2019,,State-run organisation (establishment institution),,,
-2019,,Communal (establishment institution),,,
-2019,,Private (establishment institution),,,
-2019,,Organisation (establishment institution) public association,,,
+2019,,"State-run organisation (establishment, institution)",,,
+2019,,"Communal (establishment, institution)",,,
+2019,,"Private (establishment, institution)",,,
+2019,,"Organisation (establishment, institution) public association",,,
 2019,,Organization of tenants,,,
 2019,,Organization of customers,,,
 2019,,Bssociation,,,
@@ -4218,10 +4218,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2020,,Buthority_of_state_power,,,
 2020,,Courts,,,
 2020,,Buthority_of_municipality_power,,,
-2020,,State-run organisation (establishment institution),,,
-2020,,Communal (establishment institution),,,
-2020,,Private (establishment institution),,,
-2020,,Organisation (establishment institution) public association,,,
+2020,,"State-run organisation (establishment, institution)",,,
+2020,,"Communal (establishment, institution)",,,
+2020,,"Private (establishment, institution)",,,
+2020,,"Organisation (establishment, institution) public association",,,
 2020,,Organization of tenants,,,
 2020,,Organization of customers,,,
 2020,,Bssociation,,,
@@ -4931,10 +4931,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2021,,Buthority_of_state_power,,,62.1
 2021,,Courts,,,23.6
 2021,,Buthority_of_municipality_power,,,
-2021,,State-run organisation (establishment institution),,,29.9
-2021,,Communal (establishment institution),,,18.0
-2021,,Private (establishment institution),,,36.6
-2021,,Organisation (establishment institution) public association,,,15.9
+2021,,"State-run organisation (establishment, institution)",,,29.9
+2021,,"Communal (establishment, institution)",,,18.0
+2021,,"Private (establishment, institution)",,,36.6
+2021,,"Organisation (establishment, institution) public association",,,15.9
 2021,,Organization of tenants,,,37.9
 2021,,Organization of customers,,,17.2
 2021,,Bssociation,,,25.7
@@ -4964,8 +4964,8 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2021,,Community association population,,,33.3
 2021,,Gardening partnership,,,
 2021,,,,up to 9 persons,28.6
-2021,,,,10-49 persons,22.0
-2021,,,,50-249 persons,20.2
+2021,,,,10–49 persons,22.0
+2021,,,,50–249 persons,20.2
 2021,,,,250 persons or more,17.9
 2021,,,Ukraine,,34.6
 2021,,,Autonomous Republic of Crimea,,
@@ -5648,10 +5648,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2022,,Buthority_of_state_power,,,63.2
 2022,,Courts,,,24.1
 2022,,Buthority_of_municipality_power,,,
-2022,,State-run organisation (establishment institution),,,29.8
-2022,,Communal (establishment institution),,,18.7
-2022,,Private (establishment institution),,,25.0
-2022,,Organisation (establishment institution) public association,,,10.0
+2022,,"State-run organisation (establishment, institution)",,,29.8
+2022,,"Communal (establishment, institution)",,,18.7
+2022,,"Private (establishment, institution)",,,25.0
+2022,,"Organisation (establishment, institution) public association",,,10.0
 2022,,Organization of tenants,,,35.9
 2022,,Organization of customers,,,18.3
 2022,,Bssociation,,,25.3
@@ -5681,8 +5681,8 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2022,,Community association population,,,33.0
 2022,,Gardening partnership,,,25.0
 2022,,,,up to 9 persons,28.4
-2022,,,,10-49 persons,22.3
-2022,,,,50-249 persons,21.2
+2022,,,,10–49 persons,22.3
+2022,,,,50–249 persons,21.2
 2022,,,,250 persons or more,18.0
 2022,,,Ukraine,,34.9
 2022,,,Autonomous Republic of Crimea,,
@@ -6365,10 +6365,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2023,,Buthority_of_state_power,,,66.2
 2023,,Courts,,,24.5
 2023,,Buthority_of_municipality_power,,,
-2023,,State-run organisation (establishment institution),,,29.2
-2023,,Communal (establishment institution),,,21.0
-2023,,Private (establishment institution),,,29.5
-2023,,Organisation (establishment institution) public association,,,5.4
+2023,,"State-run organisation (establishment, institution)",,,29.2
+2023,,"Communal (establishment, institution)",,,21.0
+2023,,"Private (establishment, institution)",,,29.5
+2023,,"Organisation (establishment, institution) public association",,,5.4
 2023,,Organization of tenants,,,36.7
 2023,,Organization of customers,,,17.7
 2023,,Bssociation,,,25.5
@@ -6398,8 +6398,8 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2023,,Community association population,,,33.0
 2023,,Gardening partnership,,,20.0
 2023,,,,up to 9 persons,28.6
-2023,,,,10-49 persons,22.4
-2023,,,,50-249 persons,21.7
+2023,,,,10–49 persons,22.4
+2023,,,,50–249 persons,21.7
 2023,,,,250 persons or more,19.9
 2023,,,Ukraine,,35.2
 2023,,,Autonomous Republic of Crimea,,
@@ -7082,10 +7082,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2024,,Buthority_of_state_power,,,66.3
 2024,,Courts,,,24.7
 2024,,Buthority_of_municipality_power,,,
-2024,,State-run organisation (establishment institution),,,29.2
-2024,,Communal (establishment institution),,,19.2
-2024,,Private (establishment institution),,,24.3
-2024,,Organisation (establishment institution) public association,,,10.5
+2024,,"State-run organisation (establishment, institution)",,,29.2
+2024,,"Communal (establishment, institution)",,,19.2
+2024,,"Private (establishment, institution)",,,24.3
+2024,,"Organisation (establishment, institution) public association",,,10.5
 2024,,Organization of tenants,,,38.3
 2024,,Organization of customers,,,18.1
 2024,,Bssociation,,,22.2
@@ -7115,8 +7115,8 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Num
 2024,,Community association population,,,33.9
 2024,,Gardening partnership,,,16.7
 2024,,,,up to 9 persons,30.4
-2024,,,,10-49 persons,23.9
-2024,,,,50-249 persons,22.7
+2024,,,,10–49 persons,23.9
+2024,,,,50–249 persons,22.7
 2024,,,,250 persons or more,19.9
 2024,,,Ukraine,,36.2
 2024,,,Autonomous Republic of Crimea,,

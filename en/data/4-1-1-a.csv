@@ -1,54 +1,54 @@
 Year,Levels of academic achievement,Settlement,Sex,Value
-2015,"1st_level (basic, 0-3 points)","settlement, village",,56.0
-2016,"1st_level (basic, 0-3 points)","settlement, village",,62.0
-2017,"1st_level (basic, 0-3 points)","settlement, village",,65.0
-2018,"1st_level (basic, 0-3 points)","settlement, village",,62.0
-2019,"1st_level (basic, 0-3 points)","settlement, village",,59.0
-2020,"1st_level (basic, 0-3 points)","settlement, village",,50.0
-2021,"1st_level (basic, 0-3 points)","settlement, village",,43.0
-2022,"1st_level (basic, 0-3 points)","settlement, village",,
-2023,"1st_level (basic, 0-3 points)","settlement, village",,
-2024,"1st_level (basic, 0-3 points)","settlement, village",,
-2015,"1st_level (basic, 0-3 points)",urban settlement,,11.0
-2016,"1st_level (basic, 0-3 points)",urban settlement,,11.0
-2017,"1st_level (basic, 0-3 points)",urban settlement,,10.0
-2018,"1st_level (basic, 0-3 points)",urban settlement,,11.0
-2019,"1st_level (basic, 0-3 points)",urban settlement,,11.0
-2020,"1st_level (basic, 0-3 points)",urban settlement,,12.0
-2021,"1st_level (basic, 0-3 points)",urban settlement,,13.0
-2022,"1st_level (basic, 0-3 points)",urban settlement,,
-2023,"1st_level (basic, 0-3 points)",urban settlement,,
-2024,"1st_level (basic, 0-3 points)",urban settlement,,
-2015,"1st_level (basic, 0-3 points)",city,,33.0
-2016,"1st_level (basic, 0-3 points)",city,,28.0
-2017,"1st_level (basic, 0-3 points)",city,,25.0
-2018,"1st_level (basic, 0-3 points)",city,,28.0
-2019,"1st_level (basic, 0-3 points)",city,,30.0
-2020,"1st_level (basic, 0-3 points)",city,,37.0
-2021,"1st_level (basic, 0-3 points)",city,,45.0
-2022,"1st_level (basic, 0-3 points)",city,,
-2023,"1st_level (basic, 0-3 points)",city,,
-2024,"1st_level (basic, 0-3 points)",city,,
-2015,"1st_level (basic, 0-3 points)",,women,32.0
-2016,"1st_level (basic, 0-3 points)",,women,30.0
-2017,"1st_level (basic, 0-3 points)",,women,27.0
-2018,"1st_level (basic, 0-3 points)",,women,29.0
-2019,"1st_level (basic, 0-3 points)",,women,29.0
-2020,"1st_level (basic, 0-3 points)",,women,31.0
-2021,"1st_level (basic, 0-3 points)",,women,35.0
-2022,"1st_level (basic, 0-3 points)",,women,
-2023,"1st_level (basic, 0-3 points)",,women,
-2024,"1st_level (basic, 0-3 points)",,women,
-2015,"1st_level (basic, 0-3 points)",,men,68.0
-2016,"1st_level (basic, 0-3 points)",,men,70.0
-2017,"1st_level (basic, 0-3 points)",,men,73.0
-2018,"1st_level (basic, 0-3 points)",,men,71.0
-2019,"1st_level (basic, 0-3 points)",,men,71.0
-2020,"1st_level (basic, 0-3 points)",,men,69.0
-2021,"1st_level (basic, 0-3 points)",,men,65.0
-2022,"1st_level (basic, 0-3 points)",,men,
-2023,"1st_level (basic, 0-3 points)",,men,
-2024,"1st_level (basic, 0-3 points)",,men,
+2015,"1st level (basic, 0-3 points)","settlement, village",,56.0
+2016,"1st level (basic, 0-3 points)","settlement, village",,62.0
+2017,"1st level (basic, 0-3 points)","settlement, village",,65.0
+2018,"1st level (basic, 0-3 points)","settlement, village",,62.0
+2019,"1st level (basic, 0-3 points)","settlement, village",,59.0
+2020,"1st level (basic, 0-3 points)","settlement, village",,50.0
+2021,"1st level (basic, 0-3 points)","settlement, village",,43.0
+2022,"1st level (basic, 0-3 points)","settlement, village",,
+2023,"1st level (basic, 0-3 points)","settlement, village",,
+2024,"1st level (basic, 0-3 points)","settlement, village",,
+2015,"1st level (basic, 0-3 points)",urban settlement,,11.0
+2016,"1st level (basic, 0-3 points)",urban settlement,,11.0
+2017,"1st level (basic, 0-3 points)",urban settlement,,10.0
+2018,"1st level (basic, 0-3 points)",urban settlement,,11.0
+2019,"1st level (basic, 0-3 points)",urban settlement,,11.0
+2020,"1st level (basic, 0-3 points)",urban settlement,,12.0
+2021,"1st level (basic, 0-3 points)",urban settlement,,13.0
+2022,"1st level (basic, 0-3 points)",urban settlement,,
+2023,"1st level (basic, 0-3 points)",urban settlement,,
+2024,"1st level (basic, 0-3 points)",urban settlement,,
+2015,"1st level (basic, 0-3 points)",city,,33.0
+2016,"1st level (basic, 0-3 points)",city,,28.0
+2017,"1st level (basic, 0-3 points)",city,,25.0
+2018,"1st level (basic, 0-3 points)",city,,28.0
+2019,"1st level (basic, 0-3 points)",city,,30.0
+2020,"1st level (basic, 0-3 points)",city,,37.0
+2021,"1st level (basic, 0-3 points)",city,,45.0
+2022,"1st level (basic, 0-3 points)",city,,
+2023,"1st level (basic, 0-3 points)",city,,
+2024,"1st level (basic, 0-3 points)",city,,
+2015,"1st level (basic, 0-3 points)",,women,32.0
+2016,"1st level (basic, 0-3 points)",,women,30.0
+2017,"1st level (basic, 0-3 points)",,women,27.0
+2018,"1st level (basic, 0-3 points)",,women,29.0
+2019,"1st level (basic, 0-3 points)",,women,29.0
+2020,"1st level (basic, 0-3 points)",,women,31.0
+2021,"1st level (basic, 0-3 points)",,women,35.0
+2022,"1st level (basic, 0-3 points)",,women,
+2023,"1st level (basic, 0-3 points)",,women,
+2024,"1st level (basic, 0-3 points)",,women,
+2015,"1st level (basic, 0-3 points)",,men,68.0
+2016,"1st level (basic, 0-3 points)",,men,70.0
+2017,"1st level (basic, 0-3 points)",,men,73.0
+2018,"1st level (basic, 0-3 points)",,men,71.0
+2019,"1st level (basic, 0-3 points)",,men,71.0
+2020,"1st level (basic, 0-3 points)",,men,69.0
+2021,"1st level (basic, 0-3 points)",,men,65.0
+2022,"1st level (basic, 0-3 points)",,men,
+2023,"1st level (basic, 0-3 points)",,men,
+2024,"1st level (basic, 0-3 points)",,men,
 2015,"2nd level (intermediate, 4-6 points)","settlement, village",,35.0
 2016,"2nd level (intermediate, 4-6 points)","settlement, village",,41.0
 2017,"2nd level (intermediate, 4-6 points)","settlement, village",,41.0

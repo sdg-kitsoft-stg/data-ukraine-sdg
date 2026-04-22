@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "age_15_17",
                 "age_under15",
+                "age_15_17",
                 "age_under20",
                 ""
               ]
@@ -57,7 +57,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]

@@ -16,30 +16,30 @@
             "title": "Year"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "36-60 years",
-                "61-64 years",
-                "65-70 years",
-                "under 35 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
                 "women",
+                "men",
                 ""
               ]
             },
             "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "under 35 years",
+                "36–60 years",
+                "61–64 years",
+                "65–70 years",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

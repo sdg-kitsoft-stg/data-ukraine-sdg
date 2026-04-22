@@ -33,7 +33,7 @@
             "constraints": {
               "enum": [
                 "all",
-                "females",
+                "women",
                 "adolescents",
                 "young (under 14)",
                 ""

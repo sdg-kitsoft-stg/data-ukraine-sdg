@@ -682,10 +682,10 @@
                 "Buthority_of_state_power",
                 "Courts",
                 "Buthority_of_municipality_power",
-                "State-run organisation (establishment institution)",
-                "Communal (establishment institution)",
-                "Private (establishment institution)",
-                "Organisation (establishment institution) public association",
+                "State-run organisation (establishment, institution)",
+                "Communal (establishment, institution)",
+                "Private (establishment, institution)",
+                "Organisation (establishment, institution) public association",
                 "Organization of tenants",
                 "Organization of customers",
                 "Bssociation",
@@ -717,7 +717,7 @@
                 ""
               ]
             },
-            "title": "by the organisational and legal forms"
+            "title": "Organisational and legal forms"
           },
           {
             "name": "Region",
@@ -763,8 +763,8 @@
             "constraints": {
               "enum": [
                 "up to 9 persons",
-                "10-49 persons",
-                "50-249 persons",
+                "10–49 persons",
+                "50–249 persons",
                 "250 persons or more",
                 ""
               ]

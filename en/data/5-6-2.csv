@@ -1,6 +1,6 @@
-Year,Types of economic activity,by the organisational and legal forms,Region,Value
+Year,Types of economic activity,Organisational and legal forms,Region,Value
 2016,,,,
-2016,"growing of cereals (except rice), leguminous crops and oil seeds",,,
+2016,"growing of cereals (except rice), leguminous crops and oil seeds",,, 
 2016,growing of rice,,,
 2016,"growing of vegetables and melons, roots and tubers",,,
 2016,growing of sugar cane,,,
@@ -611,7 +611,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2016,activities of households as producers of services for own consumption,,,
 2016,activities of extraterritorial organizations and bodies,,,
 2016,no code for NACE Rev.2,,,
-2016,,,,
 2016,,Farm,,
 2016,,Private enterprise,,
 2016,,Collective enterprise,,
@@ -653,10 +652,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2016,,Authority of state power,,
 2016,,Courts,,
 2016,,Authority of municipality power,,
-2016,,State-run organisation (establishment institution),,
-2016,,Communal (establishment institution),,
-2016,,Private (establishment institution),,
-2016,,Organisation (establishment institution) public association,,
+2016,,"State-run organisation (establishment, institution)",,
+2016,,"Communal (establishment, institution)",,
+2016,,"Private (establishment, institution)",,
+2016,,"Organisation (establishment, institution) public association",,
 2016,,Organization of tenants,,
 2016,,Organization of customers,,
 2016,,Association,,
@@ -671,6 +670,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2016,,Organization of water users,,
 2016,,Commodity exchange,,
 2016,,Credit union,,
+2016,,Consumer partnership,,
 2016,,Not state pension fund,,
 2016,,Political party,,
 2016,,Non-profit organisation,,
@@ -686,7 +686,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2016,,Community association population,,
 2016,,Gardening partnership,,
 2016,,Other organizational and legal forms,,
-2016,,,,
 2016,,,Autonomous Republic of Crimea,
 2016,,,Vinnytsya,
 2016,,,Volyn,
@@ -712,7 +711,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2016,,,Cherkasy,
 2016,,,Chernivtsi,
 2016,,,Chernihiv,
-2016,,,the city of Kyiv,
+2016,,,city Kyiv,
 2016,,,city Sevastopol,
 2017,,,,
 2017,"growing of cereals (except rice), leguminous crops and oil seeds",,,
@@ -1326,7 +1325,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2017,activities of households as producers of services for own consumption,,,
 2017,activities of extraterritorial organizations and bodies,,,
 2017,no code for NACE Rev.2,,,
-2017,,,,
 2017,,Farm,,
 2017,,Private enterprise,,
 2017,,Collective enterprise,,
@@ -1368,10 +1366,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2017,,Authority of state power,,
 2017,,Courts,,
 2017,,Authority of municipality power,,
-2017,,State-run organisation (establishment institution),,
-2017,,Communal (establishment institution),,
-2017,,Private (establishment institution),,
-2017,,Organisation (establishment institution) public association,,
+2017,,"State-run organisation (establishment, institution)",,
+2017,,"Communal (establishment, institution)",,
+2017,,"Private (establishment, institution)",,
+2017,,"Organisation (establishment, institution) public association",,
 2017,,Organization of tenants,,
 2017,,Organization of customers,,
 2017,,Association,,
@@ -1386,6 +1384,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2017,,Organization of water users,,
 2017,,Commodity exchange,,
 2017,,Credit union,,
+2017,,Consumer partnership,,
 2017,,Not state pension fund,,
 2017,,Political party,,
 2017,,Non-profit organisation,,
@@ -1401,7 +1400,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2017,,Community association population,,
 2017,,Gardening partnership,,
 2017,,Other organizational and legal forms,,
-2017,,,,
 2017,,,Autonomous Republic of Crimea,
 2017,,,Vinnytsya,
 2017,,,Volyn,
@@ -1427,7 +1425,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2017,,,Cherkasy,
 2017,,,Chernivtsi,
 2017,,,Chernihiv,
-2017,,,the city of Kyiv,
+2017,,,city Kyiv,
 2017,,,city Sevastopol,
 2018,,,,
 2018,"growing of cereals (except rice), leguminous crops and oil seeds",,,
@@ -2041,7 +2039,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2018,activities of households as producers of services for own consumption,,,
 2018,activities of extraterritorial organizations and bodies,,,
 2018,no code for NACE Rev.2,,,
-2018,,,,
 2018,,Farm,,
 2018,,Private enterprise,,
 2018,,Collective enterprise,,
@@ -2083,10 +2080,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2018,,Authority of state power,,
 2018,,Courts,,
 2018,,Authority of municipality power,,
-2018,,State-run organisation (establishment institution),,
-2018,,Communal (establishment institution),,
-2018,,Private (establishment institution),,
-2018,,Organisation (establishment institution) public association,,
+2018,,"State-run organisation (establishment, institution)",,
+2018,,"Communal (establishment, institution)",,
+2018,,"Private (establishment, institution)",,
+2018,,"Organisation (establishment, institution) public association",,
 2018,,Organization of tenants,,
 2018,,Organization of customers,,
 2018,,Association,,
@@ -2101,6 +2098,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2018,,Organization of water users,,
 2018,,Commodity exchange,,
 2018,,Credit union,,
+2018,,Consumer partnership,,
 2018,,Not state pension fund,,
 2018,,Political party,,
 2018,,Non-profit organisation,,
@@ -2116,7 +2114,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2018,,Community association population,,
 2018,,Gardening partnership,,
 2018,,Other organizational and legal forms,,
-2018,,,,
 2018,,,Autonomous Republic of Crimea,
 2018,,,Vinnytsya,
 2018,,,Volyn,
@@ -2142,8 +2139,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2018,,,Cherkasy,
 2018,,,Chernivtsi,
 2018,,,Chernihiv,
-2018,,,the city of Kyiv,
-2018,,,city Sevastopol,
+2018,,,city Kyiv,
 2018,,,city Sevastopol,
 2019,,,,
 2019,"growing of cereals (except rice), leguminous crops and oil seeds",,,
@@ -2757,7 +2753,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2019,activities of households as producers of services for own consumption,,,
 2019,activities of extraterritorial organizations and bodies,,,
 2019,no code for NACE Rev.2,,,
-2019,,,,
 2019,,Farm,,
 2019,,Private enterprise,,
 2019,,Collective enterprise,,
@@ -2799,10 +2794,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2019,,Authority of state power,,
 2019,,Courts,,
 2019,,Authority of municipality power,,
-2019,,State-run organisation (establishment institution),,
-2019,,Communal (establishment institution),,
-2019,,Private (establishment institution),,
-2019,,Organisation (establishment institution) public association,,
+2019,,"State-run organisation (establishment, institution)",,
+2019,,"Communal (establishment, institution)",,
+2019,,"Private (establishment, institution)",,
+2019,,"Organisation (establishment, institution) public association",,
 2019,,Organization of tenants,,
 2019,,Organization of customers,,
 2019,,Association,,
@@ -2817,6 +2812,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2019,,Organization of water users,,
 2019,,Commodity exchange,,
 2019,,Credit union,,
+2019,,Consumer partnership,,
 2019,,Not state pension fund,,
 2019,,Political party,,
 2019,,Non-profit organisation,,
@@ -2832,7 +2828,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2019,,Community association population,,
 2019,,Gardening partnership,,
 2019,,Other organizational and legal forms,,
-2019,,,,
 2019,,,Autonomous Republic of Crimea,
 2019,,,Vinnytsya,
 2019,,,Volyn,
@@ -2858,9 +2853,9 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2019,,,Cherkasy,
 2019,,,Chernivtsi,
 2019,,,Chernihiv,
-2019,,,the city of Kyiv,
+2019,,,city Kyiv,
 2019,,,city Sevastopol,
-2020,,,,28.93
+2020,,,,28.9
 2020,"growing of cereals (except rice), leguminous crops and oil seeds",,,
 2020,growing of rice,,,
 2020,"growing of vegetables and melons, roots and tubers",,,
@@ -3472,110 +3467,109 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2020,activities of households as producers of services for own consumption,,,
 2020,activities of extraterritorial organizations and bodies,,,
 2020,no code for NACE Rev.2,,,
-2020,,,,28.93
-2020,,Farm,,20.47
-2020,,Private enterprise,,25.01
+2020,,Farm,,20.5
+2020,,Private enterprise,,25.0
 2020,,Collective enterprise,,
-2020,,Public enterprise,,13.23
+2020,,Public enterprise,,13.2
 2020,,State-run enterprise,,
-2020,,Communal enterprise,,33.18
+2020,,Communal enterprise,,33.2
 2020,,Joint communal enterprise,,
-2020,,Subsidiary,,22.36
-2020,,Foreign enterprise,,17.43
-2020,,Enterprise association of citizens (religious organisation trade union),,23.45
-2020,,Enterprise founded by consumer partnership,,57.42
+2020,,Subsidiary,,22.4
+2020,,Foreign enterprise,,17.4
+2020,,Enterprise association of citizens (religious organisation trade union),,23.5
+2020,,Enterprise founded by consumer partnership,,57.4
 2020,,Rental enterprise,,
 2020,,Individual enterprise,,
 2020,,Family enterprise,,
 2020,,Joint enterprise,,
-2020,,Joint-stock company,,16.56
+2020,,Joint-stock company,,16.6
 2020,,Public joint-stock partnership,,
 2020,,Private joint-stock partnership,,
 2020,,State joint stock company (company),,
 2020,,Holding company,,
-2020,,Limited liability partnership,,24.83
-2020,,Extended liability partnership,,20.36
-2020,,Full liability partnership,,27.22
-2020,,Mixed liability company,,24.73
+2020,,Limited liability partnership,,24.8
+2020,,Extended liability partnership,,20.4
+2020,,Full liability partnership,,27.2
+2020,,Mixed liability company,,24.7
 2020,,Lawyers’ union,,
 2020,,Law office,,
-2020,,Cooperative,,27.14
-2020,,Production cooperative,,15.37
-2020,,Serve cooperative,,28.68
+2020,,Cooperative,,27.1
+2020,,Production cooperative,,15.4
+2020,,Serve cooperative,,28.7
 2020,,Housing construction cooperativ,,
 2020,,Garage cooperativ,,
 2020,,Consumer cooperativ,,33.2
 2020,,Consumer partnership,,
-2020,,Agriculture and production cooperativ,,14.67
-2020,,Agriculture and serve cooperativ,,24.25
+2020,,Agriculture and production cooperativ,,14.7
+2020,,Agriculture and serve cooperativ,,24.3
 2020,,Agriculture cooperativ,,
 2020,,Organisation (establishment institution),,
 2020,,Authority of state power organization (establishment institution),,63.7
 2020,,Authority of state power,,
 2020,,Courts,,
 2020,,Authority of municipality power,,
-2020,,State-run organisation (establishment institution),,38.16
-2020,,Communal (establishment institution),,76.96
-2020,,Private (establishment institution),,51.7
-2020,,Organisation (establishment institution) public association,,24.32
+2020,,"State-run organisation (establishment, institution)",,38.2
+2020,,"Communal (establishment, institution)",,77.0
+2020,,"Private (establishment, institution)",,51.7
+2020,,"Organisation (establishment, institution) public association",,24.3
 2020,,Organization of tenants,,
 2020,,Organization of customers,,
-2020,,Association,,20.01
-2020,,Corporation,,12.45
-2020,,Consortium,,20.25
-2020,,Concern,,7.03
+2020,,Association,,20.0
+2020,,Corporation,,12.5
+2020,,Consortium,,20.3
+2020,,Concern,,7.0
 2020,,Union of consumer partnerships,,38.8
-2020,,Other associations of legal persons,,15.63
+2020,,Other associations of legal persons,,15.6
 2020,,Authority of advocacy self-government,,
 2020,,Authority of judge self-government,,
 2020,,Audit chamber of Ukraine,,
 2020,,Organization of water users,,
 2020,,Commodity exchange,,27.1
-2020,,Credit union,,40.62
-2020,,Not state pension fund,,51.67
-2020,,Political party,,28.38
-2020,,Non-profit organisation,,22.74
-2020,,Public union,,27.78
-2020,,Religious organisation,,23.22
-2020,,Trade union association of trade unions,,4.57
-2020,,Trade union,,61.47
+2020,,Credit union,,40.6
+2020,,Consumer partnership,,51.7
+2020,,Not state pension fund,,28.4
+2020,,Political party,,22.7
+2020,,Non-profit organisation,,27.8
+2020,,Public union,,23.2
+2020,,Religious organisation,,4.6
+2020,,Trade union association of trade unions,,61.5
+2020,,Trade union,,
 2020,,Association of trade unions,,
-2020,,Creative union (other professional organisation),,
-2020,,Charitable organisation,,23.34
-2020,,Organization of employers,,37.33
-2020,,Condominium,,
-2020,,Community association population,,52.7
-2020,,Gardening partnership,,52.35
+2020,,Creative union (other professional organisation),,23.3
+2020,,Charitable organisation,,37.3
+2020,,Organization of employers,,
+2020,,Condominium,,52.7
+2020,,Community association population,,52.4
+2020,,Gardening partnership,,
 2020,,Other organizational and legal forms,,
-2020,,,,28.93
 2020,,,Autonomous Republic of Crimea,
-2020,,,Vinnytsya,30.54
-2020,,,Volyn,30.48
-2020,,,Dnipropetrovsk,29.55
-2020,,,Donetsk,31.72
-2020,,,Zhytomyr,30.13
-2020,,,Zakarpattya,29.46
-2020,,,Zaporizhzhya,29.25
-2020,,,Ivano-Frankivsk,28.29
-2020,,,Kyiv,26.94
-2020,,,Kirovohrad,29.78
-2020,,,Luhansk,29.94
-2020,,,Lviv,27.99
-2020,,,Mykolayiv,29.18
-2020,,,Odesa,29.86
-2020,,,Poltava,30.01
-2020,,,Rivne,28.72
-2020,,,Sumy,28.26
-2020,,,Ternopil,27.88
-2020,,,Kharkiv,28.55
+2020,,,Vinnytsya,30.5
+2020,,,Volyn,30.5
+2020,,,Dnipropetrovsk,29.6
+2020,,,Donetsk,31.7
+2020,,,Zhytomyr,30.1
+2020,,,Zakarpattya,29.5
+2020,,,Zaporizhzhya,29.3
+2020,,,Ivano-Frankivsk,28.3
+2020,,,Kyiv,26.9
+2020,,,Kirovohrad,29.8
+2020,,,Luhansk,29.9
+2020,,,Lviv,28.0
+2020,,,Mykolayiv,29.2
+2020,,,Odesa,29.9
+2020,,,Poltava,30.0
+2020,,,Rivne,28.7
+2020,,,Sumy,28.3
+2020,,,Ternopil,27.9
+2020,,,Kharkiv,28.6
 2020,,,Kherson,31.4
-2020,,,Khmelnytskiy,29.09
-2020,,,Cherkasy,30.17
+2020,,,Khmelnytskiy,29.1
+2020,,,Cherkasy,30.2
 2020,,,Chernivtsi,28.5
-2020,,,Chernihiv,30.09
-2020,,,the city of Kyiv,27.44
+2020,,,Chernihiv,30.1
+2020,,,city Kyiv,27.4
 2020,,,city Sevastopol,
-2021,,,,29.15
+2021,,,,29.2
 2021,"growing of cereals (except rice), leguminous crops and oil seeds",,,
 2021,growing of rice,,,
 2021,"growing of vegetables and melons, roots and tubers",,,
@@ -4187,108 +4181,107 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2021,activities of households as producers of services for own consumption,,,
 2021,activities of extraterritorial organizations and bodies,,,
 2021,no code for NACE Rev.2,,,
-2021,,,,29.15
-2021,,Farm,,20.82
-2021,,Private enterprise,,25.07
+2021,,Farm,,20.8
+2021,,Private enterprise,,25.1
 2021,,Collective enterprise,,
-2021,,Public enterprise,,12.87
-2021,,State-run enterprise,,3.13
+2021,,Public enterprise,,12.9
+2021,,State-run enterprise,,3.1
 2021,,Communal enterprise,,33.8
 2021,,Joint communal enterprise,,
-2021,,Subsidiary,,22.29
-2021,,Foreign enterprise,,17.38
-2021,,Enterprise association of citizens (religious organisation trade union),,23.21
-2021,,Enterprise founded by consumer partnership,,57.77
+2021,,Subsidiary,,22.3
+2021,,Foreign enterprise,,17.4
+2021,,Enterprise association of citizens (religious organisation trade union),,23.2
+2021,,Enterprise founded by consumer partnership,,57.8
 2021,,Rental enterprise,,
 2021,,Individual enterprise,,
 2021,,Family enterprise,,
 2021,,Joint enterprise,,
-2021,,Joint-stock company,,16.94
+2021,,Joint-stock company,,16.9
 2021,,Public joint-stock partnership,,
 2021,,Private joint-stock partnership,,
 2021,,State joint stock company (company),,
 2021,,Holding company,,
-2021,,Limited liability partnership,,25.03
-2021,,Extended liability partnership,,20.85
-2021,,Full liability partnership,,26.57
-2021,,Mixed liability company,,25.34
+2021,,Limited liability partnership,,25.0
+2021,,Extended liability partnership,,20.9
+2021,,Full liability partnership,,26.6
+2021,,Mixed liability company,,25.3
 2021,,Lawyers’ union,,
 2021,,Law office,,
-2021,,Cooperative,,27.37
-2021,,Production cooperative,,15.31
+2021,,Cooperative,,27.4
+2021,,Production cooperative,,15.3
 2021,,Serve cooperative,,28.8
 2021,,Housing construction cooperativ,,
 2021,,Garage cooperativ,,
-2021,,Consumer cooperativ,,34.02
+2021,,Consumer cooperativ,,34.0
 2021,,Consumer partnership,,
 2021,,Agriculture and production cooperativ,,15.0
-2021,,Agriculture and serve cooperativ,,24.63
+2021,,Agriculture and serve cooperativ,,24.6
 2021,,Agriculture cooperativ,,
 2021,,Organisation (establishment institution),,
-2021,,Authority of state power organization (establishment institution),,64.53
+2021,,Authority of state power organization (establishment institution),,64.5
 2021,,Authority of state power,,
 2021,,Courts,,
 2021,,Authority of municipality power,,
-2021,,State-run organisation (establishment institution),,44.45
-2021,,Communal (establishment institution),,77.48
-2021,,Private (establishment institution),,53.64
-2021,,Organisation (establishment institution) public association,,24.58
+2021,,"State-run organisation (establishment, institution)",,44.5
+2021,,"Communal (establishment, institution)",,77.5
+2021,,"Private (establishment, institution)",,53.6
+2021,,"Organisation (establishment, institution) public association",,24.6
 2021,,Organization of tenants,,
 2021,,Organization of customers,,
-2021,,Association,,20.51
-2021,,Corporation,,12.43
+2021,,Association,,20.5
+2021,,Corporation,,12.4
 2021,,Consortium,,21.9
-2021,,Concern,,7.53
-2021,,Union of consumer partnerships,,39.17
-2021,,Other associations of legal persons,,16.02
+2021,,Concern,,7.5
+2021,,Union of consumer partnerships,,39.2
+2021,,Other associations of legal persons,,16.0
 2021,,Authority of advocacy self-government,,
 2021,,Authority of judge self-government,,
 2021,,Audit chamber of Ukraine,,
 2021,,Organization of water users,,
-2021,,Commodity exchange,,26.41
-2021,,Credit union,,41.12
-2021,,Not state pension fund,,51.53
-2021,,Political party,,31.08
-2021,,Non-profit organisation,,23.22
-2021,,Public union,,28.06
-2021,,Religious organisation,,23.2
-2021,,Trade union association of trade unions,,4.57
-2021,,Trade union,,61.68
+2021,,Commodity exchange,,26.4
+2021,,Credit union,,41.1
+2021,,Consumer partnership,,51.5
+2021,,Not state pension fund,,31.1
+2021,,Political party,,23.2
+2021,,Non-profit organisation,,28.1
+2021,,Public union,,23.2
+2021,,Religious organisation,,4.6
+2021,,Trade union association of trade unions,,61.7
+2021,,Trade union,,
 2021,,Association of trade unions,,
-2021,,Creative union (other professional organisation),,
-2021,,Charitable organisation,,23.66
-2021,,Organization of employers,,37.66
-2021,,Condominium,,
-2021,,Community association population,,52.93
-2021,,Gardening partnership,,51.91
+2021,,Creative union (other professional organisation),,23.7
+2021,,Charitable organisation,,37.7
+2021,,Organization of employers,,
+2021,,Condominium,,52.9
+2021,,Community association population,,51.9
+2021,,Gardening partnership,,
 2021,,Other organizational and legal forms,,
-2021,,,,29.15
 2021,,,Autonomous Republic of Crimea,
-2021,,,Vinnytsya,30.98
-2021,,,Volyn,31.03
-2021,,,Dnipropetrovsk,29.84
+2021,,,Vinnytsya,31.0
+2021,,,Volyn,31.0
+2021,,,Dnipropetrovsk,29.8
 2021,,,Donetsk,32.0
-2021,,,Zhytomyr,30.39
+2021,,,Zhytomyr,30.4
 2021,,,Zakarpattya,29.9
-2021,,,Zaporizhzhya,29.71
-2021,,,Ivano-Frankivsk,28.49
-2021,,,Kyiv,27.14
-2021,,,Kirovohrad,30.35
-2021,,,Luhansk,30.08
-2021,,,Lviv,28.22
-2021,,,Mykolayiv,29.32
-2021,,,Odesa,30.09
-2021,,,Poltava,30.21
-2021,,,Rivne,29.37
-2021,,,Sumy,28.71
-2021,,,Ternopil,27.75
-2021,,,Kharkiv,28.73
-2021,,,Kherson,31.64
-2021,,,Khmelnytskiy,29.47
+2021,,,Zaporizhzhya,29.7
+2021,,,Ivano-Frankivsk,28.5
+2021,,,Kyiv,27.1
+2021,,,Kirovohrad,30.4
+2021,,,Luhansk,30.1
+2021,,,Lviv,28.2
+2021,,,Mykolayiv,29.3
+2021,,,Odesa,30.1
+2021,,,Poltava,30.2
+2021,,,Rivne,29.4
+2021,,,Sumy,28.7
+2021,,,Ternopil,27.8
+2021,,,Kharkiv,28.7
+2021,,,Kherson,31.6
+2021,,,Khmelnytskiy,29.5
 2021,,,Cherkasy,30.5
-2021,,,Chernivtsi,28.91
-2021,,,Chernihiv,30.43
-2021,,,the city of Kyiv,27.49
+2021,,,Chernivtsi,28.9
+2021,,,Chernihiv,30.4
+2021,,,city Kyiv,27.5
 2021,,,city Sevastopol,
 2022,,,,29.3
 2022,"growing of cereals (except rice), leguminous crops and oil seeds",,,20.1
@@ -4598,7 +4591,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2022,construction of water projects,,,15.1
 2022,construction of other civil engineering projects n.e.c.,,,19.1
 2022,demolition,,,15.8
-2022,site preparation,,,16.6
+22,site preparation,,,16.6
 2022,test drilling and boring,,,13.0
 2022,electrical installation,,,14.8
 2022,"plumbing, heat and air-conditioning installation",,,15.6
@@ -4902,7 +4895,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2022,activities of households as producers of services for own consumption,,,23.5
 2022,activities of extraterritorial organizations and bodies,,,18.2
 2022,no code for NACE Rev.2,,,22.2
-2022,,,,29.3
 2022,,Farm,,21.1
 2022,,Private enterprise,,25.1
 2022,,Collective enterprise,,20.9
@@ -4944,10 +4936,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2022,,Authority of state power,,53.8
 2022,,Courts,,53.9
 2022,,Authority of municipality power,,48.0
-2022,,State-run organisation (establishment institution),,44.4
-2022,,Communal (establishment institution),,78.3
-2022,,Private (establishment institution),,55.5
-2022,,Organisation (establishment institution) public association,,24.2
+2022,,"State-run organisation (establishment, institution)",,44.4
+2022,,"Communal (establishment, institution)",,78.3
+2022,,"Private (establishment, institution)",,55.5
+2022,,"Organisation (establishment, institution) public association",,24.2
 2022,,Organization of tenants,,33.5
 2022,,Organization of customers,,38.8
 2022,,Association,,21.3
@@ -4962,22 +4954,22 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2022,,Organization of water users,,
 2022,,Commodity exchange,,26.4
 2022,,Credit union,,40.7
-2022,,Not state pension fund,,50.0
-2022,,Political party,,30.1
-2022,,Non-profit organisation,,23.1
-2022,,Public union,,28.4
-2022,,Religious organisation,,22.6
-2022,,Trade union association of trade unions,,4.6
-2022,,Trade union,,
-2022,,Association of trade unions,,62.0
-2022,,Creative union (other professional organisation),,40.9
-2022,,Charitable organisation,,24.2
-2022,,Organization of employers,,38.1
-2022,,Condominium,,12.5
-2022,,Community association population,,52.7
-2022,,Gardening partnership,,51.4
-2022,,Other organizational and legal forms,,32.7
-2022,,,,29.3
+2022,,Consumer partnership,,50.0
+2022,,Not state pension fund,,30.1
+2022,,Political party,,23.1
+2022,,Non-profit organisation,,28.4
+2022,,Public union,,22.6
+2022,,Religious organisation,,4.6
+2022,,Trade union association of trade unions,,
+2022,,Trade union,,62.0
+2022,,Association of trade unions,,40.9
+2022,,Creative union (other professional organisation),,24.2
+2022,,Charitable organisation,,38.1
+2022,,Organization of employers,,12.5
+2022,,Condominium,,52.7
+2022,,Community association population,,51.4
+2022,,Gardening partnership,,32.7
+2022,,Other organizational and legal forms,,22.2
 2022,,,Autonomous Republic of Crimea,
 2022,,,Vinnytsya,31.4
 2022,,,Volyn,31.3
@@ -5003,7 +4995,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2022,,,Cherkasy,30.3
 2022,,,Chernivtsi,29.0
 2022,,,Chernihiv,30.1
-2022,,,the city of Kyiv,27.6
+2022,,,city Kyiv,27.6
 2022,,,city Sevastopol,
 2023,,,,29.2
 2023,"growing of cereals (except rice), leguminous crops and oil seeds",,,20.0
@@ -5617,7 +5609,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2023,activities of households as producers of services for own consumption,,,25.0
 2023,activities of extraterritorial organizations and bodies,,,16.7
 2023,no code for NACE Rev.2,,,22.2
-2023,,,,29.2
 2023,,Farm,,21.0
 2023,,Private enterprise,,25.1
 2023,,Collective enterprise,,20.8
@@ -5659,10 +5650,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2023,,Authority of state power,,53.4
 2023,,Courts,,53.5
 2023,,Authority of municipality power,,49.0
-2023,,State-run organisation (establishment institution),,44.9
-2023,,Communal (establishment institution),,78.5
-2023,,Private (establishment institution),,55.6
-2023,,Organisation (establishment institution) public association,,24.7
+2023,,"State-run organisation (establishment, institution)",,44.9
+2023,,"Communal (establishment, institution)",,78.5
+2023,,"Private (establishment, institution)",,55.6
+2023,,"Organisation (establishment, institution) public association",,24.7
 2023,,Organization of tenants,,33.5
 2023,,Organization of customers,,38.8
 2023,,Association,,21.4
@@ -5677,22 +5668,22 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2023,,Organization of water users,,
 2023,,Commodity exchange,,26.3
 2023,,Credit union,,40.6
-2023,,Not state pension fund,,
-2023,,Political party,,32.4
-2023,,Non-profit organisation,,23.0
-2023,,Public union,,28.7
-2023,,Religious organisation,,22.5
-2023,,Trade union association of trade unions,,4.7
-2023,,Trade union,,
-2023,,Association of trade unions,,62.1
-2023,,Creative union (other professional organisation),,41.4
-2023,,Charitable organisation,,24.8
-2023,,Organization of employers,,36.5
-2023,,Condominium,,12.1
-2023,,Community association population,,52.6
-2023,,Gardening partnership,,51.2
-2023,,Other organizational and legal forms,,32.5
-2023,,,,29.2
+2023,,Consumer partnership,,
+2023,,Not state pension fund,,32.4
+2023,,Political party,,23.0
+2023,,Non-profit organisation,,28.7
+2023,,Public union,,22.5
+2023,,Religious organisation,,4.7
+2023,,Trade union association of trade unions,,
+2023,,Trade union,,62.1
+2023,,Association of trade unions,,41.4
+2023,,Creative union (other professional organisation),,24.8
+2023,,Charitable organisation,,36.5
+2023,,Organization of employers,,12.1
+2023,,Condominium,,52.6
+2023,,Community association population,,51.2
+2023,,Gardening partnership,,32.5
+2023,,Other organizational and legal forms,,22.2
 2023,,,Autonomous Republic of Crimea,
 2023,,,Vinnytsya,31.4
 2023,,,Volyn,31.0
@@ -5718,7 +5709,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2023,,,Cherkasy,30.2
 2023,,,Chernivtsi,29.1
 2023,,,Chernihiv,30.1
-2023,,,the city of Kyiv,27.5
+2023,,,city Kyiv,27.5
 2023,,,city Sevastopol,
 2024,,,,29.2
 2024,"growing of cereals (except rice), leguminous crops and oil seeds",,,20.0
@@ -6332,7 +6323,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2024,activities of households as producers of services for own consumption,,,27.8
 2024,activities of extraterritorial organizations and bodies,,,14.3
 2024,no code for NACE Rev.2,,,22.1
-2024,,,,29.2
 2024,,Farm,,20.9
 2024,,Private enterprise,,25.2
 2024,,Collective enterprise,,20.9
@@ -6374,10 +6364,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2024,,Authority of state power,,52.7
 2024,,Courts,,53.9
 2024,,Authority of municipality power,,50.8
-2024,,State-run organisation (establishment institution),,45.2
-2024,,Communal (establishment institution),,78.6
-2024,,Private (establishment institution),,56.3
-2024,,Organisation (establishment institution) public association,,25.0
+2024,,"State-run organisation (establishment, institution)",,45.2
+2024,,"Communal (establishment, institution)",,78.6
+2024,,"Private (establishment, institution)",,56.3
+2024,,"Organisation (establishment, institution) public association",,25.0
 2024,,Organization of tenants,,33.5
 2024,,Organization of customers,,38.8
 2024,,Association,,21.1
@@ -6392,22 +6382,22 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2024,,Organization of water users,,
 2024,,Commodity exchange,,26.1
 2024,,Credit union,,41.1
-2024,,Not state pension fund,,
-2024,,Political party,,42.3
-2024,,Non-profit organisation,,23.0
-2024,,Public union,,29.1
-2024,,Religious organisation,,23.1
-2024,,Trade union association of trade unions,,5.1
-2024,,Trade union,,
-2024,,Association of trade unions,,62.2
-2024,,Creative union (other professional organisation),,40.6
-2024,,Charitable organisation,,25.0
-2024,,Organization of employers,,35.9
-2024,,Condominium,,12.1
-2024,,Community association population,,52.9
-2024,,Gardening partnership,,51.3
-2024,,Other organizational and legal forms,,32.6
-2024,,,,29.2
+2024,Consumer partnership,,,
+2024,,Not state pension fund,,42.3
+2024,,Political party,,23.0
+2024,,Non-profit organisation,,29.1
+2024,,Public union,,23.1
+2024,,Religious organisation,,5.1
+2024,,Trade union association of trade unions,,
+2024,,Trade union,,62.2
+2024,,Association of trade unions,,40.6
+2024,,Creative union (other professional organisation),,25.0
+2024,,Charitable organisation,,35.9
+2024,,Organization of employers,,12.1
+2024,,Condominium,,52.9
+2024,,Community association population,,51.3
+2024,,Gardening partnership,,32.6
+2024,,Other organizational and legal forms,,22.2
 2024,,,Autonomous Republic of Crimea,
 2024,,,Vinnytsya,31.5
 2024,,,Volyn,31.1
@@ -6433,7 +6423,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2024,,,Cherkasy,30.2
 2024,,,Chernivtsi,29.5
 2024,,,Chernihiv,30.2
-2024,,,the city of Kyiv,27.3
+2024,,,city Kyiv,27.3
 2024,,,city Sevastopol,
 2025,,,,29.6
 2025,"growing of cereals (except rice), leguminous crops and oil seeds",,,20.4
@@ -6673,7 +6663,7 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2025,manufacture of non-domestic cooling and ventilation equipment,,,13.1
 2025,manufacture of other general-purpose machinery n.e.c.,,,16.4
 2025,manufacture of agricultural and forestry machinery,,,17.2
-2025,manufacture of metal forming machinery,,,8.5
+25,manufacture of metal forming machinery,,,8.5
 2025,manufacture of other machine tools,,,19.4
 2025,manufacture of machinery for metallurgy,,,15.5
 2025,"manufacture of machinery for mining, quarrying and construction",,,16.6
@@ -7047,7 +7037,6 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2025,activities of households as producers of services for own consumption,,,26.3
 2025,activities of extraterritorial organizations and bodies,,,20.0
 2025,no code for NACE Rev.2,,,22.1
-2025,,,,29.6
 2025,,Farm,,21.1
 2025,,Private enterprise,,25.4
 2025,,Collective enterprise,,20.9
@@ -7089,10 +7078,10 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2025,,Authority of state power,,53.0
 2025,,Courts,,54.0
 2025,,Authority of municipality power,,52.0
-2025,,State-run organisation (establishment institution),,45.7
-2025,,Communal (establishment institution),,78.8
-2025,,Private (establishment institution),,56.9
-2025,,Organisation (establishment institution) public association,,24.8
+2025,,"State-run organisation (establishment, institution)",,45.7
+2025,,"Communal (establishment, institution)",,78.8
+2025,,"Private (establishment, institution)",,56.9
+2025,,"Organisation (establishment, institution) public association",,24.8
 2025,,Organization of tenants,,33.5
 2025,,Organization of customers,,38.8
 2025,,Association,,21.5
@@ -7107,22 +7096,22 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2025,,Organization of water users,,14.0
 2025,,Commodity exchange,,25.7
 2025,,Credit union,,41.5
-2025,,Not state pension fund,,
-2025,,Political party,,42.3
-2025,,Non-profit organisation,,23.2
-2025,,Public union,,29.7
-2025,,Religious organisation,,23.3
-2025,,Trade union association of trade unions,,5.3
-2025,,Trade union,,
-2025,,Association of trade unions,,62.1
-2025,,Creative union (other professional organisation),,43.0
-2025,,Charitable organisation,,25.1
-2025,,Organization of employers,,35.9
-2025,,Condominium,,12.2
-2025,,Community association population,,53.3
-2025,,Gardening partnership,,51.8
-2025,,Other organizational and legal forms,,33.4
-2025,,,,29.6
+2025,,Consumer partnership,,
+2025,,Not state pension fund,,42.3
+2025,,Political party,,23.2
+2025,,Non-profit organisation,,29.7
+2025,,Public union,,23.3
+2025,,Religious organisation,,5.3
+2025,,Trade union association of trade unions,,
+2025,,Trade union,,62.1
+2025,,Association of trade unions,,43.0
+2025,,Creative union (other professional organisation),,25.1
+2025,,Charitable organisation,,35.9
+2025,,Organization of employers,,12.2
+2025,,Condominium,,53.3
+2025,,Community association population,,51.8
+2025,,Gardening partnership,,33.4
+2025,,Other organizational and legal forms,,22.5
 2025,,,Autonomous Republic of Crimea,
 2025,,,Vinnytsya,32.0
 2025,,,Volyn,31.5
@@ -7148,5 +7137,5 @@ Year,Types of economic activity,by the organisational and legal forms,Region,Val
 2025,,,Cherkasy,30.4
 2025,,,Chernivtsi,30.0
 2025,,,Chernihiv,30.6
-2025,,,the city of Kyiv,27.9
+2025,,,city Kyiv,27.9
 2025,,,city Sevastopol,

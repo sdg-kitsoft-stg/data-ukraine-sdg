@@ -1,6 +1,24 @@
-Year,Ratio of women to men among,Sex,Value
-2015,,,
-2016,,,
+Year,Ratio of women to men among judges,Sex,Value
+2015,,women,
+2015,,men,
+2015,local courts,women,
+2015,local courts,men,
+2015,appellate courts,women,
+2015,appellate courts,men,
+2015,higher specialized courts,women,
+2015,higher specialized courts,men,
+2015,Supreme Court,women,
+2015,Supreme Court,men,
+2016,,women,
+2016,,men,
+2016,local courts,women,
+2016,local courts,men,
+2016,appellate courts,women,
+2016,appellate courts,men,
+2016,higher specialized courts,women,
+2016,higher specialized courts,men,
+2016,Supreme Court,women,
+2016,Supreme Court,men,
 2017,,women,51.8
 2017,,men,48.2
 2017,local courts,women,52.1

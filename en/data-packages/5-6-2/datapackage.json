@@ -631,6 +631,7 @@
                 "activities of households as producers of services for own consumption",
                 "activities of extraterritorial organizations and bodies",
                 "no code for NACE Rev.2",
+                "Consumer partnership",
                 ""
               ]
             },
@@ -682,10 +683,10 @@
                 "Authority of state power",
                 "Courts",
                 "Authority of municipality power",
-                "State-run organisation (establishment institution)",
-                "Communal (establishment institution)",
-                "Private (establishment institution)",
-                "Organisation (establishment institution) public association",
+                "State-run organisation (establishment, institution)",
+                "Communal (establishment, institution)",
+                "Private (establishment, institution)",
+                "Organisation (establishment, institution) public association",
                 "Organization of tenants",
                 "Organization of customers",
                 "Association",
@@ -718,7 +719,7 @@
                 ""
               ]
             },
-            "title": "by the organisational and legal forms"
+            "title": "Organisational and legal forms"
           },
           {
             "name": "Region",
@@ -750,7 +751,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
@@ -759,7 +760,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

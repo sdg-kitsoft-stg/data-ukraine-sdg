@@ -1,11 +1,73 @@
 Year,Sex,Age,Region,Value
 2015,,,,
+2015,women,,,
+2015,men,,,
+2015,,adults,,
+2015,,children,,
+2015,,,Autonomous Republic of Crimea,
+2015,,,Vinnytsya,
+2015,,,Volyn,
+2015,,,Dnipropetrovsk,
+2015,,,Donetsk,
+2015,,,Zhytomyr,
+2015,,,Zakarpattya,
+2015,,,Zaporizhzhya,
+2015,,,Ivano-Frankivsk,
+2015,,,Kyiv,
+2015,,,Kirovohrad,
+2015,,,Luhansk,
+2015,,,Lviv,
+2015,,,Mykolayiv,
+2015,,,Odesa,
+2015,,,Poltava,
+2015,,,Rivne,
+2015,,,Sumy,
+2015,,,Ternopil,
+2015,,,Kharkiv,
+2015,,,Kherson,
+2015,,,Khmelnytskiy,
+2015,,,Cherkasy,
+2015,,,Chernivtsi,
+2015,,,Chernihiv,
+2015,,,city Kyiv,
+2015,,,city Sevastopol,
 2016,,,,
+2016,women,,,
+2016,men,,,
+2016,,adults,,
+2016,,children,,
+2016,,,Autonomous Republic of Crimea,
+2016,,,Vinnytsya,
+2016,,,Volyn,
+2016,,,Dnipropetrovsk,
+2016,,,Donetsk,
+2016,,,Zhytomyr,
+2016,,,Zakarpattya,
+2016,,,Zaporizhzhya,
+2016,,,Ivano-Frankivsk,
+2016,,,Kyiv,
+2016,,,Kirovohrad,
+2016,,,Luhansk,
+2016,,,Lviv,
+2016,,,Mykolayiv,
+2016,,,Odesa,
+2016,,,Poltava,
+2016,,,Rivne,
+2016,,,Sumy,
+2016,,,Ternopil,
+2016,,,Kharkiv,
+2016,,,Kherson,
+2016,,,Khmelnytskiy,
+2016,,,Cherkasy,
+2016,,,Chernivtsi,
+2016,,,Chernihiv,
+2016,,,city Kyiv,
+2016,,,city Sevastopol,
 2017,,,,18.0
-2017,adults,,,
-2017,children,,,
-2017,,women,,
-2017,,men,,
+2017,women,,,
+2017,men,,,
+2017,,adults,,
+2017,,children,,
 2017,,,Autonomous Republic of Crimea,
 2017,,,Vinnytsya,9.0
 2017,,,Volyn,12.0
@@ -31,13 +93,13 @@ Year,Sex,Age,Region,Value
 2017,,,Cherkasy,12.0
 2017,,,Chernivtsi,23.0
 2017,,,Chernihiv,22.0
-2017,,,the city of Kyiv,25.0
+2017,,,city Kyiv,10.0
 2017,,,city Sevastopol,
 2018,,,,15.0
-2018,adults,,,
-2018,children,,,
-2018,,women,,
-2018,,men,,
+2018,women,,,
+2018,men,,,
+2018,,adults,,
+2018,,children,,
 2018,,,Autonomous Republic of Crimea,
 2018,,,Vinnytsya,6.0
 2018,,,Volyn,9.0
@@ -63,13 +125,13 @@ Year,Sex,Age,Region,Value
 2018,,,Cherkasy,7.0
 2018,,,Chernivtsi,21.0
 2018,,,Chernihiv,29.0
-2018,,,the city of Kyiv,21.0
+2018,,,city Kyiv,9.0
 2018,,,city Sevastopol,
 2019,,,,18.0
-2019,adults,,,
-2019,children,,,
-2019,,women,,
-2019,,men,,
+2019,women,,,
+2019,men,,,
+2019,,adults,,
+2019,,children,,
 2019,,,Autonomous Republic of Crimea,
 2019,,,Vinnytsya,13.0
 2019,,,Volyn,10.0
@@ -95,13 +157,13 @@ Year,Sex,Age,Region,Value
 2019,,,Cherkasy,3.0
 2019,,,Chernivtsi,17.0
 2019,,,Chernihiv,28.0
-2019,,,the city of Kyiv,7.0
+2019,,,city Kyiv,9.0
 2019,,,city Sevastopol,
 2020,,,,11.0
-2020,adults,,,
-2020,children,,,
-2020,,women,,
-2020,,men,,
+2020,women,,,
+2020,men,,,
+2020,,adults,,
+2020,,children,,
 2020,,,Autonomous Republic of Crimea,
 2020,,,Vinnytsya,11.0
 2020,,,Volyn,4.0
@@ -127,13 +189,13 @@ Year,Sex,Age,Region,Value
 2020,,,Cherkasy,5.0
 2020,,,Chernivtsi,10.0
 2020,,,Chernihiv,13.0
-2020,,,the city of Kyiv,2.0
+2020,,,city Kyiv,12.0
 2020,,,city Sevastopol,
 2021,,,,14.0
-2021,adults,,,
-2021,children,,,
-2021,,women,,
-2021,,men,,
+2021,women,,,
+2021,men,,,
+2021,,adults,,
+2021,,children,,
 2021,,,Autonomous Republic of Crimea,
 2021,,,Vinnytsya,8.0
 2021,,,Volyn,3.0
@@ -159,13 +221,13 @@ Year,Sex,Age,Region,Value
 2021,,,Cherkasy,6.0
 2021,,,Chernivtsi,9.0
 2021,,,Chernihiv,8.0
-2021,,,the city of Kyiv,7.0
+2021,,,city Kyiv,22.0
 2021,,,city Sevastopol,
 2022,,,,14.0
-2022,adults,,,
-2022,children,,,
-2022,,women,,
-2022,,men,,
+2022,women,,,
+2022,men,,,
+2022,,adults,,
+2022,,children,,
 2022,,,Autonomous Republic of Crimea,
 2022,,,Vinnytsya,23.0
 2022,,,Volyn,22.0
@@ -191,13 +253,13 @@ Year,Sex,Age,Region,Value
 2022,,,Cherkasy,15.0
 2022,,,Chernivtsi,3.0
 2022,,,Chernihiv,8.0
-2022,,,the city of Kyiv,7.0
+2022,,,city Kyiv,19.0
 2022,,,city Sevastopol,
 2023,,,,32.0
-2023,adults,,,
-2023,children,,,
-2023,,women,,
-2023,,men,,
+2023,women,,,
+2023,men,,,
+2023,,adults,,
+2023,,children,,
 2023,,,Autonomous Republic of Crimea,
 2023,,,Vinnytsya,32.0
 2023,,,Volyn,32.0
@@ -223,13 +285,13 @@ Year,Sex,Age,Region,Value
 2023,,,Cherkasy,8.0
 2023,,,Chernivtsi,7.0
 2023,,,Chernihiv,24.0
-2023,,,the city of Kyiv,18.0
+2023,,,city Kyiv,42.0
 2023,,,city Sevastopol,
 2024,,,,33.0
-2024,adults,,,
-2024,children,,,
-2024,,women,,
-2024,,men,,
+2024,women,,,
+2024,men,,,
+2024,,adults,,
+2024,,children,,
 2024,,,Autonomous Republic of Crimea,
 2024,,,Vinnytsya,41.0
 2024,,,Volyn,25.0
@@ -255,5 +317,5 @@ Year,Sex,Age,Region,Value
 2024,,,Cherkasy,16.0
 2024,,,Chernivtsi,15.0
 2024,,,Chernihiv,48.0
-2024,,,the city of Kyiv,11.0
+2024,,,city Kyiv,61.0
 2024,,,city Sevastopol,

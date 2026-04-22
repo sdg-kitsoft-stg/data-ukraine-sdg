@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1st_level (basic, 0-3 points)",
+                "1st level (basic, 0-3 points)",
                 "2nd level (intermediate, 4-6 points)",
                 "3rd level (adequate, 7-9 points)",
                 "4th level (high, 10-12 points)",

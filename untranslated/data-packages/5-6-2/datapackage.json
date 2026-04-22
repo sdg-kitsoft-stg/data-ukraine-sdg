@@ -630,6 +630,7 @@
                 "A609",
                 "A610",
                 "A611",
+                "consumer_partnership",
                 ""
               ]
             }
@@ -747,7 +748,7 @@
                 "32_reg_Cherkasy",
                 "33_reg_Chernivtsi",
                 "34_reg_Chernihiv",
-                "35_reg_Kyiv_city",
+                "Kyiv_city",
                 "city_Sevastopol",
                 ""
               ]
@@ -755,7 +756,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

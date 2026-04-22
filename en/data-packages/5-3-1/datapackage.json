@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15-17 years",
                 "under 15 years",
+                "15–17 years",
                 "under 20 years",
                 ""
               ]
@@ -59,7 +59,7 @@
                 "Cherkasy",
                 "Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
                 ""
               ]
