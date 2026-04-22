@@ -95,8 +95,8 @@ Year,Region,Value
 2018,20_reg_Kirovohrad,56.4
 2019,20_reg_Kirovohrad,32.2
 2020,20_reg_Kirovohrad,42.5
-2021,20_reg_Kirovohrad,
-2022,20_reg_Kirovohrad,
+2021,20_reg_Kirovohrad,hide_data
+2022,20_reg_Kirovohrad,hide_data
 2023,20_reg_Kirovohrad,
 2015,21_reg_Luhansk,41.9
 2016,21_reg_Luhansk,46.7
@@ -104,8 +104,8 @@ Year,Region,Value
 2018,21_reg_Luhansk,45.8
 2019,21_reg_Luhansk,46.7
 2020,21_reg_Luhansk,50.3
-2021,21_reg_Luhansk,
-2022,21_reg_Luhansk,
+2021,21_reg_Luhansk,hide_data
+2022,21_reg_Luhansk,hide_data
 2023,21_reg_Luhansk,
 2015,22_reg_Lviv,34.3
 2016,22_reg_Lviv,35
@@ -186,7 +186,7 @@ Year,Region,Value
 2019,30_reg_Kherson,33.6
 2020,30_reg_Kherson,35.2
 2021,30_reg_Kherson,32.3
-2022,30_reg_Kherson,
+2022,30_reg_Kherson,hide_data
 2023,30_reg_Kherson,
 2015,31_reg_Khmelnytskiy,50
 2016,31_reg_Khmelnytskiy,51.4
