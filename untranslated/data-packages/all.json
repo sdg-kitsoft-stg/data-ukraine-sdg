@@ -501,7 +501,7 @@
           }
         ]
       },
-      "title": "11-3-1-a"
+      "title": "global_indicators.11-3-1-a-title"
     },
     {
       "path": "7-5-5/data.csv",
@@ -2666,7 +2666,7 @@
           }
         ]
       },
-      "title": "11-2-1-a"
+      "title": "global_indicators.11-2-1-a-title"
     },
     {
       "path": "11-7-2/data.csv",
@@ -3338,7 +3338,7 @@
           }
         ]
       },
-      "title": "10-3-3-a"
+      "title": "global_indicators.10-3-3-a-title"
     },
     {
       "path": "5-3-1-a/data.csv",
@@ -10458,7 +10458,7 @@
           }
         ]
       },
-      "title": "12-4-2-a"
+      "title": "global_indicators.12-4-2-a-title"
     },
     {
       "path": "3-6-2-a/data.csv",
@@ -12482,7 +12482,7 @@
           }
         ]
       },
-      "title": "10-5-1-a"
+      "title": "global_indicators.10-5-1-a-title"
     },
     {
       "path": "8-1-4/data.csv",
@@ -17328,7 +17328,7 @@
           }
         ]
       },
-      "title": "11-3-2-a"
+      "title": "global_indicators.11-3-2-a-title"
     },
     {
       "path": "7-6-1/data.csv",
@@ -18397,7 +18397,7 @@
           }
         ]
       },
-      "title": "11-3-3-a"
+      "title": "global_indicators.11-3-3-a-title"
     },
     {
       "path": "1-1-1-a/data.csv",
@@ -19883,7 +19883,7 @@
           }
         ]
       },
-      "title": "9-5-1-a"
+      "title": "global_indicators.9-5-1-a-title"
     },
     {
       "path": "15-6-1/data.csv",
