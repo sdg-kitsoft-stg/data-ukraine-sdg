@@ -8,7 +8,7 @@ Year,Еconomic activity,Value
 2021,,
 2022,,
 2023,,
-2015,mining and quarrying,0.0
+2015,mining and quarrying,0
 2016,mining and quarrying,
 2017,mining and quarrying,0.1
 2018,mining and quarrying,0.1
@@ -19,28 +19,28 @@ Year,Еconomic activity,Value
 2023,mining and quarrying,
 2015,extraction of hard coal and brown coal,
 2016,extraction of hard coal and brown coal,
-2017,extraction of hard coal and brown coal,
-2018,extraction of hard coal and brown coal,0.0
-2019,extraction of hard coal and brown coal,0.0
+2017,extraction of hard coal and brown coal,c
+2018,extraction of hard coal and brown coal,0
+2019,extraction of hard coal and brown coal,0
 2020,extraction of hard coal and brown coal,
 2021,extraction of hard coal and brown coal,
 2022,extraction of hard coal and brown coal,
 2023,extraction of hard coal and brown coal,
 2015,extraction of crude oil and natural gas,
 2016,extraction of crude oil and natural gas,
-2017,extraction of crude oil and natural gas,0.0
-2018,extraction of crude oil and natural gas,0.0
-2019,extraction of crude oil and natural gas,0.0
-2020,extraction of crude oil and natural gas,
+2017,extraction of crude oil and natural gas,0
+2018,extraction of crude oil and natural gas,0
+2019,extraction of crude oil and natural gas,0
+2020,extraction of crude oil and natural gas,c
 2021,extraction of crude oil and natural gas,
 2022,extraction of crude oil and natural gas,
 2023,extraction of crude oil and natural gas,
 2015,extraction of metal ores,
 2016,extraction of metal ores,
-2017,extraction of metal ores,0.0
+2017,extraction of metal ores,0
 2018,extraction of metal ores,0.2
 2019,extraction of metal ores,0.3
-2020,extraction of metal ores,
+2020,extraction of metal ores,c
 2021,extraction of metal ores,
 2022,extraction of metal ores,
 2023,extraction of metal ores,
@@ -49,16 +49,16 @@ Year,Еconomic activity,Value
 2017,extraction of other minerals and quarrying,0.3
 2018,extraction of other minerals and quarrying,0.1
 2019,extraction of other minerals and quarrying,0.4
-2020,extraction of other minerals and quarrying,
+2020,extraction of other minerals and quarrying,c
 2021,extraction of other minerals and quarrying,
 2022,extraction of other minerals and quarrying,
 2023,extraction of other minerals and quarrying,
-2015,provision of ancillary services in the field of mining and quarrying,0.0
+2015,provision of ancillary services in the field of mining and quarrying,0
 2016,provision of ancillary services in the field of mining and quarrying,
 2017,provision of ancillary services in the field of mining and quarrying,0.6
-2018,provision of ancillary services in the field of mining and quarrying,0.0
+2018,provision of ancillary services in the field of mining and quarrying,0
 2019,provision of ancillary services in the field of mining and quarrying,1.1
-2020,provision of ancillary services in the field of mining and quarrying,
+2020,provision of ancillary services in the field of mining and quarrying,c
 2021,provision of ancillary services in the field of mining and quarrying,
 2022,provision of ancillary services in the field of mining and quarrying,
 2023,provision of ancillary services in the field of mining and quarrying,
@@ -93,8 +93,8 @@ Year,Еconomic activity,Value
 2016,manufacture of tobacco products,
 2017,manufacture of tobacco products,0.8
 2018,manufacture of tobacco products,0.2
-2019,manufacture of tobacco products,
-2020,manufacture of tobacco products,
+2019,manufacture of tobacco products,c
+2020,manufacture of tobacco products,c
 2021,manufacture of tobacco products,
 2022,manufacture of tobacco products,
 2023,manufacture of tobacco products,
@@ -112,7 +112,7 @@ Year,Еconomic activity,Value
 2017,manufacture of clothing,0.4
 2018,manufacture of clothing,0.7
 2019,manufacture of clothing,0.2
-2020,manufacture of clothing,
+2020,manufacture of clothing,c
 2021,manufacture of clothing,
 2022,manufacture of clothing,
 2023,manufacture of clothing,
@@ -120,8 +120,8 @@ Year,Еconomic activity,Value
 2016,"manufacture of leather, leather goods and other materials",
 2017,"manufacture of leather, leather goods and other materials",0.2
 2018,"manufacture of leather, leather goods and other materials",3.6
-2019,"manufacture of leather, leather goods and other materials",
-2020,"manufacture of leather, leather goods and other materials",
+2019,"manufacture of leather, leather goods and other materials",c
+2020,"manufacture of leather, leather goods and other materials",c
 2021,"manufacture of leather, leather goods and other materials",
 2022,"manufacture of leather, leather goods and other materials",
 2023,"manufacture of leather, leather goods and other materials",
@@ -148,16 +148,16 @@ Year,Еconomic activity,Value
 2017,"printing, reproduction of recorded information",3.1
 2018,"printing, reproduction of recorded information",7.7
 2019,"printing, reproduction of recorded information",6.3
-2020,"printing, reproduction of recorded information",
+2020,"printing, reproduction of recorded information",c
 2021,"printing, reproduction of recorded information",
 2022,"printing, reproduction of recorded information",
 2023,"printing, reproduction of recorded information",
 2015,manufacture of coke and refined petroleum products,0.4
 2016,manufacture of coke and refined petroleum products,
-2017,manufacture of coke and refined petroleum products,
-2018,manufacture of coke and refined petroleum products,
-2019,manufacture of coke and refined petroleum products,
-2020,manufacture of coke and refined petroleum products,
+2017,manufacture of coke and refined petroleum products,c
+2018,manufacture of coke and refined petroleum products,c
+2019,manufacture of coke and refined petroleum products,c
+2020,manufacture of coke and refined petroleum products,c
 2021,manufacture of coke and refined petroleum products,
 2022,manufacture of coke and refined petroleum products,
 2023,manufacture of coke and refined petroleum products,
@@ -170,7 +170,7 @@ Year,Еconomic activity,Value
 2021,manufacture of chemicals and chemical products,
 2022,manufacture of chemicals and chemical products,
 2023,manufacture of chemicals and chemical products,
-2015,manufacture of main pharmaceutical products and preparations,3.0
+2015,manufacture of main pharmaceutical products and preparations,3
 2016,manufacture of main pharmaceutical products and preparations,
 2017,manufacture of main pharmaceutical products and preparations,1.6
 2018,manufacture of main pharmaceutical products and preparations,2.4
@@ -182,7 +182,7 @@ Year,Еconomic activity,Value
 2015,manufacture of rubber and plastic products,1.6
 2016,manufacture of rubber and plastic products,
 2017,manufacture of rubber and plastic products,1.6
-2018,manufacture of rubber and plastic products,2.0
+2018,manufacture of rubber and plastic products,2
 2019,manufacture of rubber and plastic products,1.8
 2020,manufacture of rubber and plastic products,0.9
 2021,manufacture of rubber and plastic products,
@@ -191,7 +191,7 @@ Year,Еconomic activity,Value
 2015,manufacture of other non-metallic mineral products,0.3
 2016,manufacture of other non-metallic mineral products,
 2017,manufacture of other non-metallic mineral products,0.9
-2018,manufacture of other non-metallic mineral products,1.0
+2018,manufacture of other non-metallic mineral products,1
 2019,manufacture of other non-metallic mineral products,0.7
 2020,manufacture of other non-metallic mineral products,1.1
 2021,manufacture of other non-metallic mineral products,
@@ -202,7 +202,7 @@ Year,Еconomic activity,Value
 2017,metallurgical manufacturing,0.9
 2018,metallurgical manufacturing,0.5
 2019,metallurgical manufacturing,3.2
-2020,metallurgical manufacturing,
+2020,metallurgical manufacturing,c
 2021,metallurgical manufacturing,
 2022,metallurgical manufacturing,
 2023,metallurgical manufacturing,
@@ -245,7 +245,7 @@ Year,Еconomic activity,Value
 2015,"manufacture of motor vehicles, trailers and semi-trailers",4.3
 2016,"manufacture of motor vehicles, trailers and semi-trailers",
 2017,"manufacture of motor vehicles, trailers and semi-trailers",2.3
-2018,"manufacture of motor vehicles, trailers and semi-trailers",5.0
+2018,"manufacture of motor vehicles, trailers and semi-trailers",5
 2019,"manufacture of motor vehicles, trailers and semi-trailers",5.6
 2020,"manufacture of motor vehicles, trailers and semi-trailers",3.6
 2021,"manufacture of motor vehicles, trailers and semi-trailers",
@@ -264,14 +264,14 @@ Year,Еconomic activity,Value
 2016,manufacture of furniture,
 2017,manufacture of furniture,0.7
 2018,manufacture of furniture,2.2
-2019,manufacture of furniture,1.0
+2019,manufacture of furniture,1
 2020,manufacture of furniture,1.4
 2021,manufacture of furniture,
 2022,manufacture of furniture,
 2023,manufacture of furniture,
 2015,manufacture of other products,1.1
 2016,manufacture of other products,
-2017,manufacture of other products,1.0
+2017,manufacture of other products,1
 2018,manufacture of other products,0.5
 2019,manufacture of other products,0.3
 2020,manufacture of other products,3.1
@@ -287,47 +287,47 @@ Year,Еconomic activity,Value
 2021,repair and installation of machinery and equipment,
 2022,repair and installation of machinery and equipment,
 2023,repair and installation of machinery and equipment,
-2015,"supply of electricity, gas, steam and air conditioning",0.0
+2015,"supply of electricity, gas, steam and air conditioning",0
 2016,"supply of electricity, gas, steam and air conditioning",
-2017,"supply of electricity, gas, steam and air conditioning",0.0
-2018,"supply of electricity, gas, steam and air conditioning",
-2019,"supply of electricity, gas, steam and air conditioning",
-2020,"supply of electricity, gas, steam and air conditioning",
+2017,"supply of electricity, gas, steam and air conditioning",0
+2018,"supply of electricity, gas, steam and air conditioning",c
+2019,"supply of electricity, gas, steam and air conditioning",c
+2020,"supply of electricity, gas, steam and air conditioning",c
 2021,"supply of electricity, gas, steam and air conditioning",
 2022,"supply of electricity, gas, steam and air conditioning",
 2023,"supply of electricity, gas, steam and air conditioning",
-2015,"water supply; sewage, waste management",0.0
+2015,"water supply; sewage, waste management",0
 2016,"water supply; sewage, waste management",
-2017,"water supply; sewage, waste management",0.0
-2018,"water supply; sewage, waste management",
-2019,"water supply; sewage, waste management",
-2020,"water supply; sewage, waste management",
+2017,"water supply; sewage, waste management",0
+2018,"water supply; sewage, waste management",c
+2019,"water supply; sewage, waste management",c
+2020,"water supply; sewage, waste management",c
 2021,"water supply; sewage, waste management",
 2022,"water supply; sewage, waste management",
 2023,"water supply; sewage, waste management",
-2015,"water collection, treatment and supply",0.0
+2015,"water collection, treatment and supply",0
 2016,"water collection, treatment and supply",
 2017,"water collection, treatment and supply",
-2018,"water collection, treatment and supply",
+2018,"water collection, treatment and supply",c
 2019,"water collection, treatment and supply",
-2020,"water collection, treatment and supply",
+2020,"water collection, treatment and supply",c
 2021,"water collection, treatment and supply",
 2022,"water collection, treatment and supply",
 2023,"water collection, treatment and supply",
 2015,"sewage, wastewater collection and treatment",
 2016,"sewage, wastewater collection and treatment",
 2017,"sewage, wastewater collection and treatment",
-2018,"sewage, wastewater collection and treatment",
-2019,"sewage, wastewater collection and treatment",
+2018,"sewage, wastewater collection and treatment",c
+2019,"sewage, wastewater collection and treatment",c
 2020,"sewage, wastewater collection and treatment",
 2021,"sewage, wastewater collection and treatment",
 2022,"sewage, wastewater collection and treatment",
 2023,"sewage, wastewater collection and treatment",
-2015,"collection, treatment and disposal of waste; restoration of materials",0.0
+2015,"collection, treatment and disposal of waste; restoration of materials",0
 2016,"collection, treatment and disposal of waste; restoration of materials",
-2017,"collection, treatment and disposal of waste; restoration of materials",0.0
-2018,"collection, treatment and disposal of waste; restoration of materials",
-2019,"collection, treatment and disposal of waste; restoration of materials",
+2017,"collection, treatment and disposal of waste; restoration of materials",0
+2018,"collection, treatment and disposal of waste; restoration of materials",c
+2019,"collection, treatment and disposal of waste; restoration of materials",c
 2020,"collection, treatment and disposal of waste; restoration of materials",
 2021,"collection, treatment and disposal of waste; restoration of materials",
 2022,"collection, treatment and disposal of waste; restoration of materials",

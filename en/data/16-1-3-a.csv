@@ -1,22 +1,22 @@
 Year,Unit,Group,Value
-2015,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.72
-2016,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.77
-2017,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.55
-2018,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.47
-2019,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.81
-2020,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.93
-2021,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.95
-2022,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",0.57
-2023,Victims of criminal offenses (per 100 thousand population),"number of pupils, persons",1.08
-2015,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",306.0
-2016,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",328.0
-2017,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",233.0
-2018,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",197.0
-2019,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",341.0
-2020,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",388.0
-2021,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",391.0
-2022,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",236.0
-2023,"Victims of criminal offenses (Art. 152), total","number of pupils, persons",443.0
+2015,Victims of criminal offenses (per 100 thousand population),all,0.72
+2016,Victims of criminal offenses (per 100 thousand population),all,0.77
+2017,Victims of criminal offenses (per 100 thousand population),all,0.55
+2018,Victims of criminal offenses (per 100 thousand population),all,0.47
+2019,Victims of criminal offenses (per 100 thousand population),all,0.81
+2020,Victims of criminal offenses (per 100 thousand population),all,0.93
+2021,Victims of criminal offenses (per 100 thousand population),all,0.95
+2022,Victims of criminal offenses (per 100 thousand population),all,0.57
+2023,Victims of criminal offenses (per 100 thousand population),all,1.08
+2015,"Victims of criminal offenses (Art. 152), total",all,306.0
+2016,"Victims of criminal offenses (Art. 152), total",all,328.0
+2017,"Victims of criminal offenses (Art. 152), total",all,233.0
+2018,"Victims of criminal offenses (Art. 152), total",all,197.0
+2019,"Victims of criminal offenses (Art. 152), total",all,341.0
+2020,"Victims of criminal offenses (Art. 152), total",all,388.0
+2021,"Victims of criminal offenses (Art. 152), total",all,391.0
+2022,"Victims of criminal offenses (Art. 152), total",all,236.0
+2023,"Victims of criminal offenses (Art. 152), total",all,443.0
 2015,"Victims of criminal offenses (Art. 152), total",females,278.0
 2016,"Victims of criminal offenses (Art. 152), total",females,298.0
 2017,"Victims of criminal offenses (Art. 152), total",females,208.0
