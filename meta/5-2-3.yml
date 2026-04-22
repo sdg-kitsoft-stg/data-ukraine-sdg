@@ -4,3 +4,5 @@ SDG_INDICATOR: 5.2.3 Share of the population that is willing to report cases of 
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "National Social Service of Ukraine (NSSU)"
 REC_USE_LIM: "Data will be available from 2026."
+reference_title: "Target value of the indicator for 2030"
+footer_reference: 'increase by 5 percent every 3 years'

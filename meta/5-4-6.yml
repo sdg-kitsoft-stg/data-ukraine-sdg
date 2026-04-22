@@ -4,6 +4,5 @@ SDG_INDICATOR: 5.4.6 Share of employed persons who play sports daily or several 
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Social Policy, Family and Unity of Ukraine"
 REC_USE_LIM: "Data will be available after involving development partners."
-footer_fields:
-    - label: "Target value of the indicator for 2030"
-      value: 'increase the share of women by 5 percent every 3 years'
+reference_title: "Target value of the indicator for 2030"
+footer_reference: 'increase the share of women by 5 percent every 3 years'

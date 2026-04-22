@@ -4,6 +4,5 @@ SDG_INDICATOR: 5.1.3 Share of the population that claims to be aware of informat
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Ministry of Social Policy, Family and Unity of Ukraine"
 REC_USE_LIM: "Data will be available after involving development partners."
-footer_fields:
-    - label: "Target value of the indicator for 2030"
-      value: 'increase by 5 percent every 3 years'
+reference_title: "Target value of the indicator for 2030"
+footer_reference: 'increase by 5 percent every 3 years'

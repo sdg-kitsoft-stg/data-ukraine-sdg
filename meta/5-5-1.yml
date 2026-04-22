@@ -3,7 +3,7 @@ SDG_TARGET: 5.5 Ensuring equal opportunities for representation of women and men
 SDG_INDICATOR: 5.5.1 Ratio of women to men in the Verkhovna Rada of Ukraine, percent
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "Central Election Commission"
-REC_USE_LIM: "Information is provided given the fact that voting of citizens of Ukraine was not organized and conducted in the territory of the Autonomous Republic of Crimea and the city of Sevastopol, as well as in certain territories of the Donetsk and Luhansk regions. <br>2024 - No elections were conducted in 2024. Data will be available within 1 month from the date of opening of the 1st session of the Verkhovna Rada of Ukraine, held after regular or early elections of people's deputies of Ukraine.<br>2021 - 2022 data as of December 31"
+REC_USE_LIM: "Data are provided as of December 31. <br> Information is provided given the fact that voting of citizens of Ukraine was not organized and conducted in the territory of the Autonomous Republic of Crimea and the city of Sevastopol, as well as in certain territories of the Donetsk and Luhansk regions. <br> 2024: No elections were conducted in 2024. Data will be available within 1 month from the date of opening of the 1st session of the Verkhovna Rada of Ukraine, held after regular or early elections of people's deputies of Ukraine."
 footer_fields:
-    - label: "Target value of the indicator for 2030"
-      value: 'males – 70, females – 30'
+    - label: "Target values of the indicator for 2030"
+      value: 'males – 70, females– 30'
