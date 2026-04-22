@@ -13,7 +13,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2015,administrative_and_support_service,,,
 2015,agriculture_forestry_and_fishing,,,
 2015,arts_sports_entertainment_recreation,,,
-2015,construction,,,
+2015,construction_1,,,
 2015,education,,,
 2015,electricity_gas_steam_air_conditioning_supply,,,
 2015,financial_and_insurance,,,
@@ -70,7 +70,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2016,administrative_and_support_service,,,
 2016,agriculture_forestry_and_fishing,,,
 2016,arts_sports_entertainment_recreation,,,
-2016,construction,,,
+2016,construction_1,,,
 2016,education,,,
 2016,electricity_gas_steam_air_conditioning_supply,,,
 2016,financial_and_insurance,,,
@@ -127,7 +127,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2017,administrative_and_support_service,,,
 2017,agriculture_forestry_and_fishing,,,
 2017,arts_sports_entertainment_recreation,,,
-2017,construction,,,
+2017,construction_1,,,
 2017,education,,,
 2017,electricity_gas_steam_air_conditioning_supply,,,
 2017,financial_and_insurance,,,
@@ -184,7 +184,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2018,administrative_and_support_service,,,
 2018,agriculture_forestry_and_fishing,,,
 2018,arts_sports_entertainment_recreation,,,
-2018,construction,,,
+2018,construction_1,,,
 2018,education,,,
 2018,electricity_gas_steam_air_conditioning_supply,,,
 2018,financial_and_insurance,,,
@@ -241,7 +241,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2019,administrative_and_support_service,,,
 2019,agriculture_forestry_and_fishing,,,
 2019,arts_sports_entertainment_recreation,,,
-2019,construction,,,
+2019,construction_1,,,
 2019,education,,,
 2019,electricity_gas_steam_air_conditioning_supply,,,
 2019,financial_and_insurance,,,
@@ -298,7 +298,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2020,administrative_and_support_service,,,0.719
 2020,agriculture_forestry_and_fishing,,,24.581
 2020,arts_sports_entertainment_recreation,,,0.013
-2020,construction,,,2.406
+2020,construction_1,,,2.406
 2020,education,,,0.254
 2020,electricity_gas_steam_air_conditioning_supply,,,4.292
 2020,financial_and_insurance,,,
@@ -355,7 +355,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2021,administrative_and_support_service,,,1.346
 2021,agriculture_forestry_and_fishing,,,35.331
 2021,arts_sports_entertainment_recreation,,,0.016
-2021,construction,,,2.484
+2021,construction_1,,,2.484
 2021,education,,,0.254
 2021,electricity_gas_steam_air_conditioning_supply,,,3.023
 2021,financial_and_insurance,,,
@@ -412,7 +412,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2022,administrative_and_support_service,,,0.512
 2022,agriculture_forestry_and_fishing,,,14.242
 2022,arts_sports_entertainment_recreation,,,0.021
-2022,construction,,,0.568
+2022,construction_1,,,0.568
 2022,education,,,0.271
 2022,electricity_gas_steam_air_conditioning_supply,,,0.215
 2022,financial_and_insurance,,,
@@ -469,7 +469,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2023,administrative_and_support_service,,,1.861
 2023,agriculture_forestry_and_fishing,,,19.374
 2023,arts_sports_entertainment_recreation,,,0.093
-2023,construction,,,0.006
+2023,construction_1,,,0.006
 2023,education,,,0.308
 2023,electricity_gas_steam_air_conditioning_supply,,,3.029
 2023,financial_and_insurance,,,
@@ -526,7 +526,7 @@ Year,Type of economic activity,By river basins,Region,Value
 2024,administrative_and_support_service,,,0.446
 2024,agriculture_forestry_and_fishing,,,19.501
 2024,arts_sports_entertainment_recreation,,,0.09
-2024,construction,,,0.04
+2024,construction_1,,,0.04
 2024,education,,,0.261
 2024,electricity_gas_steam_air_conditioning_supply,,,1.2
 2024,financial_and_insurance,,,

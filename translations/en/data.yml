@@ -2945,8 +2945,10 @@ accommodation_and_food_service: Accommodation and food service activities
 administrative_and_support_service: Administrative and support service activities
 agriculture_forestry_and_fishing: Agriculture, forestry and fishing
 arts_sports_entertainment_recreation: Arts, sports, entertainment and recreation
-construction: Construction
-education: Education
+construction: construction
+construction_1: Construction
+education: education
+education_1: Education
 electricity_gas_steam_air_conditioning_supply: Electricity, gas, steam and air conditioning supply
 financial_and_insurance: Financial and insurance activities
 household_activities: Household activities
@@ -3235,7 +3237,8 @@ age_vac_7_adult_a: adults
 aged_15_a: 15 years
 aged_16_a: 16 years
 aged_17_a: 17 years
-centralized_a: centralized water supply
+centralized_a: centralized
+children_a: children
 dg_01_a: 1st group (low income)
 dg_02_a: 2nd group
 dg_03_a: 3rd group
