@@ -17,15 +17,15 @@ Year,Type of residence,Type of water supply,Value
 2021,rural,,2.8
 2022,rural,,12.2
 2023,rural,,2.9
-2015,,centralized water supply,1.1
-2016,,centralized water supply,1.1
-2017,,centralized water supply,3.9
-2018,,centralized water supply,4.0
-2019,,centralized water supply,4.6
-2020,,centralized water supply,4.7
-2021,,centralized water supply,1.9
-2022,,centralized water supply,1.2
-2023,,centralized water supply,0.8
+2015,,centralized,1.1
+2016,,centralized,1.1
+2017,,centralized,3.9
+2018,,centralized,4.0
+2019,,centralized,4.6
+2020,,centralized,4.7
+2021,,centralized,1.9
+2022,,centralized,1.2
+2023,,centralized,0.8
 2015,,decentralized,1.7
 2016,,decentralized,0.4
 2017,,decentralized,3.0

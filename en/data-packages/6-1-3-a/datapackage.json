@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply",
+                "centralized",
                 "decentralized",
                 ""
               ]

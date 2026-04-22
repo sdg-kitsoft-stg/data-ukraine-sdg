@@ -2380,7 +2380,7 @@
                 "Agriculture, forestry and fishing",
                 "Arts, sports, entertainment and recreation",
                 "Construction",
-                "Education",
+                "education",
                 "Electricity, gas, steam and air conditioning supply",
                 "Financial and insurance activities",
                 "Household activities",
@@ -2748,7 +2748,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply",
+                "centralized",
                 "decentralized",
                 ""
               ]
@@ -5642,7 +5642,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply",
+                "centralized",
                 "decentralized",
                 ""
               ]
@@ -6378,7 +6378,7 @@
               "enum": [
                 "male",
                 "female",
-                "children_a",
+                "children",
                 ""
               ]
             },
@@ -17287,7 +17287,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "centralized water supply",
+                "centralized",
                 "decentralized",
                 ""
               ]
