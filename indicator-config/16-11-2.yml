@@ -27,7 +27,8 @@ indicator_number: '16.11.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
-precision: []
+precision:
+  - decimals: 6
 reporting_status: complete
 sort: ''
 standalone: false
