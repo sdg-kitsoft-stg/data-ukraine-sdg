@@ -11,6 +11,8 @@ data_show_map: false
 data_start_values:
   - field: Unit
     value: '1_vic_100'
+  - field: Group
+    value: '1_all_a'
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
