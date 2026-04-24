@@ -26,24 +26,24 @@ Year,Type of residence,Sex,Age,Value
 2021,rural,,,71.2
 2022,rural,,,
 2023,rural,,,
-2015,,female,,46.5
-2016,,female,,51.3
-2017,,female,,57.0
-2018,,female,,60.0
-2019,,female,,68.2
-2020,,female,,72.9
-2021,,female,,76.9
-2022,,female,,
-2023,,female,,
-2015,,male,,51.6
-2016,,male,,55.0
-2017,,male,,61.1
-2018,,male,,65.5
-2019,,male,,72.4
-2020,,male,,78.2
-2021,,male,,82.2
-2022,,male,,
-2023,,male,,
+2015,,women,,46.5
+2016,,women,,51.3
+2017,,women,,57.0
+2018,,women,,60.0
+2019,,women,,68.2
+2020,,women,,72.9
+2021,,women,,76.9
+2022,,women,,
+2023,,women,,
+2015,,men,,51.6
+2016,,men,,55.0
+2017,,men,,61.1
+2018,,men,,65.5
+2019,,men,,72.4
+2020,,men,,78.2
+2021,,men,,82.2
+2022,,men,,
+2023,,men,,
 2015,,,up to 15 years,36.6
 2016,,,up to 15 years,43.8
 2017,,,up to 15 years,50.2

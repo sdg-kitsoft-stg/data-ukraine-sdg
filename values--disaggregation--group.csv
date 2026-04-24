@@ -27,8 +27,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 carbon_intensity_of_the_gross_domestic_product,1,1
 children_a,1,1
 energy_intensity_of_the_gross_domestic_product,1,1
-female,1,1
-male,1,1
+females_a,1,1
+males_a,1,1
 material_intensity_of_the_gross_domestic_product,1,1
 prod_10_rusks,1,1
 prod_11_other,1,1

@@ -2,13 +2,13 @@ Value,Disaggregation combinations using this value,Number of indicators
 1_all,1,1
 boys,6,6
 boys_1,1,1
-female,7,7
+female,5,5
 females_1,45,34
-females_a,18,4
+females_a,20,6
 girls,6,6
 girls_1,1,1
-male,7,7
+male,5,5
 males_1,45,34
-males_a,18,4
+males_a,20,6
 men,45,7
 women,45,7

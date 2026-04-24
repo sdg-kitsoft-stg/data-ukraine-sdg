@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "males_a",
+                "females_a",
                 "children_a",
                 ""
               ]

@@ -2380,7 +2380,7 @@
                 "Agriculture, forestry and fishing",
                 "Arts, sports, entertainment and recreation",
                 "Construction",
-                "Education",
+                "education",
                 "Electricity, gas, steam and air conditioning supply",
                 "Financial and insurance activities",
                 "Household activities",
@@ -3429,7 +3429,7 @@
           }
         ]
       },
-      "title": "16-2-1-a"
+      "title": "Number of victims of human trafficking or other illicit transactions involving the transfer of human beings reported in the past 12 months, persons"
     },
     {
       "path": "7-4-4/data.csv",
@@ -6376,8 +6376,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "men",
+                "women",
                 "children",
                 ""
               ]
@@ -7252,8 +7252,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
@@ -15967,7 +15967,7 @@
           }
         ]
       },
-      "title": "16-1-3-a"
+      "title": "Number of victims of rape in the past 12 months, persons"
     },
     {
       "path": "8-5-2-a/data.csv",
@@ -17019,8 +17019,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "women",
+                "men",
                 ""
               ]
             },
