@@ -774,7 +774,7 @@ A105: manufacture of footwear
 A106: sawmilling and planing of wood
 A107: manufacture of veneer sheets and wood-based panels
 A108: manufacture of assembled parquet floors
-A109: manufacture of other builders\' carpentry and joinery
+A109: manufacture of other builders' carpentry and joinery
 A110: manufacture of wooden containers
 A111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 A112: manufacture of pulp
@@ -3291,3 +3291,15 @@ Chamber_of_Commerce_and_Industry: Chamber of Commerce and Industry
 Audit_Chamber_of_Ukraine: Audit Chamber of Ukraine
 Type of water supply: Type of water supply
 decentralized: decentralized
+
+Bgriculture_and_production_cooperativ: Agriculture and production cooperativ
+Bgriculture_and_serve_cooperativ: Agriculture and serve cooperativ
+Bgriculture_cooperativ: Agriculture cooperativ
+Buthority_of_state_power_organization: Communal (establishment, institution)
+Buthority_of_state_power: Authority of state power
+Buthority_of_municipality_power: Authority of municipality power
+Buthority_of_advocacy_self-government: Authority of advocacy self-government
+Buthority_of_judge_self-government: Authority of judge self-government
+Budit_chamber_of_ukraine: Audit Chamber of Ukraine
+Bssociation: Association
+Bssociation_of_trade_unions: Association of trade unions
