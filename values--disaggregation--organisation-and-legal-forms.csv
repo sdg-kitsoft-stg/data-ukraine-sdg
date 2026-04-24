@@ -13,6 +13,7 @@ authority_of_state_power_organization,1,1
 Bgriculture_and_production_cooperativ,1,1
 Bgriculture_and_serve_cooperativ,1,1
 Bgriculture_cooperativ,1,1
+branch,1,1
 Bssociation,1,1
 Bssociation_of_trade_unions,1,1
 Budit_chamber_of_ukraine,1,1
@@ -32,7 +33,7 @@ condominium,2,2
 consortium,2,2
 consumer_cooperativ,2,2
 consumer_partnership,2,2
-cooperative,2,2
+cooperative,1,1
 corporation,2,2
 courts,2,2
 creative_union_other_professional_organisation,2,2
@@ -46,9 +47,9 @@ foreign_enterprise,2,2
 full_liability_partnership,2,2
 garage_cooperativ,2,2
 gardening_partnership,2,2
-holding_company,2,2
+holding_company,1,1
 housing_construction_cooperativ,2,2
-individual_enterprise,2,2
+individual_enterprise,1,1
 joint-stock_company,2,2
 joint_communal_enterprise,2,2
 joint_enterprise,2,2
@@ -58,9 +59,9 @@ limited_liability_partnership,2,2
 mixed_liability_company,2,2
 non-profit_organisation,2,2
 not_state_pension_fund,2,2
-organisation_establishment_institution,2,2
+organisation_establishment_institution,1,1
 organisation_establishment_institution_public_association,2,2
-organization_of_customers,2,2
+organization_of_customers,1,1
 organization_of_employers,2,2
 organization_of_tenants,2,2
 organization_of_water_users,2,2
@@ -82,5 +83,5 @@ state-run_organisation,2,2
 state_joint_stock_company,2,2
 subsidiary,2,2
 trade_union,2,2
-trade_union_association_of_trade_unions,2,2
+trade_union_association_of_trade_unions,1,1
 union_of_consumer_partnerships,2,2

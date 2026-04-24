@@ -623,50 +623,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,,Enterprise association of citizens (religious organisation trade union),,,
 2015,,Enterprise founded by consumer partnership,,,
 2015,,Rental enterprise,,,
-2015,,Individual enterprise,,,
 2015,,Family enterprise,,,
 2015,,Joint enterprise,,,
 2015,,Joint-stock company,,,
 2015,,Public joint-stock partnership,,,
 2015,,Private joint-stock partnership,,,
 2015,,State joint stock company (company),,,
-2015,,Holding company,,,
 2015,,Limited liability partnership,,,
 2015,,Extended liability partnership,,,
 2015,,Full liability partnership,,,
 2015,,Mixed liability company,,,
 2015,,Lawyers’ union,,,
 2015,,Law office,,,
-2015,,Cooperative,,,
 2015,,Production cooperative,,,
 2015,,Serve cooperative,,,
 2015,,Housing construction cooperativ,,,
 2015,,Garage cooperativ,,,
 2015,,Consumer cooperativ,,,
 2015,,Consumer partnership,,,
-2015,,Bgriculture_and_production_cooperativ,,,
-2015,,Bgriculture_and_serve_cooperativ,,,
-2015,,Bgriculture_cooperativ,,,
-2015,,Organisation (establishment institution),,,
-2015,,Buthority_of_state_power_organization,,,
-2015,,Buthority_of_state_power,,,
+2015,,Agriculture and production cooperativ,,,
+2015,,Agriculture and serve cooperativ,,,
+2015,,Agriculture cooperativ,,,
+2015,,Authority of state power,,,
 2015,,Courts,,,
-2015,,Buthority_of_municipality_power,,,
+2015,,Authority of municipality power,,,
 2015,,"State-run organisation (establishment, institution)",,,
+2015,,"Communal (establishment, institution)",,,
 2015,,"Communal (establishment, institution)",,,
 2015,,"Private (establishment, institution)",,,
 2015,,"Organisation (establishment, institution) public association",,,
 2015,,Organization of tenants,,,
-2015,,Organization of customers,,,
-2015,,Bssociation,,,
+2015,,Association,,,
 2015,,Corporation,,,
 2015,,Consortium,,,
 2015,,Concern,,,
 2015,,Union of consumer partnerships,,,
 2015,,Other associations of legal persons,,,
-2015,,Buthority_of_advocacy_self-government,,,
-2015,,Buthority_of_judge_self-government,,,
-2015,,Budit_chamber_of_ukraine,,,
+2015,,Branch (other separate subdivision),,,
+2015,,Authority of advocacy self-government,,,
+2015,,Authority of judge self-government,,,
+2015,,Audit Chamber of Ukraine,,,
 2015,,Organization of water users,,,
 2015,,Commodity exchange,,,
 2015,,Credit union,,,
@@ -675,9 +671,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,,Non-profit organisation,,,
 2015,,Public union,,,
 2015,,Religious organisation,,,
-2015,,Trade union association of trade unions,,,
 2015,,Trade union,,,
-2015,,Bssociation_of_trade_unions,,,
+2015,,Association of trade unions,,,
 2015,,Creative union (other professional organisation),,,
 2015,,Charitable organisation,,,
 2015,,Organization of employers,,,
@@ -1336,50 +1331,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,,Enterprise association of citizens (religious organisation trade union),,,
 2016,,Enterprise founded by consumer partnership,,,
 2016,,Rental enterprise,,,
-2016,,Individual enterprise,,,
 2016,,Family enterprise,,,
 2016,,Joint enterprise,,,
 2016,,Joint-stock company,,,
 2016,,Public joint-stock partnership,,,
 2016,,Private joint-stock partnership,,,
 2016,,State joint stock company (company),,,
-2016,,Holding company,,,
 2016,,Limited liability partnership,,,
 2016,,Extended liability partnership,,,
 2016,,Full liability partnership,,,
 2016,,Mixed liability company,,,
 2016,,Lawyers’ union,,,
 2016,,Law office,,,
-2016,,Cooperative,,,
 2016,,Production cooperative,,,
 2016,,Serve cooperative,,,
 2016,,Housing construction cooperativ,,,
 2016,,Garage cooperativ,,,
 2016,,Consumer cooperativ,,,
 2016,,Consumer partnership,,,
-2016,,Bgriculture_and_production_cooperativ,,,
-2016,,Bgriculture_and_serve_cooperativ,,,
-2016,,Bgriculture_cooperativ,,,
-2016,,Organisation (establishment institution),,,
-2016,,Buthority_of_state_power_organization,,,
-2016,,Buthority_of_state_power,,,
+2016,,Agriculture and production cooperativ,,,
+2016,,Agriculture and serve cooperativ,,,
+2016,,Agriculture cooperativ,,,
+2016,,Authority of state power,,,
 2016,,Courts,,,
-2016,,Buthority_of_municipality_power,,,
+2016,,Authority of municipality power,,,
 2016,,"State-run organisation (establishment, institution)",,,
+2016,,"Communal (establishment, institution)",,,
 2016,,"Communal (establishment, institution)",,,
 2016,,"Private (establishment, institution)",,,
 2016,,"Organisation (establishment, institution) public association",,,
 2016,,Organization of tenants,,,
-2016,,Organization of customers,,,
-2016,,Bssociation,,,
+2016,,Association,,,
 2016,,Corporation,,,
 2016,,Consortium,,,
 2016,,Concern,,,
 2016,,Union of consumer partnerships,,,
 2016,,Other associations of legal persons,,,
-2016,,Buthority_of_advocacy_self-government,,,
-2016,,Buthority_of_judge_self-government,,,
-2016,,Budit_chamber_of_ukraine,,,
+2016,,Branch (other separate subdivision),,,
+2016,,Authority of advocacy self-government,,,
+2016,,Authority of judge self-government,,,
+2016,,Audit Chamber of Ukraine,,,
 2016,,Organization of water users,,,
 2016,,Commodity exchange,,,
 2016,,Credit union,,,
@@ -1388,9 +1379,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,,Non-profit organisation,,,
 2016,,Public union,,,
 2016,,Religious organisation,,,
-2016,,Trade union association of trade unions,,,
 2016,,Trade union,,,
-2016,,Bssociation_of_trade_unions,,,
+2016,,Association of trade unions,,,
 2016,,Creative union (other professional organisation),,,
 2016,,Charitable organisation,,,
 2016,,Organization of employers,,,
@@ -2049,50 +2039,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,,Enterprise association of citizens (religious organisation trade union),,,
 2017,,Enterprise founded by consumer partnership,,,
 2017,,Rental enterprise,,,
-2017,,Individual enterprise,,,
 2017,,Family enterprise,,,
 2017,,Joint enterprise,,,
 2017,,Joint-stock company,,,
 2017,,Public joint-stock partnership,,,
 2017,,Private joint-stock partnership,,,
 2017,,State joint stock company (company),,,
-2017,,Holding company,,,
 2017,,Limited liability partnership,,,
 2017,,Extended liability partnership,,,
 2017,,Full liability partnership,,,
 2017,,Mixed liability company,,,
 2017,,Lawyers’ union,,,
 2017,,Law office,,,
-2017,,Cooperative,,,
 2017,,Production cooperative,,,
 2017,,Serve cooperative,,,
 2017,,Housing construction cooperativ,,,
 2017,,Garage cooperativ,,,
 2017,,Consumer cooperativ,,,
 2017,,Consumer partnership,,,
-2017,,Bgriculture_and_production_cooperativ,,,
-2017,,Bgriculture_and_serve_cooperativ,,,
-2017,,Bgriculture_cooperativ,,,
-2017,,Organisation (establishment institution),,,
-2017,,Buthority_of_state_power_organization,,,
-2017,,Buthority_of_state_power,,,
+2017,,Agriculture and production cooperativ,,,
+2017,,Agriculture and serve cooperativ,,,
+2017,,Agriculture cooperativ,,,
+2017,,Authority of state power,,,
 2017,,Courts,,,
-2017,,Buthority_of_municipality_power,,,
+2017,,Authority of municipality power,,,
 2017,,"State-run organisation (establishment, institution)",,,
+2017,,"Communal (establishment, institution)",,,
 2017,,"Communal (establishment, institution)",,,
 2017,,"Private (establishment, institution)",,,
 2017,,"Organisation (establishment, institution) public association",,,
 2017,,Organization of tenants,,,
-2017,,Organization of customers,,,
-2017,,Bssociation,,,
+2017,,Association,,,
 2017,,Corporation,,,
 2017,,Consortium,,,
 2017,,Concern,,,
 2017,,Union of consumer partnerships,,,
 2017,,Other associations of legal persons,,,
-2017,,Buthority_of_advocacy_self-government,,,
-2017,,Buthority_of_judge_self-government,,,
-2017,,Budit_chamber_of_ukraine,,,
+2017,,Branch (other separate subdivision),,,
+2017,,Authority of advocacy self-government,,,
+2017,,Authority of judge self-government,,,
+2017,,Audit Chamber of Ukraine,,,
 2017,,Organization of water users,,,
 2017,,Commodity exchange,,,
 2017,,Credit union,,,
@@ -2101,9 +2087,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,,Non-profit organisation,,,
 2017,,Public union,,,
 2017,,Religious organisation,,,
-2017,,Trade union association of trade unions,,,
 2017,,Trade union,,,
-2017,,Bssociation_of_trade_unions,,,
+2017,,Association of trade unions,,,
 2017,,Creative union (other professional organisation),,,
 2017,,Charitable organisation,,,
 2017,,Organization of employers,,,
@@ -2762,50 +2747,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,,Enterprise association of citizens (religious organisation trade union),,,
 2018,,Enterprise founded by consumer partnership,,,
 2018,,Rental enterprise,,,
-2018,,Individual enterprise,,,
 2018,,Family enterprise,,,
 2018,,Joint enterprise,,,
 2018,,Joint-stock company,,,
 2018,,Public joint-stock partnership,,,
 2018,,Private joint-stock partnership,,,
 2018,,State joint stock company (company),,,
-2018,,Holding company,,,
 2018,,Limited liability partnership,,,
 2018,,Extended liability partnership,,,
 2018,,Full liability partnership,,,
 2018,,Mixed liability company,,,
 2018,,Lawyers’ union,,,
 2018,,Law office,,,
-2018,,Cooperative,,,
 2018,,Production cooperative,,,
 2018,,Serve cooperative,,,
 2018,,Housing construction cooperativ,,,
 2018,,Garage cooperativ,,,
 2018,,Consumer cooperativ,,,
 2018,,Consumer partnership,,,
-2018,,Bgriculture_and_production_cooperativ,,,
-2018,,Bgriculture_and_serve_cooperativ,,,
-2018,,Bgriculture_cooperativ,,,
-2018,,Organisation (establishment institution),,,
-2018,,Buthority_of_state_power_organization,,,
-2018,,Buthority_of_state_power,,,
+2018,,Agriculture and production cooperativ,,,
+2018,,Agriculture and serve cooperativ,,,
+2018,,Agriculture cooperativ,,,
+2018,,Authority of state power,,,
 2018,,Courts,,,
-2018,,Buthority_of_municipality_power,,,
+2018,,Authority of municipality power,,,
 2018,,"State-run organisation (establishment, institution)",,,
+2018,,"Communal (establishment, institution)",,,
 2018,,"Communal (establishment, institution)",,,
 2018,,"Private (establishment, institution)",,,
 2018,,"Organisation (establishment, institution) public association",,,
 2018,,Organization of tenants,,,
-2018,,Organization of customers,,,
-2018,,Bssociation,,,
+2018,,Association,,,
 2018,,Corporation,,,
 2018,,Consortium,,,
 2018,,Concern,,,
 2018,,Union of consumer partnerships,,,
 2018,,Other associations of legal persons,,,
-2018,,Buthority_of_advocacy_self-government,,,
-2018,,Buthority_of_judge_self-government,,,
-2018,,Budit_chamber_of_ukraine,,,
+2018,,Branch (other separate subdivision),,,
+2018,,Authority of advocacy self-government,,,
+2018,,Authority of judge self-government,,,
+2018,,Audit Chamber of Ukraine,,,
 2018,,Organization of water users,,,
 2018,,Commodity exchange,,,
 2018,,Credit union,,,
@@ -2814,9 +2795,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,,Non-profit organisation,,,
 2018,,Public union,,,
 2018,,Religious organisation,,,
-2018,,Trade union association of trade unions,,,
 2018,,Trade union,,,
-2018,,Bssociation_of_trade_unions,,,
+2018,,Association of trade unions,,,
 2018,,Creative union (other professional organisation),,,
 2018,,Charitable organisation,,,
 2018,,Organization of employers,,,
@@ -3476,50 +3456,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,,Enterprise association of citizens (religious organisation trade union),,,
 2019,,Enterprise founded by consumer partnership,,,
 2019,,Rental enterprise,,,
-2019,,Individual enterprise,,,
 2019,,Family enterprise,,,
 2019,,Joint enterprise,,,
 2019,,Joint-stock company,,,
 2019,,Public joint-stock partnership,,,
 2019,,Private joint-stock partnership,,,
 2019,,State joint stock company (company),,,
-2019,,Holding company,,,
 2019,,Limited liability partnership,,,
 2019,,Extended liability partnership,,,
 2019,,Full liability partnership,,,
 2019,,Mixed liability company,,,
 2019,,Lawyers’ union,,,
 2019,,Law office,,,
-2019,,Cooperative,,,
 2019,,Production cooperative,,,
 2019,,Serve cooperative,,,
 2019,,Housing construction cooperativ,,,
 2019,,Garage cooperativ,,,
 2019,,Consumer cooperativ,,,
 2019,,Consumer partnership,,,
-2019,,Bgriculture_and_production_cooperativ,,,
-2019,,Bgriculture_and_serve_cooperativ,,,
-2019,,Bgriculture_cooperativ,,,
-2019,,Organisation (establishment institution),,,
-2019,,Buthority_of_state_power_organization,,,
-2019,,Buthority_of_state_power,,,
+2019,,Agriculture and production cooperativ,,,
+2019,,Agriculture and serve cooperativ,,,
+2019,,Agriculture cooperativ,,,
+2019,,Authority of state power,,,
 2019,,Courts,,,
-2019,,Buthority_of_municipality_power,,,
+2019,,Authority of municipality power,,,
 2019,,"State-run organisation (establishment, institution)",,,
+2019,,"Communal (establishment, institution)",,,
 2019,,"Communal (establishment, institution)",,,
 2019,,"Private (establishment, institution)",,,
 2019,,"Organisation (establishment, institution) public association",,,
 2019,,Organization of tenants,,,
-2019,,Organization of customers,,,
-2019,,Bssociation,,,
+2019,,Association,,,
 2019,,Corporation,,,
 2019,,Consortium,,,
 2019,,Concern,,,
 2019,,Union of consumer partnerships,,,
 2019,,Other associations of legal persons,,,
-2019,,Buthority_of_advocacy_self-government,,,
-2019,,Buthority_of_judge_self-government,,,
-2019,,Budit_chamber_of_ukraine,,,
+2019,,Branch (other separate subdivision),,,
+2019,,Authority of advocacy self-government,,,
+2019,,Authority of judge self-government,,,
+2019,,Audit Chamber of Ukraine,,,
 2019,,Organization of water users,,,
 2019,,Commodity exchange,,,
 2019,,Credit union,,,
@@ -3528,9 +3504,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,,Non-profit organisation,,,
 2019,,Public union,,,
 2019,,Religious organisation,,,
-2019,,Trade union association of trade unions,,,
 2019,,Trade union,,,
-2019,,Bssociation_of_trade_unions,,,
+2019,,Association of trade unions,,,
 2019,,Creative union (other professional organisation),,,
 2019,,Charitable organisation,,,
 2019,,Organization of employers,,,
@@ -4189,50 +4164,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,,Enterprise association of citizens (religious organisation trade union),,,
 2020,,Enterprise founded by consumer partnership,,,
 2020,,Rental enterprise,,,
-2020,,Individual enterprise,,,
 2020,,Family enterprise,,,
 2020,,Joint enterprise,,,
 2020,,Joint-stock company,,,
 2020,,Public joint-stock partnership,,,
 2020,,Private joint-stock partnership,,,
 2020,,State joint stock company (company),,,
-2020,,Holding company,,,
 2020,,Limited liability partnership,,,
 2020,,Extended liability partnership,,,
 2020,,Full liability partnership,,,
 2020,,Mixed liability company,,,
 2020,,Lawyers’ union,,,
 2020,,Law office,,,
-2020,,Cooperative,,,
 2020,,Production cooperative,,,
 2020,,Serve cooperative,,,
 2020,,Housing construction cooperativ,,,
 2020,,Garage cooperativ,,,
 2020,,Consumer cooperativ,,,
 2020,,Consumer partnership,,,
-2020,,Bgriculture_and_production_cooperativ,,,
-2020,,Bgriculture_and_serve_cooperativ,,,
-2020,,Bgriculture_cooperativ,,,
-2020,,Organisation (establishment institution),,,
-2020,,Buthority_of_state_power_organization,,,
-2020,,Buthority_of_state_power,,,
+2020,,Agriculture and production cooperativ,,,
+2020,,Agriculture and serve cooperativ,,,
+2020,,Agriculture cooperativ,,,
+2020,,Authority of state power,,,
 2020,,Courts,,,
-2020,,Buthority_of_municipality_power,,,
+2020,,Authority of municipality power,,,
 2020,,"State-run organisation (establishment, institution)",,,
+2020,,"Communal (establishment, institution)",,,
 2020,,"Communal (establishment, institution)",,,
 2020,,"Private (establishment, institution)",,,
 2020,,"Organisation (establishment, institution) public association",,,
 2020,,Organization of tenants,,,
-2020,,Organization of customers,,,
-2020,,Bssociation,,,
+2020,,Association,,,
 2020,,Corporation,,,
 2020,,Consortium,,,
 2020,,Concern,,,
 2020,,Union of consumer partnerships,,,
 2020,,Other associations of legal persons,,,
-2020,,Buthority_of_advocacy_self-government,,,
-2020,,Buthority_of_judge_self-government,,,
-2020,,Budit_chamber_of_ukraine,,,
+2020,,Branch (other separate subdivision),,,
+2020,,Authority of advocacy self-government,,,
+2020,,Authority of judge self-government,,,
+2020,,Audit Chamber of Ukraine,,,
 2020,,Organization of water users,,,
 2020,,Commodity exchange,,,
 2020,,Credit union,,,
@@ -4241,9 +4212,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,,Non-profit organisation,,,
 2020,,Public union,,,
 2020,,Religious organisation,,,
-2020,,Trade union association of trade unions,,,
 2020,,Trade union,,,
-2020,,Bssociation_of_trade_unions,,,
+2020,,Association of trade unions,,,
 2020,,Creative union (other professional organisation),,,
 2020,,Charitable organisation,,,
 2020,,Organization of employers,,,
@@ -4902,50 +4872,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,,Enterprise association of citizens (religious organisation trade union),,,24.3
 2021,,Enterprise founded by consumer partnership,,,56.1
 2021,,Rental enterprise,,,28.6
-2021,,Individual enterprise,,,
 2021,,Family enterprise,,,30.4
 2021,,Joint enterprise,,,18.9
 2021,,Joint-stock company,,,17.8
 2021,,Public joint-stock partnership,,,21.9
 2021,,Private joint-stock partnership,,,100.0
 2021,,State joint stock company (company),,,27.4
-2021,,Holding company,,,20.9
 2021,,Limited liability partnership,,,31.2
 2021,,Extended liability partnership,,,36.3
 2021,,Full liability partnership,,,24.2
 2021,,Mixed liability company,,,30.0
 2021,,Lawyers’ union,,,23.8
 2021,,Law office,,,30.0
-2021,,Cooperative,,,49.1
 2021,,Production cooperative,,,8.5
 2021,,Serve cooperative,,,35.6
 2021,,Housing construction cooperativ,,,57.1
 2021,,Garage cooperativ,,,12.3
 2021,,Consumer cooperativ,,,27.3
 2021,,Consumer partnership,,,100.0
-2021,,Bgriculture_and_production_cooperativ,,,56.0
-2021,,Bgriculture_and_serve_cooperativ,,,46.9
-2021,,Bgriculture_cooperativ,,,47.3
-2021,,Organisation (establishment institution),,,43.5
-2021,,Buthority_of_state_power_organization,,,78.8
-2021,,Buthority_of_state_power,,,62.1
+2021,,Agriculture and production cooperativ,,,56.0
+2021,,Agriculture and serve cooperativ,,,46.9
+2021,,Agriculture cooperativ,,,47.3
+2021,,Authority of state power,,,62.1
 2021,,Courts,,,23.6
-2021,,Buthority_of_municipality_power,,,
+2021,,Authority of municipality power,,,
 2021,,"State-run organisation (establishment, institution)",,,29.9
+2021,,"Communal (establishment, institution)",,,78.8
 2021,,"Communal (establishment, institution)",,,18.0
 2021,,"Private (establishment, institution)",,,36.6
 2021,,"Organisation (establishment, institution) public association",,,15.9
 2021,,Organization of tenants,,,37.9
-2021,,Organization of customers,,,17.2
-2021,,Bssociation,,,25.7
+2021,,Association,,,25.7
 2021,,Corporation,,,25.2
 2021,,Consortium,,,43.1
 2021,,Concern,,,100.0
 2021,,Union of consumer partnerships,,,30.0
 2021,,Other associations of legal persons,,,
-2021,,Buthority_of_advocacy_self-government,,,24.2
-2021,,Buthority_of_judge_self-government,,,14.8
-2021,,Budit_chamber_of_ukraine,,,100.0
+2021,,Branch (other separate subdivision),,,
+2021,,Authority of advocacy self-government,,,24.2
+2021,,Authority of judge self-government,,,14.8
+2021,,Audit Chamber of Ukraine,,,100.0
 2021,,Organization of water users,,,
 2021,,Commodity exchange,,,22.8
 2021,,Credit union,,,28.4
@@ -4954,9 +4920,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,,Non-profit organisation,,,62.5
 2021,,Public union,,,40.3
 2021,,Religious organisation,,,20.9
-2021,,Trade union association of trade unions,,,38.8
 2021,,Trade union,,,11.9
-2021,,Bssociation_of_trade_unions,,,52.9
+2021,,Association of trade unions,,,52.9
 2021,,Creative union (other professional organisation),,,51.8
 2021,,Charitable organisation,,,29.9
 2021,,Organization of employers,,,49.7
@@ -5619,50 +5584,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,,Enterprise association of citizens (religious organisation trade union),,,24.8
 2022,,Enterprise founded by consumer partnership,,,55.1
 2022,,Rental enterprise,,,28.6
-2022,,Individual enterprise,,,
 2022,,Family enterprise,,,29.9
 2022,,Joint enterprise,,,18.9
 2022,,Joint-stock company,,,18.8
 2022,,Public joint-stock partnership,,,18.2
 2022,,Private joint-stock partnership,,,50.0
 2022,,State joint stock company (company),,,27.3
-2022,,Holding company,,,20.9
 2022,,Limited liability partnership,,,29.5
 2022,,Extended liability partnership,,,36.6
 2022,,Full liability partnership,,,25.3
 2022,,Mixed liability company,,,30.9
 2022,,Lawyers’ union,,,24.9
 2022,,Law office,,,30.2
-2022,,Cooperative,,,48.6
 2022,,Production cooperative,,,8.8
 2022,,Serve cooperative,,,33.9
 2022,,Housing construction cooperativ,,,57.5
 2022,,Garage cooperativ,,,11.2
 2022,,Consumer cooperativ,,,26.5
 2022,,Consumer partnership,,,20.0
-2022,,Bgriculture_and_production_cooperativ,,,55.5
-2022,,Bgriculture_and_serve_cooperativ,,,47.0
-2022,,Bgriculture_cooperativ,,,49.0
-2022,,Organisation (establishment institution),,,44.2
-2022,,Buthority_of_state_power_organization,,,79.1
-2022,,Buthority_of_state_power,,,63.2
+2022,,Agriculture and production cooperativ,,,55.5
+2022,,Agriculture and serve cooperativ,,,47.0
+2022,,Agriculture cooperativ,,,49.0
+2022,,Authority of state power,,,63.2
 2022,,Courts,,,24.1
-2022,,Buthority_of_municipality_power,,,
+2022,,Authority of municipality power,,,
 2022,,"State-run organisation (establishment, institution)",,,29.8
+2022,,"Communal (establishment, institution)",,,79.1
 2022,,"Communal (establishment, institution)",,,18.7
 2022,,"Private (establishment, institution)",,,25.0
 2022,,"Organisation (establishment, institution) public association",,,10.0
 2022,,Organization of tenants,,,35.9
-2022,,Organization of customers,,,18.3
-2022,,Bssociation,,,25.3
+2022,,Association,,,25.3
 2022,,Corporation,,,25.7
 2022,,Consortium,,,45.7
 2022,,Concern,,,100.0
 2022,,Union of consumer partnerships,,,32.5
 2022,,Other associations of legal persons,,,
-2022,,Buthority_of_advocacy_self-government,,,24.2
-2022,,Buthority_of_judge_self-government,,,14.8
-2022,,Budit_chamber_of_ukraine,,,100.0
+2022,,Branch (other separate subdivision),,,
+2022,,Authority of advocacy self-government,,,24.2
+2022,,Authority of judge self-government,,,14.8
+2022,,Audit Chamber of Ukraine,,,100.0
 2022,,Organization of water users,,,
 2022,,Commodity exchange,,,22.2
 2022,,Credit union,,,28.7
@@ -5671,9 +5632,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,,Non-profit organisation,,,62.4
 2022,,Public union,,,41.2
 2022,,Religious organisation,,,22.9
-2022,,Trade union association of trade unions,,,37.1
 2022,,Trade union,,,11.8
-2022,,Bssociation_of_trade_unions,,,52.7
+2022,,Association of trade unions,,,52.7
 2022,,Creative union (other professional organisation),,,51.8
 2022,,Charitable organisation,,,32.4
 2022,,Organization of employers,,,50.2
@@ -6336,50 +6296,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,,Enterprise association of citizens (religious organisation trade union),,,24.9
 2023,,Enterprise founded by consumer partnership,,,56.4
 2023,,Rental enterprise,,,50.0
-2023,,Individual enterprise,,,
 2023,,Family enterprise,,,32.0
 2023,,Joint enterprise,,,19.3
 2023,,Joint-stock company,,,18.0
 2023,,Public joint-stock partnership,,,20.0
 2023,,Private joint-stock partnership,,,50.0
 2023,,State joint stock company (company),,,27.6
-2023,,Holding company,,,20.5
 2023,,Limited liability partnership,,,32.4
 2023,,Extended liability partnership,,,40.6
 2023,,Full liability partnership,,,26.6
 2023,,Mixed liability company,,,31.7
 2023,,Lawyers’ union,,,24.2
 2023,,Law office,,,30.2
-2023,,Cooperative,,,49.4
 2023,,Production cooperative,,,8.6
 2023,,Serve cooperative,,,32.4
 2023,,Housing construction cooperativ,,,56.8
 2023,,Garage cooperativ,,,10.5
 2023,,Consumer cooperativ,,,24.5
 2023,,Consumer partnership,,,26.8
-2023,,Bgriculture_and_production_cooperativ,,,55.9
-2023,,Bgriculture_and_serve_cooperativ,,,47.5
-2023,,Bgriculture_cooperativ,,,50.8
-2023,,Organisation (establishment institution),,,45.1
-2023,,Buthority_of_state_power_organization,,,79.4
-2023,,Buthority_of_state_power,,,66.2
+2023,,Agriculture and production cooperativ,,,55.9
+2023,,Agriculture and serve cooperativ,,,47.5
+2023,,Agriculture cooperativ,,,50.8
+2023,,Authority of state power,,,66.2
 2023,,Courts,,,24.5
-2023,,Buthority_of_municipality_power,,,
+2023,,Authority of municipality power,,,
 2023,,"State-run organisation (establishment, institution)",,,29.2
+2023,,"Communal (establishment, institution)",,,79.4
 2023,,"Communal (establishment, institution)",,,21.0
 2023,,"Private (establishment, institution)",,,29.5
 2023,,"Organisation (establishment, institution) public association",,,5.4
 2023,,Organization of tenants,,,36.7
-2023,,Organization of customers,,,17.7
-2023,,Bssociation,,,25.5
+2023,,Association,,,25.5
 2023,,Corporation,,,24.9
 2023,,Consortium,,,44.4
 2023,,Concern,,,
 2023,,Union of consumer partnerships,,,21.4
 2023,,Other associations of legal persons,,,
-2023,,Buthority_of_advocacy_self-government,,,25.0
-2023,,Buthority_of_judge_self-government,,,11.5
-2023,,Budit_chamber_of_ukraine,,,
+2023,,Branch (other separate subdivision),,,
+2023,,Authority of advocacy self-government,,,25.0
+2023,,Authority of judge self-government,,,11.5
+2023,,Audit Chamber of Ukraine,,,
 2023,,Organization of water users,,,
 2023,,Commodity exchange,,,22.2
 2023,,Credit union,,,29.2
@@ -6388,9 +6344,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,,Non-profit organisation,,,62.5
 2023,,Public union,,,41.2
 2023,,Religious organisation,,,22.7
-2023,,Trade union association of trade unions,,,36.4
 2023,,Trade union,,,11.5
-2023,,Bssociation_of_trade_unions,,,52.9
+2023,,Association of trade unions,,,52.9
 2023,,Creative union (other professional organisation),,,51.9
 2023,,Charitable organisation,,,27.7
 2023,,Organization of employers,,,51.9
@@ -7053,50 +7008,46 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2024,,Enterprise association of citizens (religious organisation trade union),,,25.5
 2024,,Enterprise founded by consumer partnership,,,58.6
 2024,,Rental enterprise,,,37.5
-2024,,Individual enterprise,,,
 2024,,Family enterprise,,,31.0
 2024,,Joint enterprise,,,20.1
 2024,,Joint-stock company,,,22.2
 2024,,Public joint-stock partnership,,,19.4
 2024,,Private joint-stock partnership,,,50.0
 2024,,State joint stock company (company),,,29.7
-2024,,Holding company,,,21.9
 2024,,Limited liability partnership,,,33.6
 2024,,Extended liability partnership,,,43.3
 2024,,Full liability partnership,,,28.2
 2024,,Mixed liability company,,,35.2
 2024,,Lawyers’ union,,,25.5
 2024,,Law office,,,30.3
-2024,,Cooperative,,,49.4
 2024,,Production cooperative,,,8.6
 2024,,Serve cooperative,,,31.7
 2024,,Housing construction cooperativ,,,57.4
 2024,,Garage cooperativ,,,13.2
 2024,,Consumer cooperativ,,,28.7
 2024,,Consumer partnership,,,27.3
-2024,,Bgriculture_and_production_cooperativ,,,56.2
-2024,,Bgriculture_and_serve_cooperativ,,,48.5
-2024,,Bgriculture_cooperativ,,,52.2
-2024,,Organisation (establishment institution),,,45.8
-2024,,Buthority_of_state_power_organization,,,79.6
-2024,,Buthority_of_state_power,,,66.3
+2024,,Agriculture and production cooperativ,,,56.2
+2024,,Agriculture and serve cooperativ,,,48.5
+2024,,Agriculture cooperativ,,,52.2
+2024,,Authority of state power,,,66.3
 2024,,Courts,,,24.7
-2024,,Buthority_of_municipality_power,,,
+2024,,Authority of municipality power,,,
 2024,,"State-run organisation (establishment, institution)",,,29.2
+2024,,"Communal (establishment, institution)",,,79.6
 2024,,"Communal (establishment, institution)",,,19.2
 2024,,"Private (establishment, institution)",,,24.3
 2024,,"Organisation (establishment, institution) public association",,,10.5
 2024,,Organization of tenants,,,38.3
-2024,,Organization of customers,,,18.1
-2024,,Bssociation,,,22.2
+2024,,Association,,,22.2
 2024,,Corporation,,,26.7
 2024,,Consortium,,,47.7
 2024,,Concern,,,
 2024,,Union of consumer partnerships,,,21.4
 2024,,Other associations of legal persons,,,
-2024,,Buthority_of_advocacy_self-government,,,26.5
-2024,,Buthority_of_judge_self-government,,,11.5
-2024,,Budit_chamber_of_ukraine,,,
+2024,,Branch (other separate subdivision),,,
+2024,,Authority of advocacy self-government,,,26.5
+2024,,Authority of judge self-government,,,11.5
+2024,,Audit Chamber of Ukraine,,,
 2024,,Organization of water users,,,20.0
 2024,,Commodity exchange,,,22.4
 2024,,Credit union,,,29.8
@@ -7105,9 +7056,8 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2024,,Non-profit organisation,,,62.4
 2024,,Public union,,,44.1
 2024,,Religious organisation,,,19.5
-2024,,Trade union association of trade unions,,,36.2
 2024,,Trade union,,,12.0
-2024,,Bssociation_of_trade_unions,,,53.3
+2024,,Association of trade unions,,,53.3
 2024,,Creative union (other professional organisation),,,52.4
 2024,,Charitable organisation,,,27.5
 2024,,Organization of employers,,,54.4

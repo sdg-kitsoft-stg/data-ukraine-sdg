@@ -19,8 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ukraine",
-                "Verkhovna Rada",
+                "Verkhovna_Rada",
                 "regional_councils",
                 "district_councils",
                 "city_councils",
@@ -36,6 +35,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
                 "autonomous_Republic_of_Crimea",
                 "11_reg_Vinnytsya",
                 "12_reg_Volyn",

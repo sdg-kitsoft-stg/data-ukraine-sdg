@@ -1,8 +1,6 @@
 Year,CouncilLevel,Region,Sex,Value
-2015,Ukraine,,women,49.53
-2015,Ukraine,,men,50.47
-2015,Verkhovna Rada,,women,
-2015,Verkhovna Rada,,men,
+2015,Verkhovna_Rada,,women,
+2015,Verkhovna_Rada,,men,
 2015,regional_councils,,women,14.95
 2015,regional_councils,,men,85.05
 2015,district_councils,,women,24.02
@@ -15,6 +13,8 @@ Year,CouncilLevel,Region,Sex,Value
 2015,settlement_councils,,men,53.89
 2015,village_councils,,women,55.66
 2015,village_councils,,men,44.34
+2015,,Ukraine,women,49.53
+2015,,Ukraine,men,50.47
 2015,,autonomous_Republic_of_Crimea,women,
 2015,,autonomous_Republic_of_Crimea,men,
 2015,,11_reg_Vinnytsya,women,49.72
@@ -69,10 +69,8 @@ Year,CouncilLevel,Region,Sex,Value
 2015,,Kyiv_city,men,81.67
 2015,,city_Sevastopol,women,
 2015,,city_Sevastopol,men,
-2016,Ukraine,,women,48.71
-2016,Ukraine,,men,51.29
-2016,Verkhovna Rada,,women,
-2016,Verkhovna Rada,,men,
+2016,Verkhovna_Rada,,women,
+2016,Verkhovna_Rada,,men,
 2016,regional_councils,,women,14.96
 2016,regional_councils,,men,85.04
 2016,district_councils,,women,24.11
@@ -85,6 +83,8 @@ Year,CouncilLevel,Region,Sex,Value
 2016,settlement_councils,,men,54.81
 2016,village_councils,,women,55.12
 2016,village_councils,,men,44.88
+2016,,Ukraine,women,48.71
+2016,,Ukraine,men,51.29
 2016,,autonomous_Republic_of_Crimea,women,
 2016,,autonomous_Republic_of_Crimea,men,
 2016,,11_reg_Vinnytsya,women,48.95
@@ -139,10 +139,8 @@ Year,CouncilLevel,Region,Sex,Value
 2016,,Kyiv_city,men,81.67
 2016,,city_Sevastopol,women,
 2016,,city_Sevastopol,men,
-2017,Ukraine,,women,47.59
-2017,Ukraine,,men,52.41
-2017,Verkhovna Rada,,women,
-2017,Verkhovna Rada,,men,
+2017,Verkhovna_Rada,,women,
+2017,Verkhovna_Rada,,men,
 2017,regional_councils,,women,15.12
 2017,regional_councils,,men,84.88
 2017,district_councils,,women,24.36
@@ -155,6 +153,8 @@ Year,CouncilLevel,Region,Sex,Value
 2017,settlement_councils,,men,55.57
 2017,village_councils,,women,54.41
 2017,village_councils,,men,45.59
+2017,,Ukraine,women,47.59
+2017,,Ukraine,men,52.41
 2017,,autonomous_Republic_of_Crimea,women,
 2017,,autonomous_Republic_of_Crimea,men,
 2017,,11_reg_Vinnytsya,women,48.65
@@ -209,10 +209,8 @@ Year,CouncilLevel,Region,Sex,Value
 2017,,Kyiv_city,men,81.67
 2017,,city_Sevastopol,women,
 2017,,city_Sevastopol,men,
-2018,Ukraine,,women,47.19
-2018,Ukraine,,men,52.81
-2018,Verkhovna Rada,,women,
-2018,Verkhovna Rada,,men,
+2018,Verkhovna_Rada,,women,
+2018,Verkhovna_Rada,,men,
 2018,regional_councils,,women,15.29
 2018,regional_councils,,men,84.71
 2018,district_councils,,women,24.39
@@ -225,6 +223,8 @@ Year,CouncilLevel,Region,Sex,Value
 2018,settlement_councils,,men,55.98
 2018,village_councils,,women,54.22
 2018,village_councils,,men,45.78
+2018,,Ukraine,women,47.19
+2018,,Ukraine,men,52.81
 2018,,autonomous_Republic_of_Crimea,women,
 2018,,autonomous_Republic_of_Crimea,men,
 2018,,11_reg_Vinnytsya,women,48.69
@@ -279,10 +279,8 @@ Year,CouncilLevel,Region,Sex,Value
 2018,,Kyiv_city,men,81.67
 2018,,city_Sevastopol,women,
 2018,,city_Sevastopol,men,
-2019,Ukraine,,women,46.56
-2019,Ukraine,,men,53.44
-2019,Verkhovna Rada,,women,
-2019,Verkhovna Rada,,men,
+2019,Verkhovna_Rada,,women,
+2019,Verkhovna_Rada,,men,
 2019,regional_councils,,women,15.5
 2019,regional_councils,,men,84.5
 2019,district_councils,,women,24.45
@@ -295,6 +293,8 @@ Year,CouncilLevel,Region,Sex,Value
 2019,settlement_councils,,men,56.12
 2019,village_councils,,women,53.71
 2019,village_councils,,men,46.29
+2019,,Ukraine,women,46.56
+2019,,Ukraine,men,53.44
 2019,,autonomous_Republic_of_Crimea,women,
 2019,,autonomous_Republic_of_Crimea,men,
 2019,,11_reg_Vinnytsya,women,48.53
@@ -349,10 +349,8 @@ Year,CouncilLevel,Region,Sex,Value
 2019,,Kyiv_city,men,80.83
 2019,,city_Sevastopol,women,
 2019,,city_Sevastopol,men,
-2020,Ukraine,,women,36.98
-2020,Ukraine,,men,63.02
-2020,Verkhovna Rada,,women,
-2020,Verkhovna Rada,,men,
+2020,Verkhovna_Rada,,women,
+2020,Verkhovna_Rada,,men,
 2020,regional_councils,,women,26.76
 2020,regional_councils,,men,73.24
 2020,district_councils,,women,34.7
@@ -365,6 +363,8 @@ Year,CouncilLevel,Region,Sex,Value
 2020,settlement_councils,,men,62.08
 2020,village_councils,,women,41.28
 2020,village_councils,,men,58.72
+2020,,Ukraine,women,36.98
+2020,,Ukraine,men,63.02
 2020,,autonomous_Republic_of_Crimea,women,
 2020,,autonomous_Republic_of_Crimea,men,
 2020,,11_reg_Vinnytsya,women,35.83
@@ -419,10 +419,8 @@ Year,CouncilLevel,Region,Sex,Value
 2020,,Kyiv_city,men,71.67
 2020,,city_Sevastopol,women,
 2020,,city_Sevastopol,men,
-2021,Ukraine,,women,37.01
-2021,Ukraine,,men,62.99
-2021,Verkhovna Rada,,women,
-2021,Verkhovna Rada,,men,
+2021,Verkhovna_Rada,,women,
+2021,Verkhovna_Rada,,men,
 2021,regional_councils,,women,26.88
 2021,regional_councils,,men,73.12
 2021,district_councils,,women,34.66
@@ -435,6 +433,8 @@ Year,CouncilLevel,Region,Sex,Value
 2021,settlement_councils,,men,62.0
 2021,village_councils,,women,41.2
 2021,village_councils,,men,58.8
+2021,,Ukraine,women,37.01
+2021,,Ukraine,men,62.99
 2021,,autonomous_Republic_of_Crimea,women,
 2021,,autonomous_Republic_of_Crimea,men,
 2021,,11_reg_Vinnytsya,women,35.88
@@ -489,10 +489,8 @@ Year,CouncilLevel,Region,Sex,Value
 2021,,Kyiv_city,men,72.27
 2021,,city_Sevastopol,women,
 2021,,city_Sevastopol,men,
-2022,Ukraine,,women,37.07
-2022,Ukraine,,men,62.93
-2022,Verkhovna Rada,,women,
-2022,Verkhovna Rada,,men,
+2022,Verkhovna_Rada,,women,
+2022,Verkhovna_Rada,,men,
 2022,regional_councils,,women,27.37
 2022,regional_councils,,men,72.63
 2022,district_councils,,women,34.67
@@ -505,6 +503,8 @@ Year,CouncilLevel,Region,Sex,Value
 2022,settlement_councils,,men,61.95
 2022,village_councils,,women,41.23
 2022,village_councils,,men,58.77
+2022,,Ukraine,women,37.07
+2022,,Ukraine,men,62.93
 2022,,autonomous_Republic_of_Crimea,women,
 2022,,autonomous_Republic_of_Crimea,men,
 2022,,11_reg_Vinnytsya,women,35.89
@@ -558,10 +558,8 @@ Year,CouncilLevel,Region,Sex,Value
 2022,,Kyiv_city,women,99.17
 2022,,Kyiv_city,men,70.83
 2022,,city_Sevastopol,women,
-2023,Ukraine,,women,36.98
-2023,Ukraine,,men,63.02
-2023,Verkhovna Rada,,women,
-2023,Verkhovna Rada,,men,
+2023,Verkhovna_Rada,,women,
+2023,Verkhovna_Rada,,men,
 2023,regional_councils,,women,27.55
 2023,regional_councils,,men,72.45
 2023,district_councils,,women,34.34
@@ -574,6 +572,8 @@ Year,CouncilLevel,Region,Sex,Value
 2023,settlement_councils,,men,62.01
 2023,village_councils,,women,41.07
 2023,village_councils,,men,58.93
+2023,,Ukraine,women,36.98
+2023,,Ukraine,men,63.02
 2023,,autonomous_Republic_of_Crimea,women,
 2023,,autonomous_Republic_of_Crimea,men,
 2023,,11_reg_Vinnytsya,women,36.12
@@ -628,10 +628,8 @@ Year,CouncilLevel,Region,Sex,Value
 2023,,Kyiv_city,men,72.03
 2023,,city_Sevastopol,women,
 2023,,city_Sevastopol,men,
-2024,Ukraine,,women,
-2024,Ukraine,,men,
-2024,Verkhovna Rada,,women,
-2024,Verkhovna Rada,,men,
+2024,Verkhovna_Rada,,women,
+2024,Verkhovna_Rada,,men,
 2024,regional_councils,,women,
 2024,regional_councils,,men,
 2024,district_councils,,women,
@@ -644,6 +642,8 @@ Year,CouncilLevel,Region,Sex,Value
 2024,settlement_councils,,men,
 2024,village_councils,,women,
 2024,village_councils,,men,
+2024,,Ukraine,women,
+2024,,Ukraine,men,
 2024,,autonomous_Republic_of_Crimea,women,
 2024,,autonomous_Republic_of_Crimea,men,
 2024,,11_reg_Vinnytsya,women,

@@ -28,7 +28,7 @@ Cause of death,1,2
 Coastal regions,1,1
 Component,1,17
 Cost_train,1,4
-CouncilLevel,1,8
+CouncilLevel,1,7
 CourtLevel,1,4
 Decile groups_1,1,1
 decile_groups,1,10
@@ -96,7 +96,7 @@ m_trans,5,25
 Mode of transport,1,2
 Number of employees,1,4
 Object,1,10
-Organisation and legal forms,2,85
+Organisation and legal forms,2,86
 Organization,1,4
 Pollutants,1,10
 PopulationGroup,1,2
