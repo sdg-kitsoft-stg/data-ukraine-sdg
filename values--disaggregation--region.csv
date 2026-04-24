@@ -22,14 +22,15 @@ Value,Disaggregation combinations using this value,Number of indicators
 31_reg_Khmelnytskiy,109,73
 32_reg_Cherkasy,109,73
 33_reg_Chernivtsi,109,73
+ 33_reg_Chernivtsi,1,1
 34_reg_Chernihiv,109,73
-35_reg_Kyiv_city,20,14
+35_reg_Kyiv_city,19,13
 autonomous_Republic_of_Crimea,84,55
 Center,1,1
 city_Sevastopol,85,55
 East,1,1
 group_18_1,1,1
-Kyiv_city,84,54
+Kyiv_city,85,55
 South,1,1
 Ukraine,33,12
 West,1,1

@@ -1,4 +1,5 @@
-Year,Types of economic activity,Organisational and legal forms,Region,Number of employees,Value
+Year,Types of economic activity,Organisational and legal forms,Number of employees,Region,Value
+2015,,,,,
 2015,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2015,growing of rice,,,,
 2015,"growing of vegetables and melons, roots and tubers",,,,
@@ -610,7 +611,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,activities of households as producers of goods for own consumption,,,,
 2015,activities of households as producers of services for own consumption,,,,
 2015,activities of extraterritorial organizations and bodies,,,,
-2015,,,,,
 2015,,Farm,,,
 2015,,Private enterprise,,,
 2015,,Collective enterprise,,,
@@ -649,7 +649,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,,Authority of municipality power,,,
 2015,,"State-run organisation (establishment, institution)",,,
 2015,,"Communal (establishment, institution)",,,
-2015,,"Communal (establishment, institution)",,,
 2015,,"Private (establishment, institution)",,,
 2015,,"Organisation (establishment, institution) public association",,,
 2015,,Organization of tenants,,,
@@ -660,13 +659,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,,Union of consumer partnerships,,,
 2015,,Other associations of legal persons,,,
 2015,,Branch (other separate subdivision),,,
+2015,,Representative office,,,
 2015,,Authority of advocacy self-government,,,
 2015,,Authority of judge self-government,,,
+2015,,Social insurance funds,,,
+2015,,Self-regulatory organizations,,,
+2015,,Associations of local governments and their voluntary associations,,,
+2015,,Chamber of Commerce and Industry,,,
 2015,,Audit Chamber of Ukraine,,,
 2015,,Organization of water users,,,
-2015,,Commodity exchange,,,
-2015,,Credit union,,,
-2015,,Not state pension fund,,,
 2015,,Political party,,,
 2015,,Non-profit organisation,,,
 2015,,Public union,,,
@@ -678,34 +679,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2015,,Organization of employers,,,
 2015,,Condominium,,,
 2015,,Community association population,,,
+2015,,Commodity exchange,,,
+2015,,Credit union,,,
+2015,,Not state pension fund,,,
 2015,,Gardening partnership,,,
-2015,,,Autonomous Republic of Crimea,,
-2015,,,Vinnytsya,,
-2015,,,Volyn,,
-2015,,,Dnipropetrovsk,,
-2015,,,Donetsk,,
-2015,,,Zhytomyr,,
-2015,,,Zakarpattya,,
-2015,,,Zaporizhzhya,,
-2015,,,Ivano-Frankivsk,,
-2015,,,Kyiv,,
-2015,,,Kirovohrad,,
-2015,,,Luhansk,,
-2015,,,Lviv,,
-2015,,,Mykolayiv,,
-2015,,,Odesa,,
-2015,,,Poltava,,
-2015,,,Rivne,,
-2015,,,Sumy,,
-2015,,,Ternopil,,
-2015,,,Kharkiv,,
-2015,,,Kherson,,
-2015,,,Khmelnytskiy,,
-2015,,,Cherkasy,,
-2015,,,Chernivtsi,,
-2015,,,Chernihiv,,
-2015,,,the city of Kyiv,,
-2015,,,city Sevastopol,,
+2015,,Other organizational and legal forms,,,
+2015,,,up to 9 persons,,
+2015,,,10–49 persons,,
+2015,,,50–249 persons,,
+2015,,,250 persons or more,,
+2015,,,,Autonomous Republic of Crimea,
+2015,,,,Vinnytsya,
+2015,,,,Volyn,
+2015,,,,Dnipropetrovsk,
+2015,,,,Donetsk,
+2015,,,,Zhytomyr,
+2015,,,,Zakarpattya,
+2015,,,,Zaporizhzhya,
+2015,,,,Ivano-Frankivsk,
+2015,,,,Kyiv,
+2015,,,,Kirovohrad,
+2015,,,,Luhansk,
+2015,,,,Lviv,
+2015,,,,Mykolayiv,
+2015,,,,Odesa,
+2015,,,,Poltava,
+2015,,,,Rivne,
+2015,,,,Sumy,
+2015,,,,Ternopil,
+2015,,,,Kharkiv,
+2015,,,,Kherson,
+2015,,,,Khmelnytskiy,
+2015,,,,Cherkasy,
+2015,,,, 33_reg_Chernivtsi,
+2015,,,,Chernihiv,
+2015,,,,city Kyiv,
+2015,,,,city Sevastopol,
+2016,,,,,
 2016,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2016,growing of rice,,,,
 2016,"growing of vegetables and melons, roots and tubers",,,,
@@ -1317,7 +1327,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,activities of households as producers of goods for own consumption,,,,
 2016,activities of households as producers of services for own consumption,,,,
 2016,activities of extraterritorial organizations and bodies,,,,
-2016,,,,,
 2016,,Farm,,,
 2016,,Private enterprise,,,
 2016,,Collective enterprise,,,
@@ -1356,7 +1365,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,,Authority of municipality power,,,
 2016,,"State-run organisation (establishment, institution)",,,
 2016,,"Communal (establishment, institution)",,,
-2016,,"Communal (establishment, institution)",,,
 2016,,"Private (establishment, institution)",,,
 2016,,"Organisation (establishment, institution) public association",,,
 2016,,Organization of tenants,,,
@@ -1367,13 +1375,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,,Union of consumer partnerships,,,
 2016,,Other associations of legal persons,,,
 2016,,Branch (other separate subdivision),,,
+2016,,Representative office,,,
 2016,,Authority of advocacy self-government,,,
 2016,,Authority of judge self-government,,,
+2016,,Social insurance funds,,,
+2016,,Self-regulatory organizations,,,
+2016,,Associations of local governments and their voluntary associations,,,
+2016,,Chamber of Commerce and Industry,,,
 2016,,Audit Chamber of Ukraine,,,
 2016,,Organization of water users,,,
-2016,,Commodity exchange,,,
-2016,,Credit union,,,
-2016,,Not state pension fund,,,
 2016,,Political party,,,
 2016,,Non-profit organisation,,,
 2016,,Public union,,,
@@ -1385,34 +1395,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2016,,Organization of employers,,,
 2016,,Condominium,,,
 2016,,Community association population,,,
+2016,,Commodity exchange,,,
+2016,,Credit union,,,
+2016,,Not state pension fund,,,
 2016,,Gardening partnership,,,
-2016,,,Autonomous Republic of Crimea,,
-2016,,,Vinnytsya,,
-2016,,,Volyn,,
-2016,,,Dnipropetrovsk,,
-2016,,,Donetsk,,
-2016,,,Zhytomyr,,
-2016,,,Zakarpattya,,
-2016,,,Zaporizhzhya,,
-2016,,,Ivano-Frankivsk,,
-2016,,,Kyiv,,
-2016,,,Kirovohrad,,
-2016,,,Luhansk,,
-2016,,,Lviv,,
-2016,,,Mykolayiv,,
-2016,,,Odesa,,
-2016,,,Poltava,,
-2016,,,Rivne,,
-2016,,,Sumy,,
-2016,,,Ternopil,,
-2016,,,Kharkiv,,
-2016,,,Kherson,,
-2016,,,Khmelnytskiy,,
-2016,,,Cherkasy,,
-2016,,,Chernivtsi,,
-2016,,,Chernihiv,,
-2016,,,the city of Kyiv,,
-2016,,,city Sevastopol,,
+2016,,Other organizational and legal forms,,,
+2016,,,up to 9 persons,,
+2016,,,10–49 persons,,
+2016,,,50–249 persons,,
+2016,,,250 persons or more,,
+2016,,,,Autonomous Republic of Crimea,
+2016,,,,Vinnytsya,
+2016,,,,Volyn,
+2016,,,,Dnipropetrovsk,
+2016,,,,Donetsk,
+2016,,,,Zhytomyr,
+2016,,,,Zakarpattya,
+2016,,,,Zaporizhzhya,
+2016,,,,Ivano-Frankivsk,
+2016,,,,Kyiv,
+2016,,,,Kirovohrad,
+2016,,,,Luhansk,
+2016,,,,Lviv,
+2016,,,,Mykolayiv,
+2016,,,,Odesa,
+2016,,,,Poltava,
+2016,,,,Rivne,
+2016,,,,Sumy,
+2016,,,,Ternopil,
+2016,,,,Kharkiv,
+2016,,,,Kherson,
+2016,,,,Khmelnytskiy,
+2016,,,,Cherkasy,
+2016,,,, 33_reg_Chernivtsi,
+2016,,,,Chernihiv,
+2016,,,,city Kyiv,
+2016,,,,city Sevastopol,
+2017,,,,,
 2017,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2017,growing of rice,,,,
 2017,"growing of vegetables and melons, roots and tubers",,,,
@@ -2024,7 +2043,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,activities of households as producers of goods for own consumption,,,,
 2017,activities of households as producers of services for own consumption,,,,
 2017,activities of extraterritorial organizations and bodies,,,,
-2017,,,,,
 2017,,Farm,,,
 2017,,Private enterprise,,,
 2017,,Collective enterprise,,,
@@ -2063,7 +2081,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,,Authority of municipality power,,,
 2017,,"State-run organisation (establishment, institution)",,,
 2017,,"Communal (establishment, institution)",,,
-2017,,"Communal (establishment, institution)",,,
 2017,,"Private (establishment, institution)",,,
 2017,,"Organisation (establishment, institution) public association",,,
 2017,,Organization of tenants,,,
@@ -2074,13 +2091,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,,Union of consumer partnerships,,,
 2017,,Other associations of legal persons,,,
 2017,,Branch (other separate subdivision),,,
+2017,,Representative office,,,
 2017,,Authority of advocacy self-government,,,
 2017,,Authority of judge self-government,,,
+2017,,Social insurance funds,,,
+2017,,Self-regulatory organizations,,,
+2017,,Associations of local governments and their voluntary associations,,,
+2017,,Chamber of Commerce and Industry,,,
 2017,,Audit Chamber of Ukraine,,,
 2017,,Organization of water users,,,
-2017,,Commodity exchange,,,
-2017,,Credit union,,,
-2017,,Not state pension fund,,,
 2017,,Political party,,,
 2017,,Non-profit organisation,,,
 2017,,Public union,,,
@@ -2092,34 +2111,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2017,,Organization of employers,,,
 2017,,Condominium,,,
 2017,,Community association population,,,
+2017,,Commodity exchange,,,
+2017,,Credit union,,,
+2017,,Not state pension fund,,,
 2017,,Gardening partnership,,,
-2017,,,Autonomous Republic of Crimea,,
-2017,,,Vinnytsya,,
-2017,,,Volyn,,
-2017,,,Dnipropetrovsk,,
-2017,,,Donetsk,,
-2017,,,Zhytomyr,,
-2017,,,Zakarpattya,,
-2017,,,Zaporizhzhya,,
-2017,,,Ivano-Frankivsk,,
-2017,,,Kyiv,,
-2017,,,Kirovohrad,,
-2017,,,Luhansk,,
-2017,,,Lviv,,
-2017,,,Mykolayiv,,
-2017,,,Odesa,,
-2017,,,Poltava,,
-2017,,,Rivne,,
-2017,,,Sumy,,
-2017,,,Ternopil,,
-2017,,,Kharkiv,,
-2017,,,Kherson,,
-2017,,,Khmelnytskiy,,
-2017,,,Cherkasy,,
-2017,,,Chernivtsi,,
-2017,,,Chernihiv,,
-2017,,,the city of Kyiv,,
-2017,,,city Sevastopol,,
+2017,,Other organizational and legal forms,,,
+2017,,,up to 9 persons,,
+2017,,,10–49 persons,,
+2017,,,50–249 persons,,
+2017,,,250 persons or more,,
+2017,,,,Autonomous Republic of Crimea,
+2017,,,,Vinnytsya,
+2017,,,,Volyn,
+2017,,,,Dnipropetrovsk,
+2017,,,,Donetsk,
+2017,,,,Zhytomyr,
+2017,,,,Zakarpattya,
+2017,,,,Zaporizhzhya,
+2017,,,,Ivano-Frankivsk,
+2017,,,,Kyiv,
+2017,,,,Kirovohrad,
+2017,,,,Luhansk,
+2017,,,,Lviv,
+2017,,,,Mykolayiv,
+2017,,,,Odesa,
+2017,,,,Poltava,
+2017,,,,Rivne,
+2017,,,,Sumy,
+2017,,,,Ternopil,
+2017,,,,Kharkiv,
+2017,,,,Kherson,
+2017,,,,Khmelnytskiy,
+2017,,,,Cherkasy,
+2017,,,, 33_reg_Chernivtsi,
+2017,,,,Chernihiv,
+2017,,,,city Kyiv,
+2017,,,,city Sevastopol,
+2018,,,,,
 2018,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2018,growing of rice,,,,
 2018,"growing of vegetables and melons, roots and tubers",,,,
@@ -2731,7 +2759,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,activities of households as producers of goods for own consumption,,,,
 2018,activities of households as producers of services for own consumption,,,,
 2018,activities of extraterritorial organizations and bodies,,,,
-2018,,,,,
 2018,,Farm,,,
 2018,,Private enterprise,,,
 2018,,Collective enterprise,,,
@@ -2770,7 +2797,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,,Authority of municipality power,,,
 2018,,"State-run organisation (establishment, institution)",,,
 2018,,"Communal (establishment, institution)",,,
-2018,,"Communal (establishment, institution)",,,
 2018,,"Private (establishment, institution)",,,
 2018,,"Organisation (establishment, institution) public association",,,
 2018,,Organization of tenants,,,
@@ -2781,13 +2807,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,,Union of consumer partnerships,,,
 2018,,Other associations of legal persons,,,
 2018,,Branch (other separate subdivision),,,
+2018,,Representative office,,,
 2018,,Authority of advocacy self-government,,,
 2018,,Authority of judge self-government,,,
+2018,,Social insurance funds,,,
+2018,,Self-regulatory organizations,,,
+2018,,Associations of local governments and their voluntary associations,,,
+2018,,Chamber of Commerce and Industry,,,
 2018,,Audit Chamber of Ukraine,,,
 2018,,Organization of water users,,,
-2018,,Commodity exchange,,,
-2018,,Credit union,,,
-2018,,Not state pension fund,,,
 2018,,Political party,,,
 2018,,Non-profit organisation,,,
 2018,,Public union,,,
@@ -2799,35 +2827,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2018,,Organization of employers,,,
 2018,,Condominium,,,
 2018,,Community association population,,,
+2018,,Commodity exchange,,,
+2018,,Credit union,,,
+2018,,Not state pension fund,,,
 2018,,Gardening partnership,,,
-2018,,,Autonomous Republic of Crimea,,
-2018,,,Vinnytsya,,
-2018,,,Volyn,,
-2018,,,Dnipropetrovsk,,
-2018,,,Donetsk,,
-2018,,,Zhytomyr,,
-2018,,,Zakarpattya,,
-2018,,,Zaporizhzhya,,
-2018,,,Ivano-Frankivsk,,
-2018,,,Kyiv,,
-2018,,,Kirovohrad,,
-2018,,,Luhansk,,
-2018,,,Lviv,,
-2018,,,Mykolayiv,,
-2018,,,Odesa,,
-2018,,,Poltava,,
-2018,,,Rivne,,
-2018,,,Sumy,,
-2018,,,Ternopil,,
-2018,,,Kharkiv,,
-2018,,,Kherson,,
-2018,,,Khmelnytskiy,,
-2018,,,Cherkasy,,
-2018,,,Chernivtsi,,
-2018,,,Chernihiv,,
-2018,,,the city of Kyiv,,
-2018,,,city Sevastopol,,
-2018,,,city Sevastopol,,
+2018,,Other organizational and legal forms,,,
+2018,,,up to 9 persons,,
+2018,,,10–49 persons,,
+2018,,,50–249 persons,,
+2018,,,250 persons or more,,
+2018,,,,Autonomous Republic of Crimea,
+2018,,,,Vinnytsya,
+2018,,,,Volyn,
+2018,,,,Dnipropetrovsk,
+2018,,,,Donetsk,
+2018,,,,Zhytomyr,
+2018,,,,Zakarpattya,
+2018,,,,Zaporizhzhya,
+2018,,,,Ivano-Frankivsk,
+2018,,,,Kyiv,
+2018,,,,Kirovohrad,
+2018,,,,Luhansk,
+2018,,,,Lviv,
+2018,,,,Mykolayiv,
+2018,,,,Odesa,
+2018,,,,Poltava,
+2018,,,,Rivne,
+2018,,,,Sumy,
+2018,,,,Ternopil,
+2018,,,,Kharkiv,
+2018,,,,Kherson,
+2018,,,,Khmelnytskiy,
+2018,,,,Cherkasy,
+2018,,,, 33_reg_Chernivtsi,
+2018,,,,Chernihiv,
+2018,,,,city Kyiv,
+2018,,,,city Sevastopol,
+2019,,,,,
 2019,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2019,growing of rice,,,,
 2019,"growing of vegetables and melons, roots and tubers",,,,
@@ -3439,7 +3475,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,activities of households as producers of goods for own consumption,,,,
 2019,activities of households as producers of services for own consumption,,,,
 2019,activities of extraterritorial organizations and bodies,,,,
-2019,,,,,
 2019,,Farm,,,
 2019,,Private enterprise,,,
 2019,,Collective enterprise,,,
@@ -3478,7 +3513,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,,Authority of municipality power,,,
 2019,,"State-run organisation (establishment, institution)",,,
 2019,,"Communal (establishment, institution)",,,
-2019,,"Communal (establishment, institution)",,,
 2019,,"Private (establishment, institution)",,,
 2019,,"Organisation (establishment, institution) public association",,,
 2019,,Organization of tenants,,,
@@ -3489,13 +3523,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,,Union of consumer partnerships,,,
 2019,,Other associations of legal persons,,,
 2019,,Branch (other separate subdivision),,,
+2019,,Representative office,,,
 2019,,Authority of advocacy self-government,,,
 2019,,Authority of judge self-government,,,
+2019,,Social insurance funds,,,
+2019,,Self-regulatory organizations,,,
+2019,,Associations of local governments and their voluntary associations,,,
+2019,,Chamber of Commerce and Industry,,,
 2019,,Audit Chamber of Ukraine,,,
 2019,,Organization of water users,,,
-2019,,Commodity exchange,,,
-2019,,Credit union,,,
-2019,,Not state pension fund,,,
 2019,,Political party,,,
 2019,,Non-profit organisation,,,
 2019,,Public union,,,
@@ -3507,34 +3543,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2019,,Organization of employers,,,
 2019,,Condominium,,,
 2019,,Community association population,,,
+2019,,Commodity exchange,,,
+2019,,Credit union,,,
+2019,,Not state pension fund,,,
 2019,,Gardening partnership,,,
-2019,,,Autonomous Republic of Crimea,,
-2019,,,Vinnytsya,,
-2019,,,Volyn,,
-2019,,,Dnipropetrovsk,,
-2019,,,Donetsk,,
-2019,,,Zhytomyr,,
-2019,,,Zakarpattya,,
-2019,,,Zaporizhzhya,,
-2019,,,Ivano-Frankivsk,,
-2019,,,Kyiv,,
-2019,,,Kirovohrad,,
-2019,,,Luhansk,,
-2019,,,Lviv,,
-2019,,,Mykolayiv,,
-2019,,,Odesa,,
-2019,,,Poltava,,
-2019,,,Rivne,,
-2019,,,Sumy,,
-2019,,,Ternopil,,
-2019,,,Kharkiv,,
-2019,,,Kherson,,
-2019,,,Khmelnytskiy,,
-2019,,,Cherkasy,,
-2019,,,Chernivtsi,,
-2019,,,Chernihiv,,
-2019,,,the city of Kyiv,,
-2019,,,city Sevastopol,,
+2019,,Other organizational and legal forms,,,
+2019,,,up to 9 persons,,
+2019,,,10–49 persons,,
+2019,,,50–249 persons,,
+2019,,,250 persons or more,,
+2019,,,,Autonomous Republic of Crimea,
+2019,,,,Vinnytsya,
+2019,,,,Volyn,
+2019,,,,Dnipropetrovsk,
+2019,,,,Donetsk,
+2019,,,,Zhytomyr,
+2019,,,,Zakarpattya,
+2019,,,,Zaporizhzhya,
+2019,,,,Ivano-Frankivsk,
+2019,,,,Kyiv,
+2019,,,,Kirovohrad,
+2019,,,,Luhansk,
+2019,,,,Lviv,
+2019,,,,Mykolayiv,
+2019,,,,Odesa,
+2019,,,,Poltava,
+2019,,,,Rivne,
+2019,,,,Sumy,
+2019,,,,Ternopil,
+2019,,,,Kharkiv,
+2019,,,,Kherson,
+2019,,,,Khmelnytskiy,
+2019,,,,Cherkasy,
+2019,,,, 33_reg_Chernivtsi,
+2019,,,,Chernihiv,
+2019,,,,city Kyiv,
+2019,,,,city Sevastopol,
+2020,,,,,
 2020,"growing of cereals (except rice), leguminous crops and oil seeds",,,,
 2020,growing of rice,,,,
 2020,"growing of vegetables and melons, roots and tubers",,,,
@@ -4146,7 +4191,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,activities of households as producers of goods for own consumption,,,,
 2020,activities of households as producers of services for own consumption,,,,
 2020,activities of extraterritorial organizations and bodies,,,,
-2020,,,,,
 2020,,Farm,,,
 2020,,Private enterprise,,,
 2020,,Collective enterprise,,,
@@ -4185,7 +4229,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,,Authority of municipality power,,,
 2020,,"State-run organisation (establishment, institution)",,,
 2020,,"Communal (establishment, institution)",,,
-2020,,"Communal (establishment, institution)",,,
 2020,,"Private (establishment, institution)",,,
 2020,,"Organisation (establishment, institution) public association",,,
 2020,,Organization of tenants,,,
@@ -4196,13 +4239,15 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,,Union of consumer partnerships,,,
 2020,,Other associations of legal persons,,,
 2020,,Branch (other separate subdivision),,,
+2020,,Representative office,,,
 2020,,Authority of advocacy self-government,,,
 2020,,Authority of judge self-government,,,
+2020,,Social insurance funds,,,
+2020,,Self-regulatory organizations,,,
+2020,,Associations of local governments and their voluntary associations,,,
+2020,,Chamber of Commerce and Industry,,,
 2020,,Audit Chamber of Ukraine,,,
 2020,,Organization of water users,,,
-2020,,Commodity exchange,,,
-2020,,Credit union,,,
-2020,,Not state pension fund,,,
 2020,,Political party,,,
 2020,,Non-profit organisation,,,
 2020,,Public union,,,
@@ -4214,34 +4259,43 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2020,,Organization of employers,,,
 2020,,Condominium,,,
 2020,,Community association population,,,
+2020,,Commodity exchange,,,
+2020,,Credit union,,,
+2020,,Not state pension fund,,,
 2020,,Gardening partnership,,,
-2020,,,Autonomous Republic of Crimea,,
-2020,,,Vinnytsya,,
-2020,,,Volyn,,
-2020,,,Dnipropetrovsk,,
-2020,,,Donetsk,,
-2020,,,Zhytomyr,,
-2020,,,Zakarpattya,,
-2020,,,Zaporizhzhya,,
-2020,,,Ivano-Frankivsk,,
-2020,,,Kyiv,,
-2020,,,Kirovohrad,,
-2020,,,Luhansk,,
-2020,,,Lviv,,
-2020,,,Mykolayiv,,
-2020,,,Odesa,,
-2020,,,Poltava,,
-2020,,,Rivne,,
-2020,,,Sumy,,
-2020,,,Ternopil,,
-2020,,,Kharkiv,,
-2020,,,Kherson,,
-2020,,,Khmelnytskiy,,
-2020,,,Cherkasy,,
-2020,,,Chernivtsi,,
-2020,,,Chernihiv,,
-2020,,,the city of Kyiv,,
-2020,,,city Sevastopol,,
+2020,,Other organizational and legal forms,,,
+2020,,,up to 9 persons,,
+2020,,,10–49 persons,,
+2020,,,50–249 persons,,
+2020,,,250 persons or more,,
+2020,,,,Autonomous Republic of Crimea,
+2020,,,,Vinnytsya,
+2020,,,,Volyn,
+2020,,,,Dnipropetrovsk,
+2020,,,,Donetsk,
+2020,,,,Zhytomyr,
+2020,,,,Zakarpattya,
+2020,,,,Zaporizhzhya,
+2020,,,,Ivano-Frankivsk,
+2020,,,,Kyiv,
+2020,,,,Kirovohrad,
+2020,,,,Luhansk,
+2020,,,,Lviv,
+2020,,,,Mykolayiv,
+2020,,,,Odesa,
+2020,,,,Poltava,
+2020,,,,Rivne,
+2020,,,,Sumy,
+2020,,,,Ternopil,
+2020,,,,Kharkiv,
+2020,,,,Kherson,
+2020,,,,Khmelnytskiy,
+2020,,,,Cherkasy,
+2020,,,, 33_reg_Chernivtsi,
+2020,,,,Chernihiv,
+2020,,,,city Kyiv,
+2020,,,,city Sevastopol,
+2021,,,,,34.6
 2021,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.4
 2021,growing of rice,,,,18.2
 2021,"growing of vegetables and melons, roots and tubers",,,,20.3
@@ -4292,7 +4346,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,extraction of salt,,,,16.7
 2021,other mining and quarrying n.e.c.,,,,8.7
 2021,mining support service activities,,,,17.0
-2021,support activities for other mining and quarrying,,,,16.42
+2021,support activities for other mining and quarrying,,,,16.4
 2021,processing and preserving of meat,,,,16.6
 2021,processing and preserving of poultry meat,,,,14.3
 2021,production of meat and poultry meat products,,,,23.3
@@ -4538,7 +4592,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,treatment and disposal of non-hazardous waste,,,,19.8
 2021,treatment and disposal of hazardous waste,,,,25.0
 2021,dismantling of wrecks,,,,16.7
-2021,recovery of sorted materials,,,,21.0
+21,recovery of sorted materials,,,,21.0
 2021,remediation activities and other waste management services,,,,20.0
 2021,development of building projects,,,,22.1
 2021,construction of residential and non-residential buildings,,,,16.0
@@ -4853,7 +4907,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,activities of households as producers of goods for own consumption,,,,44.4
 2021,activities of households as producers of services for own consumption,,,,20.0
 2021,activities of extraterritorial organizations and bodies,,,,
-2021,,,,,34.6
 2021,,Farm,,,21.0
 2021,,Private enterprise,,,28.8
 2021,,Collective enterprise,,,32.2
@@ -4866,93 +4919,99 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2021,,Enterprise association of citizens (religious organisation trade union),,,24.3
 2021,,Enterprise founded by consumer partnership,,,56.1
 2021,,Rental enterprise,,,28.6
-2021,,Family enterprise,,,30.4
-2021,,Joint enterprise,,,18.9
-2021,,Joint-stock company,,,17.8
-2021,,Public joint-stock partnership,,,21.9
-2021,,Private joint-stock partnership,,,100.0
-2021,,State joint stock company (company),,,27.4
-2021,,Limited liability partnership,,,31.2
-2021,,Extended liability partnership,,,36.3
-2021,,Full liability partnership,,,24.2
-2021,,Mixed liability company,,,30.0
-2021,,Lawyers’ union,,,23.8
+2021,,Family enterprise,,,
+2021,,Joint enterprise,,,30.4
+2021,,Joint-stock company,,,18.9
+2021,,Public joint-stock partnership,,,17.8
+2021,,Private joint-stock partnership,,,21.9
+2021,,State joint stock company (company),,,100.0
+2021,,Limited liability partnership,,,27.4
+2021,,Extended liability partnership,,,20.9
+2021,,Full liability partnership,,,31.2
+2021,,Mixed liability company,,,36.3
+2021,,Lawyers’ union,,,24.2
 2021,,Law office,,,30.0
-2021,,Production cooperative,,,8.5
-2021,,Serve cooperative,,,35.6
-2021,,Housing construction cooperativ,,,57.1
-2021,,Garage cooperativ,,,12.3
-2021,,Consumer cooperativ,,,27.3
-2021,,Consumer partnership,,,100.0
-2021,,Agriculture and production cooperativ,,,56.0
-2021,,Agriculture and serve cooperativ,,,46.9
-2021,,Agriculture cooperativ,,,47.3
-2021,,Authority of state power,,,62.1
-2021,,Courts,,,23.6
-2021,,Authority of municipality power,,,
-2021,,"State-run organisation (establishment, institution)",,,29.9
+2021,,Production cooperative,,,23.8
+2021,,Serve cooperative,,,30.0
+2021,,Housing construction cooperativ,,,49.1
+2021,,Garage cooperativ,,,8.5
+2021,,Consumer cooperativ,,,35.6
+2021,,Consumer partnership,,,57.1
+2021,,Agriculture and production cooperativ,,,12.3
+2021,,Agriculture and serve cooperativ,,,27.3
+2021,,Agriculture cooperativ,,,100.0
+2021,,Authority of state power,,,56.0
+2021,,Courts,,,46.9
+2021,,Authority of municipality power,,,47.3
+2021,,"State-run organisation (establishment, institution)",,,43.5
 2021,,"Communal (establishment, institution)",,,78.8
-2021,,"Communal (establishment, institution)",,,18.0
-2021,,"Private (establishment, institution)",,,36.6
-2021,,"Organisation (establishment, institution) public association",,,15.9
-2021,,Organization of tenants,,,37.9
-2021,,Association,,,25.7
-2021,,Corporation,,,25.2
-2021,,Consortium,,,43.1
-2021,,Concern,,,100.0
-2021,,Union of consumer partnerships,,,30.0
-2021,,Other associations of legal persons,,,
-2021,,Branch (other separate subdivision),,,
-2021,,Authority of advocacy self-government,,,24.2
-2021,,Authority of judge self-government,,,14.8
+2021,,"Private (establishment, institution)",,,62.1
+2021,,"Organisation (establishment, institution) public association",,,23.6
+2021,,Organization of tenants,,,
+2021,,Association,,,29.9
+2021,,Corporation,,,18.0
+2021,,Consortium,,,36.6
+2021,,Concern,,,15.9
+2021,,Union of consumer partnerships,,,37.9
+2021,,Other associations of legal persons,,,17.2
+2021,,Branch (other separate subdivision),,,25.7
+2021,,Representative office,,,25.2
+2021,,Authority of advocacy self-government,,,43.1
+2021,,Authority of judge self-government,,,100.0
+2021,,Social insurance funds,,,30.0
+2021,,Self-regulatory organizations,,,
+2021,,Associations of local governments and their voluntary associations,,,24.2
+2021,,Chamber of Commerce and Industry,,,14.8
 2021,,Audit Chamber of Ukraine,,,100.0
 2021,,Organization of water users,,,
-2021,,Commodity exchange,,,22.8
-2021,,Credit union,,,28.4
-2021,,Not state pension fund,,,22.5
-2021,,Political party,,,4.5
-2021,,Non-profit organisation,,,62.5
-2021,,Public union,,,40.3
-2021,,Religious organisation,,,20.9
-2021,,Trade union,,,11.9
-2021,,Association of trade unions,,,52.9
-2021,,Creative union (other professional organisation),,,51.8
-2021,,Charitable organisation,,,29.9
-2021,,Organization of employers,,,49.7
-2021,,Condominium,,,30.0
-2021,,Community association population,,,33.3
-2021,,Gardening partnership,,,
-2021,,,,up to 9 persons,28.6
-2021,,,,10–49 persons,22.0
-2021,,,,50–249 persons,20.2
-2021,,,,250 persons or more,17.9
-2021,,,Autonomous Republic of Crimea,,
-2021,,,Vinnytsya,,35.6
-2021,,,Volyn,,35.9
-2021,,,Dnipropetrovsk,,36.3
-2021,,,Donetsk,,45.2
-2021,,,Zhytomyr,,38.1
-2021,,,Zakarpattya,,33.7
-2021,,,Zaporizhzhya,,34.4
-2021,,,Ivano-Frankivsk,,33.7
-2021,,,Kyiv,,31.1
-2021,,,Kirovohrad,,36.2
-2021,,,Luhansk,,42.9
-2021,,,Lviv,,31.9
-2021,,,Mykolayiv,,37.0
-2021,,,Odesa,,35.7
-2021,,,Poltava,,34.5
-2021,,,Rivne,,34.7
-2021,,,Sumy,,35.2
-2021,,,Ternopil,,32.7
-2021,,,Kharkiv,,34.8
-2021,,,Kherson,,39.9
-2021,,,Khmelnytskiy,,34.2
-2021,,,Cherkasy,,35.5
-2021,,,Chernivtsi,,32.2
-2021,,,Chernihiv,,36.4
-2021,,,the city of Kyiv,,30.6
-2021,,,city Sevastopol,,
+2021,,Political party,,,22.8
+2021,,Non-profit organisation,,,28.4
+2021,,Public union,,,22.5
+2021,,Religious organisation,,,4.5
+2021,,Trade union,,,62.5
+2021,,Association of trade unions,,,40.3
+2021,,Creative union (other professional organisation),,,20.9
+2021,,Charitable organisation,,,38.8
+2021,,Organization of employers,,,11.9
+2021,,Condominium,,,52.9
+2021,,Community association population,,,51.8
+2021,,Commodity exchange,,,29.9
+2021,,Credit union,,,49.7
+2021,,Not state pension fund,,,30.0
+2021,,Gardening partnership,,,33.3
+2021,,Other organizational and legal forms,,,
+2021,,,up to 9 persons,,28.6
+2021,,,10–49 persons,,22.0
+2021,,,50–249 persons,,20.2
+2021,,,250 persons or more,,17.9
+2021,,,,Autonomous Republic of Crimea,
+2021,,,,Vinnytsya,35.6
+2021,,,,Volyn,35.9
+2021,,,,Dnipropetrovsk,36.3
+2021,,,,Donetsk,45.2
+2021,,,,Zhytomyr,38.1
+2021,,,,Zakarpattya,33.7
+2021,,,,Zaporizhzhya,34.4
+2021,,,,Ivano-Frankivsk,33.7
+2021,,,,Kyiv,31.1
+2021,,,,Kirovohrad,36.2
+2021,,,,Luhansk,42.9
+2021,,,,Lviv,31.9
+2021,,,,Mykolayiv,37.0
+2021,,,,Odesa,35.7
+2021,,,,Poltava,34.5
+2021,,,,Rivne,34.7
+2021,,,,Sumy,35.2
+2021,,,,Ternopil,32.7
+2021,,,,Kharkiv,34.8
+2021,,,,Kherson,39.9
+2021,,,,Khmelnytskiy,34.2
+2021,,,,Cherkasy,35.5
+2021,,,,Chernivtsi,32.2
+2021,,,,Chernihiv,36.4
+2021,,,,city Kyiv,30.6
+2021,,,,city Sevastopol,
+2022,,,,,34.9
 2022,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.2
 2022,growing of rice,,,,21.7
 2022,"growing of vegetables and melons, roots and tubers",,,,19.2
@@ -5152,7 +5211,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,treatment and coating of metals,,,,17.2
 2022,machining,,,,18.0
 2022,manufacture of cutlery,,,,16.7
-2022,manufacture of locks and hinges,,,,6.9
+22,manufacture of locks and hinges,,,,6.9
 2022,manufacture of tools,,,,18.2
 2022,manufacture of steel drums and similar containers,,,,11.1
 2022,manufacture of light metal packaging,,,,16.7
@@ -5367,7 +5426,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,"passenger rail transport, interurban",,,,
 2022,freight rail transport,,,,26.3
 2022,urban and suburban passenger land transport,,,,15.4
-2022,taxi operation,,,,21.7
+22,taxi operation,,,,21.7
 2022,other passenger land transport n.e.c.,,,,22.2
 2022,freight transport by road,,,,22.1
 2022,removal services,,,,31.0
@@ -5564,7 +5623,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,activities of households as producers of goods for own consumption,,,,42.9
 2022,activities of households as producers of services for own consumption,,,,14.3
 2022,activities of extraterritorial organizations and bodies,,,,
-2022,,,,,34.9
 2022,,Farm,,,20.6
 2022,,Private enterprise,,,28.4
 2022,,Collective enterprise,,,30.1
@@ -5577,93 +5635,99 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2022,,Enterprise association of citizens (religious organisation trade union),,,24.8
 2022,,Enterprise founded by consumer partnership,,,55.1
 2022,,Rental enterprise,,,28.6
-2022,,Family enterprise,,,29.9
-2022,,Joint enterprise,,,18.9
-2022,,Joint-stock company,,,18.8
-2022,,Public joint-stock partnership,,,18.2
-2022,,Private joint-stock partnership,,,50.0
-2022,,State joint stock company (company),,,27.3
-2022,,Limited liability partnership,,,29.5
-2022,,Extended liability partnership,,,36.6
-2022,,Full liability partnership,,,25.3
-2022,,Mixed liability company,,,30.9
-2022,,Lawyers’ union,,,24.9
-2022,,Law office,,,30.2
-2022,,Production cooperative,,,8.8
-2022,,Serve cooperative,,,33.9
-2022,,Housing construction cooperativ,,,57.5
-2022,,Garage cooperativ,,,11.2
-2022,,Consumer cooperativ,,,26.5
-2022,,Consumer partnership,,,20.0
-2022,,Agriculture and production cooperativ,,,55.5
-2022,,Agriculture and serve cooperativ,,,47.0
-2022,,Agriculture cooperativ,,,49.0
-2022,,Authority of state power,,,63.2
-2022,,Courts,,,24.1
-2022,,Authority of municipality power,,,
-2022,,"State-run organisation (establishment, institution)",,,29.8
+2022,,Family enterprise,,,
+2022,,Joint enterprise,,,29.9
+2022,,Joint-stock company,,,18.9
+2022,,Public joint-stock partnership,,,18.8
+2022,,Private joint-stock partnership,,,18.2
+2022,,State joint stock company (company),,,50.0
+2022,,Limited liability partnership,,,27.3
+2022,,Extended liability partnership,,,20.9
+2022,,Full liability partnership,,,29.5
+2022,,Mixed liability company,,,36.6
+2022,,Lawyers’ union,,,25.3
+2022,,Law office,,,30.9
+2022,,Production cooperative,,,24.9
+2022,,Serve cooperative,,,30.2
+2022,,Housing construction cooperativ,,,48.6
+2022,,Garage cooperativ,,,8.8
+2022,,Consumer cooperativ,,,33.9
+2022,,Consumer partnership,,,57.5
+2022,,Agriculture and production cooperativ,,,11.2
+2022,,Agriculture and serve cooperativ,,,26.5
+2022,,Agriculture cooperativ,,,20.0
+2022,,Authority of state power,,,55.5
+2022,,Courts,,,47.0
+2022,,Authority of municipality power,,,49.0
+2022,,"State-run organisation (establishment, institution)",,,44.2
 2022,,"Communal (establishment, institution)",,,79.1
-2022,,"Communal (establishment, institution)",,,18.7
-2022,,"Private (establishment, institution)",,,25.0
-2022,,"Organisation (establishment, institution) public association",,,10.0
-2022,,Organization of tenants,,,35.9
-2022,,Association,,,25.3
-2022,,Corporation,,,25.7
-2022,,Consortium,,,45.7
-2022,,Concern,,,100.0
-2022,,Union of consumer partnerships,,,32.5
-2022,,Other associations of legal persons,,,
-2022,,Branch (other separate subdivision),,,
-2022,,Authority of advocacy self-government,,,24.2
-2022,,Authority of judge self-government,,,14.8
+2022,,"Private (establishment, institution)",,,63.2
+2022,,"Organisation (establishment, institution) public association",,,24.1
+2022,,Organization of tenants,,,
+2022,,Association,,,29.8
+2022,,Corporation,,,18.7
+2022,,Consortium,,,25.0
+2022,,Concern,,,10.0
+2022,,Union of consumer partnerships,,,35.9
+2022,,Other associations of legal persons,,,18.3
+2022,,Branch (other separate subdivision),,,25.3
+2022,,Representative office,,,25.7
+2022,,Authority of advocacy self-government,,,45.7
+2022,,Authority of judge self-government,,,100.0
+2022,,Social insurance funds,,,32.5
+2022,,Self-regulatory organizations,,,
+2022,,Associations of local governments and their voluntary associations,,,24.2
+2022,,Chamber of Commerce and Industry,,,14.8
 2022,,Audit Chamber of Ukraine,,,100.0
 2022,,Organization of water users,,,
-2022,,Commodity exchange,,,22.2
-2022,,Credit union,,,28.7
-2022,,Not state pension fund,,,22.3
-2022,,Political party,,,4.6
-2022,,Non-profit organisation,,,62.4
-2022,,Public union,,,41.2
-2022,,Religious organisation,,,22.9
-2022,,Trade union,,,11.8
-2022,,Association of trade unions,,,52.7
-2022,,Creative union (other professional organisation),,,51.8
-2022,,Charitable organisation,,,32.4
-2022,,Organization of employers,,,50.2
-2022,,Condominium,,,30.0
-2022,,Community association population,,,33.0
-2022,,Gardening partnership,,,25.0
-2022,,,,up to 9 persons,28.4
-2022,,,,10–49 persons,22.3
-2022,,,,50–249 persons,21.2
-2022,,,,250 persons or more,18.0
-2022,,,Autonomous Republic of Crimea,,
-2022,,,Vinnytsya,,35.5
-2022,,,Volyn,,35.4
-2022,,,Dnipropetrovsk,,36.4
-2022,,,Donetsk,,46.5
-2022,,,Zhytomyr,,38.5
-2022,,,Zakarpattya,,34.5
-2022,,,Zaporizhzhya,,34.8
-2022,,,Ivano-Frankivsk,,34.0
-2022,,,Kyiv,,31.2
-2022,,,Kirovohrad,,36.2
-2022,,,Luhansk,,46.1
-2022,,,Lviv,,31.6
-2022,,,Mykolayiv,,38.0
-2022,,,Odesa,,36.2
-2022,,,Poltava,,34.8
-2022,,,Rivne,,34.5
-2022,,,Sumy,,35.5
-2022,,,Ternopil,,32.5
-2022,,,Kharkiv,,35.0
-2022,,,Kherson,,41.2
-2022,,,Khmelnytskiy,,34.3
-2022,,,Cherkasy,,35.6
-2022,,,Chernivtsi,,32.5
-2022,,,Chernihiv,,36.7
-2022,,,the city of Kyiv,,30.6
-2022,,,city Sevastopol,,
+2022,,Political party,,,22.2
+2022,,Non-profit organisation,,,28.7
+2022,,Public union,,,22.3
+2022,,Religious organisation,,,4.6
+2022,,Trade union,,,62.4
+2022,,Association of trade unions,,,41.2
+2022,,Creative union (other professional organisation),,,22.9
+2022,,Charitable organisation,,,37.1
+2022,,Organization of employers,,,11.8
+2022,,Condominium,,,52.7
+2022,,Community association population,,,51.8
+2022,,Commodity exchange,,,32.4
+2022,,Credit union,,,50.2
+2022,,Not state pension fund,,,30.0
+2022,,Gardening partnership,,,33.0
+2022,,Other organizational and legal forms,,,25.0
+2022,,,up to 9 persons,,28.4
+2022,,,10–49 persons,,22.3
+2022,,,50–249 persons,,21.2
+2022,,,250 persons or more,,18.0
+2022,,,,Autonomous Republic of Crimea,
+2022,,,,Vinnytsya,35.5
+2022,,,,Volyn,35.4
+2022,,,,Dnipropetrovsk,36.4
+2022,,,,Donetsk,46.5
+2022,,,,Zhytomyr,38.5
+2022,,,,Zakarpattya,34.5
+2022,,,,Zaporizhzhya,34.8
+2022,,,,Ivano-Frankivsk,34.0
+2022,,,,Kyiv,31.2
+2022,,,,Kirovohrad,36.2
+2022,,,,Luhansk,46.1
+2022,,,,Lviv,31.6
+2022,,,,Mykolayiv,38.0
+2022,,,,Odesa,36.2
+2022,,,,Poltava,34.8
+2022,,,,Rivne,34.5
+2022,,,,Sumy,35.5
+2022,,,,Ternopil,32.5
+2022,,,,Kharkiv,35.0
+2022,,,,Kherson,41.2
+2022,,,,Khmelnytskiy,34.3
+2022,,,,Cherkasy,35.6
+2022,,,,Chernivtsi,32.5
+2022,,,,Chernihiv,36.7
+2022,,,,city Kyiv,30.6
+2022,,,,city Sevastopol,
+2023,,,,,35.2
 2023,"growing of cereals (except rice), leguminous crops and oil seeds",,,,18.9
 2023,growing of rice,,,,12.5
 2023,"growing of vegetables and melons, roots and tubers",,,,20.8
@@ -5731,7 +5795,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,manufacture of bread; manufacture of fresh pastry goods and cakes,,,,34.2
 2023,manufacture of rusks and biscuits; manufacture of preserved pastry goods and cakes,,,,35.0
 2023,"manufacture of macaroni, noodles, couscous and similar farinaceous products",,,,27.0
-2023,manufacture of sugar,,,,14.6
+23,manufacture of sugar,,,,14.6
 2023,"manufacture of cocoa, chocolate and sugar confectionery",,,,30.5
 2023,processing of tea and coffee,,,,19.8
 2023,manufacture of condiments and seasonings,,,,24.1
@@ -5810,7 +5874,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres,,,,23.8
 2023,manufacture of other rubber products,,,,17.5
 2023,"manufacture of plastic plates, sheets, tubes and profiles",,,,17.1
-2023,manufacture of plastic packing goods,,,,24.3
+23,manufacture of plastic packing goods,,,,24.3
 2023,manufacture of buildersТ ware of plastic,,,,19.2
 2023,manufacture of other plastic products,,,,19.1
 2023,manufacture of flat glass,,,,13.3
@@ -5942,7 +6006,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,repair of electrical equipment,,,,17.3
 2023,repair and maintenance of ships and boats,,,,10.8
 2023,repair and maintenance of aircraft and spacecraft,,,,23.1
-2023,repair and maintenance of other transport equipment,,,,14.1
+23,repair and maintenance of other transport equipment,,,,14.1
 2023,repair of other equipment,,,,17.2
 2023,installation of industrial machinery and equipment,,,,14.7
 2023,production of electricity,,,,20.2
@@ -6181,7 +6245,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,renting and leasing of construction and civil engineering machinery,,,,23.7
 2023,renting and leasing of office machinery and equipment (including computers),,,,34.7
 2023,renting and leasing of water transport equipment,,,,17.9
-2023,renting and leasing of air transport equipment,,,,28.6
+23,renting and leasing of air transport equipment,,,,28.6
 2023,"renting and leasing of other machinery, equipment and tangible goods n.e.c.",,,,30.4
 2023,"leasing of intellectual property and similar products, except copyrighted works",,,,31.3
 2023,activities of employment placement agencies,,,,45.4
@@ -6275,7 +6339,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,activities of households as producers of goods for own consumption,,,,42.9
 2023,activities of households as producers of services for own consumption,,,,28.6
 2023,activities of extraterritorial organizations and bodies,,,,
-2023,,,,,35.2
 2023,,Farm,,,20.2
 2023,,Private enterprise,,,28.5
 2023,,Collective enterprise,,,29.5
@@ -6288,93 +6351,99 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2023,,Enterprise association of citizens (religious organisation trade union),,,24.9
 2023,,Enterprise founded by consumer partnership,,,56.4
 2023,,Rental enterprise,,,50.0
-2023,,Family enterprise,,,32.0
-2023,,Joint enterprise,,,19.3
-2023,,Joint-stock company,,,18.0
-2023,,Public joint-stock partnership,,,20.0
-2023,,Private joint-stock partnership,,,50.0
-2023,,State joint stock company (company),,,27.6
-2023,,Limited liability partnership,,,32.4
-2023,,Extended liability partnership,,,40.6
-2023,,Full liability partnership,,,26.6
-2023,,Mixed liability company,,,31.7
-2023,,Lawyers’ union,,,24.2
-2023,,Law office,,,30.2
-2023,,Production cooperative,,,8.6
-2023,,Serve cooperative,,,32.4
-2023,,Housing construction cooperativ,,,56.8
-2023,,Garage cooperativ,,,10.5
-2023,,Consumer cooperativ,,,24.5
-2023,,Consumer partnership,,,26.8
-2023,,Agriculture and production cooperativ,,,55.9
-2023,,Agriculture and serve cooperativ,,,47.5
-2023,,Agriculture cooperativ,,,50.8
-2023,,Authority of state power,,,66.2
-2023,,Courts,,,24.5
-2023,,Authority of municipality power,,,
-2023,,"State-run organisation (establishment, institution)",,,29.2
+2023,,Family enterprise,,,
+2023,,Joint enterprise,,,32.0
+2023,,Joint-stock company,,,19.3
+2023,,Public joint-stock partnership,,,18.0
+2023,,Private joint-stock partnership,,,20.0
+2023,,State joint stock company (company),,,50.0
+2023,,Limited liability partnership,,,27.6
+2023,,Extended liability partnership,,,20.5
+2023,,Full liability partnership,,,32.4
+2023,,Mixed liability company,,,40.6
+2023,,Lawyers’ union,,,26.6
+2023,,Law office,,,31.7
+2023,,Production cooperative,,,24.2
+2023,,Serve cooperative,,,30.2
+2023,,Housing construction cooperativ,,,49.4
+2023,,Garage cooperativ,,,8.6
+2023,,Consumer cooperativ,,,32.4
+2023,,Consumer partnership,,,56.8
+2023,,Agriculture and production cooperativ,,,10.5
+2023,,Agriculture and serve cooperativ,,,24.5
+2023,,Agriculture cooperativ,,,26.8
+2023,,Authority of state power,,,55.9
+2023,,Courts,,,47.5
+2023,,Authority of municipality power,,,50.8
+2023,,"State-run organisation (establishment, institution)",,,45.1
 2023,,"Communal (establishment, institution)",,,79.4
-2023,,"Communal (establishment, institution)",,,21.0
-2023,,"Private (establishment, institution)",,,29.5
-2023,,"Organisation (establishment, institution) public association",,,5.4
-2023,,Organization of tenants,,,36.7
-2023,,Association,,,25.5
-2023,,Corporation,,,24.9
-2023,,Consortium,,,44.4
-2023,,Concern,,,
-2023,,Union of consumer partnerships,,,21.4
-2023,,Other associations of legal persons,,,
-2023,,Branch (other separate subdivision),,,
-2023,,Authority of advocacy self-government,,,25.0
-2023,,Authority of judge self-government,,,11.5
+2023,,"Private (establishment, institution)",,,66.2
+2023,,"Organisation (establishment, institution) public association",,,24.5
+2023,,Organization of tenants,,,
+2023,,Association,,,29.2
+2023,,Corporation,,,21.0
+2023,,Consortium,,,29.5
+2023,,Concern,,,5.4
+2023,,Union of consumer partnerships,,,36.7
+2023,,Other associations of legal persons,,,17.7
+2023,,Branch (other separate subdivision),,,25.5
+2023,,Representative office,,,24.9
+2023,,Authority of advocacy self-government,,,44.4
+2023,,Authority of judge self-government,,,
+2023,,Social insurance funds,,,21.4
+2023,,Self-regulatory organizations,,,
+2023,,Associations of local governments and their voluntary associations,,,25.0
+2023,,Chamber of Commerce and Industry,,,11.5
 2023,,Audit Chamber of Ukraine,,,
 2023,,Organization of water users,,,
-2023,,Commodity exchange,,,22.2
-2023,,Credit union,,,29.2
-2023,,Not state pension fund,,,22.7
-2023,,Political party,,,4.9
-2023,,Non-profit organisation,,,62.5
-2023,,Public union,,,41.2
-2023,,Religious organisation,,,22.7
-2023,,Trade union,,,11.5
-2023,,Association of trade unions,,,52.9
-2023,,Creative union (other professional organisation),,,51.9
-2023,,Charitable organisation,,,27.7
-2023,,Organization of employers,,,51.9
-2023,,Condominium,,,31.0
-2023,,Community association population,,,33.0
-2023,,Gardening partnership,,,20.0
-2023,,,,up to 9 persons,28.6
-2023,,,,10–49 persons,22.4
-2023,,,,50–249 persons,21.7
-2023,,,,250 persons or more,19.9
-2023,,,Autonomous Republic of Crimea,,
-2023,,,Vinnytsya,,35.9
-2023,,,Volyn,,35.5
-2023,,,Dnipropetrovsk,,36.9
-2023,,,Donetsk,,49.1
-2023,,,Zhytomyr,,38.9
-2023,,,Zakarpattya,,34.9
-2023,,,Zaporizhzhya,,36.1
-2023,,,Ivano-Frankivsk,,34.1
-2023,,,Kyiv,,31.3
-2023,,,Kirovohrad,,36.6
-2023,,,Luhansk,,47.1
-2023,,,Lviv,,31.9
-2023,,,Mykolayiv,,38.9
-2023,,,Odesa,,36.3
-2023,,,Poltava,,34.8
-2023,,,Rivne,,34.9
-2023,,,Sumy,,35.9
-2023,,,Ternopil,,32.4
-2023,,,Kharkiv,,35.6
-2023,,,Kherson,,45.0
-2023,,,Khmelnytskiy,,34.6
-2023,,,Cherkasy,,35.8
-2023,,,Chernivtsi,,33.1
-2023,,,Chernihiv,,37.2
-2023,,,the city of Kyiv,,30.8
-2023,,,city Sevastopol,,
+2023,,Political party,,,22.2
+2023,,Non-profit organisation,,,29.2
+2023,,Public union,,,22.7
+2023,,Religious organisation,,,4.9
+2023,,Trade union,,,62.5
+2023,,Association of trade unions,,,41.2
+2023,,Creative union (other professional organisation),,,22.7
+2023,,Charitable organisation,,,36.4
+2023,,Organization of employers,,,11.5
+2023,,Condominium,,,52.9
+2023,,Community association population,,,51.9
+2023,,Commodity exchange,,,27.7
+2023,,Credit union,,,51.9
+2023,,Not state pension fund,,,31.0
+2023,,Gardening partnership,,,33.0
+2023,,Other organizational and legal forms,,,20.0
+2023,,,up to 9 persons,,28.6
+2023,,,10–49 persons,,22.4
+2023,,,50–249 persons,,21.7
+2023,,,250 persons or more,,19.9
+2023,,,,Autonomous Republic of Crimea,
+2023,,,,Vinnytsya,35.9
+2023,,,,Volyn,35.5
+2023,,,,Dnipropetrovsk,36.9
+2023,,,,Donetsk,49.1
+2023,,,,Zhytomyr,38.9
+2023,,,,Zakarpattya,34.9
+2023,,,,Zaporizhzhya,36.1
+2023,,,,Ivano-Frankivsk,34.1
+2023,,,,Kyiv,31.3
+2023,,,,Kirovohrad,36.6
+2023,,,,Luhansk,47.1
+2023,,,,Lviv,31.9
+2023,,,,Mykolayiv,38.9
+2023,,,,Odesa,36.3
+2023,,,,Poltava,34.8
+2023,,,,Rivne,34.9
+2023,,,,Sumy,35.9
+2023,,,,Ternopil,32.4
+2023,,,,Kharkiv,35.6
+2023,,,,Kherson,45.0
+2023,,,,Khmelnytskiy,34.6
+2023,,,,Cherkasy,35.8
+2023,,,,Chernivtsi,33.1
+2023,,,,Chernihiv,37.2
+2023,,,,city Kyiv,30.8
+2023,,,,city Sevastopol,
+2024,,,,,36.2
 2024,"growing of cereals (except rice), leguminous crops and oil seeds",,,,19.3
 2024,growing of rice,,,,10.0
 2024,"growing of vegetables and melons, roots and tubers",,,,20.6
@@ -6782,7 +6851,7 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2024,other retail sale of new goods in specialised stores,,,,32.2
 2024,retail sale of second-hand goods in stores,,,,37.2
 2024,"retail sale via stalls and markets of food, beverages and tobacco products",,,,42.3
-2024,"retail sale via stalls and markets of textiles, clothing and footwear",,,,50.0
+24,"retail sale via stalls and markets of textiles, clothing and footwear",,,,50.0
 2024,retail sale via stalls and markets of other goods,,,,40.0
 2024,retail sale via mail order houses or via internet,,,,32.5
 2024,"other retail sale not in stores, stalls or markets",,,,32.4
@@ -6986,7 +7055,6 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2024,activities of households as producers of goods for own consumption,,,,37.5
 2024,activities of households as producers of services for own consumption,,,,28.6
 2024,activities of extraterritorial organizations and bodies,,,,
-2024,,,,,36.2
 2024,,Farm,,,20.4
 2024,,Private enterprise,,,30.0
 2024,,Collective enterprise,,,31.8
@@ -6999,90 +7067,95 @@ Year,Types of economic activity,Organisational and legal forms,Region,Number of 
 2024,,Enterprise association of citizens (religious organisation trade union),,,25.5
 2024,,Enterprise founded by consumer partnership,,,58.6
 2024,,Rental enterprise,,,37.5
-2024,,Family enterprise,,,31.0
-2024,,Joint enterprise,,,20.1
-2024,,Joint-stock company,,,22.2
-2024,,Public joint-stock partnership,,,19.4
-2024,,Private joint-stock partnership,,,50.0
-2024,,State joint stock company (company),,,29.7
-2024,,Limited liability partnership,,,33.6
-2024,,Extended liability partnership,,,43.3
-2024,,Full liability partnership,,,28.2
-2024,,Mixed liability company,,,35.2
-2024,,Lawyers’ union,,,25.5
-2024,,Law office,,,30.3
-2024,,Production cooperative,,,8.6
-2024,,Serve cooperative,,,31.7
-2024,,Housing construction cooperativ,,,57.4
-2024,,Garage cooperativ,,,13.2
-2024,,Consumer cooperativ,,,28.7
-2024,,Consumer partnership,,,27.3
-2024,,Agriculture and production cooperativ,,,56.2
-2024,,Agriculture and serve cooperativ,,,48.5
-2024,,Agriculture cooperativ,,,52.2
-2024,,Authority of state power,,,66.3
-2024,,Courts,,,24.7
-2024,,Authority of municipality power,,,
-2024,,"State-run organisation (establishment, institution)",,,29.2
+2024,,Family enterprise,,,
+2024,,Joint enterprise,,,31.0
+2024,,Joint-stock company,,,20.1
+2024,,Public joint-stock partnership,,,22.2
+2024,,Private joint-stock partnership,,,19.4
+2024,,State joint stock company (company),,,50.0
+2024,,Limited liability partnership,,,29.7
+2024,,Extended liability partnership,,,21.9
+2024,,Full liability partnership,,,33.6
+2024,,Mixed liability company,,,43.3
+2024,,Lawyers’ union,,,28.2
+2024,,Law office,,,35.2
+2024,,Production cooperative,,,25.5
+2024,,Serve cooperative,,,30.3
+2024,,Housing construction cooperativ,,,49.4
+2024,,Garage cooperativ,,,8.6
+2024,,Consumer cooperativ,,,31.7
+2024,,Consumer partnership,,,57.4
+2024,,Agriculture and production cooperativ,,,13.2
+2024,,Agriculture and serve cooperativ,,,28.7
+2024,,Agriculture cooperativ,,,27.3
+2024,,Authority of state power,,,56.2
+2024,,Courts,,,48.5
+2024,,Authority of municipality power,,,52.2
+2024,,"State-run organisation (establishment, institution)",,,45.8
 2024,,"Communal (establishment, institution)",,,79.6
-2024,,"Communal (establishment, institution)",,,19.2
-2024,,"Private (establishment, institution)",,,24.3
-2024,,"Organisation (establishment, institution) public association",,,10.5
-2024,,Organization of tenants,,,38.3
-2024,,Association,,,22.2
-2024,,Corporation,,,26.7
-2024,,Consortium,,,47.7
-2024,,Concern,,,
-2024,,Union of consumer partnerships,,,21.4
-2024,,Other associations of legal persons,,,
-2024,,Branch (other separate subdivision),,,
-2024,,Authority of advocacy self-government,,,26.5
-2024,,Authority of judge self-government,,,11.5
+2024,,"Private (establishment, institution)",,,66.3
+2024,,"Organisation (establishment, institution) public association",,,24.7
+2024,,Organization of tenants,,,
+2024,,Association,,,29.2
+2024,,Corporation,,,19.2
+2024,,Consortium,,,24.3
+2024,,Concern,,,10.5
+2024,,Union of consumer partnerships,,,38.3
+2024,,Other associations of legal persons,,,18.1
+2024,,Branch (other separate subdivision),,,22.2
+2024,,Representative office,,,26.7
+2024,,Authority of advocacy self-government,,,47.7
+2024,,Authority of judge self-government,,,
+2024,,Social insurance funds,,,21.4
+2024,,Self-regulatory organizations,,,
+2024,,Associations of local governments and their voluntary associations,,,26.5
+2024,,Chamber of Commerce and Industry,,,11.5
 2024,,Audit Chamber of Ukraine,,,
 2024,,Organization of water users,,,20.0
-2024,,Commodity exchange,,,22.4
-2024,,Credit union,,,29.8
-2024,,Not state pension fund,,,23.0
-2024,,Political party,,,5.2
-2024,,Non-profit organisation,,,62.4
-2024,,Public union,,,44.1
-2024,,Religious organisation,,,19.5
-2024,,Trade union,,,12.0
-2024,,Association of trade unions,,,53.3
-2024,,Creative union (other professional organisation),,,52.4
-2024,,Charitable organisation,,,27.5
-2024,,Organization of employers,,,54.4
-2024,,Condominium,,,35.7
-2024,,Community association population,,,33.9
-2024,,Gardening partnership,,,16.7
-2024,,,,up to 9 persons,30.4
-2024,,,,10–49 persons,23.9
-2024,,,,50–249 persons,22.7
-2024,,,,250 persons or more,19.9
-2024,,,Autonomous Republic of Crimea,,
-2024,,,Vinnytsya,,36.6
-2024,,,Volyn,,36.4
-2024,,,Dnipropetrovsk,,38.1
-2024,,,Donetsk,,49.8
-2024,,,Zhytomyr,,39.5
-2024,,,Zakarpattya,,35.4
-2024,,,Zaporizhzhya,,37.9
-2024,,,Ivano-Frankivsk,,34.7
-2024,,,Kyiv,,32.3
-2024,,,Kirovohrad,,37.0
-2024,,,Luhansk,,49.1
-2024,,,Lviv,,33.0
-2024,,,Mykolayiv,,39.4
-2024,,,Odesa,,37.3
-2024,,,Poltava,,35.4
-2024,,,Rivne,,35.6
-2024,,,Sumy,,36.6
-2024,,,Ternopil,,32.8
-2024,,,Kharkiv,,36.2
-2024,,,Kherson,,47.7
-2024,,,Khmelnytskiy,,35.1
-2024,,,Cherkasy,,35.9
-2024,,,Chernivtsi,,34.0
-2024,,,Chernihiv,,38.1
-2024,,,the city of Kyiv,,32.4
-2024,,,city Sevastopol,,
+2024,,Political party,,,22.4
+2024,,Non-profit organisation,,,29.8
+2024,,Public union,,,23.0
+2024,,Religious organisation,,,5.2
+2024,,Trade union,,,62.4
+2024,,Association of trade unions,,,44.1
+2024,,Creative union (other professional organisation),,,19.5
+2024,,Charitable organisation,,,36.2
+2024,,Organization of employers,,,12.0
+2024,,Condominium,,,53.3
+2024,,Community association population,,,52.4
+2024,,Commodity exchange,,,27.5
+2024,,Credit union,,,54.4
+2024,,Not state pension fund,,,35.7
+2024,,Gardening partnership,,,33.9
+2024,,Other organizational and legal forms,,,16.7
+2024,,,up to 9 persons,,30.4
+2024,,,10–49 persons,,23.9
+2024,,,50–249 persons,,22.7
+2024,,,250 persons or more,,19.9
+2024,,,,Autonomous Republic of Crimea,
+2024,,,,Vinnytsya,36.6
+2024,,,,Volyn,36.4
+2024,,,,Dnipropetrovsk,38.1
+2024,,,,Donetsk,49.8
+2024,,,,Zhytomyr,39.5
+2024,,,,Zakarpattya,35.4
+2024,,,,Zaporizhzhya,37.9
+2024,,,,Ivano-Frankivsk,34.7
+2024,,,,Kyiv,32.3
+2024,,,,Kirovohrad,37.0
+2024,,,,Luhansk,49.1
+2024,,,,Lviv,33.0
+2024,,,,Mykolayiv,39.4
+2024,,,,Odesa,37.3
+2024,,,,Poltava,35.4
+2024,,,,Rivne,35.6
+2024,,,,Sumy,36.6
+2024,,,,Ternopil,32.8
+2024,,,,Kharkiv,36.2
+2024,,,,Kherson,47.7
+2024,,,,Khmelnytskiy,35.1
+2024,,,,Cherkasy,35.9
+2024,,,,Chernivtsi,34.0
+2024,,,,Chernihiv,38.1
+2024,,,,city Kyiv,32.4
+2024,,,,city Sevastopol,

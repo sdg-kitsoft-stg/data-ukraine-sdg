@@ -5148,7 +5148,6 @@
                 "Authority of municipality power",
                 "State-run organisation (establishment, institution)",
                 "Communal (establishment, institution)",
-                "Communal (establishment, institution)",
                 "Private (establishment, institution)",
                 "Organisation (establishment, institution) public association",
                 "Organization of tenants",
@@ -5159,13 +5158,15 @@
                 "Union of consumer partnerships",
                 "Other associations of legal persons",
                 "Branch (other separate subdivision)",
+                "Representative office",
                 "Authority of advocacy self-government",
                 "Authority of judge self-government",
+                "Social insurance funds",
+                "Self-regulatory organizations",
+                "Associations of local governments and their voluntary associations",
+                "Chamber of Commerce and Industry",
                 "Audit Chamber of Ukraine",
                 "Organization of water users",
-                "Commodity exchange",
-                "Credit union",
-                "Not state pension fund",
                 "Political party",
                 "Non-profit organisation",
                 "Public union",
@@ -5177,11 +5178,30 @@
                 "Organization of employers",
                 "Condominium",
                 "Community association population",
+                "Commodity exchange",
+                "Credit union",
+                "Not state pension fund",
                 "Gardening partnership",
+                "Other organizational and legal forms",
+                "Agriculture and serve cooperativ",
                 ""
               ]
             },
             "title": "Organisational and legal forms"
+          },
+          {
+            "name": "Number of employees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "up to 9 persons",
+                "10–49 persons",
+                "50–249 persons",
+                "250 persons or more",
+                ""
+              ]
+            },
+            "title": "Number of employees"
           },
           {
             "name": "Region",
@@ -5211,28 +5231,15 @@
                 "Kherson",
                 "Khmelnytskiy",
                 "Cherkasy",
-                "Chernivtsi",
+                " 33_reg_Chernivtsi",
                 "Chernihiv",
-                "the city of Kyiv",
+                "city Kyiv",
                 "city Sevastopol",
+                "Chernivtsi",
                 ""
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Number of employees",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "up to 9 persons",
-                "10–49 persons",
-                "50–249 persons",
-                "250 persons or more",
-                ""
-              ]
-            },
-            "title": "Number of employees"
           },
           {
             "name": "Value",

@@ -96,7 +96,7 @@ m_trans,5,25
 Mode of transport,1,2
 Number of employees,1,4
 Object,1,10
-Organisation and legal forms,2,86
+Organisation and legal forms,2,83
 Organization,1,4
 Pollutants,1,10
 PopulationGroup,1,2
@@ -104,7 +104,7 @@ Production and technological costs,1,2
 Products,1,3
 Reason of disability,1,2
 reasons_ land,1,1
-Region,77,34
+Region,77,35
 Res_inten,1,5
 Resource,1,3
 School type,4,13
