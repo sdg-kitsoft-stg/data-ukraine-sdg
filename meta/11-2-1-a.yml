@@ -4,6 +4,10 @@ SDG_INDICATOR: 11.2.1 Share of regions that have approved and implemented region
 UNIT_MEASURE: Percentage (%), number of regions
 CONTACT_ORGANISATION: Ministry for Communities and Territories Development of Ukraine (MСTD)
 
+footer_fields:
+  - label: "2020 indicator target"
+    value: '100% (25 regions)'
+
 indicator_number: 11.2.1
 target_number: 11.2
 goal_number: 11
