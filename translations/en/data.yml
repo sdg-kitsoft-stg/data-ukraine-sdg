@@ -3078,7 +3078,7 @@ barley: barley
 wheat: wheat
 reasons_ land: Reasons of land returned to cultivation
 reasons_1: reasons
-centralized: centralized water supply
+centralized: centralized
 SupplyType_1: Methods of supplying drinking water
 Centralized_1: centralized water supply
 Non-centralized_1: non-centralized water supply
