@@ -621,13 +621,13 @@ law_office: Law office
 cooperative: Cooperative
 production_cooperative: Production cooperative
 serve_cooperative: Serve cooperative
-housing_construction_cooperativ: Housing construction cooperativ
-garage_cooperativ: Garage cooperativ
-consumer_cooperativ: Consumer cooperativ
+housing_construction_cooperativ: Housing construction cooperative
+garage_cooperativ: Garage cooperative
+consumer_cooperativ: Consumer cooperative
 consumer_partnership: Consumer partnership
-agriculture_and_production_cooperativ: Agriculture and production cooperativ
-agriculture_and_serve_cooperativ: Agriculture and serve cooperativ
-agriculture_cooperativ: Agriculture cooperativ
+agriculture_and_production_cooperativ: Agriculture and production cooperative
+agriculture_and_serve_cooperativ: Agriculture and serve cooperative
+agriculture_cooperativ: Agriculture cooperative
 organisation_establishment_institution: Organisation (establishment institution)
 authority_of_state_power_organization: Authority of state power organization (establishment institution)
 authority_of_state_power: Authority of state power
@@ -2308,7 +2308,7 @@ B105: manufacture of footwear
 B106: sawmilling and planing of wood
 B107: manufacture of veneer sheets and wood-based panels
 B108: manufacture of assembled parquet floors
-B109: manufacture of other builders\' carpentry and joinery
+B109: manufacture of other builders’ carpentry and joinery
 B110: manufacture of wooden containers
 B111: manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials
 B112: manufacture of pulp
@@ -2347,7 +2347,7 @@ B144: manufacture of rubber tyres and tubes; retreading and rebuilding of rubber
 B145: manufacture of other rubber products
 B146: manufacture of plastic plates, sheets, tubes and profiles
 B147: manufacture of plastic packing goods
-B148: manufacture of buildersТ ware of plastic
+B148: manufacture of builders’ ware of plastic
 B149: manufacture of other plastic products
 B150: manufacture of flat glass
 B151: shaping and processing of flat glass
@@ -3284,7 +3284,7 @@ A424_1: space transport
 '460': computer consultancy activities
 ']A500': advertising agencies
 joint-stock_company_1: Joint-stock company
-agriculture_and_serve_cooperativp: Agriculture and serve cooperativ
+agriculture_and_serve_cooperativp: Agriculture and serve cooperative
 branch: Branch (other separate subdivision)
 self-regulatory_organizations: Self-regulatory organizations
 Chamber_of_Commerce_and_Industry: Chamber of Commerce and Industry
@@ -3292,9 +3292,9 @@ Audit_Chamber_of_Ukraine: Audit Chamber of Ukraine
 Type of water supply: Type of water supply
 decentralized: decentralized
 
-Bgriculture_and_production_cooperativ: Agriculture and production cooperativ
-Bgriculture_and_serve_cooperativ: Agriculture and serve cooperativ
-Bgriculture_cooperativ: Agriculture cooperativ
+Bgriculture_and_production_cooperativ: Agriculture and production cooperative
+Bgriculture_and_serve_cooperativ: Agriculture and serve cooperative
+Bgriculture_cooperativ: Agriculture cooperative
 Buthority_of_state_power_organization: Communal (establishment, institution)
 Buthority_of_state_power: Authority of state power
 Buthority_of_municipality_power: Authority of municipality power
