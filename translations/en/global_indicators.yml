@@ -84,7 +84,7 @@
 5-5-1-title: Ratio of women to men in the Verkhovna Rada of Ukraine, percent
 5-5-2-title: Ratio of women to men elected as deputies of the Verkhovna Rada of the Autonomous Republic of Crimea, regional, district, city, district councils in cities, village, settlement councils, percent
 5-5-3-title: Ratio of women and men in the Cabinet of Ministers of Ukraine, percent
-5-5-4-title: Ratio of women to men in civil service positions of category "A", percent
+5-5-4-title: "Ratio of women to men in civil service positions of category 'A', percent"
 5-5-5-title: Ratio of women to men among Ukrainian ambassadors to foreign countries, percent
 5-5-6-title: Ratio of women to men among judges, percent
 5-5-7-title: Ratio of women to men among members of the highest governing authority of national non-Olympic sports organisations, percent
@@ -111,7 +111,7 @@ for radiation indicators: urban water supply, rural water supply, non-centralize
 6-2-2-title: Share of worn-out water drainage networks in the total length of water drainage grids, percent
 6-3-1-title: Volume of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into water bodies, million cubic meters
 6-3-2-title: Share of discharges of polluted (polluted without treatment and insufficiently treated) wastewater into water bodies in the total volume of discharges, percent
-6-3-3-title: Share of surface water bodies classified as having "good" ecological and chemical status, percent
+6-3-3-title: "Share of surface water bodies classified as having 'good' ecological and chemical status, percent"
 6-4-1-title: Water capacity of the gross domestic product, cubic metres of water used per UAH 1,000 of the gross domestic product (at current prices)
 6-4-2-title: Current water capacity of the gross domestic product compared to 2015, percent
 6-5-1-title: Number of river basins for which management plans have been approved, units
@@ -119,7 +119,7 @@ for radiation indicators: urban water supply, rural water supply, non-centralize
 7-1-1-title: Coverage ratio of electricity consumption by own production
 7-1-2-title: Coverage ratio of natural gas consumption by own production
 7-1-3-title: 'Maximum share of imports of energy resources from one country in the total volume of their imports in quantitative terms by type of energy resources, percent: anthracite coal (code according to UCGFEA 2701 11 00 00); motor gasolines (codes according to UCGFEA 2710 12 41 11–2710 12 49 99); diesel fuels (codes according to UCGFEA 2710 19 43 00–2710 19 48 00); liquefied petroleum gases (LPG) (codes according to UCGFEA 2711 12–2711 19 00 00); natural gas (code according to UCGFEA 2711 21 00 00); non-irradiated fuel elements (fuel rods) for nuclear reactors (code according to UCGFEA 8401 30 00 00)'
-7-2-1-title: Share of territorial communities covered by microgrid distribution systems based on "smart grids" in the total number of territorial communities, percent
+7-2-1-title: "Share of territorial communities covered by microgrid distribution systems based on 'smart grids' in the total number of territorial communities, percent"
 7-3-1-title: 'System average interruption duration index (SAIDI) in electricity supply due to the fault of companies (planned without warning interruptions and interruptions associated with technological disruptions in electricity supply) by type of area at voltage levels of 0.4–20 kilovolts, minutes: urban, rural'
 7-3-2-title: 'Indicators of technological costs in power grids: share of technological costs of electricity in power grids (from the selection volume), percent; share of technological costs of electricity in distribution power grids (from the selection volume), percent'
 7-3-3-title: Share of losses during district heating transportation, percent
@@ -210,9 +210,9 @@ for radiation indicators: urban water supply, rural water supply, non-centralize
 11-1-1-title: Share of families/citizens (total of all family members) who have benefited from housing programs in the total number of families/citizens in need of housing, percent
 11-1-2-title: Share of families/citizens (total of all family members) living in social housing in the total number of families/citizens in need of housing, percent
 11-1-3-title: Share of families/citizens (total of all family members) living in the housing stock for temporary residence in the total number of families/citizens in need of housing, percent
-11-1-4-title: Share of applicants who received compensation for housing damaged as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for damaged housing using the electronic public service "eRecovery", percent
-11-1-5-title: Share of applicants in respect of whom a positive decision was made to provide compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for destroyed housing using the electronic public service "eRecovery", percent
-11-1-6-title: Share of applicants who used the received compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants in respect of whom a positive decision was made to provide compensation for destroyed housing using the electronic public service "Recovery", percent
+11-1-4-title: "Share of applicants who received compensation for housing damaged as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for damaged housing using the electronic public service 'eRecovery', percent"
+11-1-5-title: "Share of applicants in respect of whom a positive decision was made to provide compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants who submitted an application for compensation for destroyed housing using the electronic public service 'eRecovery', percent"
+11-1-6-title: "Share of applicants who used the received compensation for housing destroyed as a result of the armed aggression of the Russian Federation against Ukraine in the total number of applicants in respect of whom a positive decision was made to provide compensation for destroyed housing using the electronic public service 'Recovery', percent"
 11-2-1-title: Average speed of public transport in regional centers, kilometers per hour
 11-2-2-title: Reducing in the number of persons killed or injured as a result of traffic accidents on public vehicles, compared to 2024, percent
 11-2-3-title: Share of electric buses and buses equipped with spark-ignition internal combustion engines, operating exclusively on compressed natural gas methane, liquefied natural gas methane or biogas and/or buses with a hydrogen fuel cell in the total number of buses on urban public bus routes, percent
