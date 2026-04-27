@@ -6464,7 +6464,7 @@
           }
         ]
       },
-      "title": "Ratio of women to men in civil service positions of category \"A\", percent"
+      "title": "Ratio of women to men in civil service positions of category 'A', percent"
     },
     {
       "path": "1-2-1/data.csv",
@@ -7401,7 +7401,7 @@
           }
         ]
       },
-      "title": "Share of territorial communities covered by microgrid distribution systems based on \"smart grids\" in the total number of territorial communities, percent"
+      "title": "Share of territorial communities covered by microgrid distribution systems based on 'smart grids' in the total number of territorial communities, percent"
     },
     {
       "path": "5-6-2/data.csv",
