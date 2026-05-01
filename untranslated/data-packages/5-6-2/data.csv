@@ -1,6 +1,6 @@
 Year,Type of economic activity,Organisation and legal forms,Region,Value
 2016,,,,
-2016,A01,,, 
+2016,A01,,,
 2016,A02,,,
 2016,A03,,,
 2016,A04,,,
@@ -670,7 +670,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2016,,organization_of_water_users,,
 2016,,commodity_exchange,,
 2016,,credit_union,,
-2016,,consumer_partnership,,
+2016,,consumer_partnership_2,,
 2016,,not_state_pension_fund,,
 2016,,political_party,,
 2016,,non-profit_organisation,,
@@ -1384,7 +1384,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2017,,organization_of_water_users,,
 2017,,commodity_exchange,,
 2017,,credit_union,,
-2017,,consumer_partnership,,
+2017,,consumer_partnership_2,,
 2017,,not_state_pension_fund,,
 2017,,political_party,,
 2017,,non-profit_organisation,,
@@ -2098,7 +2098,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2018,,organization_of_water_users,,
 2018,,commodity_exchange,,
 2018,,credit_union,,
-2018,,consumer_partnership,,
+2018,,consumer_partnership_2,,
 2018,,not_state_pension_fund,,
 2018,,political_party,,
 2018,,non-profit_organisation,,
@@ -2812,7 +2812,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2019,,organization_of_water_users,,
 2019,,commodity_exchange,,
 2019,,credit_union,,
-2019,,consumer_partnership,,
+2019,,consumer_partnership_2,,
 2019,,not_state_pension_fund,,
 2019,,political_party,,
 2019,,non-profit_organisation,,
@@ -3526,7 +3526,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2020,,organization_of_water_users,,
 2020,,commodity_exchange,,27.1
 2020,,credit_union,,40.6
-2020,,consumer_partnership,,51.7
+2020,,consumer_partnership_2,,51.7
 2020,,not_state_pension_fund,,28.4
 2020,,political_party,,22.7
 2020,,non-profit_organisation,,27.8
@@ -4240,7 +4240,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2021,,organization_of_water_users,,
 2021,,commodity_exchange,,26.4
 2021,,credit_union,,41.1
-2021,,consumer_partnership,,51.5
+2021,,consumer_partnership_2,,51.5
 2021,,not_state_pension_fund,,31.1
 2021,,political_party,,23.2
 2021,,non-profit_organisation,,28.1
@@ -4591,7 +4591,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2022,A305,,,15.1
 2022,A306,,,19.1
 2022,A307,,,15.8
-22,A308,,,16.6
+2022,A308,,,16.6
 2022,A309,,,13.0
 2022,A310,,,14.8
 2022,A311,,,15.6
@@ -4954,7 +4954,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2022,,organization_of_water_users,,
 2022,,commodity_exchange,,26.4
 2022,,credit_union,,40.7
-2022,,consumer_partnership,,50.0
+2022,,consumer_partnership_2,,50.0
 2022,,not_state_pension_fund,,30.1
 2022,,political_party,,23.1
 2022,,non-profit_organisation,,28.4
@@ -5668,7 +5668,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2023,,organization_of_water_users,,
 2023,,commodity_exchange,,26.3
 2023,,credit_union,,40.6
-2023,,consumer_partnership,,
+2023,,consumer_partnership_2,,
 2023,,not_state_pension_fund,,32.4
 2023,,political_party,,23.0
 2023,,non-profit_organisation,,28.7
@@ -6382,7 +6382,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2024,,organization_of_water_users,,
 2024,,commodity_exchange,,26.1
 2024,,credit_union,,41.1
-2024,,consumer_partnership,,
+2024,,consumer_partnership_2,,
 2024,,not_state_pension_fund,,42.3
 2024,,political_party,,23.0
 2024,,non-profit_organisation,,29.1
@@ -6663,7 +6663,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2025,A235,,,13.1
 2025,A236,,,16.4
 2025,A237,,,17.2
-25,A238,,,8.5
+2025,A238,,,8.5
 2025,A239,,,19.4
 2025,A240,,,15.5
 2025,A241,,,16.6
@@ -7096,7 +7096,7 @@ Year,Type of economic activity,Organisation and legal forms,Region,Value
 2025,,organization_of_water_users,,14.0
 2025,,commodity_exchange,,25.7
 2025,,credit_union,,41.5
-2025,,consumer_partnership,,
+2025,,consumer_partnership_2,,
 2025,,not_state_pension_fund,,42.3
 2025,,political_party,,23.2
 2025,,non-profit_organisation,,29.7

@@ -8103,6 +8103,7 @@
                 "Organization of water users",
                 "Commodity exchange",
                 "Credit union",
+                "Consumer partnership",
                 "Not state pension fund",
                 "Political party",
                 "Non-profit organisation",
@@ -8162,7 +8163,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

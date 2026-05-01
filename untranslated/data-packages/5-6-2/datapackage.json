@@ -698,6 +698,7 @@
                 "organization_of_water_users",
                 "commodity_exchange",
                 "credit_union",
+                "consumer_partnership_2",
                 "not_state_pension_fund",
                 "political_party",
                 "non-profit_organisation",
@@ -755,7 +756,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
