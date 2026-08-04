@@ -9,6 +9,7 @@ Year,Types of economic activity,Value
 2022,,
 2023,,
 2024,,
+2025,,
 2015,"Agriculture, forestry and fishing",103.0
 2016,"Agriculture, forestry and fishing",106.5
 2017,"Agriculture, forestry and fishing",97.7
@@ -19,6 +20,7 @@ Year,Types of economic activity,Value
 2022,"Agriculture, forestry and fishing",
 2023,"Agriculture, forestry and fishing",
 2024,"Agriculture, forestry and fishing",
+2025,"Agriculture, forestry and fishing",
 2015,Industry,96.2
 2016,Industry,104.6
 2017,Industry,100.7
@@ -29,6 +31,7 @@ Year,Types of economic activity,Value
 2022,Industry,
 2023,Industry,
 2024,Industry,
+2025,Industry,
 2015,Construction,94.9
 2016,Construction,114.6
 2017,Construction,125.7
@@ -39,6 +42,7 @@ Year,Types of economic activity,Value
 2022,Construction,
 2023,Construction,
 2024,Construction,
+2025,Construction,
 2015,Wholesale and retail trade; repair of motor vehicles and motorcycles,95.4
 2016,Wholesale and retail trade; repair of motor vehicles and motorcycles,104.1
 2017,Wholesale and retail trade; repair of motor vehicles and motorcycles,102.1
@@ -49,6 +53,7 @@ Year,Types of economic activity,Value
 2022,Wholesale and retail trade; repair of motor vehicles and motorcycles,
 2023,Wholesale and retail trade; repair of motor vehicles and motorcycles,
 2024,Wholesale and retail trade; repair of motor vehicles and motorcycles,
+2025,Wholesale and retail trade; repair of motor vehicles and motorcycles,
 2015,Transportation and storage; postal and courier services,108.8
 2016,Transportation and storage; postal and courier services,103.2
 2017,Transportation and storage; postal and courier services,104.6
@@ -59,6 +64,7 @@ Year,Types of economic activity,Value
 2022,Transportation and storage; postal and courier services,
 2023,Transportation and storage; postal and courier services,
 2024,Transportation and storage; postal and courier services,
+2025,Transportation and storage; postal and courier services,
 2015,Accommodation and food service activities,113.9
 2016,Accommodation and food service activities,105.8
 2017,Accommodation and food service activities,104.4
@@ -69,6 +75,7 @@ Year,Types of economic activity,Value
 2022,Accommodation and food service activities,
 2023,Accommodation and food service activities,
 2024,Accommodation and food service activities,
+2025,Accommodation and food service activities,
 2015,Information and telecommunications,104.0
 2016,Information and telecommunications,105.6
 2017,Information and telecommunications,108.8
@@ -79,6 +86,7 @@ Year,Types of economic activity,Value
 2022,Information and telecommunications,
 2023,Information and telecommunications,
 2024,Information and telecommunications,
+2025,Information and telecommunications,
 2015,Financial and insurance activities,92.9
 2016,Financial and insurance activities,97.8
 2017,Financial and insurance activities,126.9
@@ -89,6 +97,7 @@ Year,Types of economic activity,Value
 2022,Financial and insurance activities,
 2023,Financial and insurance activities,
 2024,Financial and insurance activities,
+2025,Financial and insurance activities,
 2015,Real estate activities,110.3
 2016,Real estate activities,107.3
 2017,Real estate activities,103.2
@@ -99,6 +108,7 @@ Year,Types of economic activity,Value
 2022,Real estate activities,
 2023,Real estate activities,
 2024,Real estate activities,
+2025,Real estate activities,
 2015,"Professional, scientific and technical activities",94.0
 2016,"Professional, scientific and technical activities",103.7
 2017,"Professional, scientific and technical activities",108.9
@@ -109,6 +119,7 @@ Year,Types of economic activity,Value
 2022,"Professional, scientific and technical activities",
 2023,"Professional, scientific and technical activities",
 2024,"Professional, scientific and technical activities",
+2025,"Professional, scientific and technical activities",
 2015,Administrative and support service activities,109.1
 2016,Administrative and support service activities,106.6
 2017,Administrative and support service activities,102.8
@@ -119,6 +130,7 @@ Year,Types of economic activity,Value
 2022,Administrative and support service activities,
 2023,Administrative and support service activities,
 2024,Administrative and support service activities,
+2025,Administrative and support service activities,
 2015,Public administration and defence; compulsory social security,101.0
 2016,Public administration and defence; compulsory social security,101.1
 2017,Public administration and defence; compulsory social security,93.8
@@ -129,6 +141,7 @@ Year,Types of economic activity,Value
 2022,Public administration and defence; compulsory social security,
 2023,Public administration and defence; compulsory social security,
 2024,Public administration and defence; compulsory social security,
+2025,Public administration and defence; compulsory social security,
 2015,Education,102.8
 2016,Education,99.2
 2017,Education,102.4
@@ -139,6 +152,7 @@ Year,Types of economic activity,Value
 2022,Education,
 2023,Education,
 2024,Education,
+2025,Education,
 2015,Human health and social work activities,109.8
 2016,Human health and social work activities,97.9
 2017,Human health and social work activities,101.5
@@ -149,6 +163,7 @@ Year,Types of economic activity,Value
 2022,Human health and social work activities,
 2023,Human health and social work activities,
 2024,Human health and social work activities,
+2025,Human health and social work activities,
 2015,"Arts, sports, entertainment and recreation",92.6
 2016,"Arts, sports, entertainment and recreation",101.4
 2017,"Arts, sports, entertainment and recreation",101.6
@@ -159,6 +174,7 @@ Year,Types of economic activity,Value
 2022,"Arts, sports, entertainment and recreation",
 2023,"Arts, sports, entertainment and recreation",
 2024,"Arts, sports, entertainment and recreation",
+2025,"Arts, sports, entertainment and recreation",
 2015,Other economic activities,110.3
 2016,Other economic activities,102.9
 2017,Other economic activities,106.0
@@ -169,3 +185,4 @@ Year,Types of economic activity,Value
 2022,Other economic activities,
 2023,Other economic activities,
 2024,Other economic activities,
+2025,Other economic activities,

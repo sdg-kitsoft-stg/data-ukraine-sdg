@@ -247,10 +247,10 @@ Year,Region,Category,Value
 2019,Kyiv,by local automated centralized warning systems,
 2019,Kirovohrad,by territorial automated centralized warning systems,
 2019,Kirovohrad,by local automated centralized warning systems,
-2019,Luhansk,by territorial automated centralized warning systems,100.0
-2019,Luhansk,by local automated centralized warning systems,1.25
-2019,Lviv,by territorial automated centralized warning systems,
-2019,Lviv,by local automated centralized warning systems,
+2019,Luhansk,by territorial automated centralized warning systems,
+2019,Luhansk,by local automated centralized warning systems,
+2019,Lviv,by territorial automated centralized warning systems,100.0
+2019,Lviv,by local automated centralized warning systems,1.3
 2019,Mykolayiv,by territorial automated centralized warning systems,
 2019,Mykolayiv,by local automated centralized warning systems,
 2019,Odesa,by territorial automated centralized warning systems,
@@ -303,10 +303,10 @@ Year,Region,Category,Value
 2020,Kyiv,by local automated centralized warning systems,
 2020,Kirovohrad,by territorial automated centralized warning systems,
 2020,Kirovohrad,by local automated centralized warning systems,
-2020,Luhansk,by territorial automated centralized warning systems,100.0
-2020,Luhansk,by local automated centralized warning systems,56.2
-2020,Lviv,by territorial automated centralized warning systems,
-2020,Lviv,by local automated centralized warning systems,2.7
+2020,Luhansk,by territorial automated centralized warning systems,
+2020,Luhansk,by local automated centralized warning systems,2.7
+2020,Lviv,by territorial automated centralized warning systems,100.0
+2020,Lviv,by local automated centralized warning systems,56.2
 2020,Mykolayiv,by territorial automated centralized warning systems,
 2020,Mykolayiv,by local automated centralized warning systems,3.8
 2020,Odesa,by territorial automated centralized warning systems,
@@ -359,10 +359,10 @@ Year,Region,Category,Value
 2021,Kyiv,by local automated centralized warning systems,
 2021,Kirovohrad,by territorial automated centralized warning systems,
 2021,Kirovohrad,by local automated centralized warning systems,
-2021,Luhansk,by territorial automated centralized warning systems,100.0
-2021,Luhansk,by local automated centralized warning systems,70.0
-2021,Lviv,by territorial automated centralized warning systems,
-2021,Lviv,by local automated centralized warning systems,2.7
+2021,Luhansk,by territorial automated centralized warning systems,
+2021,Luhansk,by local automated centralized warning systems,2.7
+2021,Lviv,by territorial automated centralized warning systems,100.0
+2021,Lviv,by local automated centralized warning systems,70.0
 2021,Mykolayiv,by territorial automated centralized warning systems,
 2021,Mykolayiv,by local automated centralized warning systems,3.8
 2021,Odesa,by territorial automated centralized warning systems,
@@ -415,10 +415,10 @@ Year,Region,Category,Value
 2022,Kyiv,by local automated centralized warning systems,24.6
 2022,Kirovohrad,by territorial automated centralized warning systems,
 2022,Kirovohrad,by local automated centralized warning systems,
-2022,Luhansk,by territorial automated centralized warning systems,100.0
-2022,Luhansk,by local automated centralized warning systems,100.0
-2022,Lviv,by territorial automated centralized warning systems,
-2022,Lviv,by local automated centralized warning systems,
+2022,Luhansk,by territorial automated centralized warning systems,
+2022,Luhansk,by local automated centralized warning systems,
+2022,Lviv,by territorial automated centralized warning systems,100.0
+2022,Lviv,by local automated centralized warning systems,100.0
 2022,Mykolayiv,by territorial automated centralized warning systems,
 2022,Mykolayiv,by local automated centralized warning systems,3.8
 2022,Odesa,by territorial automated centralized warning systems,
@@ -471,10 +471,10 @@ Year,Region,Category,Value
 2023,Kyiv,by local automated centralized warning systems,34.8
 2023,Kirovohrad,by territorial automated centralized warning systems,
 2023,Kirovohrad,by local automated centralized warning systems,
-2023,Luhansk,by territorial automated centralized warning systems,100.0
-2023,Luhansk,by local automated centralized warning systems,100.0
-2023,Lviv,by territorial automated centralized warning systems,
-2023,Lviv,by local automated centralized warning systems,
+2023,Luhansk,by territorial automated centralized warning systems,
+2023,Luhansk,by local automated centralized warning systems,
+2023,Lviv,by territorial automated centralized warning systems,100.0
+2023,Lviv,by local automated centralized warning systems,100.0
 2023,Mykolayiv,by territorial automated centralized warning systems,
 2023,Mykolayiv,by local automated centralized warning systems,3.8
 2023,Odesa,by territorial automated centralized warning systems,
@@ -527,10 +527,10 @@ Year,Region,Category,Value
 2024,Kyiv,by local automated centralized warning systems,18.8
 2024,Kirovohrad,by territorial automated centralized warning systems,
 2024,Kirovohrad,by local automated centralized warning systems,
-2024,Luhansk,by territorial automated centralized warning systems,100.0
-2024,Luhansk,by local automated centralized warning systems,100.0
-2024,Lviv,by territorial automated centralized warning systems,
-2024,Lviv,by local automated centralized warning systems,
+2024,Luhansk,by territorial automated centralized warning systems,
+2024,Luhansk,by local automated centralized warning systems,
+2024,Lviv,by territorial automated centralized warning systems,100.0
+2024,Lviv,by local automated centralized warning systems,100.0
 2024,Mykolayiv,by territorial automated centralized warning systems,
 2024,Mykolayiv,by local automated centralized warning systems,3.8
 2024,Odesa,by territorial automated centralized warning systems,
@@ -559,3 +559,59 @@ Year,Region,Category,Value
 2024,city Kyiv,by local automated centralized warning systems,
 2024,city Sevastopol,by territorial automated centralized warning systems,
 2024,city Sevastopol,by local automated centralized warning systems,
+2025,,by territorial automated centralized warning systems,32.0
+2025,,by local automated centralized warning systems,12.2
+2025,Autonomous Republic of Crimea,by territorial automated centralized warning systems,
+2025,Autonomous Republic of Crimea,by local automated centralized warning systems,
+2025,Vinnytsya,by territorial automated centralized warning systems,
+2025,Vinnytsya,by local automated centralized warning systems,1.6
+2025,Volyn,by territorial automated centralized warning systems,100.0
+2025,Volyn,by local automated centralized warning systems,
+2025,Dnipropetrovsk,by territorial automated centralized warning systems,
+2025,Dnipropetrovsk,by local automated centralized warning systems,9.3
+2025,Donetsk,by territorial automated centralized warning systems,
+2025,Donetsk,by local automated centralized warning systems,6.7
+2025,Zhytomyr,by territorial automated centralized warning systems,
+2025,Zhytomyr,by local automated centralized warning systems,
+2025,Zakarpattya,by territorial automated centralized warning systems,100.0
+2025,Zakarpattya,by local automated centralized warning systems,
+2025,Zaporizhzhya,by territorial automated centralized warning systems,
+2025,Zaporizhzhya,by local automated centralized warning systems,
+2025,Ivano-Frankivsk,by territorial automated centralized warning systems,
+2025,Ivano-Frankivsk,by local automated centralized warning systems,
+2025,Kyiv,by territorial automated centralized warning systems,
+2025,Kyiv,by local automated centralized warning systems,30.4
+2025,Kirovohrad,by territorial automated centralized warning systems,
+2025,Kirovohrad,by local automated centralized warning systems,
+2025,Luhansk,by territorial automated centralized warning systems,
+2025,Luhansk,by local automated centralized warning systems,
+2025,Lviv,by territorial automated centralized warning systems,100.0
+2025,Lviv,by local automated centralized warning systems,100.0
+2025,Mykolayiv,by territorial automated centralized warning systems,
+2025,Mykolayiv,by local automated centralized warning systems,3.8
+2025,Odesa,by territorial automated centralized warning systems,
+2025,Odesa,by local automated centralized warning systems,
+2025,Poltava,by territorial automated centralized warning systems,100.0
+2025,Poltava,by local automated centralized warning systems,1.7
+2025,Rivne,by territorial automated centralized warning systems,100.0
+2025,Rivne,by local automated centralized warning systems,26.5
+2025,Sumy,by territorial automated centralized warning systems,100.0
+2025,Sumy,by local automated centralized warning systems,2.0
+2025,Ternopil,by territorial automated centralized warning systems,100.0
+2025,Ternopil,by local automated centralized warning systems,12.7
+2025,Kharkiv,by territorial automated centralized warning systems,
+2025,Kharkiv,by local automated centralized warning systems,1.8
+2025,Kherson,by territorial automated centralized warning systems,
+2025,Kherson,by local automated centralized warning systems,100.0
+2025,Khmelnytskiy,by territorial automated centralized warning systems,
+2025,Khmelnytskiy,by local automated centralized warning systems,3.3
+2025,Cherkasy,by territorial automated centralized warning systems,
+2025,Cherkasy,by local automated centralized warning systems,
+2025,Chernivtsi,by territorial automated centralized warning systems,
+2025,Chernivtsi,by local automated centralized warning systems,
+2025,Chernihiv,by territorial automated centralized warning systems,100.0
+2025,Chernihiv,by local automated centralized warning systems,10.5
+2025,city Kyiv,by territorial automated centralized warning systems,
+2025,city Kyiv,by local automated centralized warning systems,
+2025,city Sevastopol,by territorial automated centralized warning systems,
+2025,city Sevastopol,by local automated centralized warning systems,

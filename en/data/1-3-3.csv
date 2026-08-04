@@ -9,6 +9,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,,,
 2023,,,,
 2024,,,,
+2025,,,,
 2015,urban,,,53.5
 2016,urban,,,50.3
 2017,urban,,,48.7
@@ -19,6 +20,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,urban,,,
 2023,urban,,,
 2024,urban,,,
+2025,urban,,,
 2015,rural,,,57.2
 2016,rural,,,53.9
 2017,rural,,,51.7
@@ -29,6 +31,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,rural,,,
 2023,rural,,,
 2024,rural,,,
+2025,rural,,,
 2015,,1st group (low income),,63.0
 2016,,1st group (low income),,59.2
 2017,,1st group (low income),,59.6
@@ -39,6 +42,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,1st group (low income),,
 2023,,1st group (low income),,
 2024,,1st group (low income),,
+2025,,1st group (low income),,
 2015,,2nd group,,61.6
 2016,,2nd group,,57.7
 2017,,2nd group,,55.8
@@ -49,6 +53,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,2nd group,,
 2023,,2nd group,,
 2024,,2nd group,,
+2025,,2nd group,,
 2015,,3rd group,,59.4
 2016,,3rd group,,56.3
 2017,,3rd group,,53.7
@@ -59,6 +64,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,3rd group,,
 2023,,3rd group,,
 2024,,3rd group,,
+2025,,3rd group,,
 2015,,4th group,,57.2
 2016,,4th group,,55.9
 2017,,4th group,,52.7
@@ -69,6 +75,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,4th group,,
 2023,,4th group,,
 2024,,4th group,,
+2025,,4th group,,
 2015,,5th group,,58.8
 2016,,5th group,,54.0
 2017,,5th group,,51.6
@@ -79,6 +86,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,5th group,,
 2023,,5th group,,
 2024,,5th group,,
+2025,,5th group,,
 2015,,6th group,,56.2
 2016,,6th group,,53.2
 2017,,6th group,,51.0
@@ -89,6 +97,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,6th group,,
 2023,,6th group,,
 2024,,6th group,,
+2025,,6th group,,
 2015,,7th group,,55.9
 2016,,7th group,,48.8
 2017,,7th group,,52.0
@@ -99,6 +108,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,7th group,,
 2023,,7th group,,
 2024,,7th group,,
+2025,,7th group,,
 2015,,8th group,,53.4
 2016,,8th group,,49.6
 2017,,8th group,,48.9
@@ -109,6 +119,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,8th group,,
 2023,,8th group,,
 2024,,8th group,,
+2025,,8th group,,
 2015,,9th group,,51.7
 2016,,9th group,,48.5
 2017,,9th group,,45.9
@@ -119,6 +130,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,9th group,,
 2023,,9th group,,
 2024,,9th group,,
+2025,,9th group,,
 2015,,10th group (high income),,43.5
 2016,,10th group (high income),,43.0
 2017,,10th group (high income),,39.5
@@ -129,6 +141,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,10th group (high income),,
 2023,,10th group (high income),,
 2024,,10th group (high income),,
+2025,,10th group (high income),,
 2015,,,households with children,54.4
 2016,,,households with children,51.9
 2017,,,households with children,49.5
@@ -139,6 +152,7 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,,households with children,
 2023,,,households with children,
 2024,,,households with children,
+2025,,,households with children,
 2015,,,households without children,55.0
 2016,,,households without children,51.1
 2017,,,households without children,49.8
@@ -149,3 +163,4 @@ Year,Type of residence,Decile groups of income,Household type,Value
 2022,,,households without children,
 2023,,,households without children,
 2024,,,households without children,
+2025,,,households without children,

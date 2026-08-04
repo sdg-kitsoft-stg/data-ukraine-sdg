@@ -9,6 +9,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,,
 2023,,,,
 2024,,,,
+2025,,,,
 2015,total number,,,
 2016,total number,,,
 2017,total number,,,
@@ -19,6 +20,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,total number,,,
 2023,total number,,,
 2024,total number,,,22.0
+2025,total number,,,20.0
 2015,fatality,,,
 2016,fatality,,,
 2017,fatality,,,
@@ -29,6 +31,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,fatality,,,
 2023,fatality,,,
 2024,fatality,,,3.0
+2025,fatality,,,2.0
 2015,,women,,
 2016,,women,,
 2017,,women,,
@@ -39,6 +42,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,women,,
 2023,,women,,
 2024,,women,,6.0
+2025,,women,,6.0
 2015,,men,,
 2016,,men,,
 2017,,men,,
@@ -49,6 +53,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,men,,
 2023,,men,,
 2024,,men,,16.0
+2025,,men,,14.0
 2015,,,Coal industry,
 2016,,,Coal industry,
 2017,,,Coal industry,
@@ -59,6 +64,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Coal industry,
 2023,,,Coal industry,
 2024,,,Coal industry,636.0
+2025,,,Coal industry,483.0
 2015,,,Mining and non-metallic industry,
 2016,,,Mining and non-metallic industry,
 2017,,,Mining and non-metallic industry,
@@ -69,6 +75,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Mining and non-metallic industry,
 2023,,,Mining and non-metallic industry,
 2024,,,Mining and non-metallic industry,39.0
+2025,,,Mining and non-metallic industry,45.0
 2015,,,Oil and gas extraction industry and geological exploration,
 2016,,,Oil and gas extraction industry and geological exploration,
 2017,,,Oil and gas extraction industry and geological exploration,
@@ -79,6 +86,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Oil and gas extraction industry and geological exploration,
 2023,,,Oil and gas extraction industry and geological exploration,
 2024,,,Oil and gas extraction industry and geological exploration,23.0
+2025,,,Oil and gas extraction industry and geological exploration,14.0
 2015,,,Energy,
 2016,,,Energy,
 2017,,,Energy,
@@ -89,6 +97,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Energy,
 2023,,,Energy,
 2024,,,Energy,35.0
+2025,,,Energy,27.0
 2015,,,Construction,
 2016,,,Construction,
 2017,,,Construction,
@@ -99,6 +108,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Construction,
 2023,,,Construction,
 2024,,,Construction,37.0
+2025,,,Construction,42.0
 2015,,,"Boiler inspection, lifting structures",
 2016,,,"Boiler inspection, lifting structures",
 2017,,,"Boiler inspection, lifting structures",
@@ -109,6 +119,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,"Boiler inspection, lifting structures",
 2023,,,"Boiler inspection, lifting structures",
 2024,,,"Boiler inspection, lifting structures",29.0
+2025,,,"Boiler inspection, lifting structures",9.0
 2015,,,Mechanical engineering,
 2016,,,Mechanical engineering,
 2017,,,Mechanical engineering,
@@ -119,6 +130,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Mechanical engineering,
 2023,,,Mechanical engineering,
 2024,,,Mechanical engineering,32.0
+2025,,,Mechanical engineering,22.0
 2015,,,Metallurgical industry,
 2016,,,Metallurgical industry,
 2017,,,Metallurgical industry,
@@ -129,6 +141,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Metallurgical industry,
 2023,,,Metallurgical industry,
 2024,,,Metallurgical industry,57.0
+2025,,,Metallurgical industry,50.0
 2015,,,Chemical industry,
 2016,,,Chemical industry,
 2017,,,Chemical industry,
@@ -139,6 +152,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Chemical industry,
 2023,,,Chemical industry,
 2024,,,Chemical industry,38.0
+2025,,,Chemical industry,24.0
 2015,,,Transport,
 2016,,,Transport,
 2017,,,Transport,
@@ -149,6 +163,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Transport,
 2023,,,Transport,
 2024,,,Transport,35.0
+2025,,,Transport,35.0
 2015,,,Communications,
 2016,,,Communications,
 2017,,,Communications,
@@ -159,6 +174,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Communications,
 2023,,,Communications,
 2024,,,Communications,39.0
+2025,,,Communications,39.0
 2015,,,Gas industry,
 2016,,,Gas industry,
 2017,,,Gas industry,
@@ -169,6 +185,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Gas industry,
 2023,,,Gas industry,
 2024,,,Gas industry,19.0
+2025,,,Gas industry,11.0
 2015,,,Housing and communal economy,
 2016,,,Housing and communal economy,
 2017,,,Housing and communal economy,
@@ -179,6 +196,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Housing and communal economy,
 2023,,,Housing and communal economy,
 2024,,,Housing and communal economy,22.0
+2025,,,Housing and communal economy,16.0
 2015,,,Agro-industrial complex,
 2016,,,Agro-industrial complex,
 2017,,,Agro-industrial complex,
@@ -189,6 +207,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Agro-industrial complex,
 2023,,,Agro-industrial complex,
 2024,,,Agro-industrial complex,19.0
+2025,,,Agro-industrial complex,15.0
 2015,,,Woodworking industry,
 2016,,,Woodworking industry,
 2017,,,Woodworking industry,
@@ -199,6 +218,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Woodworking industry,
 2023,,,Woodworking industry,
 2024,,,Woodworking industry,30.0
+2025,,,Woodworking industry,17.0
 2015,,,Light and textile industry,
 2016,,,Light and textile industry,
 2017,,,Light and textile industry,
@@ -209,6 +229,7 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Light and textile industry,
 2023,,,Light and textile industry,
 2024,,,Light and textile industry,10.0
+2025,,,Light and textile industry,9.0
 2015,,,Socio-cultural sphere and trade,
 2016,,,Socio-cultural sphere and trade,
 2017,,,Socio-cultural sphere and trade,
@@ -219,3 +240,4 @@ Year,Total number and fatality,Sex,Types of economic activity,Value
 2022,,,Socio-cultural sphere and trade,
 2023,,,Socio-cultural sphere and trade,
 2024,,,Socio-cultural sphere and trade,12.0
+2025,,,Socio-cultural sphere and trade,12.0

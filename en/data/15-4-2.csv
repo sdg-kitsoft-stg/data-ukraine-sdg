@@ -8,7 +8,8 @@ Year,Mountainous region,Value
 2021,,1.17
 2022,,1.18
 2023,,1.19
-2024,,1.14
+2024,,1.18
+2025,,1.17
 2015,Zakarpattya region,0.3
 2016,Zakarpattya region,0.3
 2017,Zakarpattya region,0.3
@@ -19,6 +20,7 @@ Year,Mountainous region,Value
 2022,Zakarpattya region,0.34
 2023,Zakarpattya region,0.34
 2024,Zakarpattya region,0.34
+2025,Zakarpattya region,0.34
 2015,Ivano-Frankivsk region,0.36
 2016,Ivano-Frankivsk region,0.36
 2017,Ivano-Frankivsk region,0.36
@@ -28,7 +30,8 @@ Year,Mountainous region,Value
 2021,Ivano-Frankivsk region,0.37
 2022,Ivano-Frankivsk region,0.37
 2023,Ivano-Frankivsk region,0.38
-2024,Ivano-Frankivsk region,0.34
+2024,Ivano-Frankivsk region,0.38
+2025,Ivano-Frankivsk region,0.38
 2015,Lviv region,0.26
 2016,Lviv region,0.26
 2017,Lviv region,0.26
@@ -39,6 +42,7 @@ Year,Mountainous region,Value
 2022,Lviv region,0.29
 2023,Lviv region,0.29
 2024,Lviv region,0.29
+2025,Lviv region,0.28
 2015,Chernivtsi region,0.17
 2016,Chernivtsi region,0.17
 2017,Chernivtsi region,0.17
@@ -49,3 +53,4 @@ Year,Mountainous region,Value
 2022,Chernivtsi region,0.17
 2023,Chernivtsi region,0.17
 2024,Chernivtsi region,0.17
+2025,Chernivtsi region,0.17

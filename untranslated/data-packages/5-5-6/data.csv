@@ -99,3 +99,13 @@ Year,CourtLevel,Sex,Value
 2024,higher_specialized_courts,males_1,63.2
 2024,supreme_court,females_1,38.6
 2024,supreme_court,males_1,61.4
+2025,,females_1,53.5
+2025,,males_1,46.5
+2025,local_courts,females_1,54.6
+2025,local_courts,males_1,45.4
+2025,appellate_courts,females_1,51.4
+2025,appellate_courts,males_1,48.6
+2025,higher_specialized_courts,females_1,40.0
+2025,higher_specialized_courts,males_1,60.0
+2025,supreme_court,females_1,38.8
+2025,supreme_court,males_1,61.2

@@ -45,6 +45,9 @@
                 "freedom from discrimination in the media",
                 "freedom from discrimination in the field of advertising",
                 "freedom from discrimination in the field of advertising for vacancies (recruitment)",
+                "freedom from discrimination in the field of culture",
+                "freedom from discrimination in private relations",
+                "freedom from discrimination in public and political life",
                 ""
               ]
             },
@@ -57,6 +60,7 @@
               "enum": [
                 "women",
                 "men",
+                "not specified / not determined",
                 ""
               ]
             },

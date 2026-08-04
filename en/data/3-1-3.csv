@@ -9,6 +9,7 @@ Year,Type of residence,Value
 2022,,
 2023,,
 2024,,
+2025,,
 2015,urban,3.7
 2016,urban,4.0
 2017,urban,3.8
@@ -19,6 +20,7 @@ Year,Type of residence,Value
 2022,urban,
 2023,urban,
 2024,urban,
+2025,urban,
 2015,rural,3.9
 2016,rural,4.6
 2017,rural,3.8
@@ -29,3 +31,4 @@ Year,Type of residence,Value
 2022,rural,
 2023,rural,
 2024,rural,
+2025,rural,

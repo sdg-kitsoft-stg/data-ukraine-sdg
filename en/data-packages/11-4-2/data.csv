@@ -9,6 +9,7 @@ Year,Types of shelters,Value
 2022,,35.0
 2023,,45.0
 2024,,50.6
+2025,,50.3
 2015,storages,2.0
 2016,storages,2.0
 2017,storages,2.0
@@ -19,6 +20,7 @@ Year,Types of shelters,Value
 2022,storages,2.0
 2023,storages,2.0
 2024,storages,2.0
+2025,storages,2.0
 2015,anti-radiation shelters,8.0
 2016,anti-radiation shelters,8.0
 2017,anti-radiation shelters,8.0
@@ -29,6 +31,7 @@ Year,Types of shelters,Value
 2022,anti-radiation shelters,8.0
 2023,anti-radiation shelters,8.0
 2024,anti-radiation shelters,8.0
+2025,anti-radiation shelters,8.0
 2015,dual-use structures,
 2016,dual-use structures,
 2017,dual-use structures,
@@ -39,6 +42,7 @@ Year,Types of shelters,Value
 2022,dual-use structures,1.0
 2023,dual-use structures,1.0
 2024,dual-use structures,1.0
+2025,dual-use structures,1.0
 2015,simplest shelters,
 2016,simplest shelters,
 2017,simplest shelters,
@@ -49,3 +53,4 @@ Year,Types of shelters,Value
 2022,simplest shelters,24.0
 2023,simplest shelters,34.0
 2024,simplest shelters,39.6
+2025,simplest shelters,39.3

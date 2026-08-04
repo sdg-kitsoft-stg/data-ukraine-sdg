@@ -9,6 +9,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,,,,0.73
 2023,,,,,0.49
 2024,,,,,1.04
+2025,,,,,1.38
 2015,direct discrimination,,,,
 2016,direct discrimination,,,,
 2017,direct discrimination,,,,
@@ -19,6 +20,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,direct discrimination,,,,
 2023,direct discrimination,,,,5.0
 2024,direct discrimination,,,,2.0
+2025,direct discrimination,,,,56.0
 2015,indirect discrimination,,,,
 2016,indirect discrimination,,,,
 2017,indirect discrimination,,,,
@@ -29,6 +31,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,indirect discrimination,,,,
 2023,indirect discrimination,,,,1.0
 2024,indirect discrimination,,,,
+2025,indirect discrimination,,,,13.0
 2015,incitement to discrimination,,,,
 2016,incitement to discrimination,,,,
 2017,incitement to discrimination,,,,
@@ -39,6 +42,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,incitement to discrimination,,,,
 2023,incitement to discrimination,,,,
 2024,incitement to discrimination,,,,1.0
+2025,incitement to discrimination,,,,10.0
 2015,complicity in discrimination,,,,
 2016,complicity in discrimination,,,,
 2017,complicity in discrimination,,,,
@@ -49,6 +53,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,complicity in discrimination,,,,
 2023,complicity in discrimination,,,,
 2024,complicity in discrimination,,,,
+2025,complicity in discrimination,,,,1.0
 2015,oppression,,,,
 2016,oppression,,,,
 2017,oppression,,,,
@@ -59,6 +64,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,oppression,,,,
 2023,oppression,,,,26.0
 2024,oppression,,,,8.0
+2025,oppression,,,,20.0
 2015,,freedom from discrimination in the field of social protection,,,
 2016,,freedom from discrimination in the field of social protection,,,
 2017,,freedom from discrimination in the field of social protection,,,
@@ -69,6 +75,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of social protection,,,
 2023,,freedom from discrimination in the field of social protection,,,8.0
 2024,,freedom from discrimination in the field of social protection,,,26.0
+2025,,freedom from discrimination in the field of social protection,,,30.0
 2015,,freedom from discrimination in the field of education,,,
 2016,,freedom from discrimination in the field of education,,,
 2017,,freedom from discrimination in the field of education,,,
@@ -79,6 +86,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of education,,,
 2023,,freedom from discrimination in the field of education,,,9.0
 2024,,freedom from discrimination in the field of education,,,92.0
+2025,,freedom from discrimination in the field of education,,,58.0
 2015,,freedom from discrimination in the field of service provision,,,
 2016,,freedom from discrimination in the field of service provision,,,
 2017,,freedom from discrimination in the field of service provision,,,
@@ -89,6 +97,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of service provision,,,
 2023,,freedom from discrimination in the field of service provision,,,
 2024,,freedom from discrimination in the field of service provision,,,26.0
+2025,,freedom from discrimination in the field of service provision,,,62.0
 2015,,freedom from discrimination in the field of access to justice,,,
 2016,,freedom from discrimination in the field of access to justice,,,
 2017,,freedom from discrimination in the field of access to justice,,,
@@ -99,6 +108,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of access to justice,,,
 2023,,freedom from discrimination in the field of access to justice,,,10.0
 2024,,freedom from discrimination in the field of access to justice,,,24.0
+2025,,freedom from discrimination in the field of access to justice,,,24.0
 2015,,freedom from discrimination in the field of health care,,,
 2016,,freedom from discrimination in the field of health care,,,
 2017,,freedom from discrimination in the field of health care,,,
@@ -109,6 +119,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of health care,,,
 2023,,freedom from discrimination in the field of health care,,,5.0
 2024,,freedom from discrimination in the field of health care,,,12.0
+2025,,freedom from discrimination in the field of health care,,,23.0
 2015,,"freedom from discrimination in the field of labor, employment",,,
 2016,,"freedom from discrimination in the field of labor, employment",,,
 2017,,"freedom from discrimination in the field of labor, employment",,,
@@ -119,6 +130,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,"freedom from discrimination in the field of labor, employment",,,34.0
 2023,,"freedom from discrimination in the field of labor, employment",,,
 2024,,"freedom from discrimination in the field of labor, employment",,,39.0
+2025,,"freedom from discrimination in the field of labor, employment",,,98.0
 2015,,freedom from discrimination in the field of sports,,,
 2016,,freedom from discrimination in the field of sports,,,
 2017,,freedom from discrimination in the field of sports,,,
@@ -129,6 +141,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of sports,,,
 2023,,freedom from discrimination in the field of sports,,,
 2024,,freedom from discrimination in the field of sports,,,1.0
+2025,,freedom from discrimination in the field of sports,,,5.0
 2015,,freedom from discrimination in the media,,,
 2016,,freedom from discrimination in the media,,,
 2017,,freedom from discrimination in the media,,,
@@ -139,6 +152,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the media,,,
 2023,,freedom from discrimination in the media,,,
 2024,,freedom from discrimination in the media,,,3.0
+2025,,freedom from discrimination in the media,,,9.0
 2015,,freedom from discrimination in the field of advertising,,,
 2016,,freedom from discrimination in the field of advertising,,,
 2017,,freedom from discrimination in the field of advertising,,,
@@ -149,6 +163,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of advertising,,,
 2023,,freedom from discrimination in the field of advertising,,,3.0
 2024,,freedom from discrimination in the field of advertising,,,20.0
+2025,,freedom from discrimination in the field of advertising,,,13.0
 2015,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,
 2016,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,
 2017,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,
@@ -159,6 +174,40 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,
 2023,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,
 2024,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,3.0
+2025,,freedom from discrimination in the field of advertising for vacancies (recruitment),,,9.0
+2015,,freedom from discrimination in the field of culture,,,
+2016,,freedom from discrimination in the field of culture,,,
+2017,,freedom from discrimination in the field of culture,,,
+2018,,freedom from discrimination in the field of culture,,,
+2019,,freedom from discrimination in the field of culture,,,
+2020,,freedom from discrimination in the field of culture,,,
+2021,,freedom from discrimination in the field of culture,,,
+2022,,freedom from discrimination in the field of culture,,,
+2023,,freedom from discrimination in the field of culture,,,
+2024,,freedom from discrimination in the field of culture,,,
+2025,,freedom from discrimination in the field of culture,,,2.0
+2015,,freedom from discrimination in private relations,,,
+2016,,freedom from discrimination in private relations,,,
+2017,,freedom from discrimination in private relations,,,
+2018,,freedom from discrimination in private relations,,,
+2019,,freedom from discrimination in private relations,,,
+2020,,freedom from discrimination in private relations,,,
+2021,,freedom from discrimination in private relations,,,
+2022,,freedom from discrimination in private relations,,,
+2023,,freedom from discrimination in private relations,,,
+2024,,freedom from discrimination in private relations,,,
+2025,,freedom from discrimination in private relations,,,11.0
+2015,,freedom from discrimination in public and political life,,,
+2016,,freedom from discrimination in public and political life,,,
+2017,,freedom from discrimination in public and political life,,,
+2018,,freedom from discrimination in public and political life,,,
+2019,,freedom from discrimination in public and political life,,,
+2020,,freedom from discrimination in public and political life,,,
+2021,,freedom from discrimination in public and political life,,,
+2022,,freedom from discrimination in public and political life,,,
+2023,,freedom from discrimination in public and political life,,,
+2024,,freedom from discrimination in public and political life,,,
+2025,,freedom from discrimination in public and political life,,,8.0
 2015,,,women,,0.23
 2016,,,women,,0.16
 2017,,,women,,0.34
@@ -169,6 +218,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,,women,,0.26
 2023,,,women,,0.21
 2024,,,women,,0.42
+2025,,,women,,0.63
 2015,,,men,,0.32
 2016,,,men,,0.29
 2017,,,men,,1.7
@@ -179,6 +229,18 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,,men,,0.38
 2023,,,men,,0.27
 2024,,,men,,0.62
+2025,,,men,,0.97
+2015,,,not specified / not determined,,
+2016,,,not specified / not determined,,
+2017,,,not specified / not determined,,
+2018,,,not specified / not determined,,
+2019,,,not specified / not determined,,
+2020,,,not specified / not determined,,
+2021,,,not specified / not determined,,
+2022,,,not specified / not determined,,
+2023,,,not specified / not determined,,
+2024,,,not specified / not determined,,
+2025,,,not specified / not determined,,0.21
 2015,,,,urban,
 2016,,,,urban,
 2017,,,,urban,
@@ -189,6 +251,7 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,,,urban,
 2023,,,,urban,
 2024,,,,urban,
+2025,,,,urban,
 2015,,,,rural,
 2016,,,,rural,
 2017,,,,rural,
@@ -199,3 +262,4 @@ Year,Forms of discrimination,Spheres of public relations,Sex,Type of residence,V
 2022,,,,rural,
 2023,,,,rural,
 2024,,,,rural,
+2025,,,,rural,

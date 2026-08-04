@@ -167,7 +167,7 @@ Year,Region,Value
 2020,Chernihiv,
 2020,city Kyiv,
 2020,city Sevastopol,
-2021,Ukraine,4.4
+2021,Ukraine,4.2
 2021,Autonomous Republic of Crimea,
 2021,Vinnytsya,1.6
 2021,Volyn,1.5
@@ -195,7 +195,7 @@ Year,Region,Value
 2021,Chernihiv,12.9
 2021,city Kyiv,0.0
 2021,city Sevastopol,
-2022,Ukraine,8.5
+2022,Ukraine,8.2
 2022,Autonomous Republic of Crimea,
 2022,Vinnytsya,3.9
 2022,Volyn,11.8
@@ -223,7 +223,7 @@ Year,Region,Value
 2022,Chernihiv,17.4
 2022,city Kyiv,0.0
 2022,city Sevastopol,
-2023,Ukraine,16.8
+2023,Ukraine,16.2
 2023,Autonomous Republic of Crimea,
 2023,Vinnytsya,5.2
 2023,Volyn,26.4
@@ -251,7 +251,7 @@ Year,Region,Value
 2023,Chernihiv,36.2
 2023,city Kyiv,0.0
 2023,city Sevastopol,
-2024,Ukraine,20.1
+2024,Ukraine,19.4
 2024,Autonomous Republic of Crimea,
 2024,Vinnytsya,8.2
 2024,Volyn,33.5
@@ -279,3 +279,31 @@ Year,Region,Value
 2024,Chernihiv,56.7
 2024,city Kyiv,0.0
 2024,city Sevastopol,
+2025,Ukraine,20.5
+2025,Autonomous Republic of Crimea,
+2025,Vinnytsya,9.9
+2025,Volyn,41.2
+2025,Dnipropetrovsk,-22.7
+2025,Donetsk,-97.7
+2025,Zhytomyr,18.7
+2025,Zakarpattya,23.0
+2025,Zaporizhzhya,-23.9
+2025,Ivano-Frankivsk,38.7
+2025,Kyiv,64.0
+2025,Kirovohrad,12.2
+2025,Luhansk,
+2025,Lviv,59.4
+2025,Mykolayiv,2.8
+2025,Odesa,270.1
+2025,Poltava,0.4
+2025,Rivne,48.4
+2025,Sumy,10.1
+2025,Ternopil,-11.9
+2025,Kharkiv,73.0
+2025,Kherson,0.0
+2025,Khmelnytskiy,145.6
+2025,Cherkasy,14.0
+2025,Chernivtsi,128.0
+2025,Chernihiv,57.4
+2025,city Kyiv,0.0
+2025,city Sevastopol,

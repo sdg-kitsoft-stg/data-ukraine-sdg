@@ -1,4 +1,4 @@
-Year,Region,Age,Sex,Status of the subject of the appeal,Type of authority that formed the Center for the provision of administrative services,Value
+Year,Region,Age,Sex,Status of the subject of the appeal,Type of authority that formed the Center for the Provision of Administrative Services,Value
 2015,,14–18 years,,,,
 2015,,19–25 years,,,,
 2015,,26–35 years,,,,
@@ -419,3 +419,45 @@ Year,Region,Age,Sex,Status of the subject of the appeal,Type of authority that f
 2024,Chernihiv,,,,,99.2
 2024,city Kyiv,,,,,61.5
 2024,city Sevastopol,,,,,
+2025,,14–18 years,,,,98.7
+2025,,19–25 years,,,,98.4
+2025,,26–35 years,,,,98.3
+2025,,36–45 years,,,,98.7
+2025,,46–60 years,,,,98.9
+2025,,over 60 years,,,,98.9
+2025,,,women,,,98.6
+2025,,,men,,,98.7
+2025,,,,individual,,98.7
+2025,,,,individual entrepreneur,,98.3
+2025,,,,legal entitie,,98.9
+2025,,,,,city council,97.5
+2025,,,,,settlement council,99.2
+2025,,,,,village council,99.4
+2025,,,,,,98.2
+2025,Autonomous Republic of Crimea,,,,,
+2025,Vinnytsya,,,,,97.7
+2025,Volyn,,,,,99.3
+2025,Dnipropetrovsk,,,,,96.3
+2025,Donetsk,,,,,96.5
+2025,Zhytomyr,,,,,97.2
+2025,Zakarpattya,,,,,99.3
+2025,Zaporizhzhya,,,,,91.9
+2025,Ivano-Frankivsk,,,,,98.2
+2025,Kyiv,,,,,96.4
+2025,Kirovohrad,,,,,97.1
+2025,Luhansk,,,,,100.0
+2025,Lviv,,,,,98.4
+2025,Mykolayiv,,,,,78.7
+2025,Odesa,,,,,98.1
+2025,Poltava,,,,,99.5
+2025,Rivne,,,,,93.5
+2025,Sumy,,,,,98.2
+2025,Ternopil,,,,,97.8
+2025,Kharkiv,,,,,98.0
+2025,Kherson,,,,,98.3
+2025,Khmelnytskiy,,,,,99.7
+2025,Cherkasy,,,,,96.7
+2025,Chernivtsi,,,,,98.7
+2025,Chernihiv,,,,,96.9
+2025,city Kyiv,,,,,99.7
+2025,city Sevastopol,,,,,

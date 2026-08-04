@@ -1,11 +1,23 @@
-Year,Value
-2015,133.72
-2016,204.39
-2017,333.19
-2018,37.74
-2019,74.75
-2020,65.93
-2021,53.86
-2022,37.08
-2023,22.2
-2024,369.64
+Year,Volumes of registered issue,Value
+2015,"volume of registered issue of shares, corporate bonds",147.37
+2016,"volume of registered issue of shares, corporate bonds",221.88
+2017,"volume of registered issue of shares, corporate bonds",369.26
+2018,"volume of registered issue of shares, corporate bonds",39.74
+2019,"volume of registered issue of shares, corporate bonds",74.75
+2020,"volume of registered issue of shares, corporate bonds",65.93
+2021,"volume of registered issue of shares, corporate bonds",52.86
+2022,"volume of registered issue of shares, corporate bonds",37.64
+2023,"volume of registered issue of shares, corporate bonds",22.2
+2024,"volume of registered issue of shares, corporate bonds",369.64
+2025,"volume of registered issue of shares, corporate bonds",44.05
+2015,volume of registered issue of corporate bonds,
+2016,volume of registered issue of corporate bonds,
+2017,volume of registered issue of corporate bonds,
+2018,volume of registered issue of corporate bonds,
+2019,volume of registered issue of corporate bonds,
+2020,volume of registered issue of corporate bonds,0.09
+20215,volume of registered issue of corporate bonds,0.25
+2022,volume of registered issue of corporate bonds,0.06
+2023,volume of registered issue of corporate bonds,0.08
+2024,volume of registered issue of corporate bonds,0.17
+2025,volume of registered issue of corporate bonds,0.07

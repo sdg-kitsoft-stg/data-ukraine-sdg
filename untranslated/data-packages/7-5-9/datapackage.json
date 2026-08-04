@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "non_residential",
                 "residential",
+                "non_residential",
                 ""
               ]
             }

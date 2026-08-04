@@ -9,6 +9,7 @@ Year,Type of residence,School type,Value
 2022,,,4579.0
 2023,,,64322.0
 2024,,,77507.0
+2025,,,141829.0
 2015,urban,,
 2016,urban,,
 2017,urban,,
@@ -19,6 +20,7 @@ Year,Type of residence,School type,Value
 2022,urban,,3390.0
 2023,urban,,45631.0
 2024,urban,,60023.0
+2025,urban,,105654.0
 2015,rural,,
 2016,rural,,
 2017,rural,,
@@ -29,6 +31,7 @@ Year,Type of residence,School type,Value
 2022,rural,,1189.0
 2023,rural,,18691.0
 2024,rural,,17484.0
+2025,rural,,36175.0
 2015,,gsei,
 2016,,gsei,
 2017,,gsei,
@@ -39,6 +42,7 @@ Year,Type of residence,School type,Value
 2022,,gsei,4284.0
 2023,,gsei,60809.0
 2024,,gsei,71401.0
+2025,,gsei,132210.0
 2015,,pvtei,
 2016,,pvtei,
 2017,,pvtei,
@@ -49,6 +53,7 @@ Year,Type of residence,School type,Value
 2022,,pvtei,
 2023,,pvtei,2950.0
 2024,,pvtei,4032.0
+2025,,pvtei,6982.0
 2015,,ippte,
 2016,,ippte,
 2017,,ippte,
@@ -59,6 +64,7 @@ Year,Type of residence,School type,Value
 2022,,ippte,
 2023,,ippte,237.0
 2024,,ippte,1038.0
+2025,,ippte,1275.0
 2015,,other_2,
 2016,,other_2,
 2017,,other_2,
@@ -69,3 +75,4 @@ Year,Type of residence,School type,Value
 2022,,other_2,295.0
 2023,,other_2,326.0
 2024,,other_2,1036.0
+2025,,other_2,1362.0

@@ -12,7 +12,7 @@ Year,Region,Value
 2015,Kyiv,
 2015,Kirovohrad,
 2015,Luhansk,
-2015,Lviv,
+2015,Lviv,100.0
 2015,Mykolayiv,
 2015,Odesa,
 2015,Poltava,
@@ -40,7 +40,7 @@ Year,Region,Value
 2016,Kyiv,
 2016,Kirovohrad,
 2016,Luhansk,
-2016,Lviv,
+2016,Lviv,100.0
 2016,Mykolayiv,
 2016,Odesa,100.0
 2016,Poltava,
@@ -55,7 +55,7 @@ Year,Region,Value
 2016,Chernihiv,
 2016,city Kyiv,
 2016,city Sevastopol,
-2017,Ukraine,94.3
+2017,Ukraine,95.1
 2017,Autonomous Republic of Crimea,
 2017,Vinnytsya,91.0
 2017,Volyn,
@@ -68,7 +68,7 @@ Year,Region,Value
 2017,Kyiv,
 2017,Kirovohrad,
 2017,Luhansk,
-2017,Lviv,
+2017,Lviv,100.0
 2017,Mykolayiv,
 2017,Odesa,100.0
 2017,Poltava,
@@ -83,12 +83,12 @@ Year,Region,Value
 2017,Chernihiv,100.0
 2017,city Kyiv,
 2017,city Sevastopol,
-2018,Ukraine,81.6
+2018,Ukraine,79.6
 2018,Autonomous Republic of Crimea,
 2018,Vinnytsya,97.0
 2018,Volyn,
 2018,Dnipropetrovsk,
-2018,Donetsk,
+2018,Donetsk,48.0
 2018,Zhytomyr,
 2018,Zakarpattya,
 2018,Zaporizhzhya,
@@ -96,7 +96,7 @@ Year,Region,Value
 2018,Kyiv,
 2018,Kirovohrad,
 2018,Luhansk,
-2018,Lviv,
+2018,Lviv,100.0
 2018,Mykolayiv,
 2018,Odesa,100.0
 2018,Poltava,
@@ -108,15 +108,15 @@ Year,Region,Value
 2018,Khmelnytskiy,
 2018,Cherkasy,
 2018,Chernivtsi,
-2018,Chernihiv,11.0
+2018,Chernihiv,12.0
 2018,city Kyiv,
 2018,city Sevastopol,
-2019,Ukraine,95.7
+2019,Ukraine,100.0
 2019,Autonomous Republic of Crimea,
 2019,Vinnytsya,100.0
 2019,Volyn,
 2019,Dnipropetrovsk,
-2019,Donetsk,48.0
+2019,Donetsk,
 2019,Zhytomyr,
 2019,Zakarpattya,
 2019,Zaporizhzhya,
@@ -124,7 +124,7 @@ Year,Region,Value
 2019,Kyiv,100.0
 2019,Kirovohrad,
 2019,Luhansk,100.0
-2019,Lviv,
+2019,Lviv,100.0
 2019,Mykolayiv,
 2019,Odesa,100.0
 2019,Poltava,100.0
@@ -139,12 +139,12 @@ Year,Region,Value
 2019,Chernihiv,100.0
 2019,city Kyiv,
 2019,city Sevastopol,
-2020,Ukraine,91.6
+2020,Ukraine,93.9
 2020,Autonomous Republic of Crimea,
 2020,Vinnytsya,100.0
 2020,Volyn,
 2020,Dnipropetrovsk,
-2020,Donetsk,32.0
+2020,Donetsk,14.0
 2020,Zhytomyr,
 2020,Zakarpattya,
 2020,Zaporizhzhya,
@@ -152,7 +152,7 @@ Year,Region,Value
 2020,Kyiv,100.0
 2020,Kirovohrad,
 2020,Luhansk,100.0
-2020,Lviv,
+2020,Lviv,100.0
 2020,Mykolayiv,
 2020,Odesa,100.0
 2020,Poltava,100.0
@@ -164,23 +164,23 @@ Year,Region,Value
 2020,Khmelnytskiy,100.0
 2020,Cherkasy,100.0
 2020,Chernivtsi,100.0
-2020,Chernihiv,59.0
+2020,Chernihiv,100.0
 2020,city Kyiv,
 2020,city Sevastopol,
-2021,Ukraine,95.5
+2021,Ukraine,96.1
 2021,Autonomous Republic of Crimea,
 2021,Vinnytsya,88.0
 2021,Volyn,
-2021,Dnipropetrovsk,
+2021,Dnipropetrovsk,100.0
 2021,Donetsk,49.0
 2021,Zhytomyr,
 2021,Zakarpattya,
 2021,Zaporizhzhya,
 2021,Ivano-Frankivsk,100.0
-2021,Kyiv,100.0
-2021,Kirovohrad,
+2021,Kyiv,96.0
+2021,Kirovohrad,100.0
 2021,Luhansk,100.0
-2021,Lviv,
+2021,Lviv,100.0
 2021,Mykolayiv,
 2021,Odesa,100.0
 2021,Poltava,100.0
@@ -195,20 +195,20 @@ Year,Region,Value
 2021,Chernihiv,100.0
 2021,city Kyiv,
 2021,city Sevastopol,
-2022,Ukraine,95.3
+2022,Ukraine,96.2
 2022,Autonomous Republic of Crimea,
 2022,Vinnytsya,95.0
 2022,Volyn,48.0
-2022,Dnipropetrovsk,
+2022,Dnipropetrovsk,100.0
 2022,Donetsk,
 2022,Zhytomyr,
 2022,Zakarpattya,
 2022,Zaporizhzhya,
 2022,Ivano-Frankivsk,
 2022,Kyiv,100.0
-2022,Kirovohrad,
+2022,Kirovohrad,100.0
 2022,Luhansk,
-2022,Lviv,
+2022,Lviv,100.0
 2022,Mykolayiv,
 2022,Odesa,100.0
 2022,Poltava,100.0
@@ -223,20 +223,20 @@ Year,Region,Value
 2022,Chernihiv,100.0
 2022,city Kyiv,
 2022,city Sevastopol,
-2023,Ukraine,98.0
+2023,Ukraine,98.3
 2023,Autonomous Republic of Crimea,
 2023,Vinnytsya,68.0
 2023,Volyn,100.0
-2023,Dnipropetrovsk,
+2023,Dnipropetrovsk,100.0
 2023,Donetsk,
 2023,Zhytomyr,
 2023,Zakarpattya,
 2023,Zaporizhzhya,100.0
 2023,Ivano-Frankivsk,100.0
 2023,Kyiv,100.0
-2023,Kirovohrad,
+2023,Kirovohrad,100.0
 2023,Luhansk,
-2023,Lviv,
+2023,Lviv,100.0
 2023,Mykolayiv,100.0
 2023,Odesa,100.0
 2023,Poltava,100.0
@@ -251,3 +251,59 @@ Year,Region,Value
 2023,Chernihiv,100.0
 2023,city Kyiv,
 2023,city Sevastopol,
+2024,Ukraine,75.1
+2024,Autonomous Republic of Crimea,
+2024,Vinnytsya,0.0
+2024,Volyn,0.0
+2024,Dnipropetrovsk,100.0
+2024,Donetsk,
+2024,Zhytomyr,
+2024,Zakarpattya,
+2024,Zaporizhzhya,100.0
+2024,Ivano-Frankivsk,100.0
+2024,Kyiv,52.0
+2024,Kirovohrad,100.0
+2024,Luhansk,
+2024,Lviv,100.0
+2024,Mykolayiv,100.0
+2024,Odesa,100.0
+2024,Poltava,53.0
+2024,Rivne,
+2024,Sumy,100.0
+2024,Ternopil,100.0
+2024,Kharkiv,100.0
+2024,Kherson,100.0
+2024,Khmelnytskiy,100.0
+2024,Cherkasy,53.0
+2024,Chernivtsi,0.0
+2024,Chernihiv,69.0
+2024,city Kyiv,
+2024,city Sevastopol,
+2025,Ukraine,49.2
+2025,Autonomous Republic of Crimea,
+2025,Vinnytsya,0.0
+2025,Volyn,0.0
+2025,Dnipropetrovsk,0.0
+2025,Donetsk,
+2025,Zhytomyr,0.0
+2025,Zakarpattya,0.0
+2025,Zaporizhzhya,80.0
+2025,Ivano-Frankivsk,0.0
+2025,Kyiv,66.0
+2025,Kirovohrad,0.0
+2025,Luhansk,
+2025,Lviv,0.0
+2025,Mykolayiv,100.0
+2025,Odesa,100.0
+2025,Poltava,100.0
+2025,Rivne,0.0
+2025,Sumy,86.0
+2025,Ternopil,100.0
+2025,Kharkiv,100.0
+2025,Kherson,0.0
+2025,Khmelnytskiy,100.0
+2025,Cherkasy,100.0
+2025,Chernivtsi,100.0
+2025,Chernihiv,100.0
+2025,city Kyiv,0.0
+2025,city Sevastopol,

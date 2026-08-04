@@ -9,6 +9,7 @@ Year,Sex,Type of residence,Value
 2022,,,6.0
 2023,,,7.0
 2024,,,7.0
+2025,,,7.0
 2015,girls,,
 2016,girls,,
 2017,girls,,
@@ -19,6 +20,7 @@ Year,Sex,Type of residence,Value
 2022,girls,,10.0
 2023,girls,,10.0
 2024,girls,,10.0
+2025,girls,,10.0
 2015,boys,,
 2016,boys,,
 2017,boys,,
@@ -29,6 +31,7 @@ Year,Sex,Type of residence,Value
 2022,boys,,4.0
 2023,boys,,4.0
 2024,boys,,5.0
+2025,boys,,5.0
 2015,,urban,11.0
 2016,,urban,10.0
 2017,,urban,10.0
@@ -39,6 +42,7 @@ Year,Sex,Type of residence,Value
 2022,,urban,9.0
 2023,,urban,8.0
 2024,,urban,9.0
+2025,,urban,9.0
 2015,,rural,3.0
 2016,,rural,3.0
 2017,,rural,3.0
@@ -49,3 +53,4 @@ Year,Sex,Type of residence,Value
 2022,,rural,4.0
 2023,,rural,4.0
 2024,,rural,4.0
+2025,,rural,5.0

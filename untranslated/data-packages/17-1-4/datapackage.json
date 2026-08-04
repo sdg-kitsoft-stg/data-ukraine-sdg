@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Volume_registered_issues",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "volume_UAH",
+                "volume_USD",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

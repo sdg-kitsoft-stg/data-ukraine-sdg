@@ -42,8 +42,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "males_1",
                 "females_1",
+                "males_1",
                 ""
               ]
             }
@@ -104,6 +104,7 @@
                 "group_label_253",
                 "group_label_254",
                 "group_label_255",
+                "group_label_255_1",
                 ""
               ]
             }

@@ -263,14 +263,14 @@ Year,Land purpose,Region,Value
 2024,,,1.8
 2024,arable land,,1.8
 2024,,Autonomous Republic of Crimea,
-2024,,Vinnytsya,4.2
-2024,,Volyn,1.7
+2024,,Vinnytsya,4.3
+2024,,Volyn,1.8
 2024,,Dnipropetrovsk,3.2
 2024,,Donetsk,0.0
 2024,,Zhytomyr,3.1
-2024,,Zakarpattya,0.0
+2024,,Zakarpattya,1.3
 2024,,Zaporizhzhya,0.4
-2024,,Ivano-Frankivsk,2.5
+2024,,Ivano-Frankivsk,2.4
 2024,,Kyiv,6.0
 2024,,Kirovohrad,2.3
 2024,,Luhansk,0.0
@@ -283,9 +283,38 @@ Year,Land purpose,Region,Value
 2024,,Ternopil,3.4
 2024,,Kharkiv,0.0
 2024,,Kherson,0.0
-2024,,Khmelnytskiy,3.3
+2024,,Khmelnytskiy,2.9
 2024,,Cherkasy,3.3
 2024,,Chernivtsi,2.2
 2024,,Chernihiv,0.0
 2024,,city Kyiv,
 2024,,city Sevastopol,
+2025,,,1.7
+2025,arable land,,1.7
+2025,,Autonomous Republic of Crimea,
+2025,,Vinnytsya,4.5
+2025,,Volyn,2.5
+2025,,Dnipropetrovsk,3.3
+2025,,Donetsk,0.0
+2025,,Zhytomyr,2.1
+2025,,Zakarpattya,1.4
+2025,,Zaporizhzhya,0.2
+2025,,Ivano-Frankivsk,1.5
+2025,,Kyiv,5.5
+2025,,Kirovohrad,2.0
+2025,,Luhansk,0.0
+2025,,Lviv,1.5
+2025,,Mykolayiv,0.0
+2025,,Odesa,1.7
+2025,,Poltava,4.0
+2025,,Rivne,2.4
+2025,,Sumy,0.4
+2025,,Ternopil,3.0
+2025,,Kharkiv,0.0
+2025,,Kherson,0.0
+2025,,Khmelnytskiy,2.9
+2025,,Cherkasy,3.3
+2025,,Chernivtsi,0.7
+2025,,Chernihiv,0.0
+2025,,city Kyiv,
+2025,,city Sevastopol,

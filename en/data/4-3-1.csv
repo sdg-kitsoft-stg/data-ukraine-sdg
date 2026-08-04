@@ -6,6 +6,7 @@ Year,Academic subjects,Sex,Type of residence,Type of educational institution,Val
 2020,,,,,
 2022,,,,,
 2023,,,,,
+2025,,,,,
 2018,reading,,,,86.2
 2018,mathematics,,,,86.4
 2018,natural science disciplines,,,,
@@ -53,10 +54,10 @@ Year,Academic subjects,Sex,Type of residence,Type of educational institution,Val
 2024,natural science disciplines,,rural,,78.8
 2018,reading,,,general secondary educational institution,84.8
 2018,mathematics,,,general secondary educational institution,84.4
-2018,natural science disciplines,,,general secondary educational institution,84.4
+2018,natural science disciplines,,,general secondary educational institution,
 2021,reading,,,general secondary educational institution,79.5
 2021,mathematics,,,general secondary educational institution,81.1
-2021,natural science disciplines,,,general secondary educational institution,84.4
+2021,natural science disciplines,,,general secondary educational institution,
 2024,reading,,,general secondary educational institution,83.9
 2024,mathematics,,,general secondary educational institution,85.3
 2024,natural science disciplines,,,general secondary educational institution,83.3

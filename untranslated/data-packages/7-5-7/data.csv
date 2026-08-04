@@ -9,6 +9,7 @@ Year,By consumer categories,Value
 2022,,1.8
 2023,,1.7
 2024,,1.8
+2025,,1.8
 2015,household,
 2016,household,
 2017,household,
@@ -19,6 +20,7 @@ Year,By consumer categories,Value
 2022,household,1.5
 2023,household,1.4
 2024,household,1.4
+2025,household,1.4
 2015,non_household,
 2016,non_household,
 2017,non_household,
@@ -29,3 +31,4 @@ Year,By consumer categories,Value
 2022,non_household,46.4
 2023,non_household,49.5
 2024,non_household,54.5
+2025,non_household,57.9

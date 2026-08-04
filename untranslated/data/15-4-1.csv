@@ -8,7 +8,8 @@ Year,group_11,Value
 2021,,701.384
 2022,,709.989
 2023,,715.601
-2024,,689.195
+2024,,710.244
+2025,,708.905
 2015,group_label_164,178.563
 2016,group_label_164,178.841
 2017,group_label_164,180.506
@@ -19,6 +20,7 @@ Year,group_11,Value
 2022,group_label_164,206.375
 2023,group_label_164,206.376
 2024,group_label_164,206.351
+2025,group_label_164,206.349
 2015,group_label_165,218.825
 2016,group_label_165,218.817
 2017,group_label_165,218.817
@@ -28,7 +30,8 @@ Year,group_11,Value
 2021,group_label_165,225.543
 2022,group_label_165,225.543
 2023,group_label_165,229.527
-2024,group_label_165,206.351
+2024,group_label_165,227.4
+2025,group_label_165,227.0
 2015,group_label_166,155.729
 2016,group_label_166,155.899
 2017,group_label_166,155.879
@@ -39,6 +42,7 @@ Year,group_11,Value
 2022,group_label_166,173.614
 2023,group_label_166,175.241
 2024,group_label_166,172.036
+2025,group_label_166,171.064
 2015,group_label_167,103.598
 2016,group_label_167,103.598
 2017,group_label_167,103.598
@@ -49,3 +53,4 @@ Year,group_11,Value
 2022,group_label_167,104.457
 2023,group_label_167,104.457
 2024,group_label_167,104.457
+2025,group_label_167,104.492

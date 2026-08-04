@@ -56,11 +56,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "energy_water_utilities",
-                "transport_infrastructure",
-                "healthcare",
-                "tourism_recreation_culture_sport",
-                "waste_management_excl_collection_transport",
+                "energy_water_utilities_1",
+                "transport_infrastructure_1",
+                "healthcare_1",
+                "tourism_recreation_culture_sport_1",
+                "waste_management_1",
                 "other_institution",
                 ""
               ]

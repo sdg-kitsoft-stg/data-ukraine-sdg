@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Volume_registered_issues",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "volume of registered issue of shares, corporate bonds",
+                "volume of registered issue of corporate bonds",
+                ""
+              ]
+            },
+            "title": "Volumes of registered issue"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

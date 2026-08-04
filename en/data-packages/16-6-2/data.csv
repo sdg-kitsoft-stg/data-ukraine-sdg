@@ -3,8 +3,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2015,up to 30 years,,,,,
 2015,30–54 years,,,,,
 2015,55 years and older,,,,,
-2015,,men,,,,
 2015,,women,,,,
+2015,,men,,,,
 2015,,,regional centers,,,
 2015,,,district centers and cities,,,
 2015,,,villages,,,
@@ -20,8 +20,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2016,up to 30 years,,,,,
 2016,30–54 years,,,,,
 2016,55 years and older,,,,,
-2016,,men,,,,13.4
 2016,,women,,,,10.6
+2016,,men,,,,13.4
 2016,,,regional centers,,,11.8
 2016,,,district centers and cities,,,14.0
 2016,,,villages,,,8.9
@@ -37,8 +37,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2017,up to 30 years,,,,,
 2017,30–54 years,,,,,
 2017,55 years and older,,,,,
-2017,,men,,,,
 2017,,women,,,,
+2017,,men,,,,
 2017,,,regional centers,,,
 2017,,,district centers and cities,,,
 2017,,,villages,,,
@@ -54,8 +54,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2018,up to 30 years,,,,,21.8
 2018,30–54 years,,,,,25.5
 2018,55 years and older,,,,,25.3
-2018,,men,,,,25.1
 2018,,women,,,,24.0
+2018,,men,,,,25.1
 2018,,,regional centers,,,24.7
 2018,,,district centers and cities,,,21.8
 2018,,,villages,,,24.5
@@ -71,8 +71,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2019,up to 30 years,,,,,
 2019,30–54 years,,,,,
 2019,55 years and older,,,,,
-2019,,men,,,,
 2019,,women,,,,
+2019,,men,,,,
 2019,,,regional centers,,,
 2019,,,district centers and cities,,,
 2019,,,villages,,,
@@ -88,8 +88,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2020,up to 30 years,,,,,
 2020,30–54 years,,,,,
 2020,55 years and older,,,,,
-2020,,men,,,,
 2020,,women,,,,
+2020,,men,,,,
 2020,,,regional centers,,,
 2020,,,district centers and cities,,,
 2020,,,villages,,,
@@ -105,8 +105,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2021,up to 30 years,,,,,
 2021,30–54 years,,,,,
 2021,55 years and older,,,,,
-2021,,men,,,,
 2021,,women,,,,
+2021,,men,,,,
 2021,,,regional centers,,,
 2021,,,district centers and cities,,,
 2021,,,villages,,,
@@ -122,8 +122,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2022,up to 30 years,,,,,
 2022,30–54 years,,,,,
 2022,55 years and older,,,,,
-2022,,men,,,,
 2022,,women,,,,
+2022,,men,,,,
 2022,,,regional centers,,,
 2022,,,district centers and cities,,,
 2022,,,villages,,,
@@ -139,8 +139,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2023,up to 30 years,,,,,24.8
 2023,30–54 years,,,,,26.5
 2023,55 years and older,,,,,18.8
-2023,,men,,,,25.7
 2023,,women,,,,22.1
+2023,,men,,,,25.7
 2023,,,regional centers,,,24.9
 2023,,,district centers and cities,,,25.0
 2023,,,villages,,,19.1
@@ -156,8 +156,8 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2024,up to 30 years,,,,,
 2024,30–54 years,,,,,
 2024,55 years and older,,,,,
-2024,,men,,,,
 2024,,women,,,,
+2024,,men,,,,
 2024,,,regional centers,,,
 2024,,,district centers and cities,,,
 2024,,,villages,,,
@@ -169,3 +169,20 @@ Year,Age,Sex,Type of residence,Level of income,Region,Value
 2024,,,,,South,
 2024,,,,,East,
 2024,,,,,city Kyiv,
+2025,,,,,,
+2025,up to 30 years,,,,,
+2025,30–54 years,,,,,
+2025,55 years and older,,,,,
+2025,,women,,,,
+2025,,men,,,,
+2025,,,regional centers,,,
+2025,,,district centers and cities,,,
+2025,,,villages,,,
+2025,,,,below average and lowest,,
+2025,,,,average,,
+2025,,,,highest and above average,,
+2025,,,,,West,
+2025,,,,,Center,
+2025,,,,,South,
+2025,,,,,East,
+2025,,,,,city Kyiv,

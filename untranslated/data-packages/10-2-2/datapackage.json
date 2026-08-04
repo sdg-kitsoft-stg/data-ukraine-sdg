@@ -43,6 +43,9 @@
                 "freedom_from_discrimination_in_the_media",
                 "freedom_from_discrimination_in_the_field_of_advertising",
                 "freedom_from_discrimination_in_the_field_of_advertising_for_vacancies",
+                "freedom_from_discrimination_in_the_field_of_culture",
+                "freedom_from_discrimination_in_private_relations",
+                "freedom_from_discrimination_in_public_and_political_life",
                 ""
               ]
             }
@@ -54,6 +57,7 @@
               "enum": [
                 "females_1",
                 "males_1",
+                "not specified",
                 ""
               ]
             }

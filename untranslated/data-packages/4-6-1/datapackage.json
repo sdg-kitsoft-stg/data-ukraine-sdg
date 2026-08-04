@@ -26,7 +26,9 @@
                 "secondary_wired_gt30",
                 "secondary_wireless_gt30",
                 "secondary_wired_or_wireless_gt30",
-                "extracurricular_institutions",
+                "extracurricular_wired_gt30",
+                "extracurricular_wireless_gt30",
+                "extracurricular_wired_or_wireless_gt30",
                 ""
               ]
             }

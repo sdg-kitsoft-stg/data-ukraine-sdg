@@ -27,7 +27,9 @@
                 "general secondary educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
                 "general secondary educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
                 "general secondary educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
-                "extracurricular educational institutions",
+                "extracurricular educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet",
+                "extracurricular educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet",
+                "extracurricular educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet",
                 ""
               ]
             },

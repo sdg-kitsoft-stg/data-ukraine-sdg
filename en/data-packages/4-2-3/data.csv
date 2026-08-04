@@ -9,6 +9,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,,,4579.0
 2023,,,64322.0
 2024,,,77507.0
+2025,,,141829.0
 2015,urban,,
 2016,urban,,
 2017,urban,,
@@ -19,6 +20,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,urban,,3390.0
 2023,urban,,45631.0
 2024,urban,,60023.0
+2025,urban,,105654.0
 2015,rural,,
 2016,rural,,
 2017,rural,,
@@ -29,6 +31,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,rural,,1189.0
 2023,rural,,18691.0
 2024,rural,,17484.0
+2025,rural,,36175.0
 2015,,general secondary educational institutions (GSEI),
 2016,,general secondary educational institutions (GSEI),
 2017,,general secondary educational institutions (GSEI),
@@ -39,6 +42,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,,general secondary educational institutions (GSEI),4284.0
 2023,,general secondary educational institutions (GSEI),60809.0
 2024,,general secondary educational institutions (GSEI),71401.0
+2025,,general secondary educational institutions (GSEI),132210.0
 2015,,professional (vocational and technical) educational institutions (P(VT)EI),
 2016,,professional (vocational and technical) educational institutions (P(VT)EI),
 2017,,professional (vocational and technical) educational institutions (P(VT)EI),
@@ -49,6 +53,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,,professional (vocational and technical) educational institutions (P(VT)EI),
 2023,,professional (vocational and technical) educational institutions (P(VT)EI),2950.0
 2024,,professional (vocational and technical) educational institutions (P(VT)EI),4032.0
+2025,,professional (vocational and technical) educational institutions (P(VT)EI),6982.0
 2015,,institutions of professional pre-tertiary education (IPPTE),
 2016,,institutions of professional pre-tertiary education (IPPTE),
 2017,,institutions of professional pre-tertiary education (IPPTE),
@@ -59,6 +64,7 @@ Year,Type of residence,Type of educational institution,Value
 2022,,institutions of professional pre-tertiary education (IPPTE),
 2023,,institutions of professional pre-tertiary education (IPPTE),237.0
 2024,,institutions of professional pre-tertiary education (IPPTE),1038.0
+2025,,institutions of professional pre-tertiary education (IPPTE),1275.0
 2015,,other institutions,
 2016,,other institutions,
 2017,,other institutions,
@@ -69,3 +75,4 @@ Year,Type of residence,Type of educational institution,Value
 2022,,other institutions,295.0
 2023,,other institutions,326.0
 2024,,other institutions,1036.0
+2025,,other institutions,1362.0

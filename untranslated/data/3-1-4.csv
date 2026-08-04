@@ -9,6 +9,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,,,79.1
 2024,,,,78.4
 2025,,,,76.5
+2026,,,,74.4
 2016,females_1,,,
 2017,females_1,,,
 2018,females_1,,,0.0
@@ -19,6 +20,7 @@ Year,Sex,Age,Type of residence,Value
 2023,females_1,,,80.5
 2024,females_1,,,79.7
 2025,females_1,,,77.8
+2026,females_1,,,75.9
 2016,males_1,,,
 2017,males_1,,,
 2018,males_1,,,0.0
@@ -29,6 +31,7 @@ Year,Sex,Age,Type of residence,Value
 2023,males_1,,,77.6
 2024,males_1,,,76.9
 2025,males_1,,,75.0
+2026,males_1,,,72.7
 2016,,age_0_5,,
 2017,,age_0_5,,
 2018,,age_0_5,,0.0
@@ -39,6 +42,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,age_0_5,,84.1
 2024,,age_0_5,,76.0
 2025,,age_0_5,,68.1
+2026,,age_0_5,,61.8
 2016,,age_6_17,,
 2017,,age_6_17,,
 2018,,age_6_17,,0.0
@@ -49,6 +53,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,age_6_17,,91.2
 2024,,age_6_17,,90.1
 2025,,age_6_17,,87.1
+2026,,age_6_17,,83.2
 2016,,age_18_39,,
 2017,,age_18_39,,
 2018,,age_18_39,,0.0
@@ -59,6 +64,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,age_18_39,,73.3
 2024,,age_18_39,,71.2
 2025,,age_18_39,,68.1
+2026,,age_18_39,,65.1
 2016,,age_40_64,,
 2017,,age_40_64,,
 2018,,age_40_64,,0.0
@@ -69,6 +75,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,age_40_64,,78.3
 2024,,age_40_64,,78.4
 2025,,age_40_64,,77.3
+2026,,age_40_64,,75.9
 2016,,age_65_plus,,
 2017,,age_65_plus,,
 2018,,age_65_plus,,0.1
@@ -79,6 +86,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,age_65_plus,,79.8
 2024,,age_65_plus,,82.2
 2025,,age_65_plus,,83.2
+2026,,age_65_plus,,83.5
 2016,,,urban,
 2017,,,urban,
 2018,,,urban,0.1
@@ -89,6 +97,7 @@ Year,Sex,Age,Type of residence,Value
 2023,,,urban,91.9
 2024,,,urban,91.1
 2025,,,urban,89.0
+2026,,,urban,84.1
 2016,,,rural,
 2017,,,rural,
 2018,,,rural,0.0
@@ -99,3 +108,4 @@ Year,Sex,Age,Type of residence,Value
 2023,,,rural,50.2
 2024,,,rural,49.6
 2025,,,rural,48.2
+2026,,,rural,52.4

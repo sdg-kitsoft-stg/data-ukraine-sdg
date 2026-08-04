@@ -4209,3 +4209,424 @@ Year,Infectious diseases,Age,Region,Value
 2024,"Measles, mumps, rubella",1 year,city Sevastopol,
 2024,"Measles, mumps, rubella",6 years,city Sevastopol,
 2024,Hepatitis B,up to 1 year,city Sevastopol,
+2025,Tuberculosis,up to 1 year,,91.9
+2025,Hepatitis B,up to 1 year,,90.7
+2025,"Measles, mumps, rubella",1 year,,95.7
+2025,"Measles, mumps, rubella",6 years,,93.7
+2025,"Diphtheria, tetanus",up to 1 year,,93.5
+2025,"Diphtheria, tetanus",18 months,,92.9
+2025,"Diphtheria, tetanus",6 years,,85.2
+2025,"Diphtheria, tetanus",16 years,,90.0
+2025,"Diphtheria, tetanus",adults,,91.6
+2025,Pertussis,up to 1 year,,93.5
+2025,Pertussis,18 months,,92.9
+2025,Poliomyelitis,up to 1 year,,93.6
+2025,Poliomyelitis,18 months,,93.5
+2025,Poliomyelitis,6 years,,93.0
+2025,Poliomyelitis,14 years,,91.0
+2025,Haemophilus infection,up to 1 year,,95.6
+2025,Haemophilus infection,1 year,,90.2
+2025,Tuberculosis,up to 1 year,Autonomous Republic of Crimea,
+2025,Poliomyelitis,up to 1 year,Autonomous Republic of Crimea,
+2025,Poliomyelitis,18 months,Autonomous Republic of Crimea,
+2025,Poliomyelitis,6 years,Autonomous Republic of Crimea,
+2025,Poliomyelitis,14 years,Autonomous Republic of Crimea,
+2025,"Diphtheria, tetanus",up to 1 year,Autonomous Republic of Crimea,
+2025,Pertussis,18 months,Autonomous Republic of Crimea,
+2025,"Diphtheria, tetanus",6 years,Autonomous Republic of Crimea,
+2025,"Diphtheria, tetanus",16 years,Autonomous Republic of Crimea,
+2025,"Diphtheria, tetanus",adults,Autonomous Republic of Crimea,
+2025,Haemophilus infection,up to 1 year,Autonomous Republic of Crimea,
+2025,Haemophilus infection,1 year,Autonomous Republic of Crimea,
+2025,"Measles, mumps, rubella",1 year,Autonomous Republic of Crimea,
+2025,"Measles, mumps, rubella",6 years,Autonomous Republic of Crimea,
+2025,Tuberculosis,up to 1 year,Vinnytsya,91.3
+2025,Poliomyelitis,up to 1 year,Vinnytsya,99.7
+2025,Poliomyelitis,18 months,Vinnytsya,95.8
+2025,Poliomyelitis,6 years,Vinnytsya,91.7
+2025,Poliomyelitis,14 years,Vinnytsya,88.9
+2025,"Diphtheria, tetanus",up to 1 year,Vinnytsya,98.9
+2025,Pertussis,18 months,Vinnytsya,94.3
+2025,"Diphtheria, tetanus",6 years,Vinnytsya,83.1
+2025,"Diphtheria, tetanus",16 years,Vinnytsya,91.2
+2025,"Diphtheria, tetanus",adults,Vinnytsya,100.0
+2025,Haemophilus infection,up to 1 year,Vinnytsya,99.8
+2025,Haemophilus infection,1 year,Vinnytsya,86.0
+2025,"Measles, mumps, rubella",1 year,Vinnytsya,99.2
+2025,"Measles, mumps, rubella",6 years,Vinnytsya,90.9
+2025,Hepatitis B,up to 1 year,Vinnytsya,98.8
+2025,Tuberculosis,up to 1 year,Volyn,92.6
+2025,Poliomyelitis,up to 1 year,Volyn,93.6
+2025,Poliomyelitis,18 months,Volyn,95.2
+2025,Poliomyelitis,6 years,Volyn,96.4
+2025,Poliomyelitis,14 years,Volyn,95.4
+2025,"Diphtheria, tetanus",up to 1 year,Volyn,90.8
+2025,Pertussis,18 months,Volyn,89.8
+2025,"Diphtheria, tetanus",6 years,Volyn,87.6
+2025,"Diphtheria, tetanus",16 years,Volyn,90.8
+2025,"Diphtheria, tetanus",adults,Volyn,88.4
+2025,Haemophilus infection,up to 1 year,Volyn,94.5
+2025,Haemophilus infection,1 year,Volyn,92.8
+2025,"Measles, mumps, rubella",1 year,Volyn,96.7
+2025,"Measles, mumps, rubella",6 years,Volyn,91.8
+2025,Hepatitis B,up to 1 year,Volyn,91.0
+2025,Tuberculosis,up to 1 year,Dnipropetrovsk,92.9
+2025,Poliomyelitis,up to 1 year,Dnipropetrovsk,95.4
+2025,Poliomyelitis,18 months,Dnipropetrovsk,95.2
+2025,Poliomyelitis,6 years,Dnipropetrovsk,96.8
+2025,Poliomyelitis,14 years,Dnipropetrovsk,96.3
+2025,"Diphtheria, tetanus",up to 1 year,Dnipropetrovsk,97.8
+2025,Pertussis,18 months,Dnipropetrovsk,95.2
+2025,"Diphtheria, tetanus",6 years,Dnipropetrovsk,85.3
+2025,"Diphtheria, tetanus",16 years,Dnipropetrovsk,94.0
+2025,"Diphtheria, tetanus",adults,Dnipropetrovsk,91.0
+2025,Haemophilus infection,up to 1 year,Dnipropetrovsk,94.0
+2025,Haemophilus infection,1 year,Dnipropetrovsk,90.9
+2025,"Measles, mumps, rubella",1 year,Dnipropetrovsk,95.8
+2025,"Measles, mumps, rubella",6 years,Dnipropetrovsk,92.8
+2025,Hepatitis B,up to 1 year,Dnipropetrovsk,90.4
+2025,Tuberculosis,up to 1 year,Donetsk,85.9
+2025,Poliomyelitis,up to 1 year,Donetsk,85.7
+2025,Poliomyelitis,18 months,Donetsk,97.8
+2025,Poliomyelitis,6 years,Donetsk,89.3
+2025,Poliomyelitis,14 years,Donetsk,97.8
+2025,"Diphtheria, tetanus",up to 1 year,Donetsk,87.3
+2025,Pertussis,18 months,Donetsk,92.6
+2025,"Diphtheria, tetanus",6 years,Donetsk,85.4
+2025,"Diphtheria, tetanus",16 years,Donetsk,96.8
+2025,"Diphtheria, tetanus",adults,Donetsk,99.5
+2025,Haemophilus infection,up to 1 year,Donetsk,93.9
+2025,Haemophilus infection,1 year,Donetsk,73.2
+2025,"Measles, mumps, rubella",1 year,Donetsk,95.7
+2025,"Measles, mumps, rubella",6 years,Donetsk,87.0
+2025,Hepatitis B,up to 1 year,Donetsk,90.6
+2025,Tuberculosis,up to 1 year,Zhytomyr,96.0
+2025,Poliomyelitis,up to 1 year,Zhytomyr,95.8
+2025,Poliomyelitis,18 months,Zhytomyr,95.5
+2025,Poliomyelitis,6 years,Zhytomyr,98.8
+2025,Poliomyelitis,14 years,Zhytomyr,95.1
+2025,"Diphtheria, tetanus",up to 1 year,Zhytomyr,97.1
+2025,Pertussis,18 months,Zhytomyr,96.6
+2025,"Diphtheria, tetanus",6 years,Zhytomyr,92.0
+2025,"Diphtheria, tetanus",16 years,Zhytomyr,95.7
+2025,"Diphtheria, tetanus",adults,Zhytomyr,90.2
+2025,Haemophilus infection,up to 1 year,Zhytomyr,97.7
+2025,Haemophilus infection,1 year,Zhytomyr,94.7
+2025,"Measles, mumps, rubella",1 year,Zhytomyr,99.3
+2025,"Measles, mumps, rubella",6 years,Zhytomyr,97.3
+2025,Hepatitis B,up to 1 year,Zhytomyr,97.7
+2025,Tuberculosis,up to 1 year,Zakarpattya,94.1
+2025,Poliomyelitis,up to 1 year,Zakarpattya,90.4
+2025,Poliomyelitis,18 months,Zakarpattya,88.9
+2025,Poliomyelitis,6 years,Zakarpattya,84.0
+2025,Poliomyelitis,14 years,Zakarpattya,77.7
+2025,"Diphtheria, tetanus",up to 1 year,Zakarpattya,88.5
+2025,Pertussis,18 months,Zakarpattya,89.4
+2025,"Diphtheria, tetanus",6 years,Zakarpattya,80.8
+2025,"Diphtheria, tetanus",16 years,Zakarpattya,84.3
+2025,"Diphtheria, tetanus",adults,Zakarpattya,83.2
+2025,Haemophilus infection,up to 1 year,Zakarpattya,87.1
+2025,Haemophilus infection,1 year,Zakarpattya,87.4
+2025,"Measles, mumps, rubella",1 year,Zakarpattya,94.7
+2025,"Measles, mumps, rubella",6 years,Zakarpattya,89.1
+2025,Hepatitis B,up to 1 year,Zakarpattya,80.1
+2025,Tuberculosis,up to 1 year,Zaporizhzhya,95.6
+2025,Poliomyelitis,up to 1 year,Zaporizhzhya,96.2
+2025,Poliomyelitis,18 months,Zaporizhzhya,98.8
+2025,Poliomyelitis,6 years,Zaporizhzhya,98.5
+2025,Poliomyelitis,14 years,Zaporizhzhya,96.7
+2025,"Diphtheria, tetanus",up to 1 year,Zaporizhzhya,96.2
+2025,Pertussis,18 months,Zaporizhzhya,95.0
+2025,"Diphtheria, tetanus",6 years,Zaporizhzhya,93.6
+2025,"Diphtheria, tetanus",16 years,Zaporizhzhya,96.7
+2025,"Diphtheria, tetanus",adults,Zaporizhzhya,91.9
+2025,Haemophilus infection,up to 1 year,Zaporizhzhya,99.5
+2025,Haemophilus infection,1 year,Zaporizhzhya,96.8
+2025,"Measles, mumps, rubella",1 year,Zaporizhzhya,95.1
+2025,"Measles, mumps, rubella",6 years,Zaporizhzhya,98.5
+2025,Hepatitis B,up to 1 year,Zaporizhzhya,97.9
+2025,Tuberculosis,up to 1 year,Ivano-Frankivsk,92.6
+2025,Poliomyelitis,up to 1 year,Ivano-Frankivsk,90.3
+2025,Poliomyelitis,18 months,Ivano-Frankivsk,91.0
+2025,Poliomyelitis,6 years,Ivano-Frankivsk,93.1
+2025,Poliomyelitis,14 years,Ivano-Frankivsk,93.8
+2025,"Diphtheria, tetanus",up to 1 year,Ivano-Frankivsk,93.9
+2025,Pertussis,18 months,Ivano-Frankivsk,96.1
+2025,"Diphtheria, tetanus",6 years,Ivano-Frankivsk,85.1
+2025,"Diphtheria, tetanus",16 years,Ivano-Frankivsk,91.1
+2025,"Diphtheria, tetanus",adults,Ivano-Frankivsk,99.8
+2025,Haemophilus infection,up to 1 year,Ivano-Frankivsk,91.0
+2025,Haemophilus infection,1 year,Ivano-Frankivsk,86.0
+2025,"Measles, mumps, rubella",1 year,Ivano-Frankivsk,96.4
+2025,"Measles, mumps, rubella",6 years,Ivano-Frankivsk,89.8
+2025,Hepatitis B,up to 1 year,Ivano-Frankivsk,84.6
+2025,Tuberculosis,up to 1 year,Kyiv,90.4
+2025,Poliomyelitis,up to 1 year,Kyiv,88.7
+2025,Poliomyelitis,18 months,Kyiv,92.8
+2025,Poliomyelitis,6 years,Kyiv,89.2
+2025,Poliomyelitis,14 years,Kyiv,88.5
+2025,"Diphtheria, tetanus",up to 1 year,Kyiv,88.4
+2025,Pertussis,18 months,Kyiv,91.9
+2025,"Diphtheria, tetanus",6 years,Kyiv,77.9
+2025,"Diphtheria, tetanus",16 years,Kyiv,86.9
+2025,"Diphtheria, tetanus",adults,Kyiv,76.2
+2025,Haemophilus infection,up to 1 year,Kyiv,92.4
+2025,Haemophilus infection,1 year,Kyiv,89.2
+2025,"Measles, mumps, rubella",1 year,Kyiv,90.9
+2025,"Measles, mumps, rubella",6 years,Kyiv,87.1
+2025,Hepatitis B,up to 1 year,Kyiv,85.7
+2025,Tuberculosis,up to 1 year,Kirovohrad,94.1
+2025,Poliomyelitis,up to 1 year,Kirovohrad,99.9
+2025,Poliomyelitis,18 months,Kirovohrad,98.7
+2025,Poliomyelitis,6 years,Kirovohrad,100.0
+2025,Poliomyelitis,14 years,Kirovohrad,95.1
+2025,"Diphtheria, tetanus",up to 1 year,Kirovohrad,98.3
+2025,Pertussis,18 months,Kirovohrad,94.5
+2025,"Diphtheria, tetanus",6 years,Kirovohrad,82.5
+2025,"Diphtheria, tetanus",16 years,Kirovohrad,92.8
+2025,"Diphtheria, tetanus",adults,Kirovohrad,86.8
+2025,Haemophilus infection,up to 1 year,Kirovohrad,92.0
+2025,Haemophilus infection,1 year,Kirovohrad,99.8
+2025,"Measles, mumps, rubella",1 year,Kirovohrad,99.2
+2025,"Measles, mumps, rubella",6 years,Kirovohrad,99.4
+2025,Hepatitis B,up to 1 year,Kirovohrad,95.3
+2025,Tuberculosis,up to 1 year,Luhansk,0.0
+2025,Poliomyelitis,up to 1 year,Luhansk,0.0
+2025,Poliomyelitis,18 months,Luhansk,0.0
+2025,Poliomyelitis,6 years,Luhansk,0.0
+2025,Poliomyelitis,14 years,Luhansk,0.0
+2025,"Diphtheria, tetanus",up to 1 year,Luhansk,0.0
+2025,Pertussis,18 months,Luhansk,0.0
+2025,"Diphtheria, tetanus",6 years,Luhansk,0.0
+2025,"Diphtheria, tetanus",16 years,Luhansk,0.0
+2025,"Diphtheria, tetanus",adults,Luhansk,0.0
+2025,Haemophilus infection,up to 1 year,Luhansk,0.0
+2025,Haemophilus infection,1 year,Luhansk,0.0
+2025,"Measles, mumps, rubella",1 year,Luhansk,0.0
+2025,"Measles, mumps, rubella",6 years,Luhansk,0.0
+2025,Hepatitis B,up to 1 year,Luhansk,0.0
+2025,Tuberculosis,up to 1 year,Lviv,91.9
+2025,Poliomyelitis,up to 1 year,Lviv,91.4
+2025,Poliomyelitis,18 months,Lviv,81.6
+2025,Poliomyelitis,6 years,Lviv,83.4
+2025,Poliomyelitis,14 years,Lviv,71.8
+2025,"Diphtheria, tetanus",up to 1 year,Lviv,93.1
+2025,Pertussis,18 months,Lviv,80.5
+2025,"Diphtheria, tetanus",6 years,Lviv,76.3
+2025,"Diphtheria, tetanus",16 years,Lviv,68.7
+2025,"Diphtheria, tetanus",adults,Lviv,93.3
+2025,Haemophilus infection,up to 1 year,Lviv,105.2
+2025,Haemophilus infection,1 year,Lviv,93.1
+2025,"Measles, mumps, rubella",1 year,Lviv,96.2
+2025,"Measles, mumps, rubella",6 years,Lviv,98.0
+2025,Hepatitis B,up to 1 year,Lviv,87.7
+2025,Tuberculosis,up to 1 year,Mykolayiv,86.1
+2025,Poliomyelitis,up to 1 year,Mykolayiv,96.8
+2025,Poliomyelitis,18 months,Mykolayiv,99.7
+2025,Poliomyelitis,6 years,Mykolayiv,99.3
+2025,Poliomyelitis,14 years,Mykolayiv,95.1
+2025,"Diphtheria, tetanus",up to 1 year,Mykolayiv,98.1
+2025,Pertussis,18 months,Mykolayiv,99.2
+2025,"Diphtheria, tetanus",6 years,Mykolayiv,96.4
+2025,"Diphtheria, tetanus",16 years,Mykolayiv,88.4
+2025,"Diphtheria, tetanus",adults,Mykolayiv,87.4
+2025,Haemophilus infection,up to 1 year,Mykolayiv,96.4
+2025,Haemophilus infection,1 year,Mykolayiv,94.9
+2025,"Measles, mumps, rubella",1 year,Mykolayiv,95.5
+2025,"Measles, mumps, rubella",6 years,Mykolayiv,95.4
+2025,Hepatitis B,up to 1 year,Mykolayiv,93.2
+2025,Tuberculosis,up to 1 year,Odesa,91.1
+2025,Poliomyelitis,up to 1 year,Odesa,91.7
+2025,Poliomyelitis,18 months,Odesa,91.2
+2025,Poliomyelitis,6 years,Odesa,90.6
+2025,Poliomyelitis,14 years,Odesa,90.5
+2025,"Diphtheria, tetanus",up to 1 year,Odesa,92.1
+2025,Pertussis,18 months,Odesa,92.3
+2025,"Diphtheria, tetanus",6 years,Odesa,91.3
+2025,"Diphtheria, tetanus",16 years,Odesa,90.0
+2025,"Diphtheria, tetanus",adults,Odesa,94.5
+2025,Haemophilus infection,up to 1 year,Odesa,92.7
+2025,Haemophilus infection,1 year,Odesa,91.8
+2025,"Measles, mumps, rubella",1 year,Odesa,90.8
+2025,"Measles, mumps, rubella",6 years,Odesa,92.4
+2025,Hepatitis B,up to 1 year,Odesa,90.1
+2025,Tuberculosis,up to 1 year,Poltava,92.8
+2025,Poliomyelitis,up to 1 year,Poltava,93.4
+2025,Poliomyelitis,18 months,Poltava,93.4
+2025,Poliomyelitis,6 years,Poltava,95.1
+2025,Poliomyelitis,14 years,Poltava,95.3
+2025,"Diphtheria, tetanus",up to 1 year,Poltava,92.5
+2025,Pertussis,18 months,Poltava,93.4
+2025,"Diphtheria, tetanus",6 years,Poltava,90.0
+2025,"Diphtheria, tetanus",16 years,Poltava,93.5
+2025,"Diphtheria, tetanus",adults,Poltava,96.3
+2025,Haemophilus infection,up to 1 year,Poltava,94.6
+2025,Haemophilus infection,1 year,Poltava,87.7
+2025,"Measles, mumps, rubella",1 year,Poltava,93.5
+2025,"Measles, mumps, rubella",6 years,Poltava,92.5
+2025,Hepatitis B,up to 1 year,Poltava,92.5
+2025,Tuberculosis,up to 1 year,Rivne,91.8
+2025,Poliomyelitis,up to 1 year,Rivne,97.3
+2025,Poliomyelitis,18 months,Rivne,96.7
+2025,Poliomyelitis,6 years,Rivne,98.2
+2025,Poliomyelitis,14 years,Rivne,95.1
+2025,"Diphtheria, tetanus",up to 1 year,Rivne,95.9
+2025,Pertussis,18 months,Rivne,95.3
+2025,"Diphtheria, tetanus",6 years,Rivne,95.1
+2025,"Diphtheria, tetanus",16 years,Rivne,95.3
+2025,"Diphtheria, tetanus",adults,Rivne,96.2
+2025,Haemophilus infection,up to 1 year,Rivne,96.2
+2025,Haemophilus infection,1 year,Rivne,96.0
+2025,"Measles, mumps, rubella",1 year,Rivne,96.7
+2025,"Measles, mumps, rubella",6 years,Rivne,95.3
+2025,Hepatitis B,up to 1 year,Rivne,95.1
+2025,Tuberculosis,up to 1 year,Sumy,94.4
+2025,Poliomyelitis,up to 1 year,Sumy,91.6
+2025,Poliomyelitis,18 months,Sumy,91.9
+2025,Poliomyelitis,6 years,Sumy,94.4
+2025,Poliomyelitis,14 years,Sumy,97.7
+2025,"Diphtheria, tetanus",up to 1 year,Sumy,94.1
+2025,Pertussis,18 months,Sumy,94.2
+2025,"Diphtheria, tetanus",6 years,Sumy,93.0
+2025,"Diphtheria, tetanus",16 years,Sumy,97.7
+2025,"Diphtheria, tetanus",adults,Sumy,95.8
+2025,Haemophilus infection,up to 1 year,Sumy,92.5
+2025,Haemophilus infection,1 year,Sumy,88.7
+2025,"Measles, mumps, rubella",1 year,Sumy,90.1
+2025,"Measles, mumps, rubella",6 years,Sumy,92.9
+2025,Hepatitis B,up to 1 year,Sumy,91.8
+2025,Tuberculosis,up to 1 year,Ternopil,91.7
+2025,Poliomyelitis,up to 1 year,Ternopil,91.8
+2025,Poliomyelitis,18 months,Ternopil,96.6
+2025,Poliomyelitis,6 years,Ternopil,97.1
+2025,Poliomyelitis,14 years,Ternopil,93.6
+2025,"Diphtheria, tetanus",up to 1 year,Ternopil,92.5
+2025,Pertussis,18 months,Ternopil,92.4
+2025,"Diphtheria, tetanus",6 years,Ternopil,83.3
+2025,"Diphtheria, tetanus",16 years,Ternopil,92.8
+2025,"Diphtheria, tetanus",adults,Ternopil,99.6
+2025,Haemophilus infection,up to 1 year,Ternopil,96.3
+2025,Haemophilus infection,1 year,Ternopil,88.9
+2025,"Measles, mumps, rubella",1 year,Ternopil,95.8
+2025,"Measles, mumps, rubella",6 years,Ternopil,92.8
+2025,Hepatitis B,up to 1 year,Ternopil,90.9
+2025,Tuberculosis,up to 1 year,Kharkiv,92.2
+2025,Poliomyelitis,up to 1 year,Kharkiv,95.1
+2025,Poliomyelitis,18 months,Kharkiv,97.4
+2025,Poliomyelitis,6 years,Kharkiv,99.1
+2025,Poliomyelitis,14 years,Kharkiv,98.4
+2025,"Diphtheria, tetanus",up to 1 year,Kharkiv,93.6
+2025,Pertussis,18 months,Kharkiv,92.5
+2025,"Diphtheria, tetanus",6 years,Kharkiv,87.2
+2025,"Diphtheria, tetanus",16 years,Kharkiv,96.4
+2025,"Diphtheria, tetanus",adults,Kharkiv,98.9
+2025,Haemophilus infection,up to 1 year,Kharkiv,98.2
+2025,Haemophilus infection,1 year,Kharkiv,92.5
+2025,"Measles, mumps, rubella",1 year,Kharkiv,97.1
+2025,"Measles, mumps, rubella",6 years,Kharkiv,96.3
+2025,Hepatitis B,up to 1 year,Kharkiv,91.4
+2025,Tuberculosis,up to 1 year,Kherson,96.0
+2025,Poliomyelitis,up to 1 year,Kherson,97.5
+2025,Poliomyelitis,18 months,Kherson,99.7
+2025,Poliomyelitis,6 years,Kherson,100.0
+2025,Poliomyelitis,14 years,Kherson,99.8
+2025,"Diphtheria, tetanus",up to 1 year,Kherson,97.5
+2025,Pertussis,18 months,Kherson,96.2
+2025,"Diphtheria, tetanus",6 years,Kherson,93.3
+2025,"Diphtheria, tetanus",16 years,Kherson,97.5
+2025,"Diphtheria, tetanus",adults,Kherson,100.0
+2025,Haemophilus infection,up to 1 year,Kherson,99.4
+2025,Haemophilus infection,1 year,Kherson,100.0
+2025,"Measles, mumps, rubella",1 year,Kherson,93.9
+2025,"Measles, mumps, rubella",6 years,Kherson,98.5
+2025,Hepatitis B,up to 1 year,Kherson,100.0
+2025,Tuberculosis,up to 1 year,Khmelnytskiy,95.2
+2025,Poliomyelitis,up to 1 year,Khmelnytskiy,95.0
+2025,Poliomyelitis,18 months,Khmelnytskiy,93.7
+2025,Poliomyelitis,6 years,Khmelnytskiy,85.9
+2025,Poliomyelitis,14 years,Khmelnytskiy,84.0
+2025,"Diphtheria, tetanus",up to 1 year,Khmelnytskiy,95.2
+2025,Pertussis,18 months,Khmelnytskiy,96.7
+2025,"Diphtheria, tetanus",6 years,Khmelnytskiy,78.9
+2025,"Diphtheria, tetanus",16 years,Khmelnytskiy,82.4
+2025,"Diphtheria, tetanus",adults,Khmelnytskiy,75.7
+2025,Haemophilus infection,up to 1 year,Khmelnytskiy,94.4
+2025,Haemophilus infection,1 year,Khmelnytskiy,82.4
+2025,"Measles, mumps, rubella",1 year,Khmelnytskiy,97.5
+2025,"Measles, mumps, rubella",6 years,Khmelnytskiy,92.7
+2025,Hepatitis B,up to 1 year,Khmelnytskiy,94.0
+2025,Tuberculosis,up to 1 year,Cherkasy,93.9
+2025,Poliomyelitis,up to 1 year,Cherkasy,94.1
+2025,Poliomyelitis,18 months,Cherkasy,95.5
+2025,Poliomyelitis,6 years,Cherkasy,95.2
+2025,Poliomyelitis,14 years,Cherkasy,95.2
+2025,"Diphtheria, tetanus",up to 1 year,Cherkasy,94.5
+2025,Pertussis,18 months,Cherkasy,93.9
+2025,"Diphtheria, tetanus",6 years,Cherkasy,86.3
+2025,"Diphtheria, tetanus",16 years,Cherkasy,92.4
+2025,"Diphtheria, tetanus",adults,Cherkasy,94.5
+2025,Haemophilus infection,up to 1 year,Cherkasy,93.2
+2025,Haemophilus infection,1 year,Cherkasy,92.1
+2025,"Measles, mumps, rubella",1 year,Cherkasy,95.4
+2025,"Measles, mumps, rubella",6 years,Cherkasy,91.9
+2025,Hepatitis B,up to 1 year,Cherkasy,95.2
+2025,Tuberculosis,up to 1 year,Chernivtsi,91.0
+2025,Poliomyelitis,up to 1 year,Chernivtsi,92.5
+2025,Poliomyelitis,18 months,Chernivtsi,90.9
+2025,Poliomyelitis,6 years,Chernivtsi,93.2
+2025,Poliomyelitis,14 years,Chernivtsi,83.9
+2025,"Diphtheria, tetanus",up to 1 year,Chernivtsi,93.9
+2025,Pertussis,18 months,Chernivtsi,92.0
+2025,"Diphtheria, tetanus",6 years,Chernivtsi,82.8
+2025,"Diphtheria, tetanus",16 years,Chernivtsi,90.0
+2025,"Diphtheria, tetanus",adults,Chernivtsi,80.0
+2025,Haemophilus infection,up to 1 year,Chernivtsi,87.9
+2025,Haemophilus infection,1 year,Chernivtsi,87.3
+2025,"Measles, mumps, rubella",1 year,Chernivtsi,93.3
+2025,"Measles, mumps, rubella",6 years,Chernivtsi,94.1
+2025,Hepatitis B,up to 1 year,Chernivtsi,91.1
+2025,Tuberculosis,up to 1 year,Chernihiv,89.1
+2025,Poliomyelitis,up to 1 year,Chernihiv,94.8
+2025,Poliomyelitis,18 months,Chernihiv,96.2
+2025,Poliomyelitis,6 years,Chernihiv,97.4
+2025,Poliomyelitis,14 years,Chernihiv,94.9
+2025,"Diphtheria, tetanus",up to 1 year,Chernihiv,94.7
+2025,Pertussis,18 months,Chernihiv,93.3
+2025,"Diphtheria, tetanus",6 years,Chernihiv,84.6
+2025,"Diphtheria, tetanus",16 years,Chernihiv,91.0
+2025,"Diphtheria, tetanus",adults,Chernihiv,91.4
+2025,Haemophilus infection,up to 1 year,Chernihiv,97.6
+2025,Haemophilus infection,1 year,Chernihiv,93.4
+2025,"Measles, mumps, rubella",1 year,Chernihiv,95.8
+2025,"Measles, mumps, rubella",6 years,Chernihiv,95.8
+2025,Hepatitis B,up to 1 year,Chernihiv,93.2
+2025,Tuberculosis,up to 1 year,city Kyiv,89.5
+2025,Poliomyelitis,up to 1 year,city Kyiv,93.1
+2025,Poliomyelitis,18 months,city Kyiv,96.4
+2025,Poliomyelitis,6 years,city Kyiv,93.7
+2025,Poliomyelitis,14 years,city Kyiv,94.7
+2025,"Diphtheria, tetanus",up to 1 year,city Kyiv,90.6
+2025,Pertussis,18 months,city Kyiv,96.2
+2025,"Diphtheria, tetanus",6 years,city Kyiv,83.7
+2025,"Diphtheria, tetanus",16 years,city Kyiv,95.9
+2025,"Diphtheria, tetanus",adults,city Kyiv,98.2
+2025,Haemophilus infection,up to 1 year,city Kyiv,99.9
+2025,Haemophilus infection,1 year,city Kyiv,85.1
+2025,"Measles, mumps, rubella",1 year,city Kyiv,99.3
+2025,"Measles, mumps, rubella",6 years,city Kyiv,99.2
+2025,Hepatitis B,up to 1 year,city Kyiv,88.2
+2025,Tuberculosis,up to 1 year,city Sevastopol,
+2025,Poliomyelitis,up to 1 year,city Sevastopol,
+2025,Poliomyelitis,18 months,city Sevastopol,
+2025,Poliomyelitis,6 years,city Sevastopol,
+2025,Poliomyelitis,14 years,city Sevastopol,
+2025,"Diphtheria, tetanus",up to 1 year,city Sevastopol,
+2025,Pertussis,18 months,city Sevastopol,
+2025,"Diphtheria, tetanus",6 years,city Sevastopol,
+2025,"Diphtheria, tetanus",16 years,city Sevastopol,
+2025,"Diphtheria, tetanus",adults,city Sevastopol,
+2025,Haemophilus infection,up to 1 year,city Sevastopol,
+2025,Haemophilus infection,1 year,city Sevastopol,
+2025,"Measles, mumps, rubella",1 year,city Sevastopol,
+2025,"Measles, mumps, rubella",6 years,city Sevastopol,
+2025,Hepatitis B,up to 1 year,city Sevastopol,

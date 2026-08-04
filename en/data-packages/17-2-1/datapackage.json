@@ -58,11 +58,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "production, transportation and supply of heat and distribution and supply of natural gas; collection, purification and distribution of water; production, distribution and supply of electricity",
-                "construction and/or operation of motorways, roads, railways, airfield runways, bridges, overpasses, tunnels and metros, sea and river ports and their infrastructure",
-                "health care",
-                "tourism, leisure, recreation, culture and sport",
-                "waste management, except collection and transportation",
+                "production, transportation and supply of heat, distribution and supply of natural gas; water supply and drainage; production, distribution, supply, storage, accumulation of electrical energy",
+                "transport, transport infrastructure (rail, sea, river, motor, pipeline, aviation, infrastructure of airfields and landing pads, urban electric transport, subway, etc.) and infrastructure of electronic communication networks",
+                "health care, public health",
+                "tourism, recreation, culture (including management and/or exploitation of architectural monuments and cultural heritage sites) and sports",
+                "waste management",
                 "others",
                 ""
               ]
