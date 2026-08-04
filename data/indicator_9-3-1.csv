@@ -6,9 +6,10 @@ Year,m_trans,Value
 2019,,1578.8
 2020,,1641.0
 2021,,1518.6
-2022,,901.5
-2023,,878.0
-2024,,
+2022,,893.8
+2023,,896.3
+2024,,1014.3
+2025,,951.6
 
 2015,tr_1_rail,350.0
 2016,tr_1_rail,343.4
@@ -19,7 +20,8 @@ Year,m_trans,Value
 2021,tr_1_rail,314.3
 2022,tr_1_rail,150.6
 2023,tr_1_rail,148.4
-2024,tr_1_rail,
+2024,tr_1_rail,174.9
+2025,tr_1_rail,161.3
 
 2015,tr_2_motor,1020.6
 2016,tr_2_motor,1085.7
@@ -28,9 +30,10 @@ Year,m_trans,Value
 2019,tr_2_motor,1147.0
 2020,tr_2_motor,1232.4
 2021,tr_2_motor,1121.3
-2022,tr_2_motor,695.4
-2023,tr_2_motor,677.1
-2024,tr_2_motor,
+2022,tr_2_motor,687.5
+2023,tr_2_motor,659.4
+2024,tr_2_motor,788.8
+2025,tr_2_motor,754.6
 
 2015,tr_3_sea,3.3
 2016,tr_3_sea,3.0
@@ -39,9 +42,10 @@ Year,m_trans,Value
 2019,tr_3_sea,2.1
 2020,tr_3_sea,1.8
 2021,tr_3_sea,1.8
-2022,tr_3_sea,0.6
+2022,tr_3_sea,0.7
 2023,tr_3_sea,0.3
-2024,tr_3_sea,
+2024,tr_3_sea,0.2
+2025,tr_3_sea,0.0
 
 2015,tr_4_river,3.1
 2016,tr_4_river,3.7
@@ -50,9 +54,10 @@ Year,m_trans,Value
 2019,tr_4_river,4.0
 2020,tr_4_river,3.8
 2021,tr_4_river,3.5
-2022,tr_4_river,1.1
+2022,tr_4_river,1.2
 2023,tr_4_river,1.8
-2024,tr_4_river,
+2024,tr_4_river,2.1
+2025,tr_4_river,1.0
 
 2015,tr_5_pipeline,97.2
 2016,tr_5_pipeline,106.7
@@ -61,9 +66,10 @@ Year,m_trans,Value
 2019,tr_5_pipeline,112.7
 2020,tr_5_pipeline,97.4
 2021,tr_5_pipeline,77.6
-2022,tr_5_pipeline,hide_data
-2023,tr_5_pipeline,hide_data
-2024,tr_5_pipeline,
+2022,tr_5_pipeline,c
+2023,tr_5_pipeline,c
+2024,tr_5_pipeline,c
+2025,tr_5_pipeline,c
 
 2015,tr_6_air,0.1
 2016,tr_6_air,0.1
@@ -72,6 +78,7 @@ Year,m_trans,Value
 2019,tr_6_air,0.1
 2020,tr_6_air,0.1
 2021,tr_6_air,0.1
-2022,tr_6_air,hide_data
-2023,tr_6_air,hide_data
-2024,tr_6_air,
+2022,tr_6_air,c
+2023,tr_6_air,c
+2024,tr_6_air,c
+2025,tr_6_air,c

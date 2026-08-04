@@ -2,5 +2,5 @@ SDG_GOAL: 16 Peace, justice and strong institutions
 SDG_TARGET: 16.3 Creating conditions for the return and integration of internally displaced persons
 SDG_INDICATOR: 16.3.2 Number of internally displaced persons living in places of temporary residence, persons
 UNIT_MEASURE: "Persons"
-CONTACT_ORGANISATION: "Ministry of National Unity of Ukraine"
-REC_USE_LIM: "Data have been developed since 2023. <br> Luhansk region, city Kyiv (2023–2024): In Luhansk region and Kyiv city, official places of temporary residence of internally displaced persons were not registered in 2023–2024."
+CONTACT_ORGANISATION: "Ministry of Social Policy, Family and Unity of Ukraine"
+REC_USE_LIM: 'Data have been developed since 2023. <br> Donetsk region (2025): In Donetsk region, officially since 17.12.2025, there are no active places of temporary residence of internally displaced persons. <br> Luhansk region, city Kyiv (2023–2025): In Luhansk region and Kyiv city, official places of temporary residence of internally displaced persons were not registered in 2023–2025.'

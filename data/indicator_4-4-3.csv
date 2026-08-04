@@ -8,7 +8,8 @@ Year,Sources of funding,Value
 2021,,0.847
 2022,,0.837
 2023,,0.671
-2024,,
+2024,,0.657
+2025,,
 2015,state_source,
 2016,state_source,
 2017,state_source,0.565
@@ -18,7 +19,8 @@ Year,Sources of funding,Value
 2021,state_source,0.503
 2022,state_source,0.539
 2023,state_source,0.390
-2024,state_source,
+2024,state_source,0.384
+2025,state_source,
 2015,individuals_legal,
 2016,individuals_legal,
 2017,individuals_legal,0.313
@@ -28,4 +30,5 @@ Year,Sources of funding,Value
 2021,individuals_legal,0.344
 2022,individuals_legal,0.298
 2023,individuals_legal,0.281
-2024,individuals_legal,
+2024,individuals_legal,0.273
+2025,individuals_legal,

@@ -2,8 +2,9 @@ SDG_GOAL: 2 End hunger, promote sustainable agriculture
 SDG_TARGET: 2.4 Promoting global food security
 SDG_INDICATOR: '2.4.1 Ukraine’s share in the volume of world exports of the main food groups for the following goods, percent:  sugar, sunflower oil, corn, barley, wheat'
 UNIT_MEASURE: "Percent (%)"
-CONTACT_ORGANISATION: "Ministry of Agrarian Policy and Food of Ukraine"
-REC_USE_LIM: '2024: Data are preliminary. '
+CONTACT_ORGANISATION: "Ministry of Economy, Environment and Agriculture of Ukraine"
+REC_USE_LIM: "2025: Data for 2025 − 31.08.2026."
 footer_fields:
-  - label: "Target value of the indicator for 2030"
+  - label: "Target values of the indicator for 2030"
     value: 'sugar – 1.5, sunflower oil – 45, corn – 18, barley – 9.5, wheat – 10'
+

@@ -99,3 +99,13 @@ Year,Sex,Age,Value
 2024,men,age_2_61_64,75
 2024,women,age_2_65_70,
 2024,men,age_2_65_70,100
+2025,women,,26
+2025,men,,74
+2025,women,under_35,24
+2025,men,under_35,76
+2025,women,age_2_36_60,27
+2025,men,age_2_36_60,73
+2025,women,age_2_61_64,
+2025,men,age_2_61_64,100
+2025,women,age_2_65_70,11
+2025,men,age_2_65_70,89

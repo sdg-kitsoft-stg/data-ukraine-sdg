@@ -9,6 +9,7 @@ Year,Sex,Value
 2022,,29.0
 2023,,32.7
 2024,,29.9
+2025,,25.2
 
 2015,females_1,
 2016,females_1,
@@ -20,6 +21,7 @@ Year,Sex,Value
 2022,females_1,
 2023,females_1,
 2024,females_1,
+2025,females_1,
 
 2015,males_1,
 2016,males_1,
@@ -31,3 +33,4 @@ Year,Sex,Value
 2022,males_1,
 2023,males_1,
 2024,males_1,
+2025,males_1,

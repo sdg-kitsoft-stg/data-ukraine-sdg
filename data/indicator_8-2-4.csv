@@ -9,6 +9,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,group_label_320,,,,,
 2023,group_label_320,,,,,
 2024,group_label_320,,,,,
+2025,group_label_320,,,,,
 2015,,females_2,,,,19.8
 2016,,females_2,,,,20.8
 2017,,females_2,,,,19.0
@@ -19,6 +20,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,females_2,,,,
 2023,,females_2,,,,
 2024,,females_2,,,,
+2025,,females_2,,,,
 2015,,males_2,,,,14.6
 2016,,males_2,,,,14.9
 2017,,males_2,,,,12.9
@@ -29,6 +31,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,males_2,,,,
 2023,,males_2,,,,
 2024,,males_2,,,,
+2025,,males_2,,,,
 2015,,,urban_1,,,14.6
 2016,,,urban_1,,,14.9
 2017,,,urban_1,,,12.4
@@ -39,6 +42,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,urban_1,,,
 2023,,,urban_1,,,
 2024,,,urban_1,,,
+2025,,,urban_1,,,
 2015,,,rural_1,,,21.6
 2016,,,rural_1,,,22.8
 2017,,,rural_1,,,22.0
@@ -49,6 +53,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,rural_1,,,
 2023,,,rural_1,,,
 2024,,,rural_1,,,
+2025,,,rural_1,,,
 2015,group_label_321,,,,,22.4
 2016,group_label_321,,,,,23.2
 2017,group_label_321,,,,,22.5
@@ -59,6 +64,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,group_label_321,,,,,
 2023,group_label_321,,,,,
 2024,group_label_321,,,,,
+2025,group_label_321,,,,,
 2015,,,,females_3,,28.1
 2016,,,,females_3,,29.3
 2017,,,,females_3,,29.0
@@ -69,6 +75,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,,females_3,,
 2023,,,,females_3,,
 2024,,,,females_3,,
+2025,,,,females_3,,
 2015,,,,males_3,,16.9
 2016,,,,males_3,,17.4
 2017,,,,males_3,,16.3
@@ -79,6 +86,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,,males_3,,
 2023,,,,males_3,,
 2024,,,,males_3,,
+2025,,,,males_3,,
 2015,,,,,urban_2,20.1
 2016,,,,,urban_2,20.9
 2017,,,,,urban_2,20.0
@@ -89,6 +97,7 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,,,urban_2,
 2023,,,,,urban_2,
 2024,,,,,urban_2,
+2025,,,,,urban_2,
 2015,,,,,rural_2,27.3
 2016,,,,,rural_2,28.0
 2017,,,,,rural_2,27.5
@@ -99,3 +108,4 @@ Year,group_32,group_33,group_34,group_35,group_36,Value
 2022,,,,,rural_2,
 2023,,,,,rural_2,
 2024,,,,,rural_2,
+2025,,,,,rural_2,

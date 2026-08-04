@@ -4,6 +4,5 @@ SDG_INDICATOR: '7.3.2 Indicators of technological costs in power grids: share of
 UNIT_MEASURE: "Percent (%)"
 CONTACT_ORGANISATION: "National Energy and Utilities Regulatory Commission (NEURC)"
 footer_fields:
-    - label: "Target value of the indicator for 2030"
-      value: 'share of technological costs of electricity in power grids (from the selection volume) – decrease to 11.5, 
-share of technological costs of electricity in distribution power grids (from the selection volume) – decrease to 10'
+    - label: "Target values of the indicator for 2030"
+      value: 'share of technological costs of electricity in power grids (from the selection volume) – decrease to 11.5, <br> share of technological costs of electricity in distribution power grids (from the selection volume) – decrease to 10'

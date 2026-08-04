@@ -2037,7 +2037,7 @@ group_label_100: chlorophyll-a
 group_label_101: transparency
 group_label_102: dissolved oxygen
 group_label_103: biochemical oxygen consumption in five days
-group_4: Dnieper–Bug estuarine system
+group_4: Dnieper-Bug estuary system
 group_label_104: Azov turbot
 group_label_105: Artemia salina (crustaceans)
 group_label_106: Artemia salina (eggs)
@@ -2104,7 +2104,7 @@ group_14: Status of the subject of the appeal
 group_label_176: individual
 group_label_177: individual entrepreneur
 group_label_178: legal entitie
-group_15: Type of authority that formed the Center for the provision of administrative services
+group_15: Type of authority that formed the Center for the Provision of Administrative Services
 group_label_179: city council
 group_label_180: settlement council
 group_label_181: village council
@@ -2186,6 +2186,7 @@ group_label_252: tax law
 group_label_253: election law
 group_label_254: economic law
 group_label_255: issues related to armed aggression
+group_label_255_1: military law
 group_label_256: up to 30 years
 group_label_257: 30–54 years
 group_label_258: 55 years and older
@@ -3058,7 +3059,7 @@ group_label_144: Tench fish
 group_label_145: Common perch
 group_label_146: Sun perch
 group_label_147: Flatfish
-group_label_148: Buzanok
+group_label_148: Puzanok
 group_label_149: Narrow-toed crayfish
 group_label_150: Common carp
 group_label_151: Herbivorous fish (white, variegated silver carp, their hybrid, white grass carp)
@@ -3221,7 +3222,6 @@ Gender: Sex
 Mode of transport: Mode of transport
 Settlement: Settlement
 city: city
-
 17_sugar_a: sugar
 1_all_a: all
 age_15_a: up to 15 years
@@ -3286,13 +3286,12 @@ A424_1: space transport
 ']A500': advertising agencies
 joint-stock_company_1: Joint-stock company
 agriculture_and_serve_cooperativp: Agriculture and serve cooperative
-branch: Branch (other separate subdivision)
+branch: Branch (other separate unit)
 self-regulatory_organizations: Self-regulatory organizations
 Chamber_of_Commerce_and_Industry: Chamber of Commerce and Industry
 Audit_Chamber_of_Ukraine: Audit Chamber of Ukraine
 Type of water supply: Type of water supply
 decentralized: decentralized
-
 Bgriculture_and_production_cooperativ: Agriculture and production cooperative
 Bgriculture_and_serve_cooperativ: Agriculture and serve cooperative
 Bgriculture_cooperativ: Agriculture cooperative
@@ -3304,3 +3303,22 @@ Buthority_of_judge_self-government: Authority of judge self-government
 Budit_chamber_of_ukraine: Audit Chamber of Ukraine
 Bssociation: Association
 Bssociation_of_trade_unions: Association of trade unions
+extracurricular_wired_gt30: extracurricular educational institutions with broadband wired high-speed (more than 30 Mbit/s) access to the Internet
+extracurricular_wireless_gt30: extracurricular educational institutions with high-speed (more than 30 Mbit/s) wireless access to the Internet
+extracurricular_wired_or_wireless_gt30: extracurricular educational institutions with high-speed (more than 30 Mbit/s) wired or wireless access to the Internet
+group_label_137_1: Short-feathered catran
+group_label_137_2: Mullet (gostronis, loban, singil)
+group_label_137_3: Jellyfish
+group_label_137_4: Common bruise
+freedom_from_discrimination_in_the_field_of_culture: freedom from discrimination in the field of culture
+freedom_from_discrimination_in_private_relations: freedom from discrimination in private relations
+freedom_from_discrimination_in_public_and_political_life: freedom from discrimination in public and political life
+not specified: not specified / not determined
+energy_water_utilities_1: production, transportation and supply of heat, distribution and supply of natural gas; water supply and drainage; production, distribution, supply, storage, accumulation of electrical energy
+transport_infrastructure_1: transport, transport infrastructure (rail, sea, river, motor, pipeline, aviation, infrastructure of airfields and landing pads, urban electric transport, subway, etc.) and infrastructure of electronic communication networks
+healthcare_1: health care, public health
+tourism_recreation_culture_sport_1: tourism, recreation, culture (including management and/or exploitation of architectural monuments and cultural heritage sites) and sports
+waste_management_1: waste management
+Volume_registered_issues: Volumes of registered issue
+volume_UAH: volume of registered issue of shares, corporate bonds
+volume_USD: volume of registered issue of corporate bonds

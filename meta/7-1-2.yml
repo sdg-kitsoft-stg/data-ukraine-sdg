@@ -4,3 +4,6 @@ SDG_INDICATOR: 7.1.2 Coverage ratio of natural gas consumption by own production
 UNIT_MEASURE: "Coverage"
 CONTACT_ORGANISATION: "Ministry of Energy of Ukraine"
 REC_USE_LIM: 
+footer_fields:
+  - label: "Target value of the indicator for 2030"
+    value: 'increase to 0.80'

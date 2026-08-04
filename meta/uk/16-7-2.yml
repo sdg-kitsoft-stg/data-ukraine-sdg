@@ -3,4 +3,4 @@ SDG_TARGET: 16.7 Зміцнення системи запобігання та �
 SDG_INDICATOR: 16.7.2 Показник ризиків відмивання коштів та фінансування тероризму в рейтингу Basel Anti-Money Laundering Index Базельського інституту управління (Basel Institute on Governance), балів
 UNIT_MEASURE: "Балів"
 CONTACT_ORGANISATION: "Державна служба фінансового моніторингу України (Держфінмоніторинг)"
-REC_USE_LIM: "2024 рік: Дані за 2024 рік – 31.12.2025."
+REC_USE_LIM:
